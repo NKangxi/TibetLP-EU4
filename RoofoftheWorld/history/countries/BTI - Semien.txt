@@ -1,0 +1,27 @@
+# Semien
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 1227
+1418.3.14 = {
+	monarch = {
+		name = "Ogbai"
+		birth_date = 1413.10.6
+		dynasty = "Sehul"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 1227
+	add_treasury = 44
+	add_prestige = 140
+}

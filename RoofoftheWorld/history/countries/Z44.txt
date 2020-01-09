@@ -1,0 +1,42 @@
+# Nidaros
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 20
+1432.7.3 = {
+	monarch = {
+		name = "Linda"
+		birth_date = 1408.10.3
+		dynasty = "Herja"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
+}
+1439.12.10 = {
+	heir = {
+		name = "Freja"
+		monarch_name = "Freja"
+		dynasty = "Herja"
+		birth_date = 1439.12.10
+		death_date = 1519.12.10
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 20
+	add_treasury = 219
+	add_prestige = 48
+}

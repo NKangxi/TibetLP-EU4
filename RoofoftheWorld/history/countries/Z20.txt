@@ -1,0 +1,28 @@
+# Burgundy
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = aztek
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1867
+1409.1.12 = {
+	monarch = {
+		name = "Centehua"
+		birth_date = 1378.2.22
+		dynasty = "Pallestrin"
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 1867
+	add_treasury = 259
+	add_prestige = 156
+}

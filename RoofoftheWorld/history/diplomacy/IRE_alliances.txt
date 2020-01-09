@@ -1,0 +1,18 @@
+vassal = {
+	first = IRE
+	second = MTH
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = IRE
+	second = ULS
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = IRE
+	second = LEI
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}

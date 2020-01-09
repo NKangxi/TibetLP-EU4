@@ -1,0 +1,39 @@
+# Valencia
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = aztek
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 4550
+1444.7.25 = {
+	monarch = {
+		name = "Xocoyotl"
+		birth_date = 1428.4.9
+		dynasty = "Cozahtli"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = infertile_personality
+	heir = {
+		name = "Tezozomoc"
+		monarch_name = "Tezozomoc"
+		dynasty = "Cozahtli"
+		birth_date = 1432.5.9
+		death_date = 1512.5.9
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 4550
+	add_treasury = 0
+	add_prestige = 61
+}

@@ -1,0 +1,28 @@
+# Rostov
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = finnish
+religion = zikri
+clear_scripted_personalities = yes
+capital = 312
+1417.5.25 = {
+	monarch = {
+		name = "Yelizaveta"
+		birth_date = 1390.2.19
+		dynasty = "Styr"
+		female = yes
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 312
+	add_treasury = 10
+	add_prestige = 234
+}

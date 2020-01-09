@@ -1,0 +1,293 @@
+# Lithuania
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 90 10 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Guðfrið" "Æthelmær" "Wulfgifu" "Starkaðr" "Beileag" "Murdoch" "Falki" "Öysteinn" "Henry" "Katarina" 
+	"Sverker" "Ulfr" "Ingólfr" "Hroðulfr" "Cynethryth" "Sifflæd" "Godfried" "Halla" "Þora" "Sörkver" 
+	"Gerðr" "Kolbjörn" "Hakon" "Grima" "Blanceflore" "Iudith" "Styrbjörn" "Styrkar" "Gerden" "Ylva" 
+	"Guðrun" "Þorsteinn" "Kol" "Sofia" "Vigdis" "Hjalmar" "Bagge" "Alfgeir" "Gurli" "Bothildr" 
+	"Ingibjörg" "Ulfhildr" "Aleta" "Knut" "Sigtrygg" "Þordis" "Hysing" "Helena" "Ingjald" "Sveinn" 
+	"Valdemar" "Svanhildr" "Inga" "Olafr" "Elin" "Vagn" "Eskild" "Ingjerðr" "Hrolfr" "Arngrimr" 
+	"Rikulfr" "Rögnfrið" "Gorm" "Þorgil" "Malmfrið" "Margareta" "Dag" "Holmfrid" "Bersi" "Gandalfr" 
+	"Rikissa" "Snorri" "Steinn" "Skuld" "Ottarr" "Alfrið" "Gunhilda" "Heregyth" "Eormenred" "Wulf" 
+	"Werestan" "Beorhtwaru" "Suni" "Eadfrith" "Cuthberht" "Æbba" "Ecgfrith" "Sælræd" "Martha" "Burgflæd" 
+	"Ulf" "Alfhildr" "Ælfwig" "Björg" "Eadburg" "Beorhtgyth" "Oscytel" "Beorhtwine" "Æthelgifu" "Rögnhildr" 
+	"Eadhburh" "Edla" "Wulfwaru" "Vasiliy" "Irina" "Prebrana" "Yemelyan" "Afanasiy" "Rogneda" "Predslava" 
+	"Praskovya" "Olena" "Kazimiera" "Rostislav" "Vladislav" "Abelina" "Sara" "Karin" "Gyrið" "Adam" 
+	"Alpin" "Alan" "Alastair" "Angus" "Archibald" "Arthur" "Arran" "Aulay" "Beathan" "Brian" 
+	"Brice" "Cailean" "Calum" "Carbrey" "Colban" "Colin" "Conall" "Conan" "Dermid" "Donald" 
+	"Douglas" "Duff" "Dugald" "Duncan" "Edgar" "Edward" "Edwin" "Eric" "Evander" "Ewan" 
+	"Farquhar" "Fergus" "Fingal" "Findlay" "Frang" "Gavin" "Gilbert" "Gilbride" "Gilchrist" "Gillespie" 
+	"Gilpatrick" "Gilroy" "Giric" "Glenn" "Godfrey" "Gregor" "Hamish" "Hector" "Hugh" "Iain" 
+	"Indulf" "James" "Kenneth" "Kentigern" "Lachlan" "Lennon" "Lulach" "Macbeth" "Malcolm" "Maldoven" 
+	"Maldred" "Malise" "Malmure" "Maoilios" "Marcas" "Matad" "Morgan" "Muir" "Mungo" "Murray" 
+	"Neil" "Ninian" "Oscar" "Radulf" "Ranald" "Richard" "Robert" "Roderick" "Ronald" "Rory" 
+	"Ross" "Roy" "Shaw" "Somerled" "Stephan" "Sweeny" "Tadhg" "Talore" "Torquil" "Uhtred" 
+	"Uisdean" "Walan" "Waldeve" "Walter" "William" }
+monarch_names = {
+	"Guðfrið #0" = 1
+	"Æthelmær #0" = 1
+	"Wulfgifu #0" = -1
+	"Starkaðr #0" = 1
+	"Beileag #1" = -22
+	"Murdoch #0" = 1
+	"Falki #0" = 1
+	"Öysteinn #0" = 1
+	"Henry #0" = 1
+	"Katarina #0" = -1
+	"Sverker #0" = 1
+	"Ulfr #0" = 1
+	"Ingólfr #0" = 1
+	"Hroðulfr #0" = 1
+	"Cynethryth #0" = -1
+	"Sifflæd #0" = -1
+	"Godfried #0" = 1
+	"Halla #0" = -1
+	"Þora #0" = -1
+	"Sörkver #0" = 1
+	"Gerðr #0" = -1
+	"Kolbjörn #0" = 1
+	"Hakon #0" = 1
+	"Grima #0" = -1
+	"Blanceflore #0" = -1
+	"Iudith #0" = -1
+	"Styrbjörn #0" = 1
+	"Styrkar #0" = 1
+	"Gerden #0" = 1
+	"Ylva #0" = -1
+	"Guðrun #0" = -1
+	"Þorsteinn #0" = 1
+	"Kol #0" = 1
+	"Sofia #0" = -1
+	"Vigdis #0" = -1
+	"Hjalmar #0" = 1
+	"Bagge #0" = 1
+	"Alfgeir #0" = 1
+	"Gurli #0" = -1
+	"Bothildr #0" = -1
+	"Ingibjörg #0" = -1
+	"Ulfhildr #0" = -1
+	"Aleta #0" = -1
+	"Knut #0" = 1
+	"Sigtrygg #0" = 1
+	"Þordis #0" = -1
+	"Hysing #0" = 1
+	"Helena #0" = -1
+	"Ingjald #0" = 1
+	"Sveinn #0" = 1
+	"Valdemar #0" = 1
+	"Svanhildr #0" = -1
+	"Inga #0" = -1
+	"Olafr #0" = 1
+	"Elin #2" = -19
+	"Vagn #0" = 1
+	"Eskild #0" = 1
+	"Ingjerðr #0" = -1
+	"Hrolfr #0" = 1
+	"Arngrimr #0" = 1
+	"Rikulfr #0" = 1
+	"Rögnfrið #0" = -1
+	"Gorm #0" = 1
+	"Þorgil #0" = 1
+	"Malmfrið #0" = -1
+	"Margareta #0" = -1
+	"Dag #0" = 1
+	"Holmfrid #0" = -1
+	"Bersi #0" = 1
+	"Gandalfr #0" = 1
+	"Rikissa #0" = -1
+	"Snorri #0" = 1
+	"Steinn #0" = 1
+	"Skuld #0" = -1
+	"Ottarr #0" = 1
+	"Alfrið #0" = -1
+	"Gunhilda #0" = -1
+	"Heregyth #0" = -1
+	"Eormenred #0" = 1
+	"Wulf #0" = 1
+	"Werestan #0" = 1
+	"Beorhtwaru #0" = -1
+	"Suni #0" = 1
+	"Eadfrith #0" = 1
+	"Cuthberht #0" = 1
+	"Æbba #0" = -1
+	"Ecgfrith #0" = 1
+	"Sælræd #0" = 1
+	"Martha #0" = -1
+	"Burgflæd #0" = -1
+	"Ulf #0" = 1
+	"Alfhildr #0" = -1
+	"Ælfwig #0" = 1
+	"Björg #0" = -1
+	"Eadburg #0" = -1
+	"Beorhtgyth #0" = -1
+	"Oscytel #0" = 1
+	"Beorhtwine #0" = 1
+	"Æthelgifu #0" = -1
+	"Rögnhildr #0" = -1
+	"Eadhburh #0" = -1
+	"Edla #0" = -1
+	"Wulfwaru #0" = -1
+	"Vasiliy #1" = 0
+	"Irina #1" = -1
+	"Prebrana #1" = -1
+	"Yemelyan #1" = 0
+	"Afanasiy #1" = 0
+	"Rogneda #1" = -1
+	"Predslava #1" = -1
+	"Praskovya #1" = -1
+	"Olena #2" = -1
+	"Kazimiera #1" = -1
+	"Rostislav #1" = 0
+	"Vladislav #1" = 0
+	"Abelina #1" = -1
+	"Sara #1" = -1
+	"Karin #1" = -1
+	"Gyrið #1" = -1
+	"Adam #0" = 0
+	"Alpin #0" = 0
+	"Alan #0" = 0
+	"Alastair #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Arthur #0" = 0
+	"Arran #0" = 0
+	"Aulay #0" = 0
+	"Beathan #0" = 0
+	"Brian #0" = 0
+	"Brice #0" = 0
+	"Cailean #0" = 0
+	"Calum #0" = 0
+	"Carbrey #0" = 0
+	"Colban #0" = 0
+	"Colin #0" = 0
+	"Conall #0" = 0
+	"Conan #0" = 0
+	"Dermid #0" = 0
+	"Donald #0" = 0
+	"Douglas #0" = 0
+	"Duff #0" = 0
+	"Dugald #0" = 0
+	"Duncan #0" = 0
+	"Edgar #0" = 0
+	"Edward #0" = 0
+	"Edwin #0" = 0
+	"Eric #0" = 0
+	"Evander #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Fergus #0" = 0
+	"Fingal #0" = 0
+	"Findlay #0" = 0
+	"Frang #0" = 0
+	"Gavin #0" = 0
+	"Gilbert #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gillespie #0" = 0
+	"Gilpatrick #0" = 0
+	"Gilroy #0" = 0
+	"Giric #0" = 0
+	"Glenn #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Hamish #0" = 0
+	"Hector #0" = 0
+	"Hugh #0" = 0
+	"Iain #0" = 0
+	"Indulf #0" = 0
+	"James #0" = 0
+	"Kenneth #0" = 0
+	"Kentigern #0" = 0
+	"Lachlan #0" = 0
+	"Lennon #0" = 0
+	"Lulach #0" = 0
+	"Macbeth #0" = 0
+	"Malcolm #0" = 0
+	"Maldoven #0" = 0
+	"Maldred #0" = 0
+	"Malise #0" = 0
+	"Malmure #0" = 0
+	"Maoilios #0" = 0
+	"Marcas #0" = 0
+	"Matad #0" = 0
+	"Morgan #0" = 0
+	"Muir #0" = 0
+	"Mungo #0" = 0
+	"Murray #0" = 0
+	"Neil #0" = 0
+	"Ninian #0" = 0
+	"Oscar #0" = 0
+	"Radulf #0" = 0
+	"Ranald #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Roderick #0" = 0
+	"Ronald #0" = 0
+	"Rory #0" = 0
+	"Ross #0" = 0
+	"Roy #0" = 0
+	"Shaw #0" = 0
+	"Somerled #0" = 0
+	"Stephan #0" = 0
+	"Sweeny #0" = 0
+	"Tadhg #0" = 0
+	"Talore #0" = 0
+	"Torquil #0" = 0
+	"Uhtred #0" = 0
+	"Uisdean #0" = 0
+	"Walan #0" = 0
+	"Waldeve #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}
+

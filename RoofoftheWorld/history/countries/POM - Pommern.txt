@@ -1,0 +1,41 @@
+# Pomerania
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = pommeranian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1858
+1412.1.13 = {
+	monarch = {
+		name = "Radomila"
+		birth_date = 1389.8.19
+		dynasty = "of Thouars"
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = embezzler_personality
+	add_ruler_personality = greedy_personality
+}
+1420.7.14 = {
+	heir = {
+		name = "Rostislav"
+		monarch_name = "Rostislav"
+		dynasty = "of Thouars"
+		birth_date = 1420.7.14
+		death_date = 1500.7.14
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+	add_heir_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 1858
+	add_treasury = 2
+	add_prestige = 579
+}

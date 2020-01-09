@@ -1,0 +1,28 @@
+# Asyut
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 407
+1411.3.27 = {
+	monarch = {
+		name = "Sitara III"
+		birth_date = 1401.1.7
+		dynasty = "Mazyadid"
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 407
+	add_treasury = 3465
+	add_prestige = 461
+}

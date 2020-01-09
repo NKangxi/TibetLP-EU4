@@ -1,0 +1,28 @@
+# Gondwana
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2098
+1419.12.6 = {
+	monarch = {
+		name = "Lhathrimo II"
+		birth_date = 1408.3.6
+		dynasty = "Dege"
+		female = yes
+		adm = 5
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2098
+	add_treasury = 58
+	add_prestige = 494
+}

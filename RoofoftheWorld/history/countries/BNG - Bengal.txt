@@ -1,0 +1,26 @@
+# Bengal
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 4479
+1434.12.3 = {
+	monarch = {
+		name = "Namkha II"
+		birth_date = 1409.6.19
+		dynasty = "Yümai"
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 4479
+	add_treasury = 36
+	add_prestige = 200
+}

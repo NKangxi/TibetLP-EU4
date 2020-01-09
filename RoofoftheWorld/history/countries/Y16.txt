@@ -1,0 +1,40 @@
+# Birjand
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = bon
+clear_scripted_personalities = yes
+capital = 436
+1409.12.13 = {
+	monarch = {
+		name = "Baturay"
+		birth_date = 1382.3.2
+		dynasty = "Tomara"
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = benevolent_personality
+}
+1415.9.27 = {
+	heir = {
+		name = "Balaban"
+		monarch_name = "Balaban"
+		dynasty = "Tomara"
+		birth_date = 1415.9.27
+		death_date = 1495.9.27
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 436
+	add_treasury = 31
+	add_prestige = 484
+}

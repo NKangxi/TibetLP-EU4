@@ -1,0 +1,26 @@
+# Medapata
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2058
+1444.3.9 = {
+	monarch = {
+		name = "Getong"
+		birth_date = 1395.2.21
+		dynasty = " Medapata"
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 2058
+	add_treasury = 212
+	add_prestige = 40
+}

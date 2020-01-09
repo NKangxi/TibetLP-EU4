@@ -1,0 +1,26 @@
+# Novosil
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = animism
+clear_scripted_personalities = yes
+capital = 4117
+1444.2.24 = {
+	monarch = {
+		name = "Voislav II"
+		birth_date = 1396.12.23
+		dynasty = "Styr"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 4117
+	add_treasury = 3
+	add_prestige = 167
+}

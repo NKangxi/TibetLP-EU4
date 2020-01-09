@@ -1,0 +1,27 @@
+# Kathmandu
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2071
+1406.6.23 = {
+	monarch = {
+		name = "Nyantsen II"
+		birth_date = 1376.1.11
+		dynasty = "Khon"
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 2071
+	add_treasury = 169
+	add_prestige = 1084
+}

@@ -1,0 +1,27 @@
+# Tagant
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2244
+1442.11.7 = {
+	monarch = {
+		name = "Gyrið"
+		birth_date = 1417.6.11
+		dynasty = "af Nordland"
+		female = yes
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 2244
+	add_treasury = 8
+	add_prestige = 180
+}

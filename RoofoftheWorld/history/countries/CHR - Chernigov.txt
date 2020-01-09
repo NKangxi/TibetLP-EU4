@@ -1,0 +1,26 @@
+# Chernigov
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khazar
+religion = animism
+clear_scripted_personalities = yes
+capital = 289
+1442.2.8 = {
+	monarch = {
+		name = "Vsevolod III"
+		birth_date = 1436.2.5
+		dynasty = "Lukinich"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 289
+	add_treasury = 26
+	add_prestige = 92
+}

@@ -1,0 +1,27 @@
+# Syrte
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = danish
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 355
+1416.6.3 = {
+	monarch = {
+		name = "Valentin"
+		birth_date = 1383.10.4
+		dynasty = "af Lupawa"
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 355
+	add_treasury = 27
+	add_prestige = 15
+}

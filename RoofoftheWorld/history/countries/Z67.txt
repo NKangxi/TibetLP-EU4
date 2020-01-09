@@ -1,0 +1,27 @@
+# Sakala
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 37
+1443.5.17 = {
+	monarch = {
+		name = "Gyða V"
+		birth_date = 1419.6.17
+		dynasty = "Skál"
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 37
+	add_treasury = 186
+	add_prestige = 67
+}

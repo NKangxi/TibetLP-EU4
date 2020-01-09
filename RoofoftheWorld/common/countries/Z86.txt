@@ -1,0 +1,252 @@
+# Pskov
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 140 130 62 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Aslaug" "Kettilmund" "Helena" "Örvar" "Grima" "Þorsteinn" "Sara" "Hæsteinn" "Sumarliði" "Asbjörn" 
+	"Sigrid" "Edla" "Arnfast" "Bertil" "Tryggve" "Bo" "Asta" "Yngvar" "Gandalfr" "Snorri" 
+	"Astrid" "Tyke" "Gurli" "Katarina" "Ragnarr" "Falki" "Folki" "Rikulfr" "Dobrozhir" "Sviatoslava" 
+	"Igor" "Vasilisa" "Stanislav" "Predslava" "Zvenislava" "Vyshata" "Sofia" "Trifon" "Prebrana" "Styrkar" 
+	"Svetozar" "Anastasia" "Venceslav" "Liubava" "Xenia" "Tikshayka" "Rurik" "Savna" "Vasilko" "Gradislava" 
+	"Visheiv" "Praxida" "Gorislava" "Olena" "Chulgetei" "Yeke" "Asikko" "Tuulitar" "Kukka" "Ulyana" 
+	"Yevstafiy" "Demid" "Yemelyan" "Elin" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" 
+	"Arnbjörn" "Arngrimr" "Arni" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Birger" "Björn" 
+	"Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" "Emund" 
+	"Einarr" "Eirikr" "Eskild" "Faste" "Filip" "Fredrik" "Frirek" "Froði" "Freyr" "Geirr" 
+	"Georg" "Gnupa" "Gorm" "Greger" "Grimr" "Guðfrið" "Guðmundr" "Guðröðr" "Gunnarr" "Hakon" 
+	"Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" "Holmger" "Hrafn" "Hrolfr" "Hrane" "Hjalmar" 
+	"Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" "Ingólfr" "Ingemar" "Ingjald" "Ivar" "Jedvard" "Jon" 
+	"Karl" "Kettil" "Kjartan" "Klas" "Knut" "Kol" "Kolbjörn" "Markus" "Magni" "Mats" 
+	"Nils" "Niklas" "Oddr" "Ofeig" "Olafr" "Ormr" "Ottarr" "Refr" "Refil" "Rögnvaldr" 
+	"Skuli" "Sigbjörn" "Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Suni" "Sveinn" 
+	"Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" 
+	"Þordr" "Þorgil" "Þorolfr" "Toste" "Totil" "Ulfr" "Vagn" "Valdemar" "Åke" "Öysteinn" }
+monarch_names = {
+	"Aslaug #0" = -1
+	"Kettilmund #0" = 1
+	"Helena #1" = -22
+	"Örvar #0" = 1
+	"Grima #0" = -1
+	"Þorsteinn #0" = 1
+	"Sara #0" = -1
+	"Hæsteinn #0" = 1
+	"Sumarliði #0" = 1
+	"Asbjörn #0" = 1
+	"Sigrid #0" = -1
+	"Edla #0" = -1
+	"Arnfast #0" = 1
+	"Bertil #0" = 1
+	"Tryggve #0" = 1
+	"Bo #0" = 1
+	"Asta #0" = -1
+	"Yngvar #0" = 1
+	"Gandalfr #0" = 1
+	"Snorri #0" = 1
+	"Astrid #0" = -1
+	"Tyke #0" = 1
+	"Gurli #0" = -1
+	"Katarina #0" = -1
+	"Ragnarr #0" = 1
+	"Falki #0" = 1
+	"Folki #0" = 1
+	"Rikulfr #0" = 1
+	"Dobrozhir #1" = 0
+	"Sviatoslava #1" = -1
+	"Igor #1" = 0
+	"Vasilisa #1" = -1
+	"Stanislav #1" = 0
+	"Predslava #1" = -1
+	"Zvenislava #1" = -1
+	"Vyshata #1" = 0
+	"Sofia #2" = -1
+	"Trifon #1" = 0
+	"Prebrana #2" = -1
+	"Styrkar #1" = 0
+	"Svetozar #1" = 0
+	"Anastasia #1" = -1
+	"Venceslav #1" = 0
+	"Liubava #1" = -1
+	"Xenia #2" = -1
+	"Tikshayka #1" = 0
+	"Rurik #1" = 0
+	"Savna #1" = -1
+	"Vasilko #1" = 0
+	"Gradislava #1" = -1
+	"Visheiv #1" = 0
+	"Praxida #1" = -1
+	"Gorislava #1" = -1
+	"Olena #1" = -1
+	"Chulgetei #1" = 0
+	"Yeke #1" = 0
+	"Asikko #1" = 0
+	"Tuulitar #1" = -1
+	"Kukka #1" = -1
+	"Ulyana #1" = -1
+	"Yevstafiy #1" = 0
+	"Demid #1" = 0
+	"Yemelyan #1" = 0
+	"Elin #1" = -1
+	"Ale #0" = 0
+	"Alfr #0" = 0
+	"Alfgeir #0" = 0
+	"Anders #0" = 0
+	"Anlaufr #0" = 0
+	"Anundr #0" = 0
+	"Arnbjörn #0" = 0
+	"Arngrimr #0" = 0
+	"Arni #0" = 0
+	"Bagge #0" = 0
+	"Baldr #0" = 0
+	"Barid #0" = 0
+	"Bengt #0" = 0
+	"Bersi #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Borkvard #0" = 0
+	"Botulfr #0" = 0
+	"Bragi #0" = 0
+	"Buðli #0" = 0
+	"Dag #0" = 0
+	"Dan #0" = 0
+	"Dyre #0" = 0
+	"Eilif #0" = 0
+	"Egill #0" = 0
+	"Emund #0" = 0
+	"Einarr #0" = 0
+	"Eirikr #0" = 0
+	"Eskild #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Fredrik #0" = 0
+	"Frirek #0" = 0
+	"Froði #0" = 0
+	"Freyr #0" = 0
+	"Geirr #0" = 0
+	"Georg #0" = 0
+	"Gnupa #0" = 0
+	"Gorm #0" = 0
+	"Greger #0" = 0
+	"Grimr #0" = 0
+	"Guðfrið #0" = 0
+	"Guðmundr #0" = 0
+	"Guðröðr #0" = 0
+	"Gunnarr #0" = 0
+	"Hakon #0" = 0
+	"Halsten #0" = 0
+	"Haraldr #0" = 0
+	"Haukr #0" = 0
+	"Helgi #0" = 0
+	"Hemming #0" = 0
+	"Holmger #0" = 0
+	"Hrafn #0" = 0
+	"Hrolfr #0" = 0
+	"Hrane #0" = 0
+	"Hjalmar #0" = 0
+	"Hroðgar #0" = 0
+	"Hroðulfr #0" = 0
+	"Hrörekr #0" = 0
+	"Hysing #0" = 0
+	"Ingólfr #0" = 0
+	"Ingemar #0" = 0
+	"Ingjald #0" = 0
+	"Ivar #0" = 0
+	"Jedvard #0" = 0
+	"Jon #0" = 0
+	"Karl #0" = 0
+	"Kettil #0" = 0
+	"Kjartan #0" = 0
+	"Klas #0" = 0
+	"Knut #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Markus #0" = 0
+	"Magni #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Oddr #0" = 0
+	"Ofeig #0" = 0
+	"Olafr #0" = 0
+	"Ormr #0" = 0
+	"Ottarr #0" = 0
+	"Refr #0" = 0
+	"Refil #0" = 0
+	"Rögnvaldr #0" = 0
+	"Skuli #0" = 0
+	"Sigbjörn #0" = 0
+	"Sigtrygg #0" = 0
+	"Sigurðr #0" = 0
+	"Starkaðr #0" = 0
+	"Steinn #0" = 0
+	"Sturla #0" = 0
+	"Styrbjörn #0" = 0
+	"Suni #0" = 0
+	"Sveinn #0" = 0
+	"Sverker #0" = 0
+	"Sæmundr #0" = 0
+	"Sölvi #0" = 0
+	"Sörkver #0" = 0
+	"Tjudmund #0" = 0
+	"Toke #0" = 0
+	"Tolir #0" = 0
+	"Þorbjörn #0" = 0
+	"Þorfinn #0" = 0
+	"Þorbrandr #0" = 0
+	"Þordr #0" = 0
+	"Þorgil #0" = 0
+	"Þorolfr #0" = 0
+	"Toste #0" = 0
+	"Totil #0" = 0
+	"Ulfr #0" = 0
+	"Vagn #0" = 0
+	"Valdemar #0" = 0
+	"Åke #0" = 0
+	"Öysteinn #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

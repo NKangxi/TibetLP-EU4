@@ -1,0 +1,26 @@
+# Kiev
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khazar
+religion = monothelite
+clear_scripted_personalities = yes
+capital = 280
+1444.6.18 = {
+	monarch = {
+		name = "Bulçan II"
+		birth_date = 1420.10.5
+		dynasty = "Ilikid"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 280
+	add_treasury = 50
+	add_prestige = 83
+}

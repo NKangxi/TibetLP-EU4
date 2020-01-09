@@ -1,0 +1,152 @@
+# Samarra
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 110 190 80 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Chokey" "Al-Mu'tazz" "Paywand" "Samir" "Nafisa" "Khaireddin" "Talib" "Tanaz" "Vassak" "Murad" 
+	"Burhanaddin" "Ubayd" "Rasa" "Halil" "Sulayman" "Sadiq" "Seyfullah" "Meliksah" "Sholah" "Ahmet" 
+	"Aba" "Korkutan" "Shemaiah" "Talitha" "Mustafa" "Togtekin" "Faruk" "Xwedayar" "Aghlab" "Jamil" 
+	"Abdul-Razzaq" "Gulnaz" "Phurbulcam" "Po" "Pungtsen" "Songtsen" "Mangsong" "Drönma" "Aarif" "Abdul-Gafur" 
+	"Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Akin" "Alim" "Aram" "Azam" "Bahir" "Fadil" "Fadl" 
+	"Ghalib" "Hafiz" "Husam" "Ibrahim" "Idris" "Is'mail" "Isa" "Jabir" "Jalil" "Jibril" 
+	"Khalil" "Mahdi" "Mansur" "Mirza" "Mubarak" "Mukhtar" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" 
+	"Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sami" "Shaiban" "Shamir" "Shujah" "Uways" 
+	"Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+monarch_names = {
+	"Chokey #1" = 18
+	"Al-Mu'tazz #1" = 0
+	"Paywand #1" = -1
+	"Samir #1" = 0
+	"Nafisa #1" = -1
+	"Khaireddin #1" = 0
+	"Talib #1" = 0
+	"Tanaz #1" = -1
+	"Vassak #1" = 0
+	"Murad #2" = 0
+	"Burhanaddin #3" = 0
+	"Ubayd #1" = 0
+	"Rasa #1" = -1
+	"Halil #4" = 0
+	"Sulayman #1" = 0
+	"Sadiq #1" = 0
+	"Seyfullah #1" = 0
+	"Meliksah #1" = 0
+	"Sholah #1" = -1
+	"Ahmet #1" = 0
+	"Aba #1" = 0
+	"Korkutan #1" = 0
+	"Shemaiah #1" = 0
+	"Talitha #1" = -1
+	"Mustafa #1" = 0
+	"Togtekin #1" = 0
+	"Faruk #1" = 0
+	"Xwedayar #1" = 0
+	"Aghlab #1" = 0
+	"Jamil #1" = 0
+	"Abdul-Razzaq #1" = 0
+	"Gulnaz #1" = -1
+	"Phurbulcam #1" = -1
+	"Po #1" = 0
+	"Pungtsen #1" = 0
+	"Songtsen #1" = 0
+	"Mangsong #1" = 0
+	"Drönma #1" = -1
+	"Aarif #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Abdul-Wahab #0" = 0
+	"Akin #0" = 0
+	"Alim #0" = 0
+	"Aram #0" = 0
+	"Azam #0" = 0
+	"Bahir #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Ghalib #0" = 0
+	"Hafiz #0" = 0
+	"Husam #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Is'mail #0" = 0
+	"Isa #0" = 0
+	"Jabir #0" = 0
+	"Jalil #0" = 0
+	"Jibril #0" = 0
+	"Khalil #0" = 0
+	"Mahdi #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mubarak #0" = 0
+	"Mukhtar #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Najib #0" = 0
+	"Nasr #0" = 0
+	"Nizam #0" = 0
+	"Qawurd #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sami #0" = 0
+	"Shaiban #0" = 0
+	"Shamir #0" = 0
+	"Shujah #0" = 0
+	"Uways #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+	"Zeyd #0" = 0
+}
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
+

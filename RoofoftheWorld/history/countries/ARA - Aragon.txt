@@ -1,0 +1,28 @@
+# Aragon
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = welsh
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 242
+1422.6.8 = {
+	monarch = {
+		name = "Gerðr"
+		birth_date = 1394.12.8
+		dynasty = "Sleggja"
+		female = yes
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 242
+	add_treasury = 56
+	add_prestige = 207
+}

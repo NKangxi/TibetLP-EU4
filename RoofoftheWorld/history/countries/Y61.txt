@@ -1,0 +1,27 @@
+# Nagchu
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 4205
+1433.4.8 = {
+	monarch = {
+		name = "Lek"
+		birth_date = 1405.11.12
+		dynasty = "Kyichu"
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 4205
+	add_treasury = 36
+	add_prestige = 308
+}

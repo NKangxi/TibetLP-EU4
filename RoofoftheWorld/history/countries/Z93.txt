@@ -1,0 +1,27 @@
+# Cibyrrhaeot
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4309
+1401.2.12 = {
+	monarch = {
+		name = "Abebe"
+		birth_date = 1387.3.27
+		dynasty = "Seyfullahid"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 4309
+	add_treasury = -36
+	add_prestige = 496
+}

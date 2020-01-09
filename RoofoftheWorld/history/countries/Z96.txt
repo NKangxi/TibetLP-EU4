@@ -1,0 +1,26 @@
+# Opsikion
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = nubian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4312
+1435.9.4 = {
+	monarch = {
+		name = "Thadeosi"
+		birth_date = 1428.12.15
+		dynasty = "Usfurid"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 4312
+	add_treasury = 1902
+	add_prestige = 80
+}

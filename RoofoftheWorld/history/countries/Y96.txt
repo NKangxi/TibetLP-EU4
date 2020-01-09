@@ -1,0 +1,26 @@
+# Jiuquan
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = chihan
+religion = bon
+clear_scripted_personalities = yes
+capital = 707
+1441.11.26 = {
+	monarch = {
+		name = "Tsenpo"
+		birth_date = 1413.5.23
+		dynasty = " Dunhuang"
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 707
+	add_treasury = 36
+	add_prestige = 19
+}

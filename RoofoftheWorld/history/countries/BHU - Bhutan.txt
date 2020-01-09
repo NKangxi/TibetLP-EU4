@@ -1,0 +1,27 @@
+# Bhutan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 4481
+1424.9.20 = {
+	monarch = {
+		name = "Gangkarwa"
+		birth_date = 1388.4.25
+		dynasty = "Yümai"
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 4481
+	add_treasury = 310
+	add_prestige = 766
+}

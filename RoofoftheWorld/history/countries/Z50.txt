@@ -1,0 +1,27 @@
+# Usturt
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cuman
+religion = bon
+clear_scripted_personalities = yes
+capital = 443
+1430.10.4 = {
+	monarch = {
+		name = "Gyeltsen"
+		birth_date = 1423.1.21
+		dynasty = "Chimza"
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 443
+	add_treasury = 45
+	add_prestige = 64
+}

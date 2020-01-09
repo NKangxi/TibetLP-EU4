@@ -1,0 +1,25 @@
+# Purang
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+1436.9.5 = {
+	monarch = {
+		name = "Thrisong"
+		birth_date = 1401.10.22
+		dynasty = "Purgyal"
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	add_treasury = 140
+	add_prestige = 2389
+}

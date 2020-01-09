@@ -1,0 +1,192 @@
+# Hausaland
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 133 40 191 }
+
+
+
+
+leader_names = {
+
+	"Igoumou" "Zeïnab" "Nuru" "Gando" "Layla" "Aisha" "Kiray" "Fatim" "Mahmud" "Malla" 
+	"Sidibé" "Alkamiisa" "Bilqis" "Kanafa" "Biyay" "Borgo" "Huseini" "Nana" "Uthman" "Kolonkan" 
+	"Fodi" "Ammar" "Geyka" "Kulun" "Daara" "Fatoumata" "Majan" "Bassarou" "Zakoi" "Kadi" 
+	"Sassouma" "Düru" "Deye" "Djenly" "Kusoy" "Bisi" "Siya" "Namiss" "Fuluku" "Aissata" 
+	"Birama" "Kasseï" "Koïzé" "Adja" "Sogolon" "Harun" "Nuh" "Lahiltoul" "Kambine" "Aminata" 
+	"Takoi" "Lorane" "Djire" "Bintou" "Karbachi" "Aoua" "Alima" "Fitila" "Fay" "Al-Hajj" 
+	"Komi" "Zaynab" "Halima" "Kima" "Tekhaye" "Sorko-ije" "Djeneba" "Abubakar" "Babba" "Bakr-Kanbu" 
+	"Mar-Chindin" "Hawa" "Teko" "Kibu’u" "Koize" "Gao" "Mamadi" "Aminah" "Is’mail" "Medina" 
+	"Cinta" "Garbai" "Hume" "Ghana" "Hummay" "Mustafa" "Ahmed" "Kiyari" "Kili" "Adam" 
+	"Waziri" "Shakira" "Missi-Izé" "Safiatou" "M'Bali" "Maammarou" "Abbas" "Abdallah" "Abdul" "Abdulraham" 
+	"Airimi" "Alhaji" "Ali" "Alooma" "Amin" "Amr" "Arku" "Arsu" "Baba" "Baram" 
+	"Bikorom" "Biri" "Bukar" "Bulu" "Buyuma" "Dabbalemi" "Dala" "Daoud" "Dugu" "Dunama" 
+	"Fune" "Gaji" "Gajideni" "Galrima" "Gana" "Gazali" "Gazi" "Ibrahim" "Idris" "Kaday" 
+	"Kanemi" "Kashim" "Katakarmabe" "Katur" "Kura" "Kuri" "Kuwaana" "Madu" "Mahmoud" "Mamane" 
+	"Modu" "Mohammed" "Mufioma" "Murama" "Musa" "Nikale" "Osman" "Said" "Salmama" "Sanda" 
+	"Sani" "Sef" "Selma" "Shettima" "Shu" "Suleyman" "Tandja" "Umar" "Yahya" "Yaqub" 
+	"Yusuf" "Zannah" }
+monarch_names = {
+	"Igoumou #0" = 1
+	"Zeïnab #0" = -1
+	"Nuru #1" = -22
+	"Gando #0" = -1
+	"Layla #0" = -1
+	"Aisha #0" = -1
+	"Kiray #0" = 1
+	"Fatim #0" = -1
+	"Mahmud #1" = 24
+	"Malla #0" = 1
+	"Sidibé #0" = -1
+	"Alkamiisa #0" = -1
+	"Bilqis #0" = -1
+	"Kanafa #1" = 21
+	"Biyay #0" = 1
+	"Borgo #0" = 1
+	"Huseini #1" = 18
+	"Nana #1" = -19
+	"Uthman #0" = 1
+	"Kolonkan #0" = -1
+	"Fodi #0" = 1
+	"Ammar #0" = 1
+	"Geyka #0" = -1
+	"Kulun #0" = 1
+	"Daara #0" = -1
+	"Fatoumata #0" = -1
+	"Majan #0" = 1
+	"Bassarou #1" = 33
+	"Zakoi #0" = 1
+	"Kadi #0" = -1
+	"Sassouma #0" = -1
+	"Düru #0" = 1
+	"Deye #0" = -1
+	"Djenly #0" = -1
+	"Kusoy #0" = 1
+	"Bisi #0" = 1
+	"Siya #0" = -1
+	"Namiss #0" = -1
+	"Fuluku #0" = 1
+	"Aissata #0" = -1
+	"Birama #0" = 1
+	"Kasseï #0" = 1
+	"Koïzé #0" = 1
+	"Adja #0" = -1
+	"Sogolon #0" = -1
+	"Harun #1" = 27
+	"Nuh #0" = 1
+	"Lahiltoul #0" = 1
+	"Kambine #0" = 1
+	"Aminata #0" = -1
+	"Takoi #0" = 1
+	"Lorane #0" = -1
+	"Djire #0" = -1
+	"Bintou #0" = -1
+	"Karbachi #0" = 1
+	"Aoua #1" = -19
+	"Alima #0" = -1
+	"Fitila #0" = -1
+	"Fay #0" = 1
+	"Al-Hajj #0" = 1
+	"Komi #0" = 1
+	"Zaynab #0" = -1
+	"Halima #0" = -1
+	"Kima #0" = 1
+	"Tekhaye #0" = -1
+	"Sorko-ije #0" = 1
+	"Djeneba #0" = -1
+	"Abubakar #0" = 1
+	"Babba #0" = 1
+	"Bakr-Kanbu #0" = 1
+	"Mar-Chindin #0" = 1
+	"Hawa #0" = -1
+	"Teko #0" = -1
+	"Kibu’u #0" = 1
+	"Koize #0" = 1
+	"Gao #0" = 1
+	"Mamadi #0" = 1
+	"Aminah #0" = -1
+	"Is’mail #0" = 1
+	"Medina #0" = -1
+	"Cinta #1" = -1
+	"Garbai #1" = 0
+	"Hume #1" = 0
+	"Ghana #1" = 0
+	"Hummay #1" = 0
+	"Mustafa #1" = 0
+	"Ahmed #1" = 0
+	"Kiyari #1" = 0
+	"Kili #1" = -1
+	"Adam #1" = 0
+	"Waziri #1" = 0
+	"Shakira #1" = -1
+	"Missi-Izé #1" = 0
+	"Safiatou #2" = -1
+	"M'Bali #2" = 0
+	"Maammarou #1" = 0
+	"Abbas #0" = 0
+	"Abdallah #0" = 0
+	"Abdul #0" = 0
+	"Abdulraham #0" = 0
+	"Airimi #0" = 0
+	"Alhaji #0" = 0
+	"Ali #0" = 0
+	"Alooma #0" = 0
+	"Amin #0" = 0
+	"Amr #0" = 0
+	"Arku #0" = 0
+	"Arsu #0" = 0
+	"Baba #0" = 0
+	"Baram #0" = 0
+	"Bikorom #0" = 0
+	"Biri #0" = 0
+	"Bukar #0" = 0
+	"Bulu #0" = 0
+	"Buyuma #0" = 0
+	"Dabbalemi #0" = 0
+	"Dala #0" = 0
+	"Daoud #0" = 0
+	"Dugu #0" = 0
+	"Dunama #0" = 0
+	"Fune #0" = 0
+	"Gaji #0" = 0
+	"Gajideni #0" = 0
+	"Galrima #0" = 0
+	"Gana #0" = 0
+	"Gazali #0" = 0
+	"Gazi #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Kaday #0" = 0
+	"Kanemi #0" = 0
+	"Kashim #0" = 0
+	"Katakarmabe #0" = 0
+	"Katur #0" = 0
+	"Kura #0" = 0
+	"Kuri #0" = 0
+	"Kuwaana #0" = 0
+	"Madu #0" = 0
+	"Mahmoud #0" = 0
+	"Mamane #0" = 0
+	"Modu #0" = 0
+	"Mohammed #0" = 0
+	"Mufioma #0" = 0
+	"Murama #0" = 0
+	"Musa #0" = 0
+	"Nikale #0" = 0
+	"Osman #0" = 0
+	"Said #0" = 0
+	"Salmama #0" = 0
+	"Sanda #0" = 0
+	"Sani #0" = 0
+	"Sef #0" = 0
+	"Selma #0" = 0
+	"Shettima #0" = 0
+	"Shu #0" = 0
+	"Suleyman #0" = 0
+	"Tandja #0" = 0
+	"Umar #0" = 0
+	"Yahya #0" = 0
+	"Yaqub #0" = 0
+	"Yusuf #0" = 0
+	"Zannah #0" = 0
+}
+

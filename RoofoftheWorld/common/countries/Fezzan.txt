@@ -1,0 +1,229 @@
+# Fezzan
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 25 160 150 }
+
+
+
+
+leader_names = {
+
+	"Kalabi" "Karay" "Biyo" "Hassana" "Geyka" "Moussa" "Adama" "Amina" "Zaynab" "Fitila" 
+	"Bilqis" "Sogolon" "Sy" "Nafissa" "Alima" "Fädazu" "Badä" "Fatoumata" "Majan" "Tunka-Menin" 
+	"Lorane" "Wague" "Fadima" "Zakoi" "Alayaman" "Djire" "Hawa" "Huseina" "Dankataya" "Fatima" 
+	"Medina" "Ali" "Fay" "Laraba" "Sunni" "Lambu" "Namandjé" "Buyunbu" "Maghan" "Kur" 
+	"Kiray" "Kouton" "Sanay" "Morobani" "Nunta" "Harun" "Abdallah" "Hiyan" "al-Khattab" "Sheeftah" 
+	"Abdul-Gafur" "Nafisa" "Aghlab" "Jabir" "Faruk" "Mahdi" "Sadiq" "Abdul-Jaleel" "Abdullah" "Amray" 
+	"Ixfensen" "Bagay" "Dasin" "Tfit" "Yunes" "Qutaiba" "Urtilian" "Kenwa" "Amud" "Citlalli" 
+	"Chimalma" "Tonalnan" "Xocoh" "Amoxtli" "Gunhilda" "Tezozomoc" "Ormr" "Ingjerðr" "Vigdis" "Gyla" 
+	"Bassarou" "Al-Hajj" "Abi" "Abu" "Adamu" "Ahmad" "Alkamiisa" "Ammar" "Ankabi" "Ar" 
+	"Arabi" "Aranda" "Baba" "Babba" "Bada" "Baki" "Bakr" "Bani" "Bano" "Baru" 
+	"Bay" "Ber" "Binta" "Birma" "Bisi" "Biya" "Biyay" "Bonkana" "Borgo" "Boumi" 
+	"Bukar" "Daara" "Dala" "Dao" "Daouda" "Dari" "Dawud" "Dum" "Dunku" "Duru" 
+	"Fadazaw" "Falaku" "Far" "Fari-Mondzo" "Fi" "Fodi" "Hanga" "Hargani" "Hassan" "Hin" 
+	"Huseini" "Ibrahim" "Igoumou" "Ikoi" "Ishaq" "Is’mail" "Ize" "Jim" "Kaasei" "Kanafa" 
+	"Kanbu" "Karaway" "Karbachi" "Kayna" "Keina" "Kibu’u" "Kima" "Kimi" "Kinba" "Kinkin" 
+	"Kisha" "Kodama" "Koi" "Koize" "Kolon" "Komi" "Koy" "Ku" "Kukiya" "Kukura" 
+	"Kuli" "Kulun" "Kumay" "Kun" "Kusoy" "Kusur" "Maammarou" "Mahmud" "Malla" "Mar" 
+	"Mar-Chindin" "Mayroumfa" "Missi" "Muhammed" "Musa" "Nari" "Nuh" "Ouankoy" "Samsou" "Samsou-Beri" 
+	"Shams" "Shinyunbu" "Silman" "Sorko-ije" "Sulayman" "Takoi" "Tib" "Tomo" "Uthman" "Wunka" 
+	"Yama" "Yaqub" "Yasiboy" "Yuma" "Zalil" "Zunku" }
+monarch_names = {
+	"Kalabi #0" = 1
+	"Karay #0" = 1
+	"Biyo #1" = 18
+	"Hassana #0" = -1
+	"Geyka #0" = -1
+	"Moussa #0" = 1
+	"Adama #0" = -1
+	"Amina #0" = -1
+	"Zaynab #0" = -1
+	"Fitila #0" = -1
+	"Bilqis #0" = -1
+	"Sogolon #0" = -1
+	"Sy #0" = 1
+	"Nafissa #0" = -1
+	"Alima #0" = -1
+	"Fädazu #0" = 1
+	"Badä #0" = 1
+	"Fatoumata #0" = -1
+	"Majan #0" = 1
+	"Tunka-Menin #0" = 1
+	"Lorane #0" = -1
+	"Wague #0" = 1
+	"Fadima #0" = -1
+	"Zakoi #0" = 1
+	"Alayaman #0" = 1
+	"Djire #0" = -1
+	"Hawa #0" = -1
+	"Huseina #0" = -1
+	"Dankataya #0" = 1
+	"Fatima #0" = -1
+	"Medina #0" = -1
+	"Ali #0" = 1
+	"Fay #0" = 1
+	"Laraba #0" = 1
+	"Sunni #0" = 1
+	"Lambu #0" = -1
+	"Namandjé #0" = -1
+	"Buyunbu #0" = 1
+	"Maghan #0" = 1
+	"Kur #0" = 1
+	"Kiray #1" = 24
+	"Kouton #0" = -1
+	"Sanay #0" = 1
+	"Morobani #0" = 1
+	"Nunta #0" = 1
+	"Harun #1" = 18
+	"Abdallah #1" = 0
+	"Hiyan #1" = 0
+	"al-Khattab #1" = 0
+	"Sheeftah #1" = -1
+	"Abdul-Gafur #1" = 0
+	"Nafisa #1" = -1
+	"Aghlab #1" = 0
+	"Jabir #1" = 0
+	"Faruk #1" = 0
+	"Mahdi #2" = 0
+	"Sadiq #1" = 0
+	"Abdul-Jaleel #1" = 0
+	"Abdullah #1" = 0
+	"Amray #1" = 0
+	"Ixfensen #1" = 0
+	"Bagay #1" = 0
+	"Dasin #1" = -1
+	"Tfit #1" = -1
+	"Yunes #1" = 0
+	"Qutaiba #1" = 0
+	"Urtilian #1" = 0
+	"Kenwa #1" = -1
+	"Amud #1" = 0
+	"Citlalli #2" = -1
+	"Chimalma #1" = -1
+	"Tonalnan #1" = -1
+	"Xocoh #1" = -1
+	"Amoxtli #1" = -1
+	"Gunhilda #1" = -1
+	"Tezozomoc #1" = -1
+	"Ormr #1" = 0
+	"Ingjerðr #1" = -1
+	"Vigdis #1" = -1
+	"Gyla #1" = -1
+	"Bassarou #1" = 0
+	"Al-Hajj #1" = 0
+	"Abi #0" = 0
+	"Abu #0" = 0
+	"Adamu #0" = 0
+	"Ahmad #0" = 0
+	"Alkamiisa #0" = 0
+	"Ammar #0" = 0
+	"Ankabi #0" = 0
+	"Ar #0" = 0
+	"Arabi #0" = 0
+	"Aranda #0" = 0
+	"Baba #0" = 0
+	"Babba #0" = 0
+	"Bada #0" = 0
+	"Baki #0" = 0
+	"Bakr #0" = 0
+	"Bani #0" = 0
+	"Bano #0" = 0
+	"Baru #0" = 0
+	"Bay #0" = 0
+	"Ber #0" = 0
+	"Binta #0" = 0
+	"Birma #0" = 0
+	"Bisi #0" = 0
+	"Biya #0" = 0
+	"Biyay #0" = 0
+	"Bonkana #0" = 0
+	"Borgo #0" = 0
+	"Boumi #0" = 0
+	"Bukar #0" = 0
+	"Daara #0" = 0
+	"Dala #0" = 0
+	"Dao #0" = 0
+	"Daouda #0" = 0
+	"Dari #0" = 0
+	"Dawud #0" = 0
+	"Dum #0" = 0
+	"Dunku #0" = 0
+	"Duru #0" = 0
+	"Fadazaw #0" = 0
+	"Falaku #0" = 0
+	"Far #0" = 0
+	"Fari-Mondzo #0" = 0
+	"Fi #0" = 0
+	"Fodi #0" = 0
+	"Hanga #0" = 0
+	"Hargani #0" = 0
+	"Hassan #0" = 0
+	"Hin #0" = 0
+	"Huseini #0" = 0
+	"Ibrahim #0" = 0
+	"Igoumou #0" = 0
+	"Ikoi #0" = 0
+	"Ishaq #0" = 0
+	"Is’mail #0" = 0
+	"Ize #0" = 0
+	"Jim #0" = 0
+	"Kaasei #0" = 0
+	"Kanafa #0" = 0
+	"Kanbu #0" = 0
+	"Karaway #0" = 0
+	"Karbachi #0" = 0
+	"Kayna #0" = 0
+	"Keina #0" = 0
+	"Kibu’u #0" = 0
+	"Kima #0" = 0
+	"Kimi #0" = 0
+	"Kinba #0" = 0
+	"Kinkin #0" = 0
+	"Kisha #0" = 0
+	"Kodama #0" = 0
+	"Koi #0" = 0
+	"Koize #0" = 0
+	"Kolon #0" = 0
+	"Komi #0" = 0
+	"Koy #0" = 0
+	"Ku #0" = 0
+	"Kukiya #0" = 0
+	"Kukura #0" = 0
+	"Kuli #0" = 0
+	"Kulun #0" = 0
+	"Kumay #0" = 0
+	"Kun #0" = 0
+	"Kusoy #0" = 0
+	"Kusur #0" = 0
+	"Maammarou #0" = 0
+	"Mahmud #0" = 0
+	"Malla #0" = 0
+	"Mar #0" = 0
+	"Mar-Chindin #0" = 0
+	"Mayroumfa #0" = 0
+	"Missi #0" = 0
+	"Muhammed #0" = 0
+	"Musa #0" = 0
+	"Nari #0" = 0
+	"Nuh #0" = 0
+	"Ouankoy #0" = 0
+	"Samsou #0" = 0
+	"Samsou-Beri #0" = 0
+	"Shams #0" = 0
+	"Shinyunbu #0" = 0
+	"Silman #0" = 0
+	"Sorko-ije #0" = 0
+	"Sulayman #0" = 0
+	"Takoi #0" = 0
+	"Tib #0" = 0
+	"Tomo #0" = 0
+	"Uthman #0" = 0
+	"Wunka #0" = 0
+	"Yama #0" = 0
+	"Yaqub #0" = 0
+	"Yasiboy #0" = 0
+	"Yuma #0" = 0
+	"Zalil #0" = 0
+	"Zunku #0" = 0
+}
+

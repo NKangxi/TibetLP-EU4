@@ -1,0 +1,42 @@
+# Carniola
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 129
+1429.6.21 = {
+	monarch = {
+		name = "Rögnhildr II"
+		birth_date = 1407.6.15
+		dynasty = "Slite"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = secretive_personality
+}
+1434.10.4 = {
+	heir = {
+		name = "Alfhildr"
+		monarch_name = "Alfhildr II"
+		dynasty = "Slite"
+		birth_date = 1434.10.4
+		death_date = 1514.10.4
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 129
+	add_treasury = 29
+	add_prestige = 481
+}

@@ -1,0 +1,26 @@
+# Nepal
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 557
+1442.9.17 = {
+	monarch = {
+		name = "Nyasig"
+		birth_date = 1409.5.11
+		dynasty = "Purgyal"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 557
+	add_treasury = 47
+	add_prestige = 2192
+}

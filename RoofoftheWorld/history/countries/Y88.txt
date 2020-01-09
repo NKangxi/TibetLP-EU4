@@ -1,0 +1,28 @@
+# Sutiya
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 4440
+1411.5.1 = {
+	monarch = {
+		name = "Lhakee"
+		birth_date = 1402.4.25
+		dynasty = "Broza"
+		female = yes
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 4440
+	add_treasury = 377
+	add_prestige = 368
+}

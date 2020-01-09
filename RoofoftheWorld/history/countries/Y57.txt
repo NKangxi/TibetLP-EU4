@@ -1,0 +1,27 @@
+# Herat
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = rajput
+religion = bon
+clear_scripted_personalities = yes
+capital = 446
+1426.2.26 = {
+	monarch = {
+		name = "Palden"
+		birth_date = 1409.2.19
+		dynasty = "Bel"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 446
+	add_treasury = 85
+	add_prestige = 372
+}

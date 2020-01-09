@@ -1,0 +1,26 @@
+# Greece
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = monothelite
+clear_scripted_personalities = yes
+capital = 1853
+1434.12.5 = {
+	monarch = {
+		name = "Gregoras"
+		birth_date = 1413.1.29
+		dynasty = "of Malia"
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 1853
+	add_treasury = 10
+	add_prestige = 243
+}

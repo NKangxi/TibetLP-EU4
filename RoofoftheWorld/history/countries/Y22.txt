@@ -1,0 +1,26 @@
+# Tripoli
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 378
+1442.3.26 = {
+	monarch = {
+		name = "Yahya II"
+		birth_date = 1409.7.2
+		dynasty = "Yahyid"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 378
+	add_treasury = 248
+	add_prestige = 103
+}

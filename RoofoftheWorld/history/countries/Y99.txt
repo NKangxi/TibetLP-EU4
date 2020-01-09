@@ -1,0 +1,27 @@
+# Nasikya
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = marathi
+religion = bon
+clear_scripted_personalities = yes
+capital = 4433
+1439.10.5 = {
+	monarch = {
+		name = "Jomo"
+		birth_date = 1403.3.5
+		dynasty = "Ruyong"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 4433
+	add_treasury = 369
+	add_prestige = 183
+}

@@ -1,0 +1,210 @@
+# Beja
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 182 98 5 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Kettilmund" "Emund" "Erik" "Ingfrid" "Ernst" "Sverker" "Grim" "Katarina" "Bagge" "Inga" 
+	"Styrbjörn" "Jedvard" "Gerðr" "Helgi" "Anundr" "Ingeborg" "Fredrik" "Guðrun" "Elin" "Åke" 
+	"Bertil" "Dag" "Brynjolf" "Birger" "Elisabet" "Ragnhild" "Alfhild" "Sune" "Sigrid" "Gudröd" 
+	"Helena" "Sara" "Saga" "Torsten" "Gyla" "Arnfast" "Frej" "Erika" "Edvard" "Azur" 
+	"Silje" "Ragnvald" "Birgitta" "Sanna" "Sofia" "Ida" "Kolbjörn" "Hemming" "Holger" "Torbrand" 
+	"Iliana" "Sölvi" "Starkad" "Ludvig" "Tjudmund" "Dan" "Pridbjørn" "Margrethe" "Gandalfr" "Sämund" 
+	"Gnupa" "Yngvar" "Ingjald" "Ingjerðr" "Uffe" "Karin" "Thordis" "Bersi" "Jutta" "Leif" 
+	"Ingrid" "Abdallah" "Jalid" "Hashim" "Abd-al-Aziz" "Aslam" "Samir" "Muzaffaraddin" "Saghar" "Sabba" 
+	"Mansur" "Malika" "Najib" "Shararah" "Sahba" "Athanagildo" "Airmanagildo" "Aloito" "Assur" "Gonçalo" 
+	"Isa" "Abdul-Qadir" "Nizam" "Matylda" "Sif" "Svanhildr" "Edla" "Abbad" "Abdul-Aziz" "Abdul-Hakam" 
+	"Abdul-Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" "Abu" "Adfuns" "Amr" "Ayyub" "Balashk" "Bilal" 
+	"Fadl" "Fath" "Galind" "Garsiya" "Hakam" "Hilal" "Ibrahim" "Isma'il" "Jyad" "Lubb" 
+	"Ma'n" "Mubashir" "Mundir" "Musa" "Muyahid" "Raf" "Rashid" "Rasiq" "Sa'd" "Sanyo" 
+	"Siddray" "Suleyman" "Tariq" "Tifilwit" "Umar" "Utman" "Wannaqo" "Ya'far" "Yahaff" "Yahya" 
+	"Yusuf" }
+monarch_names = {
+	"Kettilmund #0" = 1
+	"Emund #0" = 1
+	"Erik #0" = 1
+	"Ingfrid #1" = -19
+	"Ernst #0" = 1
+	"Sverker #0" = 1
+	"Grim #0" = 1
+	"Katarina #0" = -1
+	"Bagge #0" = 1
+	"Inga #0" = -1
+	"Styrbjörn #0" = 1
+	"Jedvard #0" = 1
+	"Gerðr #0" = -1
+	"Helgi #0" = 1
+	"Anundr #0" = 1
+	"Ingeborg #0" = -1
+	"Fredrik #0" = 1
+	"Guðrun #0" = -1
+	"Elin #0" = -1
+	"Åke #0" = 1
+	"Bertil #0" = 1
+	"Dag #0" = 1
+	"Brynjolf #0" = 1
+	"Birger #0" = 1
+	"Elisabet #0" = -1
+	"Ragnhild #0" = -1
+	"Alfhild #0" = -1
+	"Sune #0" = 1
+	"Sigrid #2" = -25
+	"Gudröd #0" = 1
+	"Helena #0" = -1
+	"Sara #0" = -1
+	"Saga #0" = -1
+	"Torsten #0" = 1
+	"Gyla #0" = -1
+	"Arnfast #0" = 1
+	"Frej #0" = 1
+	"Erika #0" = -1
+	"Edvard #0" = 1
+	"Azur #0" = 1
+	"Silje #0" = -1
+	"Ragnvald #0" = 1
+	"Birgitta #0" = -1
+	"Sanna #0" = -1
+	"Sofia #0" = -1
+	"Ida #0" = -1
+	"Kolbjörn #0" = 1
+	"Hemming #0" = 1
+	"Holger #0" = 1
+	"Torbrand #0" = 1
+	"Iliana #0" = -1
+	"Sölvi #0" = 1
+	"Starkad #0" = 1
+	"Ludvig #0" = 1
+	"Tjudmund #0" = 1
+	"Dan #0" = 1
+	"Pridbjørn #0" = 1
+	"Margrethe #0" = -1
+	"Gandalfr #0" = 1
+	"Sämund #0" = 1
+	"Gnupa #0" = 1
+	"Yngvar #0" = 1
+	"Ingjald #0" = 1
+	"Ingjerðr #0" = -1
+	"Uffe #0" = 1
+	"Karin #1" = -19
+	"Thordis #0" = -1
+	"Bersi #0" = 1
+	"Jutta #0" = -1
+	"Leif #0" = 1
+	"Ingrid #0" = -1
+	"Abdallah #1" = 0
+	"Jalid #1" = 0
+	"Hashim #1" = 0
+	"Abd-al-Aziz #1" = 0
+	"Aslam #1" = 0
+	"Samir #3" = 0
+	"Muzaffaraddin #1" = 0
+	"Saghar #2" = -1
+	"Sabba #1" = -1
+	"Mansur #2" = 0
+	"Malika #1" = -1
+	"Najib #1" = 0
+	"Shararah #1" = -1
+	"Sahba #1" = -1
+	"Athanagildo #2" = 0
+	"Airmanagildo #1" = 0
+	"Aloito #1" = 0
+	"Assur #1" = 0
+	"Gonçalo #1" = 0
+	"Isa #2" = 0
+	"Abdul-Qadir #1" = 0
+	"Nizam #1" = 0
+	"Matylda #1" = -1
+	"Sif #1" = -1
+	"Svanhildr #2" = -1
+	"Edla #2" = -1
+	"Abbad #0" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Hakam #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Hazm #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abu #0" = 0
+	"Adfuns #0" = 0
+	"Amr #0" = 0
+	"Ayyub #0" = 0
+	"Balashk #0" = 0
+	"Bilal #0" = 0
+	"Fadl #0" = 0
+	"Fath #0" = 0
+	"Galind #0" = 0
+	"Garsiya #0" = 0
+	"Hakam #0" = 0
+	"Hilal #0" = 0
+	"Ibrahim #0" = 0
+	"Isma'il #0" = 0
+	"Jyad #0" = 0
+	"Lubb #0" = 0
+	"Ma'n #0" = 0
+	"Mubashir #0" = 0
+	"Mundir #0" = 0
+	"Musa #0" = 0
+	"Muyahid #0" = 0
+	"Raf #0" = 0
+	"Rashid #0" = 0
+	"Rasiq #0" = 0
+	"Sa'd #0" = 0
+	"Sanyo #0" = 0
+	"Siddray #0" = 0
+	"Suleyman #0" = 0
+	"Tariq #0" = 0
+	"Tifilwit #0" = 0
+	"Umar #0" = 0
+	"Utman #0" = 0
+	"Wannaqo #0" = 0
+	"Ya'far #0" = 0
+	"Yahaff #0" = 0
+	"Yahya #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

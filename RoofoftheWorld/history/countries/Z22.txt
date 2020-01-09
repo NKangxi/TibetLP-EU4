@@ -1,0 +1,28 @@
+# Transjurania
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 165
+1419.8.12 = {
+	monarch = {
+		name = "Gyda"
+		birth_date = 1417.9.1
+		dynasty = "Galen"
+		female = yes
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 165
+	add_treasury = 99
+	add_prestige = 136
+}

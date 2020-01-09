@@ -1,0 +1,39 @@
+# Adrar
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1127
+1444.7.23 = {
+	monarch = {
+		name = "Elin"
+		birth_date = 1389.7.16
+		dynasty = "af Lombez"
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = benevolent_personality
+	heir = {
+		name = "Sigrid"
+		monarch_name = "Sigrid"
+		dynasty = "af Lombez"
+		birth_date = 1418.9.7
+		death_date = 1498.9.7
+		female = yes
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 1127
+	add_treasury = 28
+	add_prestige = 105
+}

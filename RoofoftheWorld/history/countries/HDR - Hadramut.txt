@@ -1,0 +1,27 @@
+# Hadramut
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 389
+1444.7.25 = {
+	monarch = {
+		name = "Minoo"
+		birth_date = 1419.6.22
+		dynasty = "Seyfullahid"
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = fertile_personality
+}
+1444.11.11 = {
+	capital = 389
+	add_treasury = -1
+	add_prestige = 210
+}

@@ -1,0 +1,26 @@
+# Xia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = chihan
+religion = bon
+clear_scripted_personalities = yes
+capital = 708
+1441.10.28 = {
+	monarch = {
+		name = "Dusong"
+		birth_date = 1417.10.28
+		dynasty = "Kyichu"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 708
+	add_treasury = 20
+	add_prestige = 393
+}

@@ -1,0 +1,27 @@
+# Mosul
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 411
+1389.11.13 = {
+	monarch = {
+		name = "Umaya"
+		birth_date = 1370.6.7
+		dynasty = "Hakamid"
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 411
+	add_treasury = 7
+	add_prestige = 700
+}

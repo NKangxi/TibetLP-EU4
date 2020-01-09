@@ -1,0 +1,40 @@
+# Vladimir
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = zikri
+clear_scripted_personalities = yes
+capital = 295
+1410.6.21 = {
+	monarch = {
+		name = "Feodor II"
+		birth_date = 1408.1.20
+		dynasty = "of Gaochetian"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1425.4.15 = {
+	heir = {
+		name = "Dobrynia"
+		monarch_name = "Dobrynia"
+		dynasty = "of Gaochetian"
+		birth_date = 1425.4.15
+		death_date = 1505.4.15
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 295
+	add_treasury = 171
+	add_prestige = 496
+}

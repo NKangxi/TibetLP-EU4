@@ -1,0 +1,26 @@
+# Warangal
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = telegu
+religion = bon
+clear_scripted_personalities = yes
+capital = 2028
+1436.7.31 = {
+	monarch = {
+		name = "Sambhota"
+		birth_date = 1405.10.25
+		dynasty = "Monyul"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 2028
+	add_treasury = 87
+	add_prestige = 26
+}

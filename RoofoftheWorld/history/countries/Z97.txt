@@ -1,0 +1,26 @@
+# Thrace
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = amhara
+religion = sunni
+clear_scripted_personalities = yes
+capital = 151
+1435.10.27 = {
+	monarch = {
+		name = "Ogbai"
+		birth_date = 1403.3.11
+		dynasty = "Usfurid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 151
+	add_treasury = 318
+	add_prestige = 129
+}

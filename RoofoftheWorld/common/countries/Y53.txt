@@ -1,0 +1,231 @@
+# Kamarupa
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 6 127 80 }
+
+
+
+
+leader_names = {
+
+	"Sanpa" "Jekundag" "Dolma" "Tagbu" "Tsentsän" "Phurbulcam" "Tsomo" "Chöying" "Langdarma" "Esho" 
+	"Gyaltsen" "Sengemo" "Sönam" "Wangyal" "Kunga" "Dragpa" "Rakhuk" "Molha" "Dunkyi" "Choden" 
+	"Likmigyal" "Tridem" "Duktsuk" "Göwar" "Neuchung" "Atimuwer" "Shenrab" "Tsame" "Ongma" "Chökyi" 
+	"Drangma" "Dzomo" "Machig" "Changmo" "Ngawang" "Sachen" "Gyi" "Ting" "Magyal" "Yondagmo" 
+	"Gyalyum" "Tsogyal" "Sambhota" "Gyeltsen" "Kunzang" "Mangmo" "Ralpacan" "Mangtsen" "Chatri" "Jomo" 
+	"Shonnu" "Khribang" "Pungse" "Tisho" "Bum" "Devitara" "Dharmapala" "Gampo" "Mutik" "Dhingyose" 
+	"Tridu" "Detrul" "Muzu" "Mangsham" "Pongza" "Lha" "Zimun" "Konchog" "Tubten" "Pogong" 
+	"Zhonnu" "Lasya" "Yongten" "Tawen" "Gongpa" "Jashi" "Tsenma" "Drogön" "Nyendrak" "Tsunmotog" 
+	"Lhakee" "Tshistöng" "Trinyen" "Yon" "Lhamgonza" "Dongkar" "Zangmo" "Gungtsen" "Gyalpo" "Tridé" 
+	"Ösung" "Zhangtsun" "Dagmo" "Phoyongsa" "Tsangma" "Raksita" "Nytari" "Gémaspranglod" "Phagpa" "Cogrobza" 
+	"Gyaltore" "Kyeden" "Sadmarkar" "Tromo" "Nyasig" "Thrisong" "Trinle" "Nyantsen" "Bumphulwa" "Trimang" 
+	"Öpoche" "Drongnyen" "Chödron" "Mungchang" "Tongtsen" "Kelzang" "Wangmo" "Isho" "Nyitri" "Baoming" 
+	"Daktri" "Rinchen" "Drönma" "Torma" "Shakya" "Namdé" "Könchok" "Podé" "Trimonyen" "Taramo" 
+	"Selbar" "Togo" "Pude" "Khadrobum" "Dusong" "Chimey" "Dzamling" "Songtsen" "Gémathar" "Toktokteng" 
+	"Zigsa" "Degyal" "Nyima" "Namzhungtsen" "Cham" "Pushyavarman" "Samudravarman" "Balavarman" "Kalyanavarman" "Ganapativarman" 
+	"Mahendravarman" "Narayanavarman" "Bhutivarman" "Chandramukhavarman" "Sthitavarman" "Susthitavarman" "Supratisthitavarman" "Bhaskaravarman" "Salasthamba" "Vijayasthamba" 
+	"Palakastambha" "Kumarastambha" "Vajradeva" "Harshadeva" "Salambha" "Arathi" "Harjjaravarman" "Vanamalavarmadeva" "Jayamala" "Bhogavati" 
+	"Vijnanavati" "Amrapali" "Sumnang" "Getong" "Tse" "Pal" "Khrimalod" "Lodrö" "Bhaskarvarman" "Bhattamahabahu" 
+	"Birapala" "Brahmapala" "Gopala" "Harshapala" "Harshavarman" "Indrapala" "Jayapala" "Kumarapala" "Pralambha" "Purandelapala" 
+	"Ratnadhwajpala" "Ratnapala" "Timgyadeva" "Tyagasimha" "Ummoka" "Vigrahastambha" "Vijaya" "Virabahu" }
+monarch_names = {
+	"Sanpa #0" = 1
+	"Jekundag #1" = 18
+	"Dolma #0" = -1
+	"Tagbu #0" = 1
+	"Tsentsän #0" = 1
+	"Phurbulcam #0" = -1
+	"Tsomo #0" = -1
+	"Chöying #0" = -1
+	"Langdarma #1" = 18
+	"Esho #0" = 1
+	"Gyaltsen #0" = 1
+	"Sengemo #0" = -1
+	"Sönam #0" = 1
+	"Wangyal #0" = 1
+	"Kunga #0" = 1
+	"Dragpa #0" = 1
+	"Rakhuk #0" = 1
+	"Molha #0" = -1
+	"Dunkyi #0" = -1
+	"Choden #0" = -1
+	"Likmigyal #0" = 1
+	"Tridem #0" = 1
+	"Duktsuk #0" = -1
+	"Göwar #0" = 1
+	"Neuchung #0" = -1
+	"Atimuwer #0" = 1
+	"Shenrab #0" = 1
+	"Tsame #0" = -1
+	"Ongma #0" = -1
+	"Chökyi #0" = -1
+	"Drangma #0" = -1
+	"Dzomo #0" = -1
+	"Machig #0" = -1
+	"Changmo #0" = -1
+	"Ngawang #1" = 27
+	"Sachen #0" = 1
+	"Gyi #0" = -1
+	"Ting #0" = -1
+	"Magyal #0" = -1
+	"Yondagmo #0" = -1
+	"Gyalyum #0" = -1
+	"Tsogyal #0" = -1
+	"Sambhota #0" = 1
+	"Gyeltsen #0" = 1
+	"Kunzang #0" = -1
+	"Mangmo #0" = -1
+	"Ralpacan #0" = 1
+	"Mangtsen #0" = 1
+	"Chatri #0" = 1
+	"Jomo #0" = -1
+	"Shonnu #0" = -1
+	"Khribang #1" = -22
+	"Pungse #0" = 1
+	"Tisho #0" = 1
+	"Bum #0" = -1
+	"Devitara #0" = -1
+	"Dharmapala #0" = 1
+	"Gampo #0" = 1
+	"Mutik #0" = 1
+	"Dhingyose #0" = -1
+	"Tridu #0" = 1
+	"Detrul #0" = 1
+	"Muzu #0" = 1
+	"Mangsham #1" = 18
+	"Pongza #0" = -1
+	"Lha #0" = -1
+	"Zimun #0" = 1
+	"Konchog #0" = -1
+	"Tubten #0" = -1
+	"Pogong #0" = -1
+	"Zhonnu #0" = 1
+	"Lasya #1" = -19
+	"Yongten #0" = 1
+	"Tawen #0" = 1
+	"Gongpa #0" = 1
+	"Jashi #0" = -1
+	"Tsenma #0" = -1
+	"Drogön #0" = 1
+	"Nyendrak #0" = -1
+	"Tsunmotog #0" = -1
+	"Lhakee #3" = -19
+	"Tshistöng #0" = -1
+	"Trinyen #0" = 1
+	"Yon #0" = -1
+	"Lhamgonza #0" = -1
+	"Dongkar #0" = -1
+	"Zangmo #0" = -1
+	"Gungtsen #0" = 1
+	"Gyalpo #0" = 1
+	"Tridé #0" = 1
+	"Ösung #0" = 1
+	"Zhangtsun #0" = 1
+	"Dagmo #0" = -1
+	"Phoyongsa #1" = -19
+	"Tsangma #0" = 1
+	"Raksita #0" = 1
+	"Nytari #0" = 1
+	"Gémaspranglod #0" = -1
+	"Phagpa #0" = 1
+	"Cogrobza #0" = -1
+	"Gyaltore #0" = 1
+	"Kyeden #0" = -1
+	"Sadmarkar #0" = -1
+	"Tromo #0" = 1
+	"Nyasig #0" = 1
+	"Thrisong #0" = -1
+	"Trinle #0" = -1
+	"Nyantsen #0" = 1
+	"Bumphulwa #0" = -1
+	"Trimang #0" = 1
+	"Öpoche #0" = 1
+	"Drongnyen #0" = 1
+	"Chödron #0" = -1
+	"Mungchang #0" = -1
+	"Tongtsen #0" = 1
+	"Kelzang #0" = -1
+	"Wangmo #0" = -1
+	"Isho #0" = 1
+	"Nyitri #0" = -1
+	"Baoming #0" = -1
+	"Daktri #0" = 1
+	"Rinchen #0" = -1
+	"Drönma #0" = -1
+	"Torma #0" = -1
+	"Shakya #0" = 1
+	"Namdé #0" = 1
+	"Könchok #0" = 1
+	"Podé #0" = 1
+	"Trimonyen #0" = -1
+	"Taramo #1" = -22
+	"Selbar #0" = 1
+	"Togo #0" = -1
+	"Pude #0" = 1
+	"Khadrobum #0" = -1
+	"Dusong #0" = 1
+	"Chimey #0" = -1
+	"Dzamling #0" = 1
+	"Songtsen #0" = 1
+	"Gémathar #0" = -1
+	"Toktokteng #0" = -1
+	"Zigsa #0" = -1
+	"Degyal #0" = 1
+	"Nyima #0" = 1
+	"Namzhungtsen #0" = 1
+	"Cham #0" = -1
+	"Pushyavarman #1" = 0
+	"Samudravarman #1" = 0
+	"Balavarman #3" = 0
+	"Kalyanavarman #1" = 0
+	"Ganapativarman #1" = 0
+	"Mahendravarman #2" = 0
+	"Narayanavarman #1" = 0
+	"Bhutivarman #1" = 0
+	"Chandramukhavarman #1" = 0
+	"Sthitavarman #1" = 0
+	"Susthitavarman #1" = 0
+	"Supratisthitavarman #1" = 0
+	"Bhaskaravarman #1" = 0
+	"Salasthamba #1" = 0
+	"Vijayasthamba #1" = 0
+	"Palakastambha #1" = 0
+	"Kumarastambha #1" = 0
+	"Vajradeva #1" = 0
+	"Harshadeva #1" = 0
+	"Salambha #1" = 0
+	"Arathi #1" = 0
+	"Harjjaravarman #1" = 0
+	"Vanamalavarmadeva #1" = 0
+	"Jayamala #2" = 0
+	"Bhogavati #1" = -1
+	"Vijnanavati #1" = -1
+	"Amrapali #1" = -1
+	"Sumnang #3" = 0
+	"Getong #1" = 0
+	"Tse #1" = -1
+	"Pal #2" = 0
+	"Khrimalod #1" = -1
+	"Lodrö #1" = 0
+	"Bhaskarvarman #0" = 0
+	"Bhattamahabahu #0" = 0
+	"Birapala #0" = 0
+	"Brahmapala #0" = 0
+	"Gopala #0" = 0
+	"Harshapala #0" = 0
+	"Harshavarman #0" = 0
+	"Indrapala #0" = 0
+	"Jayapala #0" = 0
+	"Kumarapala #0" = 0
+	"Pralambha #0" = 0
+	"Purandelapala #0" = 0
+	"Ratnadhwajpala #0" = 0
+	"Ratnapala #0" = 0
+	"Timgyadeva #0" = 0
+	"Tyagasimha #0" = 0
+	"Ummoka #0" = 0
+	"Vigrahastambha #0" = 0
+	"Vijaya #0" = 0
+	"Virabahu #0" = 0
+}
+

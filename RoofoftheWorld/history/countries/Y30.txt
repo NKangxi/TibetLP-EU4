@@ -1,0 +1,39 @@
+# Sinai
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 365
+1428.4.9 = {
+	monarch = {
+		name = "Musa III"
+		birth_date = 1406.9.14
+		dynasty = "Zeydid"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = craven_personality
+}
+1438.7.13 = {
+	heir = {
+		name = "Mas'ud"
+		monarch_name = "Mas'ud"
+		dynasty = "Zeydid"
+		birth_date = 1438.7.13
+		death_date = 1518.7.13
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 365
+	add_treasury = 32
+	add_prestige = 224
+}

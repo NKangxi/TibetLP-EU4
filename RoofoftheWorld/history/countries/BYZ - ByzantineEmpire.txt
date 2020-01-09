@@ -1,0 +1,39 @@
+# Byzantine Empire
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 279
+1422.8.24 = {
+	monarch = {
+		name = "Khutulun"
+		birth_date = 1391.11.23
+		dynasty = "Borjigin"
+		female = yes
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = infertile_personality
+	heir = {
+		name = "Chanai"
+		monarch_name = "Chanai"
+		dynasty = "Borjigin"
+		birth_date = 1411.12.18
+		death_date = 1491.12.18
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 279
+	add_treasury = 13
+	add_prestige = 585
+}

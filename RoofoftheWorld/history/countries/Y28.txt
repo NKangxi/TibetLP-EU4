@@ -1,0 +1,40 @@
+# Edessa
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = al_suryah_arabic
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2308
+1421.9.19 = {
+	monarch = {
+		name = "Tawfiq II"
+		birth_date = 1410.6.8
+		dynasty = "Abdanan"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1435.4.18 = {
+	heir = {
+		name = "Tawfiq"
+		monarch_name = "Tawfiq III"
+		dynasty = "Abdanan"
+		birth_date = 1435.4.18
+		death_date = 1515.4.18
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 2308
+	add_treasury = 5
+	add_prestige = 121
+}

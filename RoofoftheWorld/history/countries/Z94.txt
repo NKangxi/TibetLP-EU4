@@ -1,0 +1,27 @@
+# Adrianopolis
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = sunni
+clear_scripted_personalities = yes
+capital = 149
+1412.8.27 = {
+	monarch = {
+		name = "Husam"
+		birth_date = 1404.2.8
+		dynasty = "Izzid"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 149
+	add_treasury = -9
+	add_prestige = 387
+}

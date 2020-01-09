@@ -1,0 +1,264 @@
+# Ireland
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 6 127 2 }
+historical_idea_groups = { 
+	naval_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = { 
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Buðli" "Beata" "Jedvard" "Vagn" "Karl" "Skuld" "Halla" "Karin" "Knut" "Bagge" 
+	"Gerðr" "Einarr" "Hæsteinn" "Gorm" "Arnfast" "Freyja" "Szymon" "Ylva" "Golding" "Haukr" 
+	"Emund" "Aslaug" "Guðfrið" "Egill" "Kristina" "Rögnfrið" "Maer" "Alfhildr" "Hafrid" "Þorfinn" 
+	"Ingfrid" "Ingibjörg" "Astrid" "Guðröðr" "Guðrun" "Anundr" "Hemming" "Suni" "Starkaðr" "Arni" 
+	"Falki" "Alfrið" "Gurli" "Ingjerðr" "Tyke" "Styrkar" "Holmger" "Saga" "Helgi" "Markward" 
+	"Åse" "Henrik" "Edla" "Valentin" "Ulf" "Friedrich" "Balder" "Ida" "Svanhild" "Harald" 
+	"Bodil" "Sverker" "Ellinor" "Holmfrid" "Karoline" "Rikissa" "Toke" "Kraka" "Rögnvaldr" "Geirr" 
+	"Ormr" "Inga" "Eirikr" "Gyla" "Barid" "Tryggve" "Svanhildr" "Örvar" "Skuli" "Baldr" 
+	"Hakon" "Sif" "Hysing" "Malmfrið" "Märta" "Vigdis" "Þorsteinn" "Margareta" "Sofia" "Elisabet" 
+	"Ulfhildr" "Kettilmund" "Fredrik" "Hrafn" "Gyða" "Toste" "Ivar" "Sorkhaghatani" "Bersi" "Alan" 
+	"Þorbrandr" "Holuikhan" "Helena" "Refr" "Þordis" "Rögnhildr" "Sara" "Ale" "Alfr" "Alfgeir" 
+	"Anders" "Anlaufr" "Arnbjörn" "Arngrimr" "Asbjörn" "Bengt" "Bertil" "Birger" "Björn" "Bo" 
+	"Borkvard" "Botulfr" "Bragi" "Dag" "Dan" "Dyre" "Eilif" "Eskild" "Faste" "Filip" 
+	"Frirek" "Froði" "Freyr" "Folki" "Gandalfr" "Georg" "Gnupa" "Greger" "Grimr" "Guðmundr" 
+	"Gunnarr" "Halsten" "Haraldr" "Hrolfr" "Hrane" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Ingólfr" 
+	"Ingemar" "Ingjald" "Jon" "Kettil" "Kjartan" "Klas" "Kol" "Kolbjörn" "Markus" "Magni" 
+	"Mats" "Nils" "Niklas" "Oddr" "Ofeig" "Olafr" "Ottarr" "Refil" "Ragnarr" "Rikulfr" 
+	"Snorri" "Sigbjörn" "Sigtrygg" "Sigurðr" "Steinn" "Sturla" "Styrbjörn" "Sumarliði" "Sveinn" "Sæmundr" 
+	"Sölvi" "Sörkver" "Tjudmund" "Tolir" "Þorbjörn" "Þordr" "Þorgil" "Þorolfr" "Totil" "Ulfr" 
+	"Valdemar" "Åke" "Yngvar" "Öysteinn" }
+monarch_names = {
+	"Buðli #0" = 1
+	"Beata #0" = -1
+	"Jedvard #0" = 1
+	"Vagn #0" = 1
+	"Karl #0" = 1
+	"Skuld #1" = -25
+	"Halla #0" = -1
+	"Karin #5" = -19
+	"Knut #0" = 1
+	"Bagge #0" = 1
+	"Gerðr #0" = -1
+	"Einarr #0" = 1
+	"Hæsteinn #0" = 1
+	"Gorm #0" = 1
+	"Arnfast #1" = 18
+	"Freyja #1" = -31
+	"Szymon #0" = 1
+	"Ylva #0" = -1
+	"Golding #0" = 1
+	"Haukr #0" = 1
+	"Emund #0" = 1
+	"Aslaug #0" = -1
+	"Guðfrið #0" = 1
+	"Egill #0" = 1
+	"Kristina #0" = -1
+	"Rögnfrið #0" = -1
+	"Maer #0" = -1
+	"Alfhildr #0" = -1
+	"Hafrid #0" = -1
+	"Þorfinn #0" = 1
+	"Ingfrid #0" = -1
+	"Ingibjörg #0" = -1
+	"Astrid #0" = -1
+	"Guðröðr #0" = 1
+	"Guðrun #0" = -1
+	"Anundr #0" = 1
+	"Hemming #0" = 1
+	"Suni #0" = 1
+	"Starkaðr #0" = 1
+	"Arni #0" = 1
+	"Falki #0" = 1
+	"Alfrið #0" = -1
+	"Gurli #0" = -1
+	"Ingjerðr #2" = -19
+	"Tyke #0" = 1
+	"Styrkar #0" = 1
+	"Holmger #0" = 1
+	"Saga #0" = -1
+	"Helgi #0" = 1
+	"Markward #0" = 1
+	"Åse #0" = -1
+	"Henrik #0" = 1
+	"Edla #0" = -1
+	"Valentin #0" = 1
+	"Ulf #0" = 1
+	"Friedrich #0" = 1
+	"Balder #0" = 1
+	"Ida #0" = -1
+	"Svanhild #0" = -1
+	"Harald #0" = 1
+	"Bodil #0" = -1
+	"Sverker #0" = 1
+	"Ellinor #0" = -1
+	"Holmfrid #0" = -1
+	"Karoline #0" = -1
+	"Rikissa #0" = -1
+	"Toke #0" = 1
+	"Kraka #0" = -1
+	"Rögnvaldr #0" = 1
+	"Geirr #0" = 1
+	"Ormr #0" = 1
+	"Inga #0" = -1
+	"Eirikr #0" = 1
+	"Gyla #0" = -1
+	"Barid #1" = 18
+	"Tryggve #0" = 1
+	"Svanhildr #0" = -1
+	"Örvar #0" = 1
+	"Skuli #0" = 1
+	"Baldr #0" = 1
+	"Hakon #0" = 1
+	"Sif #0" = -1
+	"Hysing #0" = 1
+	"Malmfrið #0" = -1
+	"Märta #0" = -1
+	"Vigdis #0" = -1
+	"Þorsteinn #0" = 1
+	"Margareta #0" = -1
+	"Sofia #0" = -1
+	"Elisabet #0" = -1
+	"Ulfhildr #1" = -19
+	"Kettilmund #0" = 1
+	"Fredrik #0" = 1
+	"Hrafn #0" = 1
+	"Gyða #0" = -1
+	"Toste #0" = 1
+	"Ivar #0" = 1
+	"Sorkhaghatani #0" = -1
+	"Bersi #0" = 1
+	"Alan #0" = -1
+	"Þorbrandr #0" = 1
+	"Holuikhan #0" = -1
+	"Helena #1" = -1
+	"Refr #1" = 0
+	"Þordis #1" = -1
+	"Rögnhildr #1" = -1
+	"Sara #1" = -1
+	"Ale #0" = 0
+	"Alfr #0" = 0
+	"Alfgeir #0" = 0
+	"Anders #0" = 0
+	"Anlaufr #0" = 0
+	"Arnbjörn #0" = 0
+	"Arngrimr #0" = 0
+	"Asbjörn #0" = 0
+	"Bengt #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Bo #0" = 0
+	"Borkvard #0" = 0
+	"Botulfr #0" = 0
+	"Bragi #0" = 0
+	"Dag #0" = 0
+	"Dan #0" = 0
+	"Dyre #0" = 0
+	"Eilif #0" = 0
+	"Eskild #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Frirek #0" = 0
+	"Froði #0" = 0
+	"Freyr #0" = 0
+	"Folki #0" = 0
+	"Gandalfr #0" = 0
+	"Georg #0" = 0
+	"Gnupa #0" = 0
+	"Greger #0" = 0
+	"Grimr #0" = 0
+	"Guðmundr #0" = 0
+	"Gunnarr #0" = 0
+	"Halsten #0" = 0
+	"Haraldr #0" = 0
+	"Hrolfr #0" = 0
+	"Hrane #0" = 0
+	"Hjalmar #0" = 0
+	"Hroðgar #0" = 0
+	"Hroðulfr #0" = 0
+	"Hrörekr #0" = 0
+	"Ingólfr #0" = 0
+	"Ingemar #0" = 0
+	"Ingjald #0" = 0
+	"Jon #0" = 0
+	"Kettil #0" = 0
+	"Kjartan #0" = 0
+	"Klas #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Markus #0" = 0
+	"Magni #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Oddr #0" = 0
+	"Ofeig #0" = 0
+	"Olafr #0" = 0
+	"Ottarr #0" = 0
+	"Refil #0" = 0
+	"Ragnarr #0" = 0
+	"Rikulfr #0" = 0
+	"Snorri #0" = 0
+	"Sigbjörn #0" = 0
+	"Sigtrygg #0" = 0
+	"Sigurðr #0" = 0
+	"Steinn #0" = 0
+	"Sturla #0" = 0
+	"Styrbjörn #0" = 0
+	"Sumarliði #0" = 0
+	"Sveinn #0" = 0
+	"Sæmundr #0" = 0
+	"Sölvi #0" = 0
+	"Sörkver #0" = 0
+	"Tjudmund #0" = 0
+	"Tolir #0" = 0
+	"Þorbjörn #0" = 0
+	"Þordr #0" = 0
+	"Þorgil #0" = 0
+	"Þorolfr #0" = 0
+	"Totil #0" = 0
+	"Ulfr #0" = 0
+	"Valdemar #0" = 0
+	"Åke #0" = 0
+	"Yngvar #0" = 0
+	"Öysteinn #0" = 0
+}
+ship_names = {
+	Aoife
+	Ciara Connacht
+	Eithne Emer
+	Leinster
+	Munster
+	Niamh
+	Orla
+	Roisin
+	Ulster
+}
+

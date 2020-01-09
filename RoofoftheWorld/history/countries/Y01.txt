@@ -1,0 +1,28 @@
+# Orava
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = monothelite
+clear_scripted_personalities = yes
+capital = 154
+1433.11.23 = {
+	monarch = {
+		name = "Borte"
+		birth_date = 1421.9.23
+		dynasty = "Blangas"
+		female = yes
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 154
+	add_treasury = 93
+	add_prestige = 114
+}

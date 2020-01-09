@@ -1,0 +1,26 @@
+# Rajputana
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 525
+1443.7.5 = {
+	monarch = {
+		name = "Gyaltsen"
+		birth_date = 1431.10.3
+		dynasty = "Purgyal"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 525
+	add_treasury = 125
+	add_prestige = 1837
+}

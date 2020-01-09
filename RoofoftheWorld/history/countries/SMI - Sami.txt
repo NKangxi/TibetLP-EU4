@@ -1,0 +1,39 @@
+# Lapland
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = sapmi
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 18
+1435.6.1 = {
+	monarch = {
+		name = "Járre"
+		birth_date = 1413.1.28
+		dynasty = "of Kainuu"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+}
+1442.12.7 = {
+	heir = {
+		name = "Juoksáhkká"
+		monarch_name = "Juoksáhkká"
+		dynasty = "of Kainuu"
+		birth_date = 1442.12.7
+		death_date = 1522.12.7
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 18
+	add_treasury = 15
+	add_prestige = 109
+}

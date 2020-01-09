@@ -1,0 +1,28 @@
+# Franche Comté
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 193
+1416.1.24 = {
+	monarch = {
+		name = "Chipahua"
+		birth_date = 1410.1.3
+		dynasty = "Chipahu"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = sinner_personality
+}
+1444.11.11 = {
+	capital = 193
+	add_treasury = 25
+	add_prestige = 232
+}

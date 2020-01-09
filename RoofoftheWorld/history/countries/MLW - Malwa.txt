@@ -1,0 +1,28 @@
+# Malwa
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 526
+1398.3.17 = {
+	monarch = {
+		name = "Ngawang"
+		birth_date = 1379.2.2
+		dynasty = "Purgyal"
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 526
+	add_treasury = 29
+	add_prestige = 2696
+}

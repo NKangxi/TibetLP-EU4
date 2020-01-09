@@ -1,0 +1,27 @@
+# Bihar
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 4472
+1442.9.11 = {
+	monarch = {
+		name = "Koboza"
+		birth_date = 1423.8.20
+		dynasty = "Bel"
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 4472
+	add_treasury = 492
+	add_prestige = 220
+}

@@ -1,0 +1,28 @@
+# Sicily
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 231
+1421.8.20 = {
+	monarch = {
+		name = "Tekine"
+		birth_date = 1406.1.19
+		dynasty = "Yesunge"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 231
+	add_treasury = 94
+	add_prestige = 321
+}

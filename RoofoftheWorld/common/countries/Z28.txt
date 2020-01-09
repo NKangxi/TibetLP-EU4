@@ -1,0 +1,197 @@
+# Valencia
+ck2_converter_generated = yes
+graphical_culture = southamericagfx
+color = { 48 167 45 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Cozahtli" "Tlilpotonqui" "Uberto" "Cuetlachtli" "Xocoyotl" "Bassiano" "Ottobono" "Tezozomoc" "Adalberta" "Nahuatl" 
+	"Chimalpilli" "Tlahcoehua" "Nezahualpilli" "Chalchiuitl" "Itzcuintli" "Itzcoatl" "Papa" "Axayacatl" "Libero" "Quauhtli" 
+	"Vittorio" "Agostina" "Ettore" "Ahuiliztli" "Chimalpopoca" "Tapayaxi" "Xiuhtomiyauhtzin" "Xihuitl" "Yayauhqui" "Coaxoch" 
+	"Huitzilihuitl" "Coanacoch" "Atl" "Matlalihuitl" "Tetlepanquetzaltzin" "Miztli" "Xochipepe" "Cipac" "Luki" "Toltecatl" 
+	"Malinalxochitl" "Zeltzin" "Necahual" "Tlacotl" "Zyanya" "Xochitl" "Xilonen" "Miahuaxiuitl" "Tepin" "Ahuitzotl" 
+	"Cuauhtl" "Necuametl" "Achcauhtli" "Totoquihuaztli" "Teicuih" "Coszcatl" "Iuitl" "Mazatl" "Xicohtencatl" "Bo" 
+	"Karl" "Tonalnan" "Acamapichtli" "Citlali" "Chichimecacihuatzin" "Maxtla" "Acxocueitl" "Ocuil" "Xipil" "Xochipilli" 
+	"Tecocoltzin" "Azcalxochitzin" "Centehua" "Xiuhpilli" "Tlaloc" "Carola" "Moctezuma" "Tizocic" "Ohtli" "Acolmiztli" 
+	"Marino" "Chicahua" "Tziquetzalpoztectzin" "Tibaldo" "Yolotli" "Patrizia" "Cacamatzin" "al-Mundir" "Setara" "Mecatl" 
+	"Tlahco" "Acalan" "Acacitli" "Aculnahuacatl" "Chimalli" "Coatl" "Cuauhtemoc" "Cuetzpalli" "Cuixtli" "Cuitlahuac" 
+	"Huitzilin" "Huitzitl" "Huitztecol" "Iquehuacatzin" "Itzli" "Ixtlilxochitl" "Mahchimaleh" "Matlal" "Matlatzincatzin" "Moquihuix" 
+	"Nezahualcoyotl" "Nochehuatl" "Olli" "Opochtli" "Ozomatli" "Tecolotl" "Tizoc" "Tlacaelel" "Tlacaeleltzin" "Tlalli" 
+	"Tochtli" "Tototl" "Tzompantzin" "Topiltzin" "Ueman" "Yaotl" "Yolyamanitzin" "Xipilli" "Zipactonal" "Zolin" }
+monarch_names = {
+	"Cozahtli #0" = 1
+	"Tlilpotonqui #0" = 1
+	"Uberto #0" = 1
+	"Cuetlachtli #0" = 1
+	"Xocoyotl #1" = -28
+	"Bassiano #0" = 1
+	"Ottobono #0" = 1
+	"Tezozomoc #0" = -1
+	"Adalberta #0" = -1
+	"Nahuatl #1" = -19
+	"Chimalpilli #0" = 1
+	"Tlahcoehua #0" = -1
+	"Nezahualpilli #0" = 1
+	"Chalchiuitl #0" = -1
+	"Itzcuintli #0" = 1
+	"Itzcoatl #0" = 1
+	"Papa #0" = -1
+	"Axayacatl #0" = 1
+	"Libero #0" = 1
+	"Quauhtli #0" = 1
+	"Vittorio #0" = 1
+	"Agostina #0" = -1
+	"Ettore #0" = 1
+	"Ahuiliztli #0" = -1
+	"Chimalpopoca #0" = 1
+	"Tapayaxi #0" = 1
+	"Xiuhtomiyauhtzin #0" = -1
+	"Xihuitl #0" = 1
+	"Yayauhqui #0" = 1
+	"Coaxoch #0" = -1
+	"Huitzilihuitl #0" = 1
+	"Coanacoch #0" = 1
+	"Atl #0" = 1
+	"Matlalihuitl #0" = 1
+	"Tetlepanquetzaltzin #0" = 1
+	"Miztli #0" = 1
+	"Xochipepe #0" = 1
+	"Cipac #0" = 1
+	"Luki #0" = 1
+	"Toltecatl #0" = -1
+	"Malinalxochitl #1" = -19
+	"Zeltzin #0" = -1
+	"Necahual #0" = -1
+	"Tlacotl #0" = -1
+	"Zyanya #0" = -1
+	"Xochitl #0" = -1
+	"Xilonen #0" = -1
+	"Miahuaxiuitl #0" = -1
+	"Tepin #1" = -19
+	"Ahuitzotl #0" = 1
+	"Cuauhtl #0" = 1
+	"Necuametl #0" = 1
+	"Achcauhtli #0" = -1
+	"Totoquihuaztli #0" = 1
+	"Teicuih #0" = -1
+	"Coszcatl #1" = -19
+	"Iuitl #0" = -1
+	"Mazatl #0" = 1
+	"Xicohtencatl #0" = 1
+	"Bo #0" = 1
+	"Karl #0" = 1
+	"Tonalnan #0" = -1
+	"Acamapichtli #0" = 1
+	"Citlali #0" = -1
+	"Chichimecacihuatzin #0" = -1
+	"Maxtla #0" = 1
+	"Acxocueitl #0" = -1
+	"Ocuil #0" = 1
+	"Xipil #0" = 1
+	"Xochipilli #0" = 1
+	"Tecocoltzin #0" = 1
+	"Azcalxochitzin #0" = -1
+	"Centehua #0" = -1
+	"Xiuhpilli #0" = 1
+	"Tlaloc #0" = 1
+	"Carola #0" = -1
+	"Moctezuma #0" = 1
+	"Tizocic #0" = 1
+	"Ohtli #1" = -19
+	"Acolmiztli #0" = 1
+	"Marino #0" = 1
+	"Chicahua #0" = -1
+	"Tziquetzalpoztectzin #0" = -1
+	"Tibaldo #0" = 1
+	"Yolotli #0" = 1
+	"Patrizia #0" = -1
+	"Cacamatzin #0" = 1
+	"al-Mundir #1" = 0
+	"Setara #1" = -1
+	"Mecatl #2" = -1
+	"Tlahco #1" = -1
+	"Acalan #0" = 0
+	"Acacitli #0" = 0
+	"Aculnahuacatl #0" = 0
+	"Chimalli #0" = 0
+	"Coatl #0" = 0
+	"Cuauhtemoc #0" = 0
+	"Cuetzpalli #0" = 0
+	"Cuixtli #0" = 0
+	"Cuitlahuac #0" = 0
+	"Huitzilin #0" = 0
+	"Huitzitl #0" = 0
+	"Huitztecol #0" = 0
+	"Iquehuacatzin #0" = 0
+	"Itzli #0" = 0
+	"Ixtlilxochitl #0" = 0
+	"Mahchimaleh #0" = 0
+	"Matlal #0" = 0
+	"Matlatzincatzin #0" = 0
+	"Moquihuix #0" = 0
+	"Nezahualcoyotl #0" = 0
+	"Nochehuatl #0" = 0
+	"Olli #0" = 0
+	"Opochtli #0" = 0
+	"Ozomatli #0" = 0
+	"Tecolotl #0" = 0
+	"Tizoc #0" = 0
+	"Tlacaelel #0" = 0
+	"Tlacaeleltzin #0" = 0
+	"Tlalli #0" = 0
+	"Tochtli #0" = 0
+	"Tototl #0" = 0
+	"Tzompantzin #0" = 0
+	"Topiltzin #0" = 0
+	"Ueman #0" = 0
+	"Yaotl #0" = 0
+	"Yolyamanitzin #0" = 0
+	"Xipilli #0" = 0
+	"Zipactonal #0" = 0
+	"Zolin #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

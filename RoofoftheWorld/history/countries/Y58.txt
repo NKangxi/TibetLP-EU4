@@ -1,0 +1,28 @@
+# Ngari
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2128
+1421.6.23 = {
+	monarch = {
+		name = "Lhathrimo"
+		birth_date = 1411.7.18
+		dynasty = "Broza"
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2128
+	add_treasury = 59
+	add_prestige = 314
+}

@@ -1,0 +1,39 @@
+# Melgueil
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = aztek
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 200
+1422.9.27 = {
+	monarch = {
+		name = "Aculnahuacatl"
+		birth_date = 1376.7.21
+		dynasty = "Xipilli"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1441.9.9 = {
+	heir = {
+		name = "Xochipepe"
+		monarch_name = "Xochipepe"
+		dynasty = "Xipilli"
+		birth_date = 1441.9.9
+		death_date = 1521.9.9
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 200
+	add_treasury = 228
+	add_prestige = 90
+}

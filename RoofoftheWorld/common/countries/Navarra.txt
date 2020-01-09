@@ -1,0 +1,367 @@
+# Navarra
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 230 198 90 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Amoxtli" "Zeltzin" "Aculnahuacatl" "Tapayaxi" "Xochitl" "Acolmiztli" "Zolin" "Yolotli" "Chipahua" "Teiuc" 
+	"Atl" "Tonalnan" "Miyaoaxochitl" "Ixcatzin" "Achcauhtli" "Tlacotl" "Axayacatl" "Nelli" "Citlalmina" "Xochipepe" 
+	"Itzcuintli" "Meztli" "Xicohtencatl" "Quauhtli" "Yoltzin" "Tlaloc" "Huehue-Zaca" "Tlahcoehua" "Citlalli" "Azcalxochitzin" 
+	"Xilonen" "Tlazozomizqui" "Cuixtli" "Izel" "Xiuhpilli" "Matlal" "Nezahualpilli" "Tezcatlan" "Nezahualcoyotl" "Mizquixahual" 
+	"Cipac" "Huitztecol" "Ahuiliztli" "Necahual" "Itzli" "Tlalli" "Matlalihuitl" "Ocuil" "Tizocic" "Iquehuacatzin" 
+	"Eztli" "Chicahua" "Ozomatli" "Tlilpotonqui" "Tlacaelel" "Chimalli" "Iuitl" "Chichimecacihuatzin" "Manauia" "Olli" 
+	"Mecatl" "Yaretzi" "Cuauhtemoc" "Chalchiuitl" "Tzompantzin" "Huitzilin" "Tezozomoc" "Matlatzincatzin" "Quiauhxochitl" "Xocoh" 
+	"Papa" "Yayauhqui" "Acamapichtli" "Ixtlilxochitl" "Ayauhcihuatl" "Coaxoch" "Acacitli" "Patli" "Teyacapan" "Moctezuma" 
+	"Nahuatl" "Feodora" "Cozamalotl" "Chimalpilli" "Ahuitzotl" "Yemelyan" "Xipilli" "Tecocoltzin" "Cuetzpalli" "Tlahco" 
+	"Ulf" "Itzcoatl" "Tototl" "Necuametl" "Bo" "Eloxochitl" "Grethe" "Mazatl" "Matlalatzin" "Tetlepanquetzaltzin" 
+	"Cacamatzin" "Svend" "Miztli" "Orestes" "Itotia" "Helena" "Huitzitl" "Ester" "Xiloxoch" "Zyanya" 
+	"Coanacoch" "Roman" "Pelagia" "Totoquihuaztli" "Cozahtli" "Tlacaeleltzin" "Andrei" "Tepin" "Anwa" "Yolyamanitzin" 
+	"Centehua" "Citlali" "Toltecatl" "Euphemia" "Adelfonso" "Sans" "Veremondo" "Eneko" "Ramiro" "Erramun" 
+	"Friedenando" "Sabba" "Rodrigo" "Ximeno" "Sami" "Attab" "Murad" "Simin" "Azam" "Uways" 
+	"Abdul-Aziz" "Tifilwit" "Daniyah" "Zahra" "Rashid" "Adfuns" "Abdul-Jaleel" "Sulayman" "Alim" "Ohtli" 
+	"Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" "Arnfast" 
+	"Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" "Borkvard" 
+	"Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" "Emund" "Einarr" 
+	"Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" "Freyr" "Folki" 
+	"Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" "Grimr" "Guðfrið" "Guðmundr" "Guðröðr" 
+	"Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" "Holmger" "Hrafn" "Hrolfr" 
+	"Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" "Ingólfr" "Ingemar" "Ingjald" 
+	"Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" "Klas" "Knut" "Kol" 
+	"Kolbjörn" "Markus" "Magni" "Mats" "Nils" "Niklas" "Oddr" "Ofeig" "Olafr" "Ormr" 
+	"Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" "Sigbjörn" "Sigtrygg" 
+	"Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" "Sverker" 
+	"Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" "Þordr" 
+	"Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" "Valdemar" 
+	"Åke" "Yngvar" "Örvar" "Öysteinn" }
+monarch_names = {
+	"Amoxtli #0" = -1
+	"Zeltzin #0" = -1
+	"Aculnahuacatl #0" = 1
+	"Tapayaxi #0" = 1
+	"Xochitl #0" = -1
+	"Acolmiztli #0" = 1
+	"Zolin #0" = 1
+	"Yolotli #0" = 1
+	"Chipahua #0" = -1
+	"Teiuc #0" = -1
+	"Atl #0" = -1
+	"Tonalnan #0" = -1
+	"Miyaoaxochitl #0" = -1
+	"Ixcatzin #0" = -1
+	"Achcauhtli #0" = -1
+	"Tlacotl #0" = -1
+	"Axayacatl #0" = 1
+	"Nelli #0" = -1
+	"Citlalmina #0" = -1
+	"Xochipepe #0" = 1
+	"Itzcuintli #0" = 1
+	"Meztli #0" = -1
+	"Xicohtencatl #0" = 1
+	"Quauhtli #0" = 1
+	"Yoltzin #0" = -1
+	"Tlaloc #0" = 1
+	"Huehue-Zaca #0" = -1
+	"Tlahcoehua #0" = -1
+	"Citlalli #0" = -1
+	"Azcalxochitzin #0" = -1
+	"Xilonen #0" = -1
+	"Tlazozomizqui #0" = -1
+	"Cuixtli #0" = 1
+	"Izel #0" = -1
+	"Xiuhpilli #0" = 1
+	"Matlal #0" = 1
+	"Nezahualpilli #0" = 1
+	"Tezcatlan #1" = -19
+	"Nezahualcoyotl #0" = 1
+	"Mizquixahual #0" = -1
+	"Cipac #0" = 1
+	"Huitztecol #0" = 1
+	"Ahuiliztli #0" = 1
+	"Necahual #0" = -1
+	"Itzli #0" = 1
+	"Tlalli #0" = 1
+	"Matlalihuitl #0" = 1
+	"Ocuil #0" = 1
+	"Tizocic #0" = 1
+	"Iquehuacatzin #0" = 1
+	"Eztli #0" = -1
+	"Chicahua #0" = -1
+	"Ozomatli #0" = 1
+	"Tlilpotonqui #0" = 1
+	"Tlacaelel #0" = 1
+	"Chimalli #0" = 1
+	"Iuitl #0" = -1
+	"Chichimecacihuatzin #0" = -1
+	"Manauia #0" = -1
+	"Olli #0" = 1
+	"Mecatl #1" = -22
+	"Yaretzi #0" = -1
+	"Cuauhtemoc #0" = 1
+	"Chalchiuitl #0" = -1
+	"Tzompantzin #0" = 1
+	"Huitzilin #0" = 1
+	"Tezozomoc #0" = 1
+	"Matlatzincatzin #0" = 1
+	"Quiauhxochitl #0" = -1
+	"Xocoh #0" = -1
+	"Papa #0" = -1
+	"Yayauhqui #0" = 1
+	"Acamapichtli #0" = 1
+	"Ixtlilxochitl #0" = 1
+	"Ayauhcihuatl #0" = -1
+	"Coaxoch #0" = -1
+	"Acacitli #0" = 1
+	"Patli #0" = -1
+	"Teyacapan #0" = -1
+	"Moctezuma #0" = 1
+	"Nahuatl #0" = -1
+	"Feodora #0" = -1
+	"Cozamalotl #0" = -1
+	"Chimalpilli #0" = 1
+	"Ahuitzotl #0" = 1
+	"Yemelyan #0" = 1
+	"Xipilli #0" = 1
+	"Tecocoltzin #0" = 1
+	"Cuetzpalli #0" = 1
+	"Tlahco #0" = -1
+	"Ulf #0" = 1
+	"Itzcoatl #0" = 1
+	"Tototl #0" = 1
+	"Necuametl #0" = 1
+	"Bo #0" = 1
+	"Eloxochitl #0" = -1
+	"Grethe #0" = -1
+	"Mazatl #0" = 1
+	"Matlalatzin #0" = -1
+	"Tetlepanquetzaltzin #0" = 1
+	"Cacamatzin #0" = 1
+	"Svend #0" = 1
+	"Miztli #0" = 1
+	"Orestes #0" = 1
+	"Itotia #0" = -1
+	"Helena #0" = -1
+	"Huitzitl #0" = 1
+	"Ester #0" = -1
+	"Xiloxoch #0" = -1
+	"Zyanya #0" = -1
+	"Coanacoch #0" = 1
+	"Roman #0" = 1
+	"Pelagia #0" = -1
+	"Totoquihuaztli #0" = 1
+	"Cozahtli #0" = 1
+	"Tlacaeleltzin #0" = 1
+	"Andrei #0" = 1
+	"Tepin #1" = -19
+	"Anwa #0" = 1
+	"Yolyamanitzin #0" = 1
+	"Centehua #0" = -1
+	"Citlali #0" = -1
+	"Toltecatl #0" = -1
+	"Euphemia #0" = -1
+	"Adelfonso #1" = 0
+	"Sans #1" = 0
+	"Veremondo #1" = 0
+	"Eneko #1" = 0
+	"Ramiro #1" = 0
+	"Erramun #1" = 0
+	"Friedenando #1" = 0
+	"Sabba #1" = -1
+	"Rodrigo #1" = 0
+	"Ximeno #1" = 0
+	"Sami #1" = 0
+	"Attab #1" = 0
+	"Murad #1" = 0
+	"Simin #2" = -1
+	"Azam #1" = 0
+	"Uways #4" = 0
+	"Abdul-Aziz #2" = 0
+	"Tifilwit #2" = 0
+	"Daniyah #1" = -1
+	"Zahra #1" = -1
+	"Rashid #1" = 0
+	"Adfuns #1" = 0
+	"Abdul-Jaleel #2" = 0
+	"Sulayman #1" = 0
+	"Alim #1" = 0
+	"Ohtli #1" = -1
+	"Ale #0" = 0
+	"Alfr #0" = 0
+	"Alfgeir #0" = 0
+	"Anders #0" = 0
+	"Anlaufr #0" = 0
+	"Anundr #0" = 0
+	"Arnbjörn #0" = 0
+	"Arngrimr #0" = 0
+	"Arni #0" = 0
+	"Arnfast #0" = 0
+	"Asbjörn #0" = 0
+	"Bagge #0" = 0
+	"Baldr #0" = 0
+	"Barid #0" = 0
+	"Bengt #0" = 0
+	"Bersi #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Borkvard #0" = 0
+	"Botulfr #0" = 0
+	"Bragi #0" = 0
+	"Buðli #0" = 0
+	"Dag #0" = 0
+	"Dan #0" = 0
+	"Dyre #0" = 0
+	"Eilif #0" = 0
+	"Egill #0" = 0
+	"Emund #0" = 0
+	"Einarr #0" = 0
+	"Eirikr #0" = 0
+	"Eskild #0" = 0
+	"Falki #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Fredrik #0" = 0
+	"Frirek #0" = 0
+	"Froði #0" = 0
+	"Freyr #0" = 0
+	"Folki #0" = 0
+	"Gandalfr #0" = 0
+	"Geirr #0" = 0
+	"Georg #0" = 0
+	"Gnupa #0" = 0
+	"Gorm #0" = 0
+	"Greger #0" = 0
+	"Grimr #0" = 0
+	"Guðfrið #0" = 0
+	"Guðmundr #0" = 0
+	"Guðröðr #0" = 0
+	"Gunnarr #0" = 0
+	"Hakon #0" = 0
+	"Halsten #0" = 0
+	"Haraldr #0" = 0
+	"Haukr #0" = 0
+	"Helgi #0" = 0
+	"Hemming #0" = 0
+	"Holmger #0" = 0
+	"Hrafn #0" = 0
+	"Hrolfr #0" = 0
+	"Hrane #0" = 0
+	"Hæsteinn #0" = 0
+	"Hjalmar #0" = 0
+	"Hroðgar #0" = 0
+	"Hroðulfr #0" = 0
+	"Hrörekr #0" = 0
+	"Hysing #0" = 0
+	"Ingólfr #0" = 0
+	"Ingemar #0" = 0
+	"Ingjald #0" = 0
+	"Ivar #0" = 0
+	"Jedvard #0" = 0
+	"Jon #0" = 0
+	"Karl #0" = 0
+	"Kettil #0" = 0
+	"Kettilmund #0" = 0
+	"Kjartan #0" = 0
+	"Klas #0" = 0
+	"Knut #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Markus #0" = 0
+	"Magni #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Oddr #0" = 0
+	"Ofeig #0" = 0
+	"Olafr #0" = 0
+	"Ormr #0" = 0
+	"Ottarr #0" = 0
+	"Refr #0" = 0
+	"Refil #0" = 0
+	"Ragnarr #0" = 0
+	"Rikulfr #0" = 0
+	"Rögnvaldr #0" = 0
+	"Skuli #0" = 0
+	"Snorri #0" = 0
+	"Sigbjörn #0" = 0
+	"Sigtrygg #0" = 0
+	"Sigurðr #0" = 0
+	"Starkaðr #0" = 0
+	"Steinn #0" = 0
+	"Sturla #0" = 0
+	"Styrbjörn #0" = 0
+	"Styrkar #0" = 0
+	"Sumarliði #0" = 0
+	"Suni #0" = 0
+	"Sveinn #0" = 0
+	"Sverker #0" = 0
+	"Sæmundr #0" = 0
+	"Sölvi #0" = 0
+	"Sörkver #0" = 0
+	"Tjudmund #0" = 0
+	"Toke #0" = 0
+	"Tolir #0" = 0
+	"Þorbjörn #0" = 0
+	"Þorfinn #0" = 0
+	"Þorbrandr #0" = 0
+	"Þordr #0" = 0
+	"Þorgil #0" = 0
+	"Þorsteinn #0" = 0
+	"Þorolfr #0" = 0
+	"Toste #0" = 0
+	"Totil #0" = 0
+	"Tryggve #0" = 0
+	"Tyke #0" = 0
+	"Ulfr #0" = 0
+	"Vagn #0" = 0
+	"Valdemar #0" = 0
+	"Åke #0" = 0
+	"Yngvar #0" = 0
+	"Örvar #0" = 0
+	"Öysteinn #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

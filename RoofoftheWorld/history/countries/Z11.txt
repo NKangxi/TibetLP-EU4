@@ -1,0 +1,41 @@
+# Lotharingia
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = normand
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 94
+1434.2.1 = {
+	monarch = {
+		name = "Ide III"
+		birth_date = 1407.3.10
+		dynasty = "van Loon"
+		female = yes
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = strict_personality
+}
+1443.10.14 = {
+	heir = {
+		name = "Aline"
+		monarch_name = "Aline"
+		dynasty = "van Loon"
+		birth_date = 1443.10.14
+		death_date = 1523.10.14
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 94
+	add_treasury = 62
+	add_prestige = 90
+}

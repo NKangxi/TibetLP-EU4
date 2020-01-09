@@ -1,0 +1,27 @@
+# Hausaland
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = kanuri
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1155
+1419.4.13 = {
+	monarch = {
+		name = "Huseini"
+		birth_date = 1411.4.16
+		dynasty = "Moussa"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 1155
+	add_treasury = 95
+	add_prestige = 270
+}

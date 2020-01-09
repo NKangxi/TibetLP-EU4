@@ -1,0 +1,68 @@
+# Romny
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 128 143 83 }
+
+
+
+
+leader_names = {
+
+	"Mordvinko" "Sochava" "Wayngachi" "Tylmache" "Laptsui" "Khatyako" "Auli" "Dobrinya" "Ngënoh" "Pemka" 
+	"Inzhay" "Meltsayka" "Upurga" "Setyamka" "Andyamo" "Malusha" "Chenksa" "Poshayka" "Xëryuchi" "Nenyts" 
+	"Nyayka" "Kezhevat" "Syudbya" "Malyy" "Alik" "Hasaba" "Kako" "Kharuchi" "Kolik" "Mandak" 
+	"Nabtiko" "Nga" "Noumea" "Num" "Nyalku" "Panay" "Pudak" "Salinder" "Samatu" "Sarak" 
+	"Sirtya" "Somatu" "Tatva" "Tolik" "Vesei" "Yadne" "Yapti" "Yar" "Yavlad" "Yurak" }
+monarch_names = {
+	"Mordvinko #0" = 1
+	"Sochava #0" = -1
+	"Wayngachi #0" = 1
+	"Tylmache #0" = 1
+	"Laptsui #0" = -1
+	"Khatyako #0" = -1
+	"Auli #0" = -1
+	"Dobrinya #0" = 1
+	"Ngënoh #0" = 1
+	"Pemka #0" = -1
+	"Inzhay #0" = 1
+	"Meltsayka #0" = 1
+	"Upurga #0" = -1
+	"Setyamka #0" = 1
+	"Andyamo #0" = 1
+	"Malusha #0" = -1
+	"Chenksa #0" = -1
+	"Poshayka #0" = -1
+	"Xëryuchi #0" = 1
+	"Nenyts #0" = 1
+	"Nyayka #0" = -1
+	"Kezhevat #0" = 1
+	"Syudbya #0" = 1
+	"Malyy #0" = 1
+	"Alik #0" = 0
+	"Hasaba #0" = 0
+	"Kako #0" = 0
+	"Kharuchi #0" = 0
+	"Kolik #0" = 0
+	"Mandak #0" = 0
+	"Nabtiko #0" = 0
+	"Nga #0" = 0
+	"Noumea #0" = 0
+	"Num #0" = 0
+	"Nyalku #0" = 0
+	"Panay #0" = 0
+	"Pudak #0" = 0
+	"Salinder #0" = 0
+	"Samatu #0" = 0
+	"Sarak #0" = 0
+	"Sirtya #0" = 0
+	"Somatu #0" = 0
+	"Tatva #0" = 0
+	"Tolik #0" = 0
+	"Vesei #0" = 0
+	"Yadne #0" = 0
+	"Yapti #0" = 0
+	"Yar #0" = 0
+	"Yavlad #0" = 0
+	"Yurak #0" = 0
+}
+

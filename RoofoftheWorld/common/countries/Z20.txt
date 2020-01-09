@@ -1,0 +1,223 @@
+# Burgundy
+ck2_converter_generated = yes
+graphical_culture = southamericagfx
+color = { 134 0 37 }
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	exploration_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Moctezuma" "Axayacatl" "Eloxochitl" "Teicuih" "Ayauhcihuatl" "Coszcatl" "Yayauhqui" "Matlalatzin" "Momoztli" "Xihuitl" 
+	"Centehua" "Azcalxochitzin" "Teiuc" "Cuauhtl" "Maxtla" "Chichimecacihuatzin" "Atl" "Totoquihuaztli" "Acalan" "Xochipepe" 
+	"Cihuaton" "Quiauhxochitl" "Mazatl" "Cuetlachtli" "Ixcatzin" "Xicohtencatl" "Itzli" "Tlalli" "Xilonen" "Tezozomoc" 
+	"Tepin" "Techichpotzin" "Atotoztli" "Huitztecol" "Xocoh" "Matlal" "Cozahtli" "Opochtli" "Mizquixahual" "Manauia" 
+	"Eztli" "Tecocoltzin" "Quauhtli" "Tlazozomizqui" "Ocuil" "Zyanya" "Tlacaeleltzin" "Cuetzpalli" "Mahchimaleh" "Tzompantzin" 
+	"Yolyamanitzin" "Patli" "Xiloxoch" "Achcauhtli" "Chalchiuitl" "Acacitli" "Tlacotl" "Tizocic" "Nelli" "Xochitl" 
+	"Tapayaxi" "Coanacoch" "Nezahualcoyotl" "Tlacaelel" "Tetlepanquetzaltzin" "Yaotl" "Chicahua" "Acxocueitl" "Tezcatlan" "Tonalnan" 
+	"Itzcuintli" "Yaretzi" "Cacamatzin" "Eleuia" "Xochipilli" "Zeltzin" "Meztli" "Acamapichtli" "Ozomatli" "Nochehuatl" 
+	"Mecatl" "Nezahualpilli" "Tlahco" "Miyaoaxochitl" "Toltecatl" "Citlali" "Coaxoch" "Karloman" "Louis" "Lothaire" 
+	"Irmengarde" "Eliza" "Vivianu" "Mélisande" "Clotaire" "André" "Adalbert" "Andrea" "Adalberto" "Agnès" 
+	"Perinne" "Roubaud" "Amédée" "Arnault" "Rorgon" "Audoïn" "Frédéric" "Thordis" "Nahuatl" "Teyacapan" 
+	"Marthe" "Maren" "Chimalma" "Chicomecoatl" "Acolmiztli" "Aculnahuacatl" "Ahuiliztli" "Ahuitzotl" "Chimalli" "Chimalpilli" 
+	"Chimalpopoca" "Cipac" "Coatl" "Cuauhtemoc" "Cuixtli" "Cuitlahuac" "Huitzilin" "Huitzilihuitl" "Huitzitl" "Iquehuacatzin" 
+	"Itzcoatl" "Ixtlilxochitl" "Matlalihuitl" "Matlatzincatzin" "Miztli" "Moquihuix" "Necuametl" "Olli" "Tecolotl" "Tizoc" 
+	"Tlaloc" "Tochtli" "Tototl" "Tlilpotonqui" "Topiltzin" "Ueman" "Yolotli" "Xiuhpilli" "Xipil" "Xipilli" 
+	"Zipactonal" "Zolin" }
+monarch_names = {
+	"Moctezuma #0" = 1
+	"Axayacatl #0" = 1
+	"Eloxochitl #1" = -22
+	"Teicuih #0" = -1
+	"Ayauhcihuatl #0" = -1
+	"Coszcatl #0" = -1
+	"Yayauhqui #0" = 1
+	"Matlalatzin #0" = -1
+	"Momoztli #0" = -1
+	"Xihuitl #0" = 1
+	"Centehua #1" = -19
+	"Azcalxochitzin #0" = -1
+	"Teiuc #0" = -1
+	"Cuauhtl #0" = 1
+	"Maxtla #0" = 1
+	"Chichimecacihuatzin #0" = -1
+	"Atl #0" = 1
+	"Totoquihuaztli #0" = 1
+	"Acalan #0" = 1
+	"Xochipepe #0" = 1
+	"Cihuaton #0" = -1
+	"Quiauhxochitl #0" = -1
+	"Mazatl #0" = 1
+	"Cuetlachtli #1" = 27
+	"Ixcatzin #0" = -1
+	"Xicohtencatl #0" = 1
+	"Itzli #1" = 24
+	"Tlalli #0" = 1
+	"Xilonen #0" = -1
+	"Tezozomoc #0" = -1
+	"Tepin #0" = -1
+	"Techichpotzin #0" = -1
+	"Atotoztli #0" = -1
+	"Huitztecol #0" = 1
+	"Xocoh #1" = -22
+	"Matlal #1" = 18
+	"Cozahtli #0" = 1
+	"Opochtli #0" = 1
+	"Mizquixahual #0" = -1
+	"Manauia #0" = -1
+	"Eztli #0" = -1
+	"Tecocoltzin #1" = 27
+	"Quauhtli #0" = 1
+	"Tlazozomizqui #0" = -1
+	"Ocuil #0" = 1
+	"Zyanya #0" = -1
+	"Tlacaeleltzin #0" = 1
+	"Cuetzpalli #0" = 1
+	"Mahchimaleh #0" = 1
+	"Tzompantzin #0" = 1
+	"Yolyamanitzin #0" = 1
+	"Patli #0" = -1
+	"Xiloxoch #0" = -1
+	"Achcauhtli #0" = -1
+	"Chalchiuitl #0" = -1
+	"Acacitli #0" = 1
+	"Tlacotl #0" = -1
+	"Tizocic #0" = 1
+	"Nelli #0" = -1
+	"Xochitl #1" = -19
+	"Tapayaxi #0" = 1
+	"Coanacoch #0" = 1
+	"Nezahualcoyotl #0" = 1
+	"Tlacaelel #0" = 1
+	"Tetlepanquetzaltzin #0" = 1
+	"Yaotl #0" = 1
+	"Chicahua #0" = -1
+	"Acxocueitl #0" = -1
+	"Tezcatlan #0" = -1
+	"Tonalnan #0" = -1
+	"Itzcuintli #0" = 1
+	"Yaretzi #0" = -1
+	"Cacamatzin #0" = 1
+	"Eleuia #0" = -1
+	"Xochipilli #0" = 1
+	"Zeltzin #0" = -1
+	"Meztli #0" = -1
+	"Acamapichtli #0" = 1
+	"Ozomatli #0" = 1
+	"Nochehuatl #0" = 1
+	"Mecatl #0" = -1
+	"Nezahualpilli #0" = 1
+	"Tlahco #0" = -1
+	"Miyaoaxochitl #0" = -1
+	"Toltecatl #1" = -19
+	"Citlali #0" = -1
+	"Coaxoch #0" = -1
+	"Karloman #1" = 0
+	"Louis #2" = 0
+	"Lothaire #3" = 0
+	"Irmengarde #1" = -1
+	"Eliza #1" = -1
+	"Vivianu #1" = 0
+	"Mélisande #1" = -1
+	"Clotaire #1" = 0
+	"André #2" = 0
+	"Adalbert #1" = 0
+	"Andrea #1" = 0
+	"Adalberto #1" = 0
+	"Agnès #1" = -1
+	"Perinne #1" = -1
+	"Roubaud #1" = 0
+	"Amédée #1" = 0
+	"Arnault #1" = 0
+	"Rorgon #1" = 0
+	"Audoïn #1" = 0
+	"Frédéric #1" = 0
+	"Thordis #1" = -1
+	"Nahuatl #1" = -1
+	"Teyacapan #1" = -1
+	"Marthe #1" = -1
+	"Maren #1" = -1
+	"Chimalma #1" = -1
+	"Chicomecoatl #1" = -1
+	"Acolmiztli #0" = 0
+	"Aculnahuacatl #0" = 0
+	"Ahuiliztli #0" = 0
+	"Ahuitzotl #0" = 0
+	"Chimalli #0" = 0
+	"Chimalpilli #0" = 0
+	"Chimalpopoca #0" = 0
+	"Cipac #0" = 0
+	"Coatl #0" = 0
+	"Cuauhtemoc #0" = 0
+	"Cuixtli #0" = 0
+	"Cuitlahuac #0" = 0
+	"Huitzilin #0" = 0
+	"Huitzilihuitl #0" = 0
+	"Huitzitl #0" = 0
+	"Iquehuacatzin #0" = 0
+	"Itzcoatl #0" = 0
+	"Ixtlilxochitl #0" = 0
+	"Matlalihuitl #0" = 0
+	"Matlatzincatzin #0" = 0
+	"Miztli #0" = 0
+	"Moquihuix #0" = 0
+	"Necuametl #0" = 0
+	"Olli #0" = 0
+	"Tecolotl #0" = 0
+	"Tizoc #0" = 0
+	"Tlaloc #0" = 0
+	"Tochtli #0" = 0
+	"Tototl #0" = 0
+	"Tlilpotonqui #0" = 0
+	"Topiltzin #0" = 0
+	"Ueman #0" = 0
+	"Yolotli #0" = 0
+	"Xiuhpilli #0" = 0
+	"Xipil #0" = 0
+	"Xipilli #0" = 0
+	"Zipactonal #0" = 0
+	"Zolin #0" = 0
+}
+ship_names = {
+	Armançon Arroux
+	Bourgogne Brugge
+	Cambrai "Castrum Divionense" Childebert "Childebert II" Chilperic Citeaux Chlothar Cluny Comtesse "Côte-d'Or" 
+	Dijon "Duc de Bourgogne" Duchesse 
+	Gebicca Giselher Godegisel Godomar Gunderic Gundobad Gundomar "Gundomar II" Gunther Guntram
+	"Jean sans Peur"
+	"Marie de Bourgogne"
+	"Philippe le Bon" "Philippe le Hardi"
+	"Richard de Bourgogne"
+	Saône Sigismund
+	Theudebert "Theuderic II"
+	Vézelay
+}
+

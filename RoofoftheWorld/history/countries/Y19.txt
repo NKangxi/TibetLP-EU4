@@ -1,0 +1,27 @@
+# Jazira
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2307
+1428.1.6 = {
+	monarch = {
+		name = "Lhanang"
+		birth_date = 1409.3.2
+		dynasty = "Purgyal"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2307
+	add_treasury = 66
+	add_prestige = 150
+}

@@ -1,0 +1,27 @@
+# Thüringia
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = sunni
+clear_scripted_personalities = yes
+capital = 71
+1408.11.16 = {
+	monarch = {
+		name = "Lothar"
+		birth_date = 1408.7.10
+		dynasty = "de Luxembourg"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = righteous_personality
+}
+1444.11.11 = {
+	capital = 71
+	add_treasury = 85
+	add_prestige = 182
+}

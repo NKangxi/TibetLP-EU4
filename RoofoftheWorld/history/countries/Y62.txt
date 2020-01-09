@@ -1,0 +1,27 @@
+# Chera Nadu
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 531
+1427.9.25 = {
+	monarch = {
+		name = "Tsugru"
+		birth_date = 1411.4.27
+		dynasty = "Chimza"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 531
+	add_treasury = 49
+	add_prestige = 190
+}

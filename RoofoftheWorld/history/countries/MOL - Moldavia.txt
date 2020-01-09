@@ -1,0 +1,40 @@
+# Moldavia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = monothelite
+clear_scripted_personalities = yes
+capital = 4529
+1412.1.5 = {
+	monarch = {
+		name = "Matfei II"
+		birth_date = 1402.8.6
+		dynasty = "Andreievich"
+		adm = 4
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1432.8.19 = {
+	heir = {
+		name = "Vasiliy"
+		monarch_name = "Vasiliy II"
+		dynasty = "Andreievich"
+		birth_date = 1432.8.19
+		death_date = 1512.8.19
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 4529
+	add_treasury = 38
+	add_prestige = 269
+}

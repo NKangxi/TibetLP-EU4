@@ -1,0 +1,41 @@
+# Scandinavia
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1
+1436.10.1 = {
+	monarch = {
+		name = "Hafrid III"
+		birth_date = 1408.5.1
+		dynasty = "Nerking"
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = drunkard_personality
+}
+1442.7.25 = {
+	heir = {
+		name = "Sif"
+		monarch_name = "Sif II"
+		dynasty = "Nerking"
+		birth_date = 1442.7.25
+		death_date = 1522.7.25
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 1
+	add_treasury = 1
+	add_prestige = 330
+}

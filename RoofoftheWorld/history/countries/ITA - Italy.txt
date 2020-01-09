@@ -1,0 +1,40 @@
+# Italy
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 101
+1420.10.21 = {
+	monarch = {
+		name = "Adriana"
+		birth_date = 1398.4.6
+		dynasty = "di Forli"
+		female = yes
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = entrepreneur_personality
+	heir = {
+		name = "Ricciarda"
+		monarch_name = "Ricciarda"
+		dynasty = "di Forli"
+		birth_date = 1417.7.2
+		death_date = 1497.7.2
+		female = yes
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+	add_heir_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 101
+	add_treasury = 33
+	add_prestige = 147
+}

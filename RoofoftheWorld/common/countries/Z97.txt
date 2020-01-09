@@ -1,0 +1,324 @@
+# Thrace
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 172 76 139 }
+historical_idea_groups = {
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	spy_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Ghalib" "Habiba" "Adina" "Afework" "Zala" "Shinasha" "Rafiqa" "Zena" "Lishan" "Ogbai" 
+	"Belkis" "Magdala" "Prochoros" "Eliezer" "Sulayman" "Mašanñal" "Muhammad" "Tamirat" "Theodote" "Benaim" 
+	"Sadiq" "Kamala" "Aarif" "Eudosia" "Miruts" "Eustephanou" "Debtera" "Adanech" "Negus" "Epimachos" 
+	"Simin" "Kifle" "Theophania" "Shahzadah" "Cheren" "Thadeosi" "Enôch" "Nizam" "Oromo" "Daniachew" 
+	"Jibril" "Habesha" "Shogofa" "Hanifa" "Rashida" "Ali" "Sheeva" "Paywand" "Isa" "Yagana" 
+	"Mansur" "Shamir" "Jabir" "Shameem" "Faghira" "Sabba" "Sahba" "Nyawela" "Khalil" "Sheeftah" 
+	"Saaman" "Shararah" "Yahya" "Saghar" "Maraña" "Shokouh" "Mouses" "Ñilesa" "Tanaz" "Tirsakouni" 
+	"Mukhtar" "Mêlênkouda" "Musa" "Negasi" "Asiya" "Idris" "Iêsousyko" "Fadl" "Selamawit" "Berta" 
+	"Abai" "Zenia" "Kayla" "Sami" "Ephannê" "Amhara" "Debre" "Bathsheba" "Panigiros" "Hakym" 
+	"Jazarah" "Muslihiddin" "Hasan" "Louama" "Atoberhan" "Kaleb" "Hafiz" "Yakta" "Chael" "Ñssitkitol" 
+	"Eionmnne" "Tesfaye" "Michaêlkouda" "China" "Maharene" "Ñojjl" "Constans" "Constantius" "Julian" "Jovian" 
+	"Valentinian" "Valens" "Gratian" "Theodosius" "Arcadius" "Honorius" "Pulcheria" "Marcian" "Leon" "Zenon" 
+	"Basiliskos" "Anastasios" "Justin" "Justinian" "Ioustinos" "Tiberios" "Maurikios" "Phokas" "Herakleios" "Konstantinos" 
+	"Herakleonas" "Konstas" "Ioustinianos" "Leontios" "Philippikos" "Theodosios" "Artavasdos" "Eirene" "Nikephoros" "Stavrakios" 
+	"Theophilos" "Basileios" "Georgios" "Theodotos" "Euphrosyne" "Mellesse" "Kafa" "Antonia" "Zenobia" "Kale" 
+	"Makarios" "Antiochos" "Chiora" "Mengesha" "Baia" "Zvonimir" "Shota" "Gennadios" "Sergia" "Gregoras" 
+	"Akhutai" "Chidukhul" "Arkhai" "Mena" "Añgelos" "Teferi" "Theodosia" "Tengene" "Amare" "Dahnay" 
+	"Desta" "Getachew" "Geteye" "Girma" "Abebe" "Aman" "Assefa" "Azmera" "Bekele" "Berhanu" 
+	"Berhanua" "Berihun" "Bworo" "Dawit" "Demissie" "Eremias" "Ezana" "Fasilidas" "Fethee" "Gabra" 
+	"Gebereal" "Gebre" "Gondar" "Hackeem" "Haeran" "Hagos" "Hakeem" "Hakiem" "Hakim" "Iskander" 
+	"Iskinder" "Iyasu" "Jima" "Kelile" "Kelyle" "Lebna" "Lema" "Loua" "Mamo" "Mekonnen" 
+	"Melaku" "Merille" "Negash" "Ogbae" "Rahad" "Selassie" "Semer" "Semere" "Sisay" "Tariku" 
+	"Taye" "Tefere" "Teka" "Tekle" "Teruworq" "Tessema" "Tewodros" "Yacob" "Yohannas" "Yonas" 
+	"Zula" }
+monarch_names = {
+	"Ghalib #0" = 1
+	"Habiba #0" = -1
+	"Adina #0" = -1
+	"Afework #0" = 1
+	"Zala #0" = -1
+	"Shinasha #0" = -1
+	"Rafiqa #0" = -1
+	"Zena #0" = -1
+	"Lishan #0" = -1
+	"Ogbai #1" = 18
+	"Belkis #0" = -1
+	"Magdala #0" = -1
+	"Prochoros #1" = 21
+	"Eliezer #0" = 1
+	"Sulayman #0" = 1
+	"Mašanñal #0" = 1
+	"Muhammad #0" = 1
+	"Tamirat #0" = 1
+	"Theodote #0" = 1
+	"Benaim #0" = 1
+	"Sadiq #0" = 1
+	"Kamala #0" = -1
+	"Aarif #0" = 1
+	"Eudosia #0" = -1
+	"Miruts #0" = 1
+	"Eustephanou #0" = -1
+	"Debtera #0" = -1
+	"Adanech #0" = -1
+	"Negus #1" = 24
+	"Epimachos #0" = 1
+	"Simin #0" = -1
+	"Kifle #0" = -1
+	"Theophania #0" = -1
+	"Shahzadah #0" = -1
+	"Cheren #0" = -1
+	"Thadeosi #0" = 1
+	"Enôch #0" = 1
+	"Nizam #0" = 1
+	"Oromo #0" = 1
+	"Daniachew #0" = 1
+	"Jibril #0" = 1
+	"Habesha #0" = -1
+	"Shogofa #0" = -1
+	"Hanifa #0" = -1
+	"Rashida #0" = -1
+	"Ali #0" = 1
+	"Sheeva #0" = -1
+	"Paywand #0" = -1
+	"Isa #0" = 1
+	"Yagana #0" = -1
+	"Mansur #0" = 1
+	"Shamir #0" = 1
+	"Jabir #0" = 1
+	"Shameem #0" = -1
+	"Faghira #0" = -1
+	"Sabba #0" = -1
+	"Sahba #0" = -1
+	"Nyawela #0" = -1
+	"Khalil #0" = 1
+	"Sheeftah #0" = -1
+	"Saaman #0" = -1
+	"Shararah #0" = -1
+	"Yahya #0" = 1
+	"Saghar #0" = -1
+	"Maraña #0" = -1
+	"Shokouh #0" = -1
+	"Mouses #0" = 1
+	"Ñilesa #0" = -1
+	"Tanaz #0" = -1
+	"Tirsakouni #0" = 1
+	"Mukhtar #0" = 1
+	"Mêlênkouda #0" = 1
+	"Musa #1" = 30
+	"Negasi #0" = 1
+	"Asiya #0" = -1
+	"Idris #0" = 1
+	"Iêsousyko #0" = -1
+	"Fadl #0" = 1
+	"Selamawit #0" = -1
+	"Berta #0" = 1
+	"Abai #0" = 1
+	"Zenia #0" = -1
+	"Kayla #0" = -1
+	"Sami #0" = 1
+	"Ephannê #0" = -1
+	"Amhara #0" = -1
+	"Debre #0" = -1
+	"Bathsheba #0" = -1
+	"Panigiros #1" = 18
+	"Hakym #0" = 1
+	"Jazarah #0" = -1
+	"Muslihiddin #0" = 1
+	"Hasan #0" = 1
+	"Louama #0" = -1
+	"Atoberhan #1" = 18
+	"Kaleb #0" = 1
+	"Hafiz #0" = 1
+	"Yakta #0" = -1
+	"Chael #0" = 1
+	"Ñssitkitol #0" = -1
+	"Eionmnne #0" = -1
+	"Tesfaye #0" = 1
+	"Michaêlkouda #0" = 1
+	"China #0" = -1
+	"Maharene #0" = -1
+	"Ñojjl #0" = -1
+	"Constans #1" = 0
+	"Constantius #2" = 0
+	"Julian #1" = 0
+	"Jovian #1" = 0
+	"Valentinian #1" = 0
+	"Valens #1" = 0
+	"Gratian #1" = 0
+	"Theodosius #2" = 0
+	"Arcadius #1" = 0
+	"Honorius #1" = 0
+	"Pulcheria #1" = -1
+	"Marcian #1" = 0
+	"Leon #6" = 0
+	"Zenon #1" = 0
+	"Basiliskos #1" = 0
+	"Anastasios #2" = 0
+	"Justin #1" = 0
+	"Justinian #1" = 0
+	"Ioustinos #1" = 0
+	"Tiberios #2" = 0
+	"Maurikios #1" = 0
+	"Phokas #1" = 0
+	"Herakleios #1" = 0
+	"Konstantinos #4" = 0
+	"Herakleonas #1" = 0
+	"Konstas #1" = 0
+	"Ioustinianos #1" = 0
+	"Leontios #1" = 0
+	"Philippikos #1" = 0
+	"Theodosios #1" = 0
+	"Artavasdos #1" = 0
+	"Eirene #1" = -1
+	"Nikephoros #1" = 0
+	"Stavrakios #1" = 0
+	"Theophilos #1" = 0
+	"Basileios #2" = 0
+	"Georgios #1" = 0
+	"Theodotos #1" = 0
+	"Euphrosyne #1" = -1
+	"Mellesse #1" = -1
+	"Kafa #1" = 0
+	"Antonia #1" = -1
+	"Zenobia #1" = -1
+	"Kale #1" = -1
+	"Makarios #1" = 0
+	"Antiochos #1" = 0
+	"Chiora #1" = -1
+	"Mengesha #1" = 0
+	"Baia #1" = -1
+	"Zvonimir #1" = 0
+	"Shota #1" = 0
+	"Gennadios #1" = 0
+	"Sergia #1" = -1
+	"Gregoras #1" = 0
+	"Akhutai #2" = 0
+	"Chidukhul #1" = 0
+	"Arkhai #1" = 0
+	"Mena #1" = 0
+	"Añgelos #1" = 0
+	"Teferi #1" = 0
+	"Theodosia #1" = -1
+	"Tengene #1" = 0
+	"Amare #0" = 0
+	"Dahnay #0" = 0
+	"Desta #0" = 0
+	"Getachew #0" = 0
+	"Geteye #0" = 0
+	"Girma #0" = 0
+	"Abebe #0" = 0
+	"Aman #0" = 0
+	"Assefa #0" = 0
+	"Azmera #0" = 0
+	"Bekele #0" = 0
+	"Berhanu #0" = 0
+	"Berhanua #0" = 0
+	"Berihun #0" = 0
+	"Bworo #0" = 0
+	"Dawit #0" = 0
+	"Demissie #0" = 0
+	"Eremias #0" = 0
+	"Ezana #0" = 0
+	"Fasilidas #0" = 0
+	"Fethee #0" = 0
+	"Gabra #0" = 0
+	"Gebereal #0" = 0
+	"Gebre #0" = 0
+	"Gondar #0" = 0
+	"Hackeem #0" = 0
+	"Haeran #0" = 0
+	"Hagos #0" = 0
+	"Hakeem #0" = 0
+	"Hakiem #0" = 0
+	"Hakim #0" = 0
+	"Iskander #0" = 0
+	"Iskinder #0" = 0
+	"Iyasu #0" = 0
+	"Jima #0" = 0
+	"Kelile #0" = 0
+	"Kelyle #0" = 0
+	"Lebna #0" = 0
+	"Lema #0" = 0
+	"Loua #0" = 0
+	"Mamo #0" = 0
+	"Mekonnen #0" = 0
+	"Melaku #0" = 0
+	"Merille #0" = 0
+	"Negash #0" = 0
+	"Ogbae #0" = 0
+	"Rahad #0" = 0
+	"Selassie #0" = 0
+	"Semer #0" = 0
+	"Semere #0" = 0
+	"Sisay #0" = 0
+	"Tariku #0" = 0
+	"Taye #0" = 0
+	"Tefere #0" = 0
+	"Teka #0" = 0
+	"Tekle #0" = 0
+	"Teruworq #0" = 0
+	"Tessema #0" = 0
+	"Tewodros #0" = 0
+	"Yacob #0" = 0
+	"Yohannas #0" = 0
+	"Yonas #0" = 0
+	"Zula #0" = 0
+}
+ship_names = {
+	Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla"
+	"Aghios Angelos" "Aghios Eusebios" "Aghios Ioakeim" "Aghios Ioannes" "Aghios Loukas"
+	"Aghios Markos" "Aghios Matthaios" "Aghios Maximos" "Aghios Nikolaos" "Aghios Pavlos"
+	"Aghios Petros" "Aghios Philimon" "Aghios Sergios" "Aghios Stephanos" "Aghios Thimoteos"
+	Aiakos Aineas Akhilleus Amphitrion Aphrodita Apollo Arakhne Ares Asia Athena
+	"Basileous Alexandros" "Basileous Alexeios" "Basileous Andronikos" "Basileous Basileos"
+	"Basileous Demetrios" "Basileous Ioannes" "Basileous Isaak" "Basileous Leon"
+	"Basileous Manuel" "Basileous Michael" "Basileous Rhomaion" "Basileous Romanos"
+	"Basileous Theodoros" "Basileous Theophilos" "Basileisa Theodora" "Basileisa Zoe"
+	Belisarios Byzantion
+	Cassandra Castor "Christos Soter" Chronos
+	Demeter "Despotes Demetrios" "Despotes Moreas" Diana "Drakon Ouranos" Dyonisos
+	Ellade Endymion Eros Europa
+	Gea "Gorgona Poseidonos"
+	Hades Hektor Hephaistos Hera Herakles Hermes Hestia Hydra Hypnos
+	Jason
+	"Kaisar Konstantinos" Konstantinopolis "Konstantinos Dragases"
+	"Liontari Skliros" "Lussa ton Theon" "Lykos Thalasses"
+	Makedonia "Margaritari Aspra" Minos
+	Nestor
+	Odysseos Orestes Okeanasthraustis Ouranos
+	Panselenos Pegasos Perseos "Pontikos Thalasses" Poseidon
+	Rhadamanthys
+	Sebastokrator
+	Thanatos Theseos
+	Zeous
+}
+

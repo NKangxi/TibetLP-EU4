@@ -1,0 +1,26 @@
+# Ghana
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2260
+1443.7.4 = {
+	monarch = {
+		name = "Gao"
+		birth_date = 1428.7.10
+		dynasty = "Cisse"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 2260
+	add_treasury = 15
+	add_prestige = 68
+}

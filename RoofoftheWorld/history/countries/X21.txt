@@ -1,0 +1,40 @@
+# Strymon
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 149
+1437.1.25 = {
+	monarch = {
+		name = "Magni"
+		birth_date = 1403.1.31
+		dynasty = "Stafr"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+}
+1443.6.28 = {
+	heir = {
+		name = "Halla"
+		monarch_name = "Halla"
+		dynasty = "Stafr"
+		birth_date = 1443.6.28
+		death_date = 1523.6.28
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 149
+	add_treasury = 41
+	add_prestige = 5
+}

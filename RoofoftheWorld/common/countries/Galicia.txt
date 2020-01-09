@@ -1,0 +1,227 @@
+# Galicia
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 255 224 94 }
+historical_idea_groups = {
+	religious_ideas
+	naval_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Tapayaxi" "Momoztli" "Mahchimaleh" "Tonalnan" "Totoquihuaztli" "Ueman" "Coaxoch" "Coatl" "Xiuhpilli" "Moquihuix" 
+	"Cuetzpalli" "Olli" "Axayacatl" "Iquehuacatzin" "Tlacaeleltzin" "Zyanya" "Tetlepanquetzaltzin" "Ixtlilxochitl" "Eloxochitl" "Acacitli" 
+	"Teyacapan" "Ocuil" "Itzcoatl" "Huitztecol" "Cuixtli" "Izel" "Patli" "Tzompantzin" "Yaretzi" "Steen" 
+	"Achcauhtli" "Harald" "Grim" "Matlatzincatzin" "Karin" "Olav" "Tezcatlan" "Ahuitzotl" "Gunhild" "Ubbe" 
+	"Xiuhtomiyauhtzin" "Xocoh" "Tlalli" "Matlalihuitl" "Huitzilin" "Acxocueitl" "Nochehuatl" "Acamapichtli" "Topiltzin" "Cipac" 
+	"Cuicatl" "Itotia" "Tlahcoehua" "Xiloxoch" "Yoltzin" "Chimalpopoca" "Xochitl" "Chimalpilli" "Tlilpotonqui" "Huitzitl" 
+	"Tizocic" "Ixcatzin" "Yolotli" "Tlazozomizqui" "Aculnahuacatl" "Etalpalli" "Chipahua" "Ozomatli" "Necuametl" "Xicohtencatl" 
+	"Tizoc" "Citlali" "Cuitlahuac" "Eztli" "Tochtli" "Necahual" "Amoxtli" "Adelfonso" "Gothina" "Inês" 
+	"Rodrigo" "Friedenando" "Shokouh" "Zaynab" "Vela" "Malika" "Nizam" "Yahya" "Fath" "Garsiya" 
+	"Jahaira" "Siddray" "Abdul-Hakam" "Alim" "Shararah" "Mubarak" "Is'mail" "Anfòs" "Sheeva" "Sami" 
+	"Murad" "Ramadan" "Abdul-Wahab" "Shujah" "Assur" "Mecatl" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" 
+	"Aghlab" "Akin" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" 
+	"Hafiz" "Halil" "Husam" "Ibrahim" "Idris" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" 
+	"Khalil" "Mahdi" "Mansur" "Mirza" "Mukhtar" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" 
+	"Qawurd" "Sa'daddin" "Sadiq" "Samir" "Shaiban" "Shamir" "Sulayman" "Talib" "Ubayd" "Uways" 
+	"Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+monarch_names = {
+	"Tapayaxi #0" = 1
+	"Momoztli #2" = -37
+	"Mahchimaleh #0" = 1
+	"Tonalnan #0" = -1
+	"Totoquihuaztli #0" = 1
+	"Ueman #0" = 1
+	"Coaxoch #0" = -1
+	"Coatl #0" = 1
+	"Xiuhpilli #0" = 1
+	"Moquihuix #0" = 1
+	"Cuetzpalli #0" = 1
+	"Olli #0" = 1
+	"Axayacatl #0" = 1
+	"Iquehuacatzin #0" = 1
+	"Tlacaeleltzin #0" = 1
+	"Zyanya #0" = -1
+	"Tetlepanquetzaltzin #0" = 1
+	"Ixtlilxochitl #0" = 1
+	"Eloxochitl #0" = -1
+	"Acacitli #0" = 1
+	"Teyacapan #0" = -1
+	"Ocuil #0" = 1
+	"Itzcoatl #0" = 1
+	"Huitztecol #0" = 1
+	"Cuixtli #0" = 1
+	"Izel #0" = -1
+	"Patli #0" = -1
+	"Tzompantzin #0" = 1
+	"Yaretzi #0" = -1
+	"Steen #0" = 1
+	"Achcauhtli #0" = -1
+	"Harald #0" = 1
+	"Grim #0" = 1
+	"Matlatzincatzin #0" = 1
+	"Karin #0" = -1
+	"Olav #0" = 1
+	"Tezcatlan #0" = -1
+	"Ahuitzotl #0" = 1
+	"Gunhild #0" = -1
+	"Ubbe #0" = 1
+	"Xiuhtomiyauhtzin #0" = -1
+	"Xocoh #0" = -1
+	"Tlalli #0" = 1
+	"Matlalihuitl #0" = 1
+	"Huitzilin #0" = 1
+	"Acxocueitl #0" = -1
+	"Nochehuatl #0" = 1
+	"Acamapichtli #0" = 1
+	"Topiltzin #0" = 1
+	"Cipac #0" = 1
+	"Cuicatl #0" = -1
+	"Itotia #0" = -1
+	"Tlahcoehua #0" = -1
+	"Xiloxoch #0" = -1
+	"Yoltzin #0" = -1
+	"Chimalpopoca #0" = 1
+	"Xochitl #0" = 1
+	"Chimalpilli #0" = 1
+	"Tlilpotonqui #0" = 1
+	"Huitzitl #0" = 1
+	"Tizocic #0" = 1
+	"Ixcatzin #0" = -1
+	"Yolotli #0" = 1
+	"Tlazozomizqui #0" = -1
+	"Aculnahuacatl #0" = 1
+	"Etalpalli #0" = -1
+	"Chipahua #0" = -1
+	"Ozomatli #0" = 1
+	"Necuametl #0" = 1
+	"Xicohtencatl #0" = 1
+	"Tizoc #0" = 1
+	"Citlali #0" = -1
+	"Cuitlahuac #0" = 1
+	"Eztli #0" = -1
+	"Tochtli #0" = 1
+	"Necahual #0" = -1
+	"Amoxtli #0" = -1
+	"Adelfonso #1" = 0
+	"Gothina #1" = -1
+	"Inês #1" = -1
+	"Rodrigo #2" = 0
+	"Friedenando #1" = 0
+	"Shokouh #1" = -1
+	"Zaynab #1" = -1
+	"Vela #1" = 0
+	"Malika #1" = -1
+	"Nizam #1" = 0
+	"Yahya #3" = 0
+	"Fath #1" = 0
+	"Garsiya #1" = 0
+	"Jahaira #1" = -1
+	"Siddray #1" = 0
+	"Abdul-Hakam #1" = 0
+	"Alim #1" = 0
+	"Shararah #1" = -1
+	"Mubarak #1" = 0
+	"Is'mail #1" = 0
+	"Anfòs #1" = 0
+	"Sheeva #1" = -1
+	"Sami #1" = 0
+	"Murad #2" = 0
+	"Ramadan #1" = 0
+	"Abdul-Wahab #1" = 0
+	"Shujah #1" = 0
+	"Assur #1" = 0
+	"Mecatl #1" = -1
+	"Aarif #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Aghlab #0" = 0
+	"Akin #0" = 0
+	"Aram #0" = 0
+	"Azam #0" = 0
+	"Bahir #0" = 0
+	"Burhanaddin #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Faruk #0" = 0
+	"Ghalib #0" = 0
+	"Hafiz #0" = 0
+	"Halil #0" = 0
+	"Husam #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Isa #0" = 0
+	"Jabir #0" = 0
+	"Jalil #0" = 0
+	"Jibril #0" = 0
+	"Khaireddin #0" = 0
+	"Khalil #0" = 0
+	"Mahdi #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mukhtar #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Najib #0" = 0
+	"Nasr #0" = 0
+	"Qawurd #0" = 0
+	"Sa'daddin #0" = 0
+	"Sadiq #0" = 0
+	"Samir #0" = 0
+	"Shaiban #0" = 0
+	"Shamir #0" = 0
+	"Sulayman #0" = 0
+	"Talib #0" = 0
+	"Ubayd #0" = 0
+	"Uways #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+	"Zeyd #0" = 0
+}
+ship_names = {
+	Galicia Argonauta Asturias Asunción Atrevido Azor
+	Cartagonova Castilla "Castillo Negro" Castor "Ciervo Volante"
+	Doncella Dragón 
+	"El Gran Grin" "El Retiro" Eneas Eolo Esperanza "Espíritu Santo" Extremadura
+	Furor Galicia "Gran Grifón" Halcón Hércules Isabela Júpiter
+	"La Concepción" "La Magdalena" "La Manuela" León Ligera "Lobo Marino"
+	Marte Mercurio Neptuno Niña Orión
+	"Paloma Blanca" Pegaso "Perro Marino" Pinta Plutón Pollux "Príncipe de Asturias"
+	Rayo "Real Alfonso" "Real Enrique" "Real Juan" "Rey Pelayo" "Rey Rodrigo"
+	"San Andrés" "San Antonio" "San Bartolomé" "San Bernabé" "San Cristobal" "San Enrique"
+	"San Esteban" "San Fernando" "San Francisco" "San Gabriel" "San Isidoro" "San Jerónimo"
+	"San José" "San Juan" "San Juan Bautista" "San Leandro" "San Miguel" "San Pedro"
+	"San Rafael" "San Salvador" "San Sebastian" "Santa Ana" "Santa Bárbara" "Santa Beatriz"
+	"Santa Catalina" "Santa Cruz" "Santa Fe" "Santa Isabel" "Santa Justa" "Santa María"
+	"Santa Marta" "Santa Rita" "Santa Teresa" Santiago "Santísima Trinidad" "Santo Domingo" Sirena
+	Terror Toledo Trinidad Tritón Unicornio
+	Vencedora Ventura Victoria Vigilante Vizcaya Vulcano Zúñiga
+}
+

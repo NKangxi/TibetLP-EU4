@@ -1,0 +1,164 @@
+# Syrte
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 120 202 135 }
+
+
+
+
+leader_names = {
+
+	"Edvard" "Ture" "Valentin" "Mahtar" "Dasin" "Magdalene" "Hamad" "Bo" "Herbert" "Klara" 
+	"Z'diant" "Himmi" "Aszellay" "Afalawas" "Galussa" "Zubayda" "Thabitah" "Gohilde" "Laweye" "Jørn" 
+	"Kawsen" "Johanne" "Zibba" "Fressende" "Tabat" "Mernissa" "Tazenkwedt" "Aksil" "Åse" "Ida" 
+	"Ingolf" "Karoline" "Gunhild" "Lennart" "Freja" "Rikissa" "Svend" "Lise" "Fredrik" "Ragnhild" 
+	"Torbjørn" "Thorvald" "Sigrid" "Abel" "Runa" "Martha" "Azenkwed" "Akzer" "Henrik" "Temzi" 
+	"Iher" "Emilie" "Silje" "Uzza" "Holger" "Lwiza" "Cucung" "H'edda" "Gwejda" "Sivard" 
+	"Katarina" "Fer'r'udja" "Medjan" "Agama" "Severin" "Bernard" "Immel" "Ingeborg" "Yattuy" "Balder" 
+	"Anders" "Anund" "Asger" "Benedikt" "Bjørn" "Christoffer" "Einar" "Erik" "Ernst" "Esben" 
+	"Frej" "Frode" "Glum" "Gnupa" "Gorm" "Gotfred" "Gregers" "Grim" "Gunnar" "Hårik" 
+	"Halfdan" "Halvor" "Harald" "Helge" "Hemming" "Hjalmar" "Jørgen" "Jakob" "Jens" "Johann" 
+	"Karl" "Knud" "Kristian" "Leif" "Ludvig" "Malthe" "Mads" "Mikkel" "Mogens" "Niels" 
+	"Odd" "Olav" "Oluf" "Peder" "Poul" "Pridbjørn" "Ragnar" "Ragnvald" "Rolf" "Rune" 
+	"Rørik" "Sigfred" "Sigtryg" "Sigurd" "Steen" "Sämund" "Thorolf" "Torben" "Tord" "Torfinn" 
+	"Torgils" "Ubbe" "Uffe" "Ulf" "Valdemar" "Vilfred" "Yngvar" }
+monarch_names = {
+	"Edvard #0" = 1
+	"Ture #0" = 1
+	"Valentin #0" = 1
+	"Mahtar #0" = 1
+	"Dasin #0" = -1
+	"Magdalene #0" = -1
+	"Hamad #0" = 1
+	"Bo #0" = 1
+	"Herbert #0" = 1
+	"Klara #0" = -1
+	"Z'diant #0" = -1
+	"Himmi #0" = 1
+	"Aszellay #0" = 1
+	"Afalawas #0" = 1
+	"Galussa #0" = 1
+	"Zubayda #0" = -1
+	"Thabitah #0" = 1
+	"Gohilde #0" = -1
+	"Laweye #0" = 1
+	"Jørn #0" = 1
+	"Kawsen #0" = 1
+	"Johanne #0" = -1
+	"Zibba #0" = -1
+	"Fressende #0" = -1
+	"Tabat #0" = 1
+	"Mernissa #0" = -1
+	"Tazenkwedt #0" = -1
+	"Aksil #0" = 1
+	"Åse #0" = -1
+	"Ida #0" = -1
+	"Ingolf #0" = 1
+	"Karoline #0" = -1
+	"Gunhild #0" = -1
+	"Lennart #0" = 1
+	"Freja #0" = -1
+	"Rikissa #0" = -1
+	"Svend #0" = 1
+	"Lise #0" = -1
+	"Fredrik #0" = 1
+	"Ragnhild #0" = -1
+	"Torbjørn #0" = 1
+	"Thorvald #0" = 1
+	"Sigrid #0" = -1
+	"Abel #0" = 1
+	"Runa #0" = -1
+	"Martha #0" = -1
+	"Azenkwed #0" = 1
+	"Akzer #0" = 1
+	"Henrik #0" = 1
+	"Temzi #0" = -1
+	"Iher #0" = 1
+	"Emilie #0" = -1
+	"Silje #0" = -1
+	"Uzza #0" = 1
+	"Holger #0" = 1
+	"Lwiza #0" = -1
+	"Cucung #0" = 1
+	"H'edda #0" = -1
+	"Gwejda #0" = -1
+	"Sivard #0" = 1
+	"Katarina #0" = -1
+	"Fer'r'udja #0" = -1
+	"Medjan #0" = 1
+	"Agama #0" = 1
+	"Severin #0" = 1
+	"Bernard #0" = 1
+	"Immel #0" = 1
+	"Ingeborg #0" = -1
+	"Yattuy #0" = 1
+	"Balder #0" = 1
+	"Anders #0" = 0
+	"Anund #0" = 0
+	"Asger #0" = 0
+	"Benedikt #0" = 0
+	"Bjørn #0" = 0
+	"Christoffer #0" = 0
+	"Einar #0" = 0
+	"Erik #0" = 0
+	"Ernst #0" = 0
+	"Esben #0" = 0
+	"Frej #0" = 0
+	"Frode #0" = 0
+	"Glum #0" = 0
+	"Gnupa #0" = 0
+	"Gorm #0" = 0
+	"Gotfred #0" = 0
+	"Gregers #0" = 0
+	"Grim #0" = 0
+	"Gunnar #0" = 0
+	"Hårik #0" = 0
+	"Halfdan #0" = 0
+	"Halvor #0" = 0
+	"Harald #0" = 0
+	"Helge #0" = 0
+	"Hemming #0" = 0
+	"Hjalmar #0" = 0
+	"Jørgen #0" = 0
+	"Jakob #0" = 0
+	"Jens #0" = 0
+	"Johann #0" = 0
+	"Karl #0" = 0
+	"Knud #0" = 0
+	"Kristian #0" = 0
+	"Leif #0" = 0
+	"Ludvig #0" = 0
+	"Malthe #0" = 0
+	"Mads #0" = 0
+	"Mikkel #0" = 0
+	"Mogens #0" = 0
+	"Niels #0" = 0
+	"Odd #0" = 0
+	"Olav #0" = 0
+	"Oluf #0" = 0
+	"Peder #0" = 0
+	"Poul #0" = 0
+	"Pridbjørn #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Rune #0" = 0
+	"Rørik #0" = 0
+	"Sigfred #0" = 0
+	"Sigtryg #0" = 0
+	"Sigurd #0" = 0
+	"Steen #0" = 0
+	"Sämund #0" = 0
+	"Thorolf #0" = 0
+	"Torben #0" = 0
+	"Tord #0" = 0
+	"Torfinn #0" = 0
+	"Torgils #0" = 0
+	"Ubbe #0" = 0
+	"Uffe #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+	"Vilfred #0" = 0
+	"Yngvar #0" = 0
+}
+

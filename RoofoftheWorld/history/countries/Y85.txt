@@ -1,0 +1,26 @@
+# Bhakkar
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 576
+1437.4.3 = {
+	monarch = {
+		name = "Mangnyen"
+		birth_date = 1399.12.15
+		dynasty = "'Damgyi"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 576
+	add_treasury = 123
+	add_prestige = 58
+}

@@ -1,0 +1,220 @@
+# Sinai
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 88 99 2 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Zeyd" "Musa" "Abdul-Lateef" "Zahir" "Rabiya" "Marwa" "Mas'ud" "Abdul-Razzaq" "Kamala" "Muzhdah" 
+	"Hasti" "Najela" "Nazaneen" "Shogofa" "Nizam" "Muslihiddin" "Jibril" "Reshawna" "Shahzadah" "Aghlab" 
+	"Qawurd" "Alim" "Bashar" "Yasar" "Neelab" "Hamdan" "Eudosia" "Hakam" "Stephanou" "Papasinen" 
+	"Krisanthos" "Rasa" "Theobronia" "Mehri" "Prisisilla" "Khudayar" "Thadeosi" "Mahdokht" "Mastana" "Eikkir" 
+	"Eusebia" "Duha" "Khalid" "Penatti" "Nuraddin" "Anthelia" "Solomôn" "Muhsin" "Raphaelkouda" "Orna" 
+	"Gulnar" "Yahya" "Ñašša" "Kinah" "Sa'ud" "Jamil" "Rasul" "Fayiz" "Hashmaddin" "Abdul-Wahad" 
+	"Khaterah" "Amir" "Ghazi" "Nuri" "Jahan" "Madiha" "Gulpari" "Farida" "Sirhan" "Sitara" 
+	"Nastaran" "Majid" "Rajiya" "Murad" "Nahal" "Niki" "Nazy" "Taimur" "Muzaffaraddin" "Akab" 
+	"Thana" "Karima" "Isa" "Nikoo" "Noushin" "Golbahar" "Munawwar" "Jalila" "Mukhtar" "Ibtisam" 
+	"Adhid" "Zahra" "Mahsa" "Muzaffar" "Sadiya" "Salahaddin" "Taweret" "Tawfiq" "Khandan" "Negar" 
+	"Muaddam" "Jamila" "Hafsa" "Azenet" "Asenath" "Asim" "Tawaret" "Gulnaz" "Minoo" "Khumarawayh" 
+	"Murshid" "Ashraf" "Al-Abbas" "Jawdat" "Ridwan" "Rana" "Abderahman" "Suhaila" "Samira" "Kosmas" 
+	"Maximos" "Ioustinos" "Amsha" "Mahdi" "Kyros" "Uways" "Jabir" "Faisal" "Aretee" "Yasovarman" 
+	"Yared" "Arsenios" "Akhom" "Pimen" "Abdul-Azeem" "Abdul-Hamid" "Adil" "Ala'i" "Aziz" "Boutros" 
+	"Da'ud" "Ibrahim" "Imamaddin" "Is'mail" "Ismat" "Kamran" "Nasraddin" "Radhi" "Seyfullah" "Sharaf" 
+	"Umaya" "Wahid" "Ya'qub" "Youkhanna" }
+monarch_names = {
+	"Zeyd #0" = 1
+	"Musa #3" = 24
+	"Abdul-Lateef #0" = 1
+	"Zahir #0" = 1
+	"Rabiya #0" = -1
+	"Marwa #0" = -1
+	"Mas'ud #0" = 1
+	"Abdul-Razzaq #0" = 1
+	"Kamala #0" = -1
+	"Muzhdah #0" = -1
+	"Hasti #0" = -1
+	"Najela #0" = -1
+	"Nazaneen #0" = -1
+	"Shogofa #0" = -1
+	"Nizam #0" = 1
+	"Muslihiddin #0" = 1
+	"Jibril #0" = 1
+	"Reshawna #0" = -1
+	"Shahzadah #0" = -1
+	"Aghlab #0" = 1
+	"Qawurd #0" = 1
+	"Alim #0" = 1
+	"Bashar #1" = 21
+	"Yasar #0" = 1
+	"Neelab #0" = -1
+	"Hamdan #0" = 1
+	"Eudosia #0" = -1
+	"Hakam #1" = 30
+	"Stephanou #0" = 1
+	"Papasinen #0" = 1
+	"Krisanthos #0" = 1
+	"Rasa #0" = -1
+	"Theobronia #0" = -1
+	"Mehri #0" = -1
+	"Prisisilla #0" = -1
+	"Khudayar #0" = 1
+	"Thadeosi #0" = 1
+	"Mahdokht #0" = -1
+	"Mastana #0" = -1
+	"Eikkir #0" = -1
+	"Eusebia #0" = -1
+	"Duha #0" = -1
+	"Khalid #0" = 1
+	"Penatti #0" = -1
+	"Nuraddin #1" = 18
+	"Anthelia #0" = -1
+	"Solomôn #0" = 1
+	"Muhsin #0" = 1
+	"Raphaelkouda #0" = 1
+	"Orna #0" = 1
+	"Gulnar #0" = -1
+	"Yahya #0" = 1
+	"Ñašša #0" = -1
+	"Kinah #1" = -25
+	"Sa'ud #0" = 1
+	"Jamil #0" = 1
+	"Rasul #0" = 1
+	"Fayiz #0" = 1
+	"Hashmaddin #0" = 1
+	"Abdul-Wahad #0" = 1
+	"Khaterah #0" = -1
+	"Amir #1" = 18
+	"Ghazi #0" = 1
+	"Nuri #0" = 1
+	"Jahan #0" = 1
+	"Madiha #0" = -1
+	"Gulpari #0" = -1
+	"Farida #0" = -1
+	"Sirhan #0" = 1
+	"Sitara #0" = -1
+	"Nastaran #0" = -1
+	"Majid #1" = 18
+	"Rajiya #1" = -25
+	"Murad #0" = 1
+	"Nahal #0" = -1
+	"Niki #0" = -1
+	"Nazy #0" = -1
+	"Taimur #0" = 1
+	"Muzaffaraddin #0" = 1
+	"Akab #0" = 1
+	"Thana #0" = -1
+	"Karima #0" = -1
+	"Isa #2" = 24
+	"Nikoo #0" = -1
+	"Noushin #0" = -1
+	"Golbahar #1" = -19
+	"Munawwar #0" = -1
+	"Jalila #0" = -1
+	"Mukhtar #0" = 1
+	"Ibtisam #0" = -1
+	"Adhid #1" = 18
+	"Zahra #0" = -1
+	"Mahsa #0" = -1
+	"Muzaffar #2" = 18
+	"Sadiya #0" = -1
+	"Salahaddin #0" = 1
+	"Taweret #0" = -1
+	"Tawfiq #0" = 1
+	"Khandan #0" = -1
+	"Negar #0" = -1
+	"Muaddam #0" = 1
+	"Jamila #0" = -1
+	"Hafsa #0" = -1
+	"Azenet #0" = -1
+	"Asenath #0" = -1
+	"Asim #0" = 1
+	"Tawaret #0" = -1
+	"Gulnaz #0" = -1
+	"Minoo #0" = -1
+	"Khumarawayh #1" = 0
+	"Murshid #1" = 0
+	"Ashraf #1" = 0
+	"Al-Abbas #1" = 0
+	"Jawdat #1" = 0
+	"Ridwan #1" = 0
+	"Rana #1" = -1
+	"Abderahman #2" = 0
+	"Suhaila #1" = -1
+	"Samira #1" = -1
+	"Kosmas #1" = 0
+	"Maximos #1" = 0
+	"Ioustinos #1" = 0
+	"Amsha #1" = -1
+	"Mahdi #1" = 0
+	"Kyros #1" = 0
+	"Uways #1" = 0
+	"Jabir #1" = 0
+	"Faisal #1" = 0
+	"Aretee #1" = 0
+	"Yasovarman #1" = 0
+	"Yared #1" = 0
+	"Arsenios #1" = 0
+	"Akhom #1" = 0
+	"Pimen #1" = 0
+	"Abdul-Azeem #0" = 0
+	"Abdul-Hamid #0" = 0
+	"Adil #0" = 0
+	"Ala'i #0" = 0
+	"Aziz #0" = 0
+	"Boutros #0" = 0
+	"Da'ud #0" = 0
+	"Ibrahim #0" = 0
+	"Imamaddin #0" = 0
+	"Is'mail #0" = 0
+	"Ismat #0" = 0
+	"Kamran #0" = 0
+	"Nasraddin #0" = 0
+	"Radhi #0" = 0
+	"Seyfullah #0" = 0
+	"Sharaf #0" = 0
+	"Umaya #0" = 0
+	"Wahid #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

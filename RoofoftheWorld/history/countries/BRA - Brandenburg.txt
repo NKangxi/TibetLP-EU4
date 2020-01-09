@@ -1,0 +1,28 @@
+# Brandenburg
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = pommeranian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 51
+1403.5.25 = {
+	monarch = {
+		name = "Sigrid II"
+		birth_date = 1391.8.18
+		dynasty = "Snjalli"
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 51
+	add_treasury = 32
+	add_prestige = 204
+}

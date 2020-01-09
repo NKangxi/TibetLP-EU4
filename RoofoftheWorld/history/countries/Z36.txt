@@ -1,0 +1,28 @@
+# Lausitz
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1763
+1428.9.20 = {
+	monarch = {
+		name = "Engeltraud"
+		birth_date = 1415.5.20
+		dynasty = "af Taemswich"
+		female = yes
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 1763
+	add_treasury = 30
+	add_prestige = 153
+}

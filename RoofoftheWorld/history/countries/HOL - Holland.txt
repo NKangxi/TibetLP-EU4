@@ -1,0 +1,27 @@
+# Holland
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 98
+1439.5.19 = {
+	monarch = {
+		name = "Þora II"
+		birth_date = 1437.5.19
+		dynasty = "av Agder"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 98
+	add_treasury = 60
+	add_prestige = 72
+}

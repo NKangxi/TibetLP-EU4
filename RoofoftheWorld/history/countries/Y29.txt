@@ -1,0 +1,40 @@
+# Coloneia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = armenian
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 329
+1426.1.4 = {
+	monarch = {
+		name = "Bagrat"
+		birth_date = 1397.1.1
+		dynasty = "ve Samosata"
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = inspiring_leader_personality
+}
+1434.8.14 = {
+	heir = {
+		name = "Thoros"
+		monarch_name = "Thoros"
+		dynasty = "ve Samosata"
+		birth_date = 1434.8.14
+		death_date = 1514.8.14
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 329
+	add_treasury = 13
+	add_prestige = 180
+}

@@ -1,0 +1,25 @@
+# Calabria
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = norse_pagan_reformed
+capital = 2462
+1442.12.15 = {
+	monarch = {
+		name = "Sigrid III"
+		birth_date = 1442.10.15
+		dynasty = "Tariqid"
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2462
+	add_treasury = 198
+	add_prestige = 26
+}

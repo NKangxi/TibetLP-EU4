@@ -1,0 +1,27 @@
+# Gantulga
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = bon
+clear_scripted_personalities = yes
+capital = 4206
+1433.1.9 = {
+	monarch = {
+		name = "Ogodei"
+		birth_date = 1406.4.2
+		dynasty = "Gantulga"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 4206
+	add_treasury = 4
+	add_prestige = 246
+}

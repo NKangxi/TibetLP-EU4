@@ -1,0 +1,40 @@
+# Wroclaw
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 4238
+1429.6.5 = {
+	monarch = {
+		name = "Gyla"
+		birth_date = 1417.3.5
+		dynasty = "Eyjing"
+		female = yes
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = fierce_negotiator_personality
+	heir = {
+		name = "Margareta"
+		monarch_name = "Margareta"
+		dynasty = "Eyjing"
+		birth_date = 1424.11.5
+		death_date = 1504.11.5
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 4238
+	add_treasury = 63
+	add_prestige = 131
+}

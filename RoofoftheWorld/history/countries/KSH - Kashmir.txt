@@ -1,0 +1,27 @@
+# Kashmir
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 4209
+1420.7.15 = {
+	monarch = {
+		name = "Bilge"
+		birth_date = 1399.4.2
+		dynasty = "Monyul"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 4209
+	add_treasury = 50
+	add_prestige = 675
+}

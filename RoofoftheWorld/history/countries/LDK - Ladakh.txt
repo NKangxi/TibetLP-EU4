@@ -1,0 +1,27 @@
+# Ladakh
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2074
+1401.11.20 = {
+	monarch = {
+		name = "Isho II"
+		birth_date = 1399.12.14
+		dynasty = "Kyichu"
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 2074
+	add_treasury = 79
+	add_prestige = 1055
+}

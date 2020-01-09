@@ -1,0 +1,27 @@
+# Tuscany
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 116
+1444.7.23 = {
+	monarch = {
+		name = "Gurli"
+		birth_date = 1409.12.20
+		dynasty = "Viss"
+		female = yes
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 116
+	add_treasury = 136
+	add_prestige = 93
+}

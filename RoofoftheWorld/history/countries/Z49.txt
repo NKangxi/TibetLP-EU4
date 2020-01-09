@@ -1,0 +1,28 @@
+# Nefoud
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = bon
+clear_scripted_personalities = yes
+capital = 392
+1410.12.21 = {
+	monarch = {
+		name = "Zaynab"
+		birth_date = 1410.1.14
+		dynasty = "Nazeerid"
+		female = yes
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 392
+	add_treasury = 461
+	add_prestige = 181
+}

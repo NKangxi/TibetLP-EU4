@@ -1,0 +1,28 @@
+# Paris
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 183
+1410.12.25 = {
+	monarch = {
+		name = "Zeltzin"
+		birth_date = 1398.6.27
+		dynasty = "Ulfstand"
+		female = yes
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 183
+	add_treasury = 37
+	add_prestige = 387
+}

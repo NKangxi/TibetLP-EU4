@@ -1,0 +1,243 @@
+# Veps
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 120 155 80 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Mitrofan" "Agafya" "Yevstafiy" "Iziaslav" "Radoslav" "Sbyslava" "Pereyaslava" "Sofia" "Putiata" "Kirill" 
+	"Olga" "Dobroslava" "Liudmila" "Sviatopolk" "Dobrava" "Premyslava" "Verkhoslava" "Iliya" "Gleb" "Yefrosinia" 
+	"Irina" "Yaropolk" "Vladimir" "Praskovya" "Vseslava" "Vsevolod" "Lev" "Dobronega" "Vseslav" "Varvara" 
+	"Pribislava" "Nyayka" "Sviatoslava" "Vyshata" "Roman" "Vysheslav" "Vasiliy" "Rogneda" "Igor" "Yefimia" 
+	"Terentiy" "Yelizaveta" "Ingvar" "Rodislav" "Yaroslava" "Vasilisa" "Olena" "Marina" "Yeremey" "Viacheslav" 
+	"Voislav" "Yevpraxia" "Kinyak" "Viacheslava" "Fevronia" "Feodosia" "Trifon" "Yekaterina" "Mstislav" "Anastasia" 
+	"Rogvolod" "Gradislava" "Gavriil" "Vladislav" "Alexandra" "Feodora" "Zvenislava" "Nikita" "Ruslan" "Yefimiy" 
+	"Feodor" "Prebrana" "Sviatoslav" "Demid" "Ulyana" "Svetozar" "Predslava" "Darya" "Boleslava" "Veleslava" 
+	"Chechama" "Vasilko" "Yemelyan" "Rostislava" "Fedot" "Ulita" "Gorislava" "Aimo" "Miemo" "Asikko" 
+	"Tuure" "Kielo" "Elisabet" "Oiva" "Malusha" "Maija" "Urho" "Kettu" "Aamu" "Afanasiy" 
+	"Tuuli" "Pyry" "Ihanti" "Jalo" "Ensio" "Armas" "Aatos" "Ahma" "Arvo" "Haapa" 
+	"Hannu" "Havu" "Hintsa" "Into" "Jurva" "Kaleva" "Kalevi" "Kolli" "Lalli" "Lauri" 
+	"Lemetti" "Mielitty" "Mikko" "Onni" "Otso" "Päiviö" "Pentti" "Reko" "Sampo" "Satajalka" 
+	"Satatieto" "Seppo" "Susi" "Tapani" "Terho" "Toivo" "Ukko" "Uoti" "Väinö" "Valta" 
+	"Valto" "Veli" "Vesa" "Voitto" "Erkki" "Kaarle" "Johannes" "Risto" "Olavi" "Petri" 
+	"Henri" "Yrjö" "Valteri" "Riku" "Matti" "Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" 
+	"Aarto" "Asko" "Tuokko" "Rieti" "Kauro" "Kuuti" "Pekko" "Soini" "Turo" "Tommo" 
+	"Tohmas" }
+monarch_names = {
+	"Mitrofan #0" = 1
+	"Agafya #0" = -1
+	"Yevstafiy #1" = 27
+	"Iziaslav #0" = 1
+	"Radoslav #0" = 1
+	"Sbyslava #0" = -1
+	"Pereyaslava #0" = -1
+	"Sofia #1" = -25
+	"Putiata #1" = 21
+	"Kirill #0" = 1
+	"Olga #0" = -1
+	"Dobroslava #0" = -1
+	"Liudmila #0" = -1
+	"Sviatopolk #0" = 1
+	"Dobrava #0" = -1
+	"Premyslava #0" = -1
+	"Verkhoslava #0" = -1
+	"Iliya #1" = 21
+	"Gleb #0" = 1
+	"Yefrosinia #0" = -1
+	"Irina #0" = -1
+	"Yaropolk #0" = 1
+	"Vladimir #0" = 1
+	"Praskovya #0" = -1
+	"Vseslava #0" = -1
+	"Vsevolod #2" = 18
+	"Lev #0" = 1
+	"Dobronega #0" = -1
+	"Vseslav #2" = 33
+	"Varvara #0" = -1
+	"Pribislava #0" = -1
+	"Nyayka #0" = -1
+	"Sviatoslava #0" = -1
+	"Vyshata #0" = 1
+	"Roman #0" = 1
+	"Vysheslav #0" = 1
+	"Vasiliy #1" = 18
+	"Rogneda #0" = -1
+	"Igor #0" = 1
+	"Yefimia #0" = -1
+	"Terentiy #0" = 1
+	"Yelizaveta #0" = -1
+	"Ingvar #2" = 30
+	"Rodislav #1" = 18
+	"Yaroslava #0" = -1
+	"Vasilisa #0" = -1
+	"Olena #0" = -1
+	"Marina #0" = -1
+	"Yeremey #0" = 1
+	"Viacheslav #3" = 24
+	"Voislav #2" = 27
+	"Yevpraxia #0" = -1
+	"Kinyak #0" = 1
+	"Viacheslava #0" = -1
+	"Fevronia #0" = -1
+	"Feodosia #0" = -1
+	"Trifon #0" = 1
+	"Yekaterina #0" = -1
+	"Mstislav #0" = 1
+	"Anastasia #1" = -22
+	"Rogvolod #0" = 1
+	"Gradislava #0" = -1
+	"Gavriil #0" = 1
+	"Vladislav #0" = 1
+	"Alexandra #0" = -1
+	"Feodora #0" = -1
+	"Zvenislava #0" = -1
+	"Nikita #0" = 1
+	"Ruslan #0" = 1
+	"Yefimiy #0" = 1
+	"Feodor #0" = 1
+	"Prebrana #0" = -1
+	"Sviatoslav #0" = 1
+	"Demid #0" = 1
+	"Ulyana #1" = -19
+	"Svetozar #0" = 1
+	"Predslava #0" = -1
+	"Darya #0" = -1
+	"Boleslava #0" = -1
+	"Veleslava #1" = -28
+	"Chechama #0" = -1
+	"Vasilko #0" = 1
+	"Yemelyan #1" = 21
+	"Rostislava #0" = -1
+	"Fedot #0" = 1
+	"Ulita #0" = -1
+	"Gorislava #0" = -1
+	"Aimo #1" = 0
+	"Miemo #2" = 0
+	"Asikko #1" = 0
+	"Tuure #1" = 0
+	"Kielo #1" = -1
+	"Elisabet #1" = -1
+	"Oiva #1" = 0
+	"Malusha #1" = -1
+	"Maija #1" = -1
+	"Urho #1" = 0
+	"Kettu #1" = 0
+	"Aamu #1" = -1
+	"Afanasiy #1" = 0
+	"Tuuli #1" = -1
+	"Pyry #1" = 0
+	"Ihanti #1" = 0
+	"Jalo #1" = 0
+	"Ensio #1" = 0
+	"Armas #1" = 0
+	"Aatos #0" = 0
+	"Ahma #0" = 0
+	"Arvo #0" = 0
+	"Haapa #0" = 0
+	"Hannu #0" = 0
+	"Havu #0" = 0
+	"Hintsa #0" = 0
+	"Into #0" = 0
+	"Jurva #0" = 0
+	"Kaleva #0" = 0
+	"Kalevi #0" = 0
+	"Kolli #0" = 0
+	"Lalli #0" = 0
+	"Lauri #0" = 0
+	"Lemetti #0" = 0
+	"Mielitty #0" = 0
+	"Mikko #0" = 0
+	"Onni #0" = 0
+	"Otso #0" = 0
+	"Päiviö #0" = 0
+	"Pentti #0" = 0
+	"Reko #0" = 0
+	"Sampo #0" = 0
+	"Satajalka #0" = 0
+	"Satatieto #0" = 0
+	"Seppo #0" = 0
+	"Susi #0" = 0
+	"Tapani #0" = 0
+	"Terho #0" = 0
+	"Toivo #0" = 0
+	"Ukko #0" = 0
+	"Uoti #0" = 0
+	"Väinö #0" = 0
+	"Valta #0" = 0
+	"Valto #0" = 0
+	"Veli #0" = 0
+	"Vesa #0" = 0
+	"Voitto #0" = 0
+	"Erkki #0" = 0
+	"Kaarle #0" = 0
+	"Johannes #0" = 0
+	"Risto #0" = 0
+	"Olavi #0" = 0
+	"Petri #0" = 0
+	"Henri #0" = 0
+	"Yrjö #0" = 0
+	"Valteri #0" = 0
+	"Riku #0" = 0
+	"Matti #0" = 0
+	"Jaakoppi #0" = 0
+	"Taisto #0" = 0
+	"Paavo #0" = 0
+	"Aatso #0" = 0
+	"Ahvo #0" = 0
+	"Aarto #0" = 0
+	"Asko #0" = 0
+	"Tuokko #0" = 0
+	"Rieti #0" = 0
+	"Kauro #0" = 0
+	"Kuuti #0" = 0
+	"Pekko #0" = 0
+	"Soini #0" = 0
+	"Turo #0" = 0
+	"Tommo #0" = 0
+	"Tohmas #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

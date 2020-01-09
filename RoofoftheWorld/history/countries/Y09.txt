@@ -1,0 +1,40 @@
+# Tiflis
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 423
+1424.5.25 = {
+	monarch = {
+		name = "Belgunutei"
+		birth_date = 1393.8.13
+		dynasty = "Chonos"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1434.11.4 = {
+	heir = {
+		name = "Belgunutei"
+		monarch_name = "Belgunutei"
+		dynasty = "Chonos"
+		birth_date = 1434.11.4
+		death_date = 1514.11.4
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 423
+	add_treasury = 119
+	add_prestige = 296
+}

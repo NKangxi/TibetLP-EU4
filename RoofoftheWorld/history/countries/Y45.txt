@@ -1,0 +1,27 @@
+# Kairouan
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = aztek
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 4566
+1440.4.15 = {
+	monarch = {
+		name = "Atl"
+		birth_date = 1406.10.4
+		dynasty = "Moctezumid"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 4566
+	add_treasury = 666
+	add_prestige = 40
+}

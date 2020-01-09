@@ -1,0 +1,27 @@
+# Bulgarian Company
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 261
+1431.8.14 = {
+	monarch = {
+		name = "Boril"
+		birth_date = 1387.7.22
+		dynasty = "ot  Galich"
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 261
+	add_treasury = 3841
+	add_prestige = 93
+}

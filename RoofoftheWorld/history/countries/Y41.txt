@@ -1,0 +1,26 @@
+# Paraetonium
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 357
+1436.11.20 = {
+	monarch = {
+		name = "Abianos II"
+		birth_date = 1435.9.3
+		dynasty = "Qaimid"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 357
+	add_treasury = -124
+	add_prestige = 97
+}

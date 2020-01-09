@@ -1,0 +1,27 @@
+# Sanaa
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = tibetan
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 390
+1441.8.10 = {
+	monarch = {
+		name = "Desse"
+		birth_date = 1400.8.13
+		dynasty = "Hakiemid"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 390
+	add_treasury = 89
+	add_prestige = 160
+}

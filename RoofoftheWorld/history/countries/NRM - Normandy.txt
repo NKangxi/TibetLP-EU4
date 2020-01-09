@@ -1,0 +1,28 @@
+# Normandy
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 167
+1421.6.25 = {
+	monarch = {
+		name = "Iuitl"
+		birth_date = 1377.10.25
+		dynasty = "Quiauhxochitlid"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 167
+	add_treasury = 24
+	add_prestige = 155
+}

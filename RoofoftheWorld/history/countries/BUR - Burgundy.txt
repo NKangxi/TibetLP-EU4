@@ -1,0 +1,28 @@
+# Burgundy
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 192
+1429.1.27 = {
+	monarch = {
+		name = "Tlacotl III"
+		birth_date = 1396.1.8
+		dynasty = "Baselid"
+		female = yes
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = babbling_buffoon_personality
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 192
+	add_treasury = 49
+	add_prestige = 246
+}

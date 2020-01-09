@@ -1,0 +1,27 @@
+# Berbera
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = somali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 1209
+1430.12.24 = {
+	monarch = {
+		name = "Dhidhin II"
+		birth_date = 1404.7.23
+		dynasty = "Isavid"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 1209
+	add_treasury = 31
+	add_prestige = 148
+}

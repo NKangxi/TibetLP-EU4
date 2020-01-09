@@ -1,0 +1,25 @@
+# Basra
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = bon
+capital = 4288
+1444.6.5 = {
+	monarch = {
+		name = "Yondagmo"
+		birth_date = 1438.8.8
+		dynasty = "Khu"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 4288
+	add_treasury = 253
+	add_prestige = 18
+}

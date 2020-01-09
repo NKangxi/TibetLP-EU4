@@ -1,0 +1,28 @@
+# Perm
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = sunni
+clear_scripted_personalities = yes
+capital = 305
+1421.12.24 = {
+	monarch = {
+		name = "Pekshayka"
+		birth_date = 1383.8.10
+		dynasty = "Kichayid"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 305
+	add_treasury = 40
+	add_prestige = 144
+}

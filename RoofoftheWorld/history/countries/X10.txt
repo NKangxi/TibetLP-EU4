@@ -1,0 +1,25 @@
+# Sumparu
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+1442.7.9 = {
+	monarch = {
+		name = "Chöying"
+		birth_date = 1406.1.9
+		dynasty = "Nge"
+		female = yes
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	add_treasury = 227
+	add_prestige = 51
+}

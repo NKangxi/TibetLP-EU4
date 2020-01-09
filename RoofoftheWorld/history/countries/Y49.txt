@@ -1,0 +1,39 @@
+# Tangier
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = aztek
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 335
+1444.7.25 = {
+	monarch = {
+		name = "Khogaghchin"
+		birth_date = 1398.2.15
+		dynasty = "Khubilai"
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = sinner_personality
+	heir = {
+		name = "Mecatl"
+		monarch_name = "Mecatl"
+		dynasty = "Khubilai"
+		birth_date = 1420.10.3
+		death_date = 1500.10.3
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 335
+	add_treasury = 24
+	add_prestige = 185
+}

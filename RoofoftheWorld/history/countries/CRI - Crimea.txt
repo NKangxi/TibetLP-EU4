@@ -1,0 +1,26 @@
+# Crimea
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = zikri
+clear_scripted_personalities = yes
+capital = 1974
+1444.7.25 = {
+	monarch = {
+		name = "Hafiz"
+		birth_date = 1410.9.9
+		dynasty = "Hafizid"
+		adm = 5
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1974
+	add_treasury = 194
+	add_prestige = -40
+}

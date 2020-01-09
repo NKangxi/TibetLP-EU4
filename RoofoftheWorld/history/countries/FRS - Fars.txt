@@ -1,0 +1,27 @@
+# Fars
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 396
+1431.8.1 = {
+	monarch = {
+		name = "Mangsong"
+		birth_date = 1415.8.26
+		dynasty = "Zhungpa"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 396
+	add_treasury = 64
+	add_prestige = 116
+}

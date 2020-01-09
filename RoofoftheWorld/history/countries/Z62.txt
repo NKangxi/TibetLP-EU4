@@ -1,0 +1,39 @@
+# Ancona
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 119
+1444.7.25 = {
+	monarch = {
+		name = "Ulfhildr"
+		birth_date = 1409.11.16
+		dynasty = "af Serravalle"
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+	heir = {
+		name = "Katarina"
+		monarch_name = "Katarina"
+		dynasty = "af Serravalle"
+		birth_date = 1429.12.22
+		death_date = 1509.12.22
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 119
+	add_treasury = 36
+	add_prestige = 158
+}

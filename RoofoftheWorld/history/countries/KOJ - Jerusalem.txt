@@ -1,0 +1,27 @@
+# Jerusalem
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 379
+1428.8.24 = {
+	monarch = {
+		name = "Fayiz II"
+		birth_date = 1427.9.7
+		dynasty = "Padda"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 379
+	add_treasury = 103
+	add_prestige = 438
+}

@@ -1,0 +1,27 @@
+# Lower Lorraine
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1878
+1439.12.20 = {
+	monarch = {
+		name = "Halla"
+		birth_date = 1402.4.8
+		dynasty = "av Agder"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1878
+	add_treasury = 5
+	add_prestige = 84
+}

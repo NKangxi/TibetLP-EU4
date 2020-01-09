@@ -1,0 +1,27 @@
+# Beja
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 4150
+1438.9.28 = {
+	monarch = {
+		name = "Ingfrid"
+		birth_date = 1417.5.8
+		dynasty = "Griphuvud"
+		female = yes
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 4150
+	add_treasury = 38
+	add_prestige = 73
+}

@@ -1,0 +1,28 @@
+# Skalvia
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 40
+1416.9.10 = {
+	monarch = {
+		name = "Hafrid"
+		birth_date = 1383.12.13
+		dynasty = "Sognsdal"
+		female = yes
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 40
+	add_treasury = 204
+	add_prestige = 198
+}

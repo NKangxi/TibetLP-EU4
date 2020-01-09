@@ -1,0 +1,295 @@
+# Wessex
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 241 45 53 }
+historical_idea_groups = {
+	plutocracy_ideas
+	naval_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	french_caracolle
+	irish_charge
+	anglofrench_line
+	french_dragoon
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Ingemar" "Geirr" "Totil" "Bodil" "Gunnhildr" "Sofia" "Fredrik" "Haraldr" "Svanhildr" "Ulfhildr" 
+	"Karin" "Sigbjörn" "Ofeig" "Skuli" "Sölvi" "Helgi" "Vigdis" "Anundr" "Jedvard" "Bersi" 
+	"Dan" "Linda" "Emund" "Alvör" "Alfrið" "Sverker" "Aslaug" "Hakon" "Björg" "Elaf" 
+	"Cerdic" "Cynric" "Ceawlin" "Ceol" "Ceolwulf" "Cynegils" "Coenwalh" "Æscwine" "Centwine" "Cædwalla" 
+	"Ine" "Æthelheard" "Cuthred" "Sigeberht" "Cynewulf" "Beorhtric" "Ecgberht" "Æthelwulf" "Æthelbald" "Æthelbert" 
+	"Æthelred" "Alfred" "Cynehild" "Guthfrith" "Oshere" "Rædwulf" "Eadbald" "Hacon" "Hereweard" "Æthelstan" 
+	"Sigeræd" "Itzcoatl" "Yayauhqui" "Chicahua" "Coatl" "Xochitl" "Nezahualcoyotl" "Totoquihuaztli" "Izel" "Acolmiztli" 
+	"Eirikr" "Aleta" "Henrik" "Zwinislawa" "Salomea" "Sieciech" "Kristina" "Martha" "Eastmund" "Leofric" 
+	"Rikulfr" "Sara" "Katarina" "Gyrið" "Sif" "Gyða" "Tadane" "Bothildr" "Gisela" "Ingrid" 
+	"Saga" "Rögnhildr" "Elin" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Arnbjörn" "Arngrimr" 
+	"Arni" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bertil" "Birger" "Björn" 
+	"Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dyre" "Eilif" "Egill" "Einarr" 
+	"Eskild" "Falki" "Faste" "Filip" "Frirek" "Froði" "Freyr" "Folki" "Gandalfr" "Georg" 
+	"Gnupa" "Gorm" "Greger" "Grimr" "Guðfrið" "Guðmundr" "Guðröðr" "Gunnarr" "Halsten" "Haukr" 
+	"Hemming" "Holmger" "Hrafn" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" 
+	"Hysing" "Ingólfr" "Ingjald" "Ivar" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" "Klas" 
+	"Knut" "Kol" "Kolbjörn" "Markus" "Magni" "Mats" "Nils" "Niklas" "Oddr" "Olafr" 
+	"Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rögnvaldr" "Snorri" "Sigtrygg" "Sigurðr" "Starkaðr" 
+	"Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" "Sæmundr" "Sörkver" "Tjudmund" 
+	"Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" "Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" 
+	"Tryggve" "Tyke" "Ulfr" "Vagn" "Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
+monarch_names = {
+	"Ingemar #0" = 1
+	"Geirr #0" = 1
+	"Totil #0" = 1
+	"Bodil #1" = -22
+	"Gunnhildr #2" = -25
+	"Sofia #1" = -19
+	"Fredrik #0" = 1
+	"Haraldr #0" = 1
+	"Svanhildr #0" = -1
+	"Ulfhildr #1" = -22
+	"Karin #1" = -19
+	"Sigbjörn #0" = 1
+	"Ofeig #0" = 1
+	"Skuli #0" = 1
+	"Sölvi #0" = 1
+	"Helgi #0" = 1
+	"Vigdis #0" = -1
+	"Anundr #0" = 1
+	"Jedvard #0" = 1
+	"Bersi #0" = 1
+	"Dan #0" = 1
+	"Linda #0" = -1
+	"Emund #0" = 1
+	"Alvör #0" = -1
+	"Alfrið #0" = -1
+	"Sverker #0" = 1
+	"Aslaug #0" = -1
+	"Hakon #0" = 1
+	"Björg #0" = -1
+	"Elaf #1" = 0
+	"Cerdic #2" = 0
+	"Cynric #1" = 0
+	"Ceawlin #1" = 0
+	"Ceol #1" = 0
+	"Ceolwulf #1" = 0
+	"Cynegils #1" = 0
+	"Coenwalh #1" = 0
+	"Æscwine #1" = 0
+	"Centwine #1" = 0
+	"Cædwalla #1" = 0
+	"Ine #1" = 0
+	"Æthelheard #1" = 0
+	"Cuthred #1" = 0
+	"Sigeberht #1" = 0
+	"Cynewulf #1" = 0
+	"Beorhtric #1" = 0
+	"Ecgberht #1" = 0
+	"Æthelwulf #1" = 0
+	"Æthelbald #1" = 0
+	"Æthelbert #1" = 0
+	"Æthelred #1" = 0
+	"Alfred #1" = 0
+	"Cynehild #1" = -1
+	"Guthfrith #1" = 0
+	"Oshere #1" = 0
+	"Rædwulf #1" = 0
+	"Eadbald #1" = 0
+	"Hacon #1" = 0
+	"Hereweard #1" = 0
+	"Æthelstan #1" = 0
+	"Sigeræd #1" = 0
+	"Itzcoatl #1" = 0
+	"Yayauhqui #1" = 0
+	"Chicahua #1" = -1
+	"Coatl #1" = 0
+	"Xochitl #1" = -1
+	"Nezahualcoyotl #1" = 0
+	"Totoquihuaztli #1" = 0
+	"Izel #1" = -1
+	"Acolmiztli #1" = 0
+	"Eirikr #1" = 0
+	"Aleta #1" = -1
+	"Henrik #1" = 0
+	"Zwinislawa #1" = -1
+	"Salomea #1" = -1
+	"Sieciech #1" = 0
+	"Kristina #1" = -1
+	"Martha #1" = -1
+	"Eastmund #1" = 0
+	"Leofric #1" = 0
+	"Rikulfr #1" = 0
+	"Sara #1" = -1
+	"Katarina #1" = -1
+	"Gyrið #1" = -1
+	"Sif #1" = -1
+	"Gyða #1" = -1
+	"Tadane #1" = -1
+	"Bothildr #1" = -1
+	"Gisela #1" = -1
+	"Ingrid #1" = -1
+	"Saga #1" = -1
+	"Rögnhildr #2" = -1
+	"Elin #1" = -1
+	"Ale #0" = 0
+	"Alfr #0" = 0
+	"Alfgeir #0" = 0
+	"Anders #0" = 0
+	"Anlaufr #0" = 0
+	"Arnbjörn #0" = 0
+	"Arngrimr #0" = 0
+	"Arni #0" = 0
+	"Arnfast #0" = 0
+	"Asbjörn #0" = 0
+	"Bagge #0" = 0
+	"Baldr #0" = 0
+	"Barid #0" = 0
+	"Bengt #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Bo #0" = 0
+	"Borkvard #0" = 0
+	"Botulfr #0" = 0
+	"Bragi #0" = 0
+	"Buðli #0" = 0
+	"Dag #0" = 0
+	"Dyre #0" = 0
+	"Eilif #0" = 0
+	"Egill #0" = 0
+	"Einarr #0" = 0
+	"Eskild #0" = 0
+	"Falki #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Frirek #0" = 0
+	"Froði #0" = 0
+	"Freyr #0" = 0
+	"Folki #0" = 0
+	"Gandalfr #0" = 0
+	"Georg #0" = 0
+	"Gnupa #0" = 0
+	"Gorm #0" = 0
+	"Greger #0" = 0
+	"Grimr #0" = 0
+	"Guðfrið #0" = 0
+	"Guðmundr #0" = 0
+	"Guðröðr #0" = 0
+	"Gunnarr #0" = 0
+	"Halsten #0" = 0
+	"Haukr #0" = 0
+	"Hemming #0" = 0
+	"Holmger #0" = 0
+	"Hrafn #0" = 0
+	"Hrolfr #0" = 0
+	"Hrane #0" = 0
+	"Hæsteinn #0" = 0
+	"Hjalmar #0" = 0
+	"Hroðgar #0" = 0
+	"Hroðulfr #0" = 0
+	"Hrörekr #0" = 0
+	"Hysing #0" = 0
+	"Ingólfr #0" = 0
+	"Ingjald #0" = 0
+	"Ivar #0" = 0
+	"Jon #0" = 0
+	"Karl #0" = 0
+	"Kettil #0" = 0
+	"Kettilmund #0" = 0
+	"Kjartan #0" = 0
+	"Klas #0" = 0
+	"Knut #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Markus #0" = 0
+	"Magni #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Oddr #0" = 0
+	"Olafr #0" = 0
+	"Ormr #0" = 0
+	"Ottarr #0" = 0
+	"Refr #0" = 0
+	"Refil #0" = 0
+	"Ragnarr #0" = 0
+	"Rögnvaldr #0" = 0
+	"Snorri #0" = 0
+	"Sigtrygg #0" = 0
+	"Sigurðr #0" = 0
+	"Starkaðr #0" = 0
+	"Steinn #0" = 0
+	"Sturla #0" = 0
+	"Styrbjörn #0" = 0
+	"Styrkar #0" = 0
+	"Sumarliði #0" = 0
+	"Suni #0" = 0
+	"Sveinn #0" = 0
+	"Sæmundr #0" = 0
+	"Sörkver #0" = 0
+	"Tjudmund #0" = 0
+	"Toke #0" = 0
+	"Tolir #0" = 0
+	"Þorbjörn #0" = 0
+	"Þorfinn #0" = 0
+	"Þorbrandr #0" = 0
+	"Þordr #0" = 0
+	"Þorgil #0" = 0
+	"Þorsteinn #0" = 0
+	"Þorolfr #0" = 0
+	"Toste #0" = 0
+	"Tryggve #0" = 0
+	"Tyke #0" = 0
+	"Ulfr #0" = 0
+	"Vagn #0" = 0
+	"Valdemar #0" = 0
+	"Åke #0" = 0
+	"Yngvar #0" = 0
+	"Örvar #0" = 0
+	"Öysteinn #0" = 0
+}
+ship_names = {
+	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious
+	Bear Bellerophon Bonaventure Boyne Britannia Buckingham
+	Charles Christ Constant Convertine Culloden Cumberland
+	Defence Defiance Destiny Dragon Dreadnought
+	"Edward Howard" Elizabeth Eltham Essex Expedition
+	Foresight Foudroyant
+	"Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara" "Great Bark" "Great Elizabeth" "Great Harry" "Great Nicholas" Guernsey
+	Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope
+	James "John Baptist"
+	"Katherine Forteleza" Kent
+	Leander Leopard Lion
+	Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
+	Nonpareil Nonsuch Northumberland Nottingham
+	Orion
+	Peter Providence "Prince Frederick"
+	"Queen Charlotte"
+	Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" 
+	"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure 
+	Theseus Tigre Tramontana Triumph
+	Unicorn Union
+	Vanguard Victory
+	Warspite Worcester
+}
+

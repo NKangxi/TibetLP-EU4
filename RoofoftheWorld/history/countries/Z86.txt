@@ -1,0 +1,41 @@
+# Pskov
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 274
+1437.3.11 = {
+	monarch = {
+		name = "Helena"
+		birth_date = 1408.4.24
+		dynasty = "Eyjing"
+		female = yes
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = strict_personality
+}
+1437.10.9 = {
+	heir = {
+		name = "Grima"
+		monarch_name = "Grima"
+		dynasty = "Eyjing"
+		birth_date = 1437.10.9
+		death_date = 1517.10.9
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+	add_heir_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 274
+	add_treasury = 12
+	add_prestige = 109
+}

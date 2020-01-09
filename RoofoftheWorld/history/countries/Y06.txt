@@ -1,0 +1,26 @@
+# Pinsk
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = turkish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 278
+1443.4.26 = {
+	monarch = {
+		name = "Ertekin"
+		birth_date = 1408.4.6
+		dynasty = "Rustemid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 278
+	add_treasury = 108
+	add_prestige = 40
+}

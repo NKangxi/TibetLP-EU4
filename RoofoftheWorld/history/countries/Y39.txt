@@ -1,0 +1,27 @@
+# Shewa
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 1213
+1428.9.3 = {
+	monarch = {
+		name = "Teruworq"
+		birth_date = 1397.3.28
+		dynasty = " Ankober"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1213
+	add_treasury = 49
+	add_prestige = 45
+}

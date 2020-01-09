@@ -1,0 +1,27 @@
+# Dihistan
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = cuman
+religion = bon
+clear_scripted_personalities = yes
+capital = 2349
+1437.12.12 = {
+	monarch = {
+		name = "Nanamsa"
+		birth_date = 1421.11.3
+		dynasty = "Myang"
+		female = yes
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 2349
+	add_treasury = 338
+	add_prestige = 16
+}

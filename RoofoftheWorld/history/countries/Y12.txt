@@ -1,0 +1,27 @@
+# Duuaid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2417
+1426.12.30 = {
+	monarch = {
+		name = "Duua"
+		birth_date = 1395.11.26
+		dynasty = "Duuaid"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 2417
+	add_treasury = 13
+	add_prestige = 113
+}

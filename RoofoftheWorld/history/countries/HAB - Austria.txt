@@ -1,0 +1,27 @@
+# Austria
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = carantanian
+religion = bogomilist
+clear_scripted_personalities = yes
+capital = 134
+1427.3.1 = {
+	monarch = {
+		name = "Stojce"
+		birth_date = 1422.5.3
+		dynasty = "Bojanic"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 134
+	add_treasury = 73
+	add_prestige = 238
+}

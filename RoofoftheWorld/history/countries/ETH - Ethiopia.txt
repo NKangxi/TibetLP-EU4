@@ -1,0 +1,27 @@
+# Abyssinia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2764
+1441.3.26 = {
+	monarch = {
+		name = "Bekele II"
+		birth_date = 1413.3.2
+		dynasty = "Bekele"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2764
+	add_treasury = 6
+	add_prestige = 184
+}

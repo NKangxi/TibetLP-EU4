@@ -1,0 +1,176 @@
+# Khudbardid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 156 188 88 }
+
+
+
+
+leader_names = {
+
+	"Khudbard" "Çiltanesi" "Gundes" "Sevar" "Ikalay" "Malamir" "Songul" "Paykëlti" "Inancha" "Sirma" 
+	"Sarikel" "Tähtani" "Organa" "Yartilek" "Ilkay" "Ipek" "Bozçin" "Peksen" "Gulay" "Mala" 
+	"Almish" "Samur" "Shurkka" "Savtilek" "Usunbike" "Alzek" "Çeçeppi" "Tatra" "Sarkhan" "Sabin" 
+	"Sarica" "Savaçka" "Chanai" "Asli" "Dristar" "Anzi" "Apskhih" "Araslan" "Asparukh" "Balamber" 
+	"Bars" "Bataul" "Batbayan" "Batoya" "Batulia" "Bayan" "Belkermak" "Bezmer" "Boyan" "Bulger" 
+	"Buzan" "Chepa" "Chinialush" "Dengizikh" "Dizeng" "Dometa" "Drong" "Dukum" "Ellak" "Elemag" 
+	"Ernakh" "Eskhakh" "Goleda" "Gostun" "Guar" "Hudbad" "Iani" "Irnek" "Isbul" "Islivan" 
+	"Isperikh" "Ispor" "Kälaç" "Kano" "Karan" "Karaton" "Kardam" "Kharaton" "Khinialon" "Kordil" 
+	"Kormesiy" "Kormisosh" "Kotrag" "Krovat" "Krum" "Kuber" "Kubrat" "Kurt" "Kutrigur" "Kuvrat" 
+	"Labertam" "Magotin" "Mugel" "Odolgan" "Okhsi" "Okhsun" "Okors" "Omurtag" "Onegavon" "Organ" 
+	"Ornag" "Oshi" "Ostro" "Pagan" "Pakhtiyar" "Paväl" "Praksa" "Rassate" "Rugila" "Sandil" 
+	"Sandilkh" "Sartäç" "Savin" "Shilki" "Sondoke" "Tähtaman" "Tarasiy" "Taridin" "Telec" "Telerig" 
+	"Tervel" "Timër" "Timëreç" "Timërpälat" "Tingiz" "Tiradin" "Tokhtaman" "Toktu" "Tsog" "Tsul" 
+	"Tuk" "Umor" "Uturgur" "Vakrim" "Venda" "Vetam" "Vinekh" "Yani" "Yavantey" "Yençepi" 
+	"Yerneslu" "Yeçtirek" "Zabergan" "Zenti" "Tukiy" "Aydar" "Irkhan" "Batir" }
+monarch_names = {
+	"Khudbard #1" = 24
+	"Çiltanesi #0" = -1
+	"Gundes #0" = -1
+	"Sevar #1" = 18
+	"Ikalay #0" = -1
+	"Malamir #0" = 1
+	"Songul #0" = -1
+	"Paykëlti #0" = -1
+	"Inancha #0" = 1
+	"Sirma #0" = -1
+	"Sarikel #0" = -1
+	"Tähtani #0" = -1
+	"Organa #0" = 1
+	"Yartilek #0" = -1
+	"Ilkay #0" = -1
+	"Ipek #0" = -1
+	"Bozçin #0" = -1
+	"Peksen #0" = -1
+	"Gulay #0" = -1
+	"Mala #0" = -1
+	"Almish #0" = 1
+	"Samur #0" = -1
+	"Shurkka #0" = -1
+	"Savtilek #0" = -1
+	"Usunbike #0" = -1
+	"Alzek #0" = 1
+	"Çeçeppi #0" = -1
+	"Tatra #0" = 1
+	"Sarkhan #0" = 1
+	"Sabin #0" = 1
+	"Sarica #0" = -1
+	"Savaçka #0" = -1
+	"Chanai #0" = 1
+	"Asli #0" = -1
+	"Dristar #0" = 1
+	"Anzi #0" = 0
+	"Apskhih #0" = 0
+	"Araslan #0" = 0
+	"Asparukh #0" = 0
+	"Balamber #0" = 0
+	"Bars #0" = 0
+	"Bataul #0" = 0
+	"Batbayan #0" = 0
+	"Batoya #0" = 0
+	"Batulia #0" = 0
+	"Bayan #0" = 0
+	"Belkermak #0" = 0
+	"Bezmer #0" = 0
+	"Boyan #0" = 0
+	"Bulger #0" = 0
+	"Buzan #0" = 0
+	"Chepa #0" = 0
+	"Chinialush #0" = 0
+	"Dengizikh #0" = 0
+	"Dizeng #0" = 0
+	"Dometa #0" = 0
+	"Drong #0" = 0
+	"Dukum #0" = 0
+	"Ellak #0" = 0
+	"Elemag #0" = 0
+	"Ernakh #0" = 0
+	"Eskhakh #0" = 0
+	"Goleda #0" = 0
+	"Gostun #0" = 0
+	"Guar #0" = 0
+	"Hudbad #0" = 0
+	"Iani #0" = 0
+	"Irnek #0" = 0
+	"Isbul #0" = 0
+	"Islivan #0" = 0
+	"Isperikh #0" = 0
+	"Ispor #0" = 0
+	"Kälaç #0" = 0
+	"Kano #0" = 0
+	"Karan #0" = 0
+	"Karaton #0" = 0
+	"Kardam #0" = 0
+	"Kharaton #0" = 0
+	"Khinialon #0" = 0
+	"Kordil #0" = 0
+	"Kormesiy #0" = 0
+	"Kormisosh #0" = 0
+	"Kotrag #0" = 0
+	"Krovat #0" = 0
+	"Krum #0" = 0
+	"Kuber #0" = 0
+	"Kubrat #0" = 0
+	"Kurt #0" = 0
+	"Kutrigur #0" = 0
+	"Kuvrat #0" = 0
+	"Labertam #0" = 0
+	"Magotin #0" = 0
+	"Mugel #0" = 0
+	"Odolgan #0" = 0
+	"Okhsi #0" = 0
+	"Okhsun #0" = 0
+	"Okors #0" = 0
+	"Omurtag #0" = 0
+	"Onegavon #0" = 0
+	"Organ #0" = 0
+	"Ornag #0" = 0
+	"Oshi #0" = 0
+	"Ostro #0" = 0
+	"Pagan #0" = 0
+	"Pakhtiyar #0" = 0
+	"Paväl #0" = 0
+	"Praksa #0" = 0
+	"Rassate #0" = 0
+	"Rugila #0" = 0
+	"Sandil #0" = 0
+	"Sandilkh #0" = 0
+	"Sartäç #0" = 0
+	"Savin #0" = 0
+	"Shilki #0" = 0
+	"Sondoke #0" = 0
+	"Tähtaman #0" = 0
+	"Tarasiy #0" = 0
+	"Taridin #0" = 0
+	"Telec #0" = 0
+	"Telerig #0" = 0
+	"Tervel #0" = 0
+	"Timër #0" = 0
+	"Timëreç #0" = 0
+	"Timërpälat #0" = 0
+	"Tingiz #0" = 0
+	"Tiradin #0" = 0
+	"Tokhtaman #0" = 0
+	"Toktu #0" = 0
+	"Tsog #0" = 0
+	"Tsul #0" = 0
+	"Tuk #0" = 0
+	"Umor #0" = 0
+	"Uturgur #0" = 0
+	"Vakrim #0" = 0
+	"Venda #0" = 0
+	"Vetam #0" = 0
+	"Vinekh #0" = 0
+	"Yani #0" = 0
+	"Yavantey #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+	"Zabergan #0" = 0
+	"Zenti #0" = 0
+	"Tukiy #0" = 0
+	"Aydar #0" = 0
+	"Irkhan #0" = 0
+	"Batir #0" = 0
+}
+

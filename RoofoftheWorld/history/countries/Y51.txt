@@ -1,0 +1,27 @@
+# Kosala
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2063
+1441.10.16 = {
+	monarch = {
+		name = "Kelzang"
+		birth_date = 1398.9.10
+		dynasty = "Bel"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2063
+	add_treasury = 251
+	add_prestige = 580
+}

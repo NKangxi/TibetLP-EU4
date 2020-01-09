@@ -1,0 +1,183 @@
+# Berbera
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 127 151 52 }
+
+
+
+
+leader_names = {
+
+	"Hakam" "Sheba" "Dilla" "Bathsheba" "Retta" "Misrak" "Demissie" "Mengesha" "Ogbai" "Adanech" 
+	"Tariku" "Kess" "Bekele" "Dhidhin" "Negasi" "Nazaneen" "Sa'ud" "Marwa" "Muzaffaraddin" "Ala'i" 
+	"Hashmaddin" "Isa" "Sitara" "Kadidu" "Abdul-Haleem" "Abdul-Wahad" "Afalku" "Negar" "Nuri" "Ixzi" 
+	"Kinah" "Taheyyatt" "Kamran" "Pesanthia" "Aszellay" "Lwiza" "Zahir" "T'awes" "Kulla" "Kamila" 
+	"Adhid" "Niki" "Mas'ud" "Eudosia" "Patrikia" "Prochoros" "Ephannê" "Ñašša" "Hoassi" "Gabrielkouda" 
+	"Menankouda" "Añgelos" "Makeda" "Sergios" "Leontios" "Girma" "Asli" "Dobira" "Chrissa" "Ñojjl" 
+	"Aman" "Penatti" "Mulki" "Gondar" "Sisay" "Gebereal" "Amare" "Selassie" "Abebe" "Berhane" 
+	"Semhar" "Geteye" "Makda" "Falasha" "Teka" "Zula" "Hil" "Irir" "Alaso" "Semeah" 
+	"Abdul-Qadir" "Amsha" "Ramadan" "Nasr" "Benaim" "Hakeem" "Eirotatouññlki" "Eusebia" "Ñouddl" "Fadl" 
+	"Shararah" "Hêlias" "Philotheos" "Nafisa" "Geesi" "Sa'ad" "Epiphanios" "Mubarak" "Halil" "Murad" 
+	"Shaiban" "Haeran" "Abadir" "Abdale" "Abdirahman" "Abdulah" "Abram" "Adan" "Adeer" "Ahmed" 
+	"Amlale" "Aul" "Awe" "Aydahis" "Balad" "Baraka" "Barakat" "Ciise" "Dagale" "Hamalmal" 
+	"Hamar" "Hamid" "Hantale" "Haqq" "Harire" "Ibrahim" "Isman" "Jamal" "Kadhafo" "Kedafu" 
+	"Khalaf" "Liban" "Mahammad" "Mahamed" "Mahamud" "Mansur" "Nahwi" "Naleye" "Nassir" "Nur" 
+	"Omer" "Sa'adaddin" "Sabir" "Sabr" "Sabraddin" "Sadiq" "Salah" "Siciid" "Talha" "Umar" 
+	"Umardin" "Yayyo" "Yusuf" "Zuber" }
+monarch_names = {
+	"Hakam #0" = 1
+	"Sheba #0" = -1
+	"Dilla #0" = -1
+	"Bathsheba #0" = -1
+	"Retta #0" = -1
+	"Misrak #0" = -1
+	"Demissie #0" = 1
+	"Mengesha #0" = 1
+	"Ogbai #0" = 1
+	"Adanech #0" = -1
+	"Tariku #1" = 21
+	"Kess #0" = -1
+	"Bekele #0" = -1
+	"Dhidhin #2" = 21
+	"Negasi #1" = 21
+	"Nazaneen #0" = -1
+	"Sa'ud #0" = 1
+	"Marwa #0" = -1
+	"Muzaffaraddin #0" = 1
+	"Ala'i #0" = 1
+	"Hashmaddin #0" = 1
+	"Isa #0" = 1
+	"Sitara #0" = -1
+	"Kadidu #0" = 1
+	"Abdul-Haleem #0" = 1
+	"Abdul-Wahad #0" = 1
+	"Afalku #0" = 1
+	"Negar #0" = -1
+	"Nuri #0" = 1
+	"Ixzi #0" = 1
+	"Kinah #0" = -1
+	"Taheyyatt #0" = -1
+	"Kamran #0" = 1
+	"Pesanthia #0" = -1
+	"Aszellay #0" = 1
+	"Lwiza #0" = -1
+	"Zahir #0" = 1
+	"T'awes #0" = -1
+	"Kulla #0" = -1
+	"Kamila #0" = -1
+	"Adhid #0" = 1
+	"Niki #0" = -1
+	"Mas'ud #0" = 1
+	"Eudosia #1" = -19
+	"Patrikia #0" = -1
+	"Prochoros #0" = 1
+	"Ephannê #0" = 1
+	"Ñašša #0" = -1
+	"Hoassi #0" = 1
+	"Gabrielkouda #0" = 1
+	"Menankouda #0" = 1
+	"Añgelos #0" = 1
+	"Makeda #0" = -1
+	"Sergios #1" = 18
+	"Leontios #0" = 1
+	"Girma #0" = 1
+	"Asli #0" = -1
+	"Dobira #0" = -1
+	"Chrissa #0" = -1
+	"Ñojjl #0" = -1
+	"Aman #0" = 1
+	"Penatti #0" = -1
+	"Mulki #0" = -1
+	"Gondar #0" = 1
+	"Sisay #0" = -1
+	"Gebereal #0" = 1
+	"Amare #0" = 1
+	"Selassie #0" = 1
+	"Abebe #0" = 1
+	"Berhane #0" = -1
+	"Semhar #0" = -1
+	"Geteye #0" = 1
+	"Makda #0" = -1
+	"Falasha #0" = -1
+	"Teka #0" = 1
+	"Zula #0" = 1
+	"Hil #1" = 0
+	"Irir #1" = 0
+	"Alaso #1" = -1
+	"Semeah #2" = -1
+	"Abdul-Qadir #1" = 0
+	"Amsha #1" = -1
+	"Ramadan #2" = 0
+	"Nasr #1" = 0
+	"Benaim #1" = 0
+	"Hakeem #1" = 0
+	"Eirotatouññlki #1" = -1
+	"Eusebia #1" = -1
+	"Ñouddl #1" = -1
+	"Fadl #1" = 0
+	"Shararah #1" = -1
+	"Hêlias #1" = 0
+	"Philotheos #1" = 0
+	"Nafisa #1" = -1
+	"Geesi #1" = -1
+	"Sa'ad #1" = 0
+	"Epiphanios #1" = 0
+	"Mubarak #1" = 0
+	"Halil #1" = 0
+	"Murad #1" = 0
+	"Shaiban #1" = 0
+	"Haeran #1" = 0
+	"Abadir #0" = 0
+	"Abdale #0" = 0
+	"Abdirahman #0" = 0
+	"Abdulah #0" = 0
+	"Abram #0" = 0
+	"Adan #0" = 0
+	"Adeer #0" = 0
+	"Ahmed #0" = 0
+	"Amlale #0" = 0
+	"Aul #0" = 0
+	"Awe #0" = 0
+	"Aydahis #0" = 0
+	"Balad #0" = 0
+	"Baraka #0" = 0
+	"Barakat #0" = 0
+	"Ciise #0" = 0
+	"Dagale #0" = 0
+	"Hamalmal #0" = 0
+	"Hamar #0" = 0
+	"Hamid #0" = 0
+	"Hantale #0" = 0
+	"Haqq #0" = 0
+	"Harire #0" = 0
+	"Ibrahim #0" = 0
+	"Isman #0" = 0
+	"Jamal #0" = 0
+	"Kadhafo #0" = 0
+	"Kedafu #0" = 0
+	"Khalaf #0" = 0
+	"Liban #0" = 0
+	"Mahammad #0" = 0
+	"Mahamed #0" = 0
+	"Mahamud #0" = 0
+	"Mansur #0" = 0
+	"Nahwi #0" = 0
+	"Naleye #0" = 0
+	"Nassir #0" = 0
+	"Nur #0" = 0
+	"Omer #0" = 0
+	"Sa'adaddin #0" = 0
+	"Sabir #0" = 0
+	"Sabr #0" = 0
+	"Sabraddin #0" = 0
+	"Sadiq #0" = 0
+	"Salah #0" = 0
+	"Siciid #0" = 0
+	"Talha #0" = 0
+	"Umar #0" = 0
+	"Umardin #0" = 0
+	"Yayyo #0" = 0
+	"Yusuf #0" = 0
+	"Zuber #0" = 0
+}
+

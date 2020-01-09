@@ -1,0 +1,320 @@
+# Rostov
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 124 137 89 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Åke" "Yelizaveta" "Ruslan" "Voislav" "Oleg" "Yaropolk" "Vladimir" "Tekay" "Putiata" "Yekaterina" 
+	"Marina" "Mstislav" "Praskovya" "Prebrana" "Yevdokia" "Litova" "Rögnvaldr" "Grimr" "Inga" "Rikissa" 
+	"Snorri" "Eskild" "Gunnhildr" "Helena" "Ulfr" "Sumarliði" "Hrolfr" "Holmfrid" "Ingrid" "Guðmundr" 
+	"Þyra" "Sif" "Sveinn" "Dag" "Alfhildr" "Yrsa" "Elin" "Guðrun" "Freyr" "Bodil" 
+	"Gyrið" "Kraka" "Halsten" "Gloð" "Elisabet" "Ingemar" "Linda" "Gerðr" "Öysteinn" "Sigrid" 
+	"Margareta" "Rodislav" "Egill" "Svetozar" "Ofeig" "Freyja" "Feodosia" "Gurli" "Asa" "Þora" 
+	"Astrid" "Þorolfr" "Sigurðr" "Eirikr" "Zabava" "Faste" "Refr" "Kolbjörn" "Darya" "Sara" 
+	"Volodar" "Rogneda" "Halla" "Pereyaslava" "Vseslav" "Maer" "Trifon" "Xenia" "Olena" "Liubava" 
+	"Rögnfrið" "Vasilisa" "Yefrosinia" "Geirr" "Rostislav" "Birgitta" "Dyre" "Malusha" "Hysing" "Suni" 
+	"Visheiv" "Steinn" "Yevpraxia" "Yeremey" "Yelisey" "Briachislav" "Afanasiy" "Vladislav" "Rostislava" "Terentiy" 
+	"Vyshata" "Stanislav" "Vseslava" "Liudmila" "Yaroslava" "Igor" "Gavriil" "Yemelyan" "Varvara" "Olga" 
+	"Mitrofan" "Sbyslava" "Gremislava" "Fevronia" "Ingvar" "Agafya" "Gleb" "Vasiliy" "Viacheslav" "Veleslava" 
+	"Oshama" "Pribislava" "Puresh" "Sviatoslav" "Irina" "Utyayka" "Fedot" "Purysho" "Roman" "Kunyavka" 
+	"Praxida" "Tatyana" "Dobroslava" "Vysheslav" "Premyslava" "Boleslava" "Vasilko" "Yefimia" "Ulyana" "Alexandra" 
+	"Alexei" "Dobronega" "Agrafena" "Yevstafiy" "Vigdis" "Anastasia" "Feodora" "Kardaz" "Kezhevat" "Serzhay" 
+	"Putyayka" "Chichayka" "Tul" "Pokshayka" "Pemka" "Chindyapa" "Kanyava" "Unzhutka" "Nishkepaz" "Sanal'ka" 
+	"Tyushtya" "Chitska" "Paksyut" "Orunza" "Aatos" "Ahma" "Aimo" "Armas" "Arvo" "Asikko" 
+	"Ensio" "Haapa" "Hannu" "Havu" "Hintsa" "Ihanti" "Into" "Jalo" "Jurva" "Kaleva" 
+	"Kalevi" "Kettu" "Kolli" "Lalli" "Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Oiva" 
+	"Onni" "Otso" "Pyry" "Päiviö" "Pentti" "Reko" "Sampo" "Satajalka" "Satatieto" "Seppo" 
+	"Susi" "Tapani" "Terho" "Toivo" "Ukko" "Uoti" "Urho" "Väinö" "Valta" "Valto" 
+	"Veli" "Vesa" "Voitto" "Erkki" "Kaarle" "Johannes" "Risto" "Olavi" "Petri" "Henri" 
+	"Yrjö" "Valteri" "Riku" "Matti" "Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" "Aarto" 
+	"Asko" "Tuokko" "Rieti" "Kauro" "Kuuti" "Pekko" "Soini" "Tuure" "Turo" "Tommo" 
+	"Tohmas" }
+monarch_names = {
+	"Åke #0" = 1
+	"Yelizaveta #1" = -28
+	"Ruslan #0" = 1
+	"Voislav #0" = 1
+	"Oleg #0" = 1
+	"Yaropolk #1" = 24
+	"Vladimir #1" = 21
+	"Tekay #0" = -1
+	"Putiata #1" = 30
+	"Yekaterina #0" = -1
+	"Marina #0" = -1
+	"Mstislav #0" = 1
+	"Praskovya #2" = -22
+	"Prebrana #0" = -1
+	"Yevdokia #0" = -1
+	"Litova #0" = -1
+	"Rögnvaldr #0" = 1
+	"Grimr #0" = 1
+	"Inga #0" = -1
+	"Rikissa #0" = -1
+	"Snorri #0" = 1
+	"Eskild #0" = 1
+	"Gunnhildr #0" = -1
+	"Helena #0" = -1
+	"Ulfr #0" = 1
+	"Sumarliði #0" = 1
+	"Hrolfr #0" = 1
+	"Holmfrid #0" = -1
+	"Ingrid #0" = -1
+	"Guðmundr #0" = 1
+	"Þyra #0" = -1
+	"Sif #0" = -1
+	"Sveinn #0" = 1
+	"Dag #0" = 1
+	"Alfhildr #0" = -1
+	"Yrsa #0" = -1
+	"Elin #0" = -1
+	"Guðrun #0" = -1
+	"Freyr #0" = 1
+	"Bodil #0" = -1
+	"Gyrið #0" = -1
+	"Kraka #0" = -1
+	"Halsten #0" = 1
+	"Gloð #0" = -1
+	"Elisabet #0" = -1
+	"Ingemar #0" = 1
+	"Linda #0" = -1
+	"Gerðr #0" = -1
+	"Öysteinn #0" = 1
+	"Sigrid #0" = -1
+	"Margareta #0" = -1
+	"Rodislav #0" = 1
+	"Egill #0" = 1
+	"Svetozar #0" = 1
+	"Ofeig #0" = 1
+	"Freyja #0" = -1
+	"Feodosia #0" = -1
+	"Gurli #0" = -1
+	"Asa #0" = -1
+	"Þora #0" = -1
+	"Astrid #0" = -1
+	"Þorolfr #0" = 1
+	"Sigurðr #0" = 1
+	"Eirikr #0" = 1
+	"Zabava #0" = -1
+	"Faste #0" = 1
+	"Refr #0" = 1
+	"Kolbjörn #0" = 1
+	"Darya #0" = -1
+	"Sara #0" = -1
+	"Volodar #0" = 1
+	"Rogneda #1" = -28
+	"Halla #0" = -1
+	"Pereyaslava #0" = -1
+	"Vseslav #0" = 1
+	"Maer #0" = -1
+	"Trifon #0" = 1
+	"Xenia #0" = -1
+	"Olena #0" = -1
+	"Liubava #0" = -1
+	"Rögnfrið #0" = -1
+	"Vasilisa #0" = -1
+	"Yefrosinia #0" = -1
+	"Geirr #0" = 1
+	"Rostislav #0" = 1
+	"Birgitta #0" = -1
+	"Dyre #0" = 1
+	"Malusha #0" = -1
+	"Hysing #0" = 1
+	"Suni #0" = 1
+	"Visheiv #0" = 1
+	"Steinn #0" = 1
+	"Yevpraxia #0" = -1
+	"Yeremey #0" = 1
+	"Yelisey #0" = 1
+	"Briachislav #0" = 1
+	"Afanasiy #0" = 1
+	"Vladislav #0" = 1
+	"Rostislava #0" = -1
+	"Terentiy #0" = 1
+	"Vyshata #0" = 1
+	"Stanislav #0" = 1
+	"Vseslava #0" = -1
+	"Liudmila #0" = -1
+	"Yaroslava #0" = -1
+	"Igor #0" = 1
+	"Gavriil #0" = 1
+	"Yemelyan #0" = 1
+	"Varvara #0" = -1
+	"Olga #0" = -1
+	"Mitrofan #1" = 27
+	"Sbyslava #0" = -1
+	"Gremislava #0" = -1
+	"Fevronia #0" = -1
+	"Ingvar #0" = 1
+	"Agafya #0" = -1
+	"Gleb #0" = 1
+	"Vasiliy #0" = 1
+	"Viacheslav #1" = 18
+	"Veleslava #0" = -1
+	"Oshama #0" = -1
+	"Pribislava #1" = -22
+	"Puresh #0" = 1
+	"Sviatoslav #0" = 1
+	"Irina #0" = -1
+	"Utyayka #1" = -19
+	"Fedot #0" = 1
+	"Purysho #1" = 18
+	"Roman #1" = 27
+	"Kunyavka #0" = -1
+	"Praxida #0" = -1
+	"Tatyana #0" = -1
+	"Dobroslava #1" = -22
+	"Vysheslav #0" = 1
+	"Premyslava #0" = -1
+	"Boleslava #0" = -1
+	"Vasilko #0" = 1
+	"Yefimia #1" = -19
+	"Ulyana #0" = -1
+	"Alexandra #0" = -1
+	"Alexei #0" = 1
+	"Dobronega #0" = -1
+	"Agrafena #1" = -19
+	"Yevstafiy #0" = 1
+	"Vigdis #0" = -1
+	"Anastasia #1" = -19
+	"Feodora #0" = -1
+	"Kardaz #1" = 0
+	"Kezhevat #1" = 0
+	"Serzhay #1" = -1
+	"Putyayka #1" = -1
+	"Chichayka #1" = -1
+	"Tul #1" = 0
+	"Pokshayka #1" = 0
+	"Pemka #1" = -1
+	"Chindyapa #2" = -1
+	"Kanyava #1" = -1
+	"Unzhutka #1" = -1
+	"Nishkepaz #1" = 0
+	"Sanal'ka #1" = -1
+	"Tyushtya #1" = 0
+	"Chitska #1" = -1
+	"Paksyut #1" = 0
+	"Orunza #1" = 0
+	"Aatos #0" = 0
+	"Ahma #0" = 0
+	"Aimo #0" = 0
+	"Armas #0" = 0
+	"Arvo #0" = 0
+	"Asikko #0" = 0
+	"Ensio #0" = 0
+	"Haapa #0" = 0
+	"Hannu #0" = 0
+	"Havu #0" = 0
+	"Hintsa #0" = 0
+	"Ihanti #0" = 0
+	"Into #0" = 0
+	"Jalo #0" = 0
+	"Jurva #0" = 0
+	"Kaleva #0" = 0
+	"Kalevi #0" = 0
+	"Kettu #0" = 0
+	"Kolli #0" = 0
+	"Lalli #0" = 0
+	"Lauri #0" = 0
+	"Lemetti #0" = 0
+	"Mielitty #0" = 0
+	"Miemo #0" = 0
+	"Mikko #0" = 0
+	"Oiva #0" = 0
+	"Onni #0" = 0
+	"Otso #0" = 0
+	"Pyry #0" = 0
+	"Päiviö #0" = 0
+	"Pentti #0" = 0
+	"Reko #0" = 0
+	"Sampo #0" = 0
+	"Satajalka #0" = 0
+	"Satatieto #0" = 0
+	"Seppo #0" = 0
+	"Susi #0" = 0
+	"Tapani #0" = 0
+	"Terho #0" = 0
+	"Toivo #0" = 0
+	"Ukko #0" = 0
+	"Uoti #0" = 0
+	"Urho #0" = 0
+	"Väinö #0" = 0
+	"Valta #0" = 0
+	"Valto #0" = 0
+	"Veli #0" = 0
+	"Vesa #0" = 0
+	"Voitto #0" = 0
+	"Erkki #0" = 0
+	"Kaarle #0" = 0
+	"Johannes #0" = 0
+	"Risto #0" = 0
+	"Olavi #0" = 0
+	"Petri #0" = 0
+	"Henri #0" = 0
+	"Yrjö #0" = 0
+	"Valteri #0" = 0
+	"Riku #0" = 0
+	"Matti #0" = 0
+	"Jaakoppi #0" = 0
+	"Taisto #0" = 0
+	"Paavo #0" = 0
+	"Aatso #0" = 0
+	"Ahvo #0" = 0
+	"Aarto #0" = 0
+	"Asko #0" = 0
+	"Tuokko #0" = 0
+	"Rieti #0" = 0
+	"Kauro #0" = 0
+	"Kuuti #0" = 0
+	"Pekko #0" = 0
+	"Soini #0" = 0
+	"Tuure #0" = 0
+	"Turo #0" = 0
+	"Tommo #0" = 0
+	"Tohmas #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

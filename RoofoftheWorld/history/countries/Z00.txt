@@ -1,0 +1,40 @@
+# Scania
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = aztek
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 12
+1439.3.11 = {
+	monarch = {
+		name = "Tlazozomizqui"
+		birth_date = 1425.1.13
+		dynasty = "Quiautl"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+}
+1442.9.13 = {
+	heir = {
+		name = "Chichimecacihuatzin"
+		monarch_name = "Chichimecacihuatzin"
+		dynasty = "Quiautl"
+		birth_date = 1442.9.13
+		death_date = 1522.9.13
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 12
+	add_treasury = 155
+	add_prestige = 83
+}

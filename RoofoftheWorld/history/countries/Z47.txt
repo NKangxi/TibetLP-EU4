@@ -1,0 +1,26 @@
+# Kurdistan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = bon
+clear_scripted_personalities = yes
+capital = 4294
+1436.7.20 = {
+	monarch = {
+		name = "Taknye"
+		birth_date = 1405.2.20
+		dynasty = "Zhungpa"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 4294
+	add_treasury = 312
+	add_prestige = 78
+}

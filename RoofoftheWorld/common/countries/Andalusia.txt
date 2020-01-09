@@ -1,0 +1,217 @@
+# Andalusia
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 31 138 40 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Ragnfrid" "Freja" "Johanne" "Uffe" "Acolmiztli" "Hårik" "Gotfred" "Ragnhild" "Gunhild" "Thordis" 
+	"Esben" "Loïs" "Ester" "Jørgen" "Azcalxochitzin" "Lykke" "Dagmar" "Grethe" "Karin" "Grim" 
+	"Svend" "Helge" "Torben" "Steen" "Ellinor" "Kirsten" "Hjalmar" "Ayauhcihuatl" "Tototl" "Einar" 
+	"Sämund" "Silje" "Agnethe" "Atotoztli" "Vilfred" "Estrid" "Coatl" "Gudrun" "Helena" "Magdalene" 
+	"Rikissa" "Bouchard" "Knud" "Edvard" "Asta" "Frej" "Bo" "Ingeborg" "Asger" "Rolf" 
+	"Ingrid" "Luitgard" "Bjørn" "Katrine" "Malthe" "Sigfred" "Sanna" "Frode" "Ludvig" "Yaretzi" 
+	"Lise" "Valentin" "Ragnvald" "Bodil" "Thorolf" "Rune" "Halvor" "Rørik" "Ida" "Ingegerd" 
+	"Torfinn" "Sivard" "Henrik" "Chichimecacihuatzin" "Dorothea" "Cecilie" "Halfdan" "Birgitta" "Ture" "Acacitli" 
+	"Klara" "Harald" "Hemming" "Signe" "Malinalxochitl" "Ragnar" "Ernst" "Fredrik" "Valdemar" "Frederikke" 
+	"Sofie" "Maren" "Svanhild" "Torbjørn" "Abd-al-Rahman" "Hisham" "al-Hakam" "al-Mundir" "Setara" "Awdia" 
+	"Z'effun" "Yaghmurasen" "Tacfin" "Zamba" "Fadl" "Raf" "Musa" "Abel" "Anders" "Anund" 
+	"Balder" "Benedikt" "Christoffer" "Erik" "Glum" "Gnupa" "Gorm" "Gregers" "Gunnar" "Holger" 
+	"Ingolf" "Jørn" "Jakob" "Jens" "Johann" "Karl" "Kristian" "Leif" "Lennart" "Mads" 
+	"Mikkel" "Mogens" "Niels" "Odd" "Olav" "Oluf" "Peder" "Poul" "Pridbjørn" "Severin" 
+	"Sigtryg" "Sigurd" "Thorvald" "Tord" "Torgils" "Ubbe" "Ulf" "Yngvar" }
+monarch_names = {
+	"Ragnfrid #0" = -1
+	"Freja #0" = -1
+	"Johanne #0" = -1
+	"Uffe #0" = 1
+	"Acolmiztli #0" = 1
+	"Hårik #0" = 1
+	"Gotfred #0" = 1
+	"Ragnhild #0" = -1
+	"Gunhild #0" = -1
+	"Thordis #0" = -1
+	"Esben #0" = 1
+	"Loïs #0" = 1
+	"Ester #1" = -19
+	"Jørgen #0" = 1
+	"Azcalxochitzin #0" = -1
+	"Lykke #0" = -1
+	"Dagmar #0" = -1
+	"Grethe #0" = -1
+	"Karin #0" = -1
+	"Grim #0" = 1
+	"Svend #0" = 1
+	"Helge #0" = 1
+	"Torben #0" = 1
+	"Steen #0" = 1
+	"Ellinor #0" = -1
+	"Kirsten #0" = -1
+	"Hjalmar #0" = 1
+	"Ayauhcihuatl #0" = -1
+	"Tototl #0" = 1
+	"Einar #0" = 1
+	"Sämund #0" = 1
+	"Silje #0" = -1
+	"Agnethe #0" = -1
+	"Atotoztli #0" = -1
+	"Vilfred #0" = 1
+	"Estrid #0" = -1
+	"Coatl #0" = 1
+	"Gudrun #0" = -1
+	"Helena #0" = -1
+	"Magdalene #0" = -1
+	"Rikissa #0" = -1
+	"Bouchard #0" = 1
+	"Knud #0" = 1
+	"Edvard #0" = 1
+	"Asta #0" = -1
+	"Frej #0" = 1
+	"Bo #0" = 1
+	"Ingeborg #0" = -1
+	"Asger #0" = 1
+	"Rolf #0" = 1
+	"Ingrid #0" = -1
+	"Luitgard #0" = -1
+	"Bjørn #0" = 1
+	"Katrine #0" = -1
+	"Malthe #0" = 1
+	"Sigfred #0" = 1
+	"Sanna #0" = -1
+	"Frode #0" = 1
+	"Ludvig #0" = 1
+	"Yaretzi #0" = -1
+	"Lise #0" = -1
+	"Valentin #0" = 1
+	"Ragnvald #0" = 1
+	"Bodil #0" = -1
+	"Thorolf #0" = 1
+	"Rune #0" = 1
+	"Halvor #0" = 1
+	"Rørik #0" = 1
+	"Ida #0" = -1
+	"Ingegerd #0" = -1
+	"Torfinn #0" = 1
+	"Sivard #0" = 1
+	"Henrik #0" = 1
+	"Chichimecacihuatzin #0" = -1
+	"Dorothea #0" = -1
+	"Cecilie #0" = -1
+	"Halfdan #0" = 1
+	"Birgitta #0" = -1
+	"Ture #0" = 1
+	"Acacitli #0" = 1
+	"Klara #0" = -1
+	"Harald #0" = 1
+	"Hemming #0" = 1
+	"Signe #0" = -1
+	"Malinalxochitl #0" = -1
+	"Ragnar #0" = 1
+	"Ernst #0" = 1
+	"Fredrik #0" = 1
+	"Valdemar #0" = 1
+	"Frederikke #0" = -1
+	"Sofie #0" = -1
+	"Maren #0" = -1
+	"Svanhild #0" = -1
+	"Torbjørn #0" = 1
+	"Abd-al-Rahman #2" = 0
+	"Hisham #1" = 0
+	"al-Hakam #1" = 0
+	"al-Mundir #1" = 0
+	"Setara #1" = -1
+	"Awdia #1" = 0
+	"Z'effun #1" = 0
+	"Yaghmurasen #1" = 0
+	"Tacfin #1" = 0
+	"Zamba #1" = -1
+	"Fadl #1" = 0
+	"Raf #2" = 0
+	"Musa #2" = 0
+	"Abel #0" = 0
+	"Anders #0" = 0
+	"Anund #0" = 0
+	"Balder #0" = 0
+	"Benedikt #0" = 0
+	"Christoffer #0" = 0
+	"Erik #0" = 0
+	"Glum #0" = 0
+	"Gnupa #0" = 0
+	"Gorm #0" = 0
+	"Gregers #0" = 0
+	"Gunnar #0" = 0
+	"Holger #0" = 0
+	"Ingolf #0" = 0
+	"Jørn #0" = 0
+	"Jakob #0" = 0
+	"Jens #0" = 0
+	"Johann #0" = 0
+	"Karl #0" = 0
+	"Kristian #0" = 0
+	"Leif #0" = 0
+	"Lennart #0" = 0
+	"Mads #0" = 0
+	"Mikkel #0" = 0
+	"Mogens #0" = 0
+	"Niels #0" = 0
+	"Odd #0" = 0
+	"Olav #0" = 0
+	"Oluf #0" = 0
+	"Peder #0" = 0
+	"Poul #0" = 0
+	"Pridbjørn #0" = 0
+	"Severin #0" = 0
+	"Sigtryg #0" = 0
+	"Sigurd #0" = 0
+	"Thorvald #0" = 0
+	"Tord #0" = 0
+	"Torgils #0" = 0
+	"Ubbe #0" = 0
+	"Ulf #0" = 0
+	"Yngvar #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

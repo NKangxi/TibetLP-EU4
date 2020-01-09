@@ -1,0 +1,27 @@
+# Styria
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = carantanian
+religion = bogomilist
+clear_scripted_personalities = yes
+capital = 1863
+1433.7.19 = {
+	monarch = {
+		name = "Radoslav"
+		birth_date = 1407.3.29
+		dynasty = "Preradic"
+		adm = 5
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 1863
+	add_treasury = 81
+	add_prestige = 174
+}

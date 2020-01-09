@@ -1,0 +1,39 @@
+# Tibet
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 3
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 677
+1444.7.17 = {
+	monarch = {
+		name = "Yondagmo"
+		birth_date = 1368.2.19
+		dynasty = "Purgyal"
+		female = yes
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+	heir = {
+		name = "Kyi"
+		monarch_name = "Kyi"
+		dynasty = "Purgyal"
+		birth_date = 1391.8.8
+		death_date = 1491.8.8
+		female = yes
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 677
+	add_treasury = 909
+	add_prestige = 2072
+}

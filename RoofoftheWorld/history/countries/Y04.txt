@@ -1,0 +1,37 @@
+# Ungvar
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = croatian
+religion = monothelite
+clear_scripted_personalities = yes
+capital = 162
+1436.2.16 = {
+	monarch = {
+		name = "Dmitar"
+		birth_date = 1402.12.16
+		dynasty = "Askarid"
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Dujam"
+		monarch_name = "Dujam"
+		dynasty = "Askarid"
+		birth_date = 1422.5.12
+		death_date = 1502.5.12
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 162
+	add_treasury = 20
+	add_prestige = 237
+}

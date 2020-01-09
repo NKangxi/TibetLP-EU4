@@ -1,0 +1,26 @@
+# Otgonbayar
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = bon
+clear_scripted_personalities = yes
+capital = 461
+1441.10.15 = {
+	monarch = {
+		name = "Inancha"
+		birth_date = 1426.12.11
+		dynasty = "Otgonbayar"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 461
+	add_treasury = 9564
+	add_prestige = 1444
+}

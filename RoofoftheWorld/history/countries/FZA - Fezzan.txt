@@ -1,0 +1,40 @@
+# Fezzan
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = songhai
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2448
+1431.7.23 = {
+	monarch = {
+		name = "Biyo"
+		birth_date = 1400.9.24
+		dynasty = "Ouallam"
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1436.3.19 = {
+	heir = {
+		name = "Moussa"
+		monarch_name = "Moussa"
+		dynasty = "Ouallam"
+		birth_date = 1436.3.19
+		death_date = 1516.3.19
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 2448
+	add_treasury = 21
+	add_prestige = 67
+}

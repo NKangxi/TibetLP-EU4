@@ -1,0 +1,27 @@
+# Anjou
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = aztek
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 178
+1439.7.13 = {
+	monarch = {
+		name = "Maren"
+		birth_date = 1396.6.13
+		dynasty = "Grand"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 178
+	add_treasury = 51
+	add_prestige = 104
+}

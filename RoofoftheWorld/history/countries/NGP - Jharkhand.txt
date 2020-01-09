@@ -1,0 +1,27 @@
+# Jharkand
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 560
+1436.11.18 = {
+	monarch = {
+		name = "Driza"
+		birth_date = 1423.8.26
+		dynasty = "Purgyal"
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 560
+	add_treasury = 143
+	add_prestige = 1929
+}

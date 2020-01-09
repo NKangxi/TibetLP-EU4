@@ -1,0 +1,27 @@
+# Ratanpur
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = bon
+clear_scripted_personalities = yes
+capital = 4452
+1390.2.25 = {
+	monarch = {
+		name = "Tsen"
+		birth_date = 1388.5.6
+		dynasty = "Supiya"
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 4452
+	add_treasury = 68
+	add_prestige = 784
+}

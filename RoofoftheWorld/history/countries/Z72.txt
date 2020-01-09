@@ -1,0 +1,27 @@
+# Vladimir
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1956
+1405.2.24 = {
+	monarch = {
+		name = "Ingvar"
+		birth_date = 1379.1.1
+		dynasty = "Muromid"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 1956
+	add_treasury = 39
+	add_prestige = 389
+}

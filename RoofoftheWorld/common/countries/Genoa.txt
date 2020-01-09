@@ -1,0 +1,246 @@
+# Genoa
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 244 141 120 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	naval_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Birgitta" "Alfhildr" "Knut" "Dan" "Sölvi" "Lykke" "Odd" "Margrethe" "Ragnhild" "Yngvar" 
+	"Ernst" "Asger" "Ellinor" "Stefana" "Jaromar" "Drosuk" "Sanna" "Blazej" "Hrörekr" "Lise" 
+	"Ingfrid" "Kornelia" "Björg" "Arasen" "Asa" "Lech" "Kresimir" "Krystyna" "Bozydar" "Haraldr" 
+	"Ingjald" "Bo" "Þorolfr" "Þyra" "Elisabet" "Freyja" "Hemming" "Izabela" "Þordis" "Ulfhildr" 
+	"Arni" "Bothildr" "Ingibjörg" "Sigtrygg" "Gurli" "Ylva" "Buðli" "Bragi" "Arngrimr" "Þorgil" 
+	"Sturla" "Alfrið" "Åke" "Þorsteinn" "Louis" "Gianleone" "Luca" "Vincenzo" "Adalberto" "Abelardo" 
+	"Nazareno" "Fabrizio" "Bernardo" "Elin" "Suni" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" 
+	"Anundr" "Arnbjörn" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" 
+	"Birger" "Björn" "Borkvard" "Botulfr" "Dag" "Dyre" "Eilif" "Egill" "Emund" "Einarr" 
+	"Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" "Freyr" "Folki" 
+	"Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" "Grimr" "Guðfrið" "Guðmundr" "Guðröðr" 
+	"Gunnarr" "Hakon" "Halsten" "Haukr" "Helgi" "Holmger" "Hrafn" "Hrolfr" "Hrane" "Hæsteinn" 
+	"Hjalmar" "Hroðgar" "Hroðulfr" "Hysing" "Ingólfr" "Ingemar" "Ivar" "Jedvard" "Jon" "Karl" 
+	"Kettil" "Kettilmund" "Kjartan" "Klas" "Kol" "Kolbjörn" "Markus" "Magni" "Mats" "Nils" 
+	"Niklas" "Oddr" "Ofeig" "Olafr" "Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" 
+	"Rögnvaldr" "Skuli" "Snorri" "Sigbjörn" "Sigurðr" "Starkaðr" "Steinn" "Styrbjörn" "Styrkar" "Sumarliði" 
+	"Sveinn" "Sverker" "Sæmundr" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" 
+	"Þordr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" "Valdemar" "Örvar" "Öysteinn" }
+monarch_names = {
+	"Birgitta #0" = -1
+	"Alfhildr #1" = -19
+	"Knut #0" = 1
+	"Dan #0" = 1
+	"Sölvi #0" = 1
+	"Lykke #0" = -1
+	"Odd #0" = 1
+	"Margrethe #0" = -1
+	"Ragnhild #0" = -1
+	"Yngvar #0" = 1
+	"Ernst #0" = 1
+	"Asger #0" = 1
+	"Ellinor #0" = -1
+	"Stefana #0" = -1
+	"Jaromar #0" = 1
+	"Drosuk #0" = 1
+	"Sanna #0" = -1
+	"Blazej #0" = 1
+	"Hrörekr #0" = 1
+	"Lise #0" = -1
+	"Ingfrid #0" = -1
+	"Kornelia #0" = -1
+	"Björg #0" = -1
+	"Arasen #0" = 1
+	"Asa #0" = -1
+	"Lech #0" = 1
+	"Kresimir #0" = 1
+	"Krystyna #0" = -1
+	"Bozydar #0" = 1
+	"Haraldr #0" = 1
+	"Ingjald #0" = 1
+	"Bo #0" = 1
+	"Þorolfr #0" = 1
+	"Þyra #0" = -1
+	"Elisabet #0" = -1
+	"Freyja #0" = -1
+	"Hemming #0" = 1
+	"Izabela #0" = -1
+	"Þordis #0" = -1
+	"Ulfhildr #0" = -1
+	"Arni #0" = 1
+	"Bothildr #0" = -1
+	"Ingibjörg #0" = -1
+	"Sigtrygg #0" = 1
+	"Gurli #0" = -1
+	"Ylva #0" = -1
+	"Buðli #0" = 1
+	"Bragi #0" = 1
+	"Arngrimr #0" = 1
+	"Þorgil #0" = 1
+	"Sturla #0" = 1
+	"Alfrið #0" = -1
+	"Åke #0" = 1
+	"Þorsteinn #0" = 1
+	"Louis #1" = 0
+	"Gianleone #2" = 0
+	"Luca #1" = 0
+	"Vincenzo #1" = 0
+	"Adalberto #1" = 0
+	"Abelardo #1" = 0
+	"Nazareno #1" = 0
+	"Fabrizio #1" = 0
+	"Bernardo #1" = 0
+	"Elin #1" = -1
+	"Suni #2" = 0
+	"Ale #0" = 0
+	"Alfr #0" = 0
+	"Alfgeir #0" = 0
+	"Anders #0" = 0
+	"Anlaufr #0" = 0
+	"Anundr #0" = 0
+	"Arnbjörn #0" = 0
+	"Arnfast #0" = 0
+	"Asbjörn #0" = 0
+	"Bagge #0" = 0
+	"Baldr #0" = 0
+	"Barid #0" = 0
+	"Bengt #0" = 0
+	"Bersi #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Borkvard #0" = 0
+	"Botulfr #0" = 0
+	"Dag #0" = 0
+	"Dyre #0" = 0
+	"Eilif #0" = 0
+	"Egill #0" = 0
+	"Emund #0" = 0
+	"Einarr #0" = 0
+	"Eirikr #0" = 0
+	"Eskild #0" = 0
+	"Falki #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Fredrik #0" = 0
+	"Frirek #0" = 0
+	"Froði #0" = 0
+	"Freyr #0" = 0
+	"Folki #0" = 0
+	"Gandalfr #0" = 0
+	"Geirr #0" = 0
+	"Georg #0" = 0
+	"Gnupa #0" = 0
+	"Gorm #0" = 0
+	"Greger #0" = 0
+	"Grimr #0" = 0
+	"Guðfrið #0" = 0
+	"Guðmundr #0" = 0
+	"Guðröðr #0" = 0
+	"Gunnarr #0" = 0
+	"Hakon #0" = 0
+	"Halsten #0" = 0
+	"Haukr #0" = 0
+	"Helgi #0" = 0
+	"Holmger #0" = 0
+	"Hrafn #0" = 0
+	"Hrolfr #0" = 0
+	"Hrane #0" = 0
+	"Hæsteinn #0" = 0
+	"Hjalmar #0" = 0
+	"Hroðgar #0" = 0
+	"Hroðulfr #0" = 0
+	"Hysing #0" = 0
+	"Ingólfr #0" = 0
+	"Ingemar #0" = 0
+	"Ivar #0" = 0
+	"Jedvard #0" = 0
+	"Jon #0" = 0
+	"Karl #0" = 0
+	"Kettil #0" = 0
+	"Kettilmund #0" = 0
+	"Kjartan #0" = 0
+	"Klas #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Markus #0" = 0
+	"Magni #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Oddr #0" = 0
+	"Ofeig #0" = 0
+	"Olafr #0" = 0
+	"Ormr #0" = 0
+	"Ottarr #0" = 0
+	"Refr #0" = 0
+	"Refil #0" = 0
+	"Ragnarr #0" = 0
+	"Rikulfr #0" = 0
+	"Rögnvaldr #0" = 0
+	"Skuli #0" = 0
+	"Snorri #0" = 0
+	"Sigbjörn #0" = 0
+	"Sigurðr #0" = 0
+	"Starkaðr #0" = 0
+	"Steinn #0" = 0
+	"Styrbjörn #0" = 0
+	"Styrkar #0" = 0
+	"Sumarliði #0" = 0
+	"Sveinn #0" = 0
+	"Sverker #0" = 0
+	"Sæmundr #0" = 0
+	"Sörkver #0" = 0
+	"Tjudmund #0" = 0
+	"Toke #0" = 0
+	"Tolir #0" = 0
+	"Þorbjörn #0" = 0
+	"Þorfinn #0" = 0
+	"Þorbrandr #0" = 0
+	"Þordr #0" = 0
+	"Toste #0" = 0
+	"Totil #0" = 0
+	"Tryggve #0" = 0
+	"Tyke #0" = 0
+	"Ulfr #0" = 0
+	"Vagn #0" = 0
+	"Valdemar #0" = 0
+	"Örvar #0" = 0
+	"Öysteinn #0" = 0
+}
+ship_names = {
+	Medea Vulcano Gloria Minerva Laatea
+	Diligenza Vittoria Eolo Concordia Forza 
+	Fama Sirena Falcon Ercole Idra "San Andrea"
+	"San Zaccaria" "San Spiridon" "San Gaetano"
+	"Fortuna Guerriera" Terror Aquileta Constanza
+	"Regina del Mar" "San Nicolo" Nettuno Rosa
+	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
+	"Amazzone Guerriera"
+}
+

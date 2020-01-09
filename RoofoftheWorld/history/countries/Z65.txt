@@ -1,0 +1,39 @@
+# Marienburg
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = dutch
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1841
+1435.10.10 = {
+	monarch = {
+		name = "Roelof"
+		birth_date = 1402.6.3
+		dynasty = "Sognsdal"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+}
+1441.7.6 = {
+	heir = {
+		name = "Margareta"
+		monarch_name = "Margareta"
+		dynasty = "Sognsdal"
+		birth_date = 1441.7.6
+		death_date = 1521.7.6
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1841
+	add_treasury = 48
+	add_prestige = 231
+}

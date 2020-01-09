@@ -1,0 +1,27 @@
+# Bambuk
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1115
+1428.6.4 = {
+	monarch = {
+		name = "Ali"
+		birth_date = 1398.3.28
+		dynasty = "Kassid"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 1115
+	add_treasury = 50
+	add_prestige = 202
+}

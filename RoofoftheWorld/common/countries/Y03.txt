@@ -1,0 +1,79 @@
+# Bulgarian Company
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 100 50 30 }
+
+
+
+
+leader_names = {
+
+	"Kalojan" "Petar" "Zdeslav" "Drzislav" "Sava" "Ivan" "Boril" "Ognen" "Marko" "Hranimir" 
+	"Dragoman" "Frujin" "Radislav" "Dominik" "Evtimii" "Kocelj" "Mihail" "Aleksii" "Braslav" "Dan" 
+	"Dragshan" "Viseslav" "Radu" "Grgur" "Dionisii" "Ljutomisl" "Nikola" "Bernardin" "Kozma" "Vojnomir" 
+	"Vladislav" "Balin" "Bertalan" "Bogoris" "Bozidar" "German" "Ioakim" "Jerolim" "Kresimir" "Kulin" 
+	"Ljubomir" "Mikica" "Miroslav" "Momchil" "Prijezda" "Sermon" "Slavac" "Soimir" "Stracimir" "Svetislav" 
+	"Tomislav" "Trpimir" "Vasilii" }
+monarch_names = {
+	"Kalojan #1" = 0
+	"Petar #5" = 0
+	"Zdeslav #3" = 0
+	"Drzislav #1" = 0
+	"Sava #2" = 0
+	"Ivan #1" = 0
+	"Boril #3" = 0
+	"Ognen #2" = 0
+	"Marko #1" = 0
+	"Hranimir #2" = 0
+	"Dragoman #1" = 0
+	"Frujin #2" = 0
+	"Radislav #3" = 0
+	"Dominik #3" = 0
+	"Evtimii #3" = 0
+	"Kocelj #3" = 0
+	"Mihail #3" = 0
+	"Aleksii #1" = 0
+	"Braslav #1" = 0
+	"Dan #1" = 0
+	"Dragshan #1" = 0
+	"Viseslav #2" = 0
+	"Radu #2" = 0
+	"Grgur #2" = 0
+	"Dionisii #1" = 0
+	"Ljutomisl #1" = 0
+	"Nikola #2" = 0
+	"Bernardin #1" = 0
+	"Kozma #1" = 0
+	"Vojnomir #1" = 0
+	"Vladislav #1" = 0
+	"Balin #0" = 0
+	"Bertalan #0" = 0
+	"Bogoris #0" = 0
+	"Bozidar #0" = 0
+	"German #0" = 0
+	"Ioakim #0" = 0
+	"Jerolim #0" = 0
+	"Kresimir #0" = 0
+	"Kulin #0" = 0
+	"Ljubomir #0" = 0
+	"Mikica #0" = 0
+	"Miroslav #0" = 0
+	"Momchil #0" = 0
+	"Prijezda #0" = 0
+	"Sermon #0" = 0
+	"Slavac #0" = 0
+	"Soimir #0" = 0
+	"Stracimir #0" = 0
+	"Svetislav #0" = 0
+	"Tomislav #0" = 0
+	"Trpimir #0" = 0
+	"Vasilii #0" = 0
+
+
+	"Iskra #0" = -1
+	"Iva #0" = -1
+	"Boyana #0" = -1
+	"Nevena #0" = -1
+	"Stoyanka #0" = -1
+}
+

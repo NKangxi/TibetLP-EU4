@@ -1,0 +1,28 @@
+# Komi
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 4129
+1432.5.20 = {
+	monarch = {
+		name = "Nezayka II"
+		birth_date = 1424.10.20
+		dynasty = "Galati"
+		female = yes
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = sinner_personality
+}
+1444.11.11 = {
+	capital = 4129
+	add_treasury = 52
+	add_prestige = 192
+}

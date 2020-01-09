@@ -1,0 +1,219 @@
+# Derbent
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 203 76 76 }
+
+
+
+
+leader_names = {
+
+	"Morokha" "Orbei" "Eliz" "Avedis" "Bagrat" "Hripsimeh" "Houri" "Vrtanes" "Razmouhi" "Hagop" 
+	"Mzhezh" "Abas" "Bedugun" "Bulughan" "Khugurchin" "Yesui" "Jajiradai" "Husun" "Altan" "Guchu" 
+	"Temulun" "Badai" "Nogai" "Menggei" "Doquz" "Nomolun" "Checheyigen" "Uighurtai" "Botokhui" "Alan" 
+	"Kogsegu" "Bartan" "Yeke" "Bugidai" "Dodai" "Ibakha" "Begter" "Oghul" "Bagaridai" "Jochi" 
+	"Altani" "Kätyarikka" "Abagha" "Al-Alta" "Harghasun" "Boroghul" "Yesunge" "Khadagan" "Chidukhul" "Ilik" 
+	"Babur" "Kundaçiq" "Taghai" "Chiledu" "Borte" "Khutulun" "Yegu" "Alagh" "Alchidai" "Bodonchar" 
+	"Toktokteng" "Ogodei" "Ebegei" "Yilig" "Khojin" "Akhutai" "Savkëlti" "Maryam" "Eshkhan" "Doregene" 
+	"Esin" "Gurbesu" "Thoros" "Isa" "Khachigun" "Takouhi" "Megetu" "Halil" "Yeldem" "Khalil" 
+	"Hasmig" "Bilge" "Asli" "Yeva" "Zabel" "Tumen" "Hethum" "Leyli" "Yabghu" "Arda" 
+	"Vartan" "Shogofa" "Zmroukhd" "Gagik" "Oshin" "Vakhtank" "Bagour" "Ishkhan" "Gurgen" "Kohar" 
+	"Gadar" "Vachagan" "Vache" "Urnayr" "Mirhavan" "Satoy" "Asay" "Aswagen" "Vardan" "Vard" 
+	"Varaz-Grigor" "Juansher" "Varaz-Peroz" "Varaz-Trdat" "Stepanos" "Nerseh" "Sahak" "Atrnerseh" "Smbat" "Hashim" 
+	"Georgy" "Shukhia" "Elene" "Uruzma" "Kera" "Barsbek" "Samir" "Abdul-Jaleel" "Talib" "Sheeftah" 
+	"Abirad" "Aboughamr" "Aboulgharib" "Aleksandr" "Artashes" "Artashir" "Artavazd" "Arsen" "Arshak" "Ashot" 
+	"Athom" "Avag" "Bedros" "Boghos" "Davit" "Gevorg" "Gosdantin" "Grigor" "Hamazasp" "Hovhannes" 
+	"Hovsep" "Ivane" "Kapriel" "Khachik" "Khosrov" "Levon" "Malkhas" "Mamigon" "Manuel" "Margos" 
+	"Melek" "Mihrdat" "Mikayel" "Mleh" "Mushegh" "Mushel" "Roupen" "Sahag" "Sarkis" "Sevag" 
+	"Shahanshah" "Tachat" "Taniel" "Tatoul" "Tigran" "Tornik" "Tovmas" "Trdat" "Vagharshak" "Vahag" 
+	"Vahan" "Vahram" "Varazdat" "Vassak" "Vesd" "Zakare" "Zarmihr" }
+monarch_names = {
+	"Morokha #0" = 1
+	"Orbei #0" = -1
+	"Eliz #0" = -1
+	"Avedis #2" = 24
+	"Bagrat #1" = 21
+	"Hripsimeh #0" = -1
+	"Houri #0" = -1
+	"Vrtanes #1" = 21
+	"Razmouhi #0" = -1
+	"Hagop #0" = 1
+	"Mzhezh #0" = 1
+	"Abas #0" = 1
+	"Bedugun #0" = 1
+	"Bulughan #0" = 1
+	"Khugurchin #0" = -1
+	"Yesui #0" = -1
+	"Jajiradai #0" = 1
+	"Husun #0" = 1
+	"Altan #0" = 1
+	"Guchu #0" = 1
+	"Temulun #0" = -1
+	"Badai #0" = 1
+	"Nogai #0" = 1
+	"Menggei #0" = 1
+	"Doquz #0" = -1
+	"Nomolun #0" = -1
+	"Checheyigen #0" = -1
+	"Uighurtai #0" = 1
+	"Botokhui #0" = -1
+	"Alan #0" = -1
+	"Kogsegu #0" = 1
+	"Bartan #0" = 1
+	"Yeke #0" = 1
+	"Bugidai #0" = 1
+	"Dodai #0" = 1
+	"Ibakha #0" = -1
+	"Begter #0" = 1
+	"Oghul #0" = -1
+	"Bagaridai #0" = 1
+	"Jochi #0" = 1
+	"Altani #0" = -1
+	"Kätyarikka #0" = -1
+	"Abagha #0" = 1
+	"Al-Alta #0" = -1
+	"Harghasun #0" = 1
+	"Boroghul #0" = 1
+	"Yesunge #0" = 1
+	"Khadagan #0" = -1
+	"Chidukhul #0" = 1
+	"Ilik #0" = 1
+	"Babur #0" = 1
+	"Kundaçiq #0" = 1
+	"Taghai #0" = 1
+	"Chiledu #0" = 1
+	"Borte #0" = -1
+	"Khutulun #0" = -1
+	"Yegu #0" = 1
+	"Alagh #0" = 1
+	"Alchidai #0" = 1
+	"Bodonchar #0" = 1
+	"Toktokteng #0" = -1
+	"Ogodei #0" = 1
+	"Ebegei #0" = -1
+	"Yilig #0" = 1
+	"Khojin #0" = -1
+	"Akhutai #0" = 1
+	"Savkëlti #0" = -1
+	"Maryam #0" = -1
+	"Eshkhan #0" = 1
+	"Doregene #0" = -1
+	"Esin #0" = -1
+	"Gurbesu #0" = -1
+	"Thoros #0" = 1
+	"Isa #2" = 18
+	"Khachigun #0" = 1
+	"Takouhi #0" = -1
+	"Megetu #0" = 1
+	"Halil #1" = 18
+	"Yeldem #0" = -1
+	"Khalil #0" = 1
+	"Hasmig #0" = -1
+	"Bilge #0" = 1
+	"Asli #0" = -1
+	"Yeva #0" = -1
+	"Zabel #0" = -1
+	"Tumen #0" = 1
+	"Hethum #0" = 1
+	"Leyli #0" = -1
+	"Yabghu #0" = 1
+	"Arda #1" = -22
+	"Vartan #0" = 1
+	"Shogofa #0" = -1
+	"Zmroukhd #0" = -1
+	"Gagik #3" = 18
+	"Oshin #0" = 1
+	"Vakhtank #0" = 1
+	"Bagour #0" = 1
+	"Ishkhan #0" = 1
+	"Gurgen #0" = 1
+	"Kohar #0" = -1
+	"Gadar #1" = -19
+	"Vachagan #3" = 0
+	"Vache #2" = 0
+	"Urnayr #1" = 0
+	"Mirhavan #1" = 0
+	"Satoy #1" = 0
+	"Asay #1" = 0
+	"Aswagen #1" = 0
+	"Vardan #2" = 0
+	"Vard #1" = 0
+	"Varaz-Grigor #1" = 0
+	"Juansher #1" = 0
+	"Varaz-Peroz #1" = 0
+	"Varaz-Trdat #2" = 0
+	"Stepanos #2" = 0
+	"Nerseh #1" = 0
+	"Sahak #1" = 0
+	"Atrnerseh #1" = 0
+	"Smbat #1" = 0
+	"Hashim #1" = 0
+	"Georgy #1" = 0
+	"Shukhia #1" = -1
+	"Elene #1" = -1
+	"Uruzma #1" = 0
+	"Kera #1" = -1
+	"Barsbek #1" = 0
+	"Samir #2" = 0
+	"Abdul-Jaleel #1" = 0
+	"Talib #1" = 0
+	"Sheeftah #1" = -1
+	"Abirad #0" = 0
+	"Aboughamr #0" = 0
+	"Aboulgharib #0" = 0
+	"Aleksandr #0" = 0
+	"Artashes #0" = 0
+	"Artashir #0" = 0
+	"Artavazd #0" = 0
+	"Arsen #0" = 0
+	"Arshak #0" = 0
+	"Ashot #0" = 0
+	"Athom #0" = 0
+	"Avag #0" = 0
+	"Bedros #0" = 0
+	"Boghos #0" = 0
+	"Davit #0" = 0
+	"Gevorg #0" = 0
+	"Gosdantin #0" = 0
+	"Grigor #0" = 0
+	"Hamazasp #0" = 0
+	"Hovhannes #0" = 0
+	"Hovsep #0" = 0
+	"Ivane #0" = 0
+	"Kapriel #0" = 0
+	"Khachik #0" = 0
+	"Khosrov #0" = 0
+	"Levon #0" = 0
+	"Malkhas #0" = 0
+	"Mamigon #0" = 0
+	"Manuel #0" = 0
+	"Margos #0" = 0
+	"Melek #0" = 0
+	"Mihrdat #0" = 0
+	"Mikayel #0" = 0
+	"Mleh #0" = 0
+	"Mushegh #0" = 0
+	"Mushel #0" = 0
+	"Roupen #0" = 0
+	"Sahag #0" = 0
+	"Sarkis #0" = 0
+	"Sevag #0" = 0
+	"Shahanshah #0" = 0
+	"Tachat #0" = 0
+	"Taniel #0" = 0
+	"Tatoul #0" = 0
+	"Tigran #0" = 0
+	"Tornik #0" = 0
+	"Tovmas #0" = 0
+	"Trdat #0" = 0
+	"Vagharshak #0" = 0
+	"Vahag #0" = 0
+	"Vahan #0" = 0
+	"Vahram #0" = 0
+	"Varazdat #0" = 0
+	"Vassak #0" = 0
+	"Vesd #0" = 0
+	"Zakare #0" = 0
+	"Zarmihr #0" = 0
+}
+

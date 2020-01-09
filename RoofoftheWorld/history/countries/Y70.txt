@@ -1,0 +1,27 @@
+# Kham
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2130
+1429.3.11 = {
+	monarch = {
+		name = "Gyal"
+		birth_date = 1396.9.17
+		dynasty = "Zhang"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 2130
+	add_treasury = 16
+	add_prestige = 168
+}

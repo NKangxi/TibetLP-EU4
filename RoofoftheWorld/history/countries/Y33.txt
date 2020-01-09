@@ -1,0 +1,27 @@
+# Wag
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 1227
+1407.7.8 = {
+	monarch = {
+		name = "Gabra"
+		birth_date = 1391.5.26
+		dynasty = "Sehul"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 1227
+	add_treasury = 52
+	add_prestige = 319
+}

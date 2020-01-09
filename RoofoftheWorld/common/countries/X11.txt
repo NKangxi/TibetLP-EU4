@@ -1,0 +1,97 @@
+# Mongol Guard
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 255 143 109 }
+
+
+
+
+leader_names = {
+
+	"Khutulun" "Shiraghul" "Dragpa" "Yesugun" "Yegu" "Chidukhul" "Thönmi" "Tsentsän" "Lukhong" "Donyö" 
+	"Gesar" "Mongoljin" "Hogelun" "Thrikhyiding" "Sachen" "Nagzib" "Khudu" "Mustafa" "Burhanaddin" "Aghlab" 
+	"Sulayman" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Akin" "Alim" "Aram" "Azam" 
+	"Bahir" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Husam" "Ibrahim" "Idris" 
+	"Is'mail" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mansur" "Mirza" 
+	"Mubarak" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" 
+	"Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Talib" "Ubayd" 
+	"Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+monarch_names = {
+	"Khutulun #2" = -1
+	"Shiraghul #1" = 0
+	"Dragpa #1" = 0
+	"Yesugun #1" = -1
+	"Yegu #1" = 0
+	"Chidukhul #1" = 0
+	"Thönmi #1" = 0
+	"Tsentsän #1" = 0
+	"Lukhong #1" = 0
+	"Donyö #1" = 0
+	"Gesar #1" = 0
+	"Mongoljin #1" = -1
+	"Hogelun #1" = -1
+	"Thrikhyiding #1" = 0
+	"Sachen #1" = 0
+	"Nagzib #1" = -1
+	"Khudu #1" = 0
+	"Mustafa #1" = 0
+	"Burhanaddin #1" = 0
+	"Aghlab #1" = 0
+	"Sulayman #1" = 0
+	"Aarif #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Abdul-Wahab #0" = 0
+	"Akin #0" = 0
+	"Alim #0" = 0
+	"Aram #0" = 0
+	"Azam #0" = 0
+	"Bahir #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Faruk #0" = 0
+	"Ghalib #0" = 0
+	"Hafiz #0" = 0
+	"Halil #0" = 0
+	"Husam #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Is'mail #0" = 0
+	"Isa #0" = 0
+	"Jabir #0" = 0
+	"Jalil #0" = 0
+	"Jibril #0" = 0
+	"Khaireddin #0" = 0
+	"Khalil #0" = 0
+	"Mahdi #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mubarak #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Najib #0" = 0
+	"Nasr #0" = 0
+	"Nizam #0" = 0
+	"Qawurd #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sadiq #0" = 0
+	"Sami #0" = 0
+	"Samir #0" = 0
+	"Shaiban #0" = 0
+	"Shamir #0" = 0
+	"Shujah #0" = 0
+	"Talib #0" = 0
+	"Ubayd #0" = 0
+	"Uways #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+	"Zeyd #0" = 0
+}
+

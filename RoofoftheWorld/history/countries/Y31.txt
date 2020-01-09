@@ -1,0 +1,26 @@
+# Nobatia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = al_suryah_arabic
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 1234
+1439.7.9 = {
+	monarch = {
+		name = "Abdul-Razzaq"
+		birth_date = 1405.9.9
+		dynasty = "Hakamid"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 1234
+	add_treasury = 579
+	add_prestige = 264
+}

@@ -1,0 +1,38 @@
+# Genoa
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2992
+1444.7.22 = {
+	monarch = {
+		name = "Alfhildr"
+		birth_date = 1405.4.17
+		dynasty = "Gøye"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = loose_lips_personality
+	heir = {
+		name = "Dan"
+		monarch_name = "Dan"
+		dynasty = "Gøye"
+		birth_date = 1439.9.10
+		death_date = 1519.9.10
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 2992
+	add_treasury = 66
+	add_prestige = 161
+}

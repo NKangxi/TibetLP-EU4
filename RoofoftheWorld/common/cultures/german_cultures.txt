@@ -1,0 +1,22 @@
+germanic = {
+	german = {
+		primary = GER
+		dynasty_names = { "Ludowinger" "de Luxembourg" "von Egisheim" "von Wunstorf" "von Schwanden" "von Vyshusen" "von Komburg" "Rapotonen" "von Grenchen" "von Eschenloch" "von Hardegg" "von Schmidtburg" "von Kyrburg" "von Stolzenberg" "von Ortenburg" "von Frontenhausen" "von Nordgau" "von Koshvardhan" "von Hohenlohe" "von Ratzeburg" "von Sewa" "von La Bisbal d'Empord�" }
+	}
+	frankish = {
+		primary = FRA
+		dynasty_names = { "de Beauffremont" "de Riencourt" "Rorgonides" "de Falkenstein" "Mercadier" "de Korneuburg" }
+	}
+	suebi = {
+		primary = POR
+		dynasty_names = { }
+	}
+	frisian = {
+		primary = NED
+		dynasty_names = { }
+	}
+	old_lombard = {
+		primary = ITA
+		dynast_names = §old_lombard§
+	}
+}

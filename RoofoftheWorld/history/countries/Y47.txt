@@ -1,0 +1,28 @@
+# Mallorca
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 333
+1434.4.12 = {
+	monarch = {
+		name = "Melek"
+		birth_date = 1379.4.10
+		dynasty = "Alcúdi"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = embezzler_personality
+	add_ruler_personality = navigator_personality
+}
+1444.11.11 = {
+	capital = 333
+	add_treasury = 431
+	add_prestige = 194
+}

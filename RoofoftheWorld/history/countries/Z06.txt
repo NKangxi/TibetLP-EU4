@@ -1,0 +1,28 @@
+# Aquitaine
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 175
+1431.11.13 = {
+	monarch = {
+		name = "Guðrun"
+		birth_date = 1399.8.13
+		dynasty = "Alfr"
+		female = yes
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 175
+	add_treasury = 384
+	add_prestige = 89
+}

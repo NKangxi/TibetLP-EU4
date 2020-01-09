@@ -1,0 +1,41 @@
+# Württemberg
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = cathar
+clear_scripted_personalities = yes
+capital = 70
+1409.6.14 = {
+	monarch = {
+		name = "Yixing"
+		birth_date = 1407.3.28
+		dynasty = "von Wunstorf"
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = craven_personality
+}
+1436.11.17 = {
+	heir = {
+		name = "Konstanze"
+		monarch_name = "Konstanze"
+		dynasty = "von Wunstorf"
+		birth_date = 1436.11.17
+		death_date = 1516.11.17
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 70
+	add_treasury = 129
+	add_prestige = 78
+}

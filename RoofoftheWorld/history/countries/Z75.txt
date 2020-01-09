@@ -1,0 +1,26 @@
+# Velsk
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4122
+1439.11.13 = {
+	monarch = {
+		name = "Zhebeg III"
+		birth_date = 1411.3.13
+		dynasty = "Kichayid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 4122
+	add_treasury = 51
+	add_prestige = 165
+}

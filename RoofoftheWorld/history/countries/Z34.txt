@@ -1,0 +1,28 @@
+# Kuyavia
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = swedish
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 4524
+1415.3.6 = {
+	monarch = {
+		name = "Karin II"
+		birth_date = 1398.4.6
+		dynasty = "Väse"
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 4524
+	add_treasury = 25
+	add_prestige = 209
+}

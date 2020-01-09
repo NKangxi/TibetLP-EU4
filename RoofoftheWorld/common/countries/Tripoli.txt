@@ -1,0 +1,198 @@
+# Tripolitania
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 63 175 117 }
+
+
+
+
+leader_names = {
+
+	"Huitzilin" "Patli" "Huitzilihuitl" "Coatl" "Tochtli" "Chimalma" "Cuicatl" "Ueman" "Romylia" "Cuetzpalli" 
+	"Cozahtli" "Coszcatl" "Itzcoatl" "Chimalpilli" "Iuitl" "Achcauhtli" "Acolmiztli" "Xocoyotl" "Xihuitl" "Cuauhtemoc" 
+	"Matlalihuitl" "Mizquixahual" "Iquehuacatzin" "Citlali" "Itzli" "Necahual" "Chalchiuitl" "Papa" "Xochitl" "Itotia" 
+	"Tezcatlan" "Acacitli" "Citlalli" "Acamapichtli" "Miyaoaxochitl" "Topiltzin" "Zipactonal" "Huitzitl" "Nelli" "Teicuih" 
+	"Ixcatzin" "Yolotli" "Eloxochitl" "Nezahualpilli" "Chicomecoatl" "Tapayaxi" "Matlatzincatzin" "Etalpalli" "Zeltzin" "Ozomatli" 
+	"Ohtli" "Tzompantzin" "Teiuc" "Xilonen" "Tlahco" "Itzcuintli" "Rørik" "Tlacaelel" "Ahuiliztli" "Hatim" 
+	"AbdAllâh" "Zalghîn" "Takfarinas" "Masmud" "Isa" "Talib" "Hussamaddin" "Tadefi" "Samira" "Yunes" 
+	"Ixfensen" "Bagay" "Dasin" "Tfit" "Qutaiba" "Urtilian" "Kenwa" "Amud" "Thordis" "Gyða" 
+	"Hroðgar" "Ingrid" "Gorm" "Atl" "Emilie" "Holger" "Momoztli" "Abel" "Anders" "Anund" 
+	"Asger" "Balder" "Benedikt" "Bjørn" "Bo" "Christoffer" "Edvard" "Einar" "Erik" "Ernst" 
+	"Esben" "Fredrik" "Frej" "Frode" "Glum" "Gnupa" "Gotfred" "Gregers" "Grim" "Gunnar" 
+	"Hårik" "Halfdan" "Halvor" "Harald" "Helge" "Hemming" "Henrik" "Hjalmar" "Ingolf" "Jørgen" 
+	"Jørn" "Jakob" "Jens" "Johann" "Karl" "Knud" "Kristian" "Leif" "Lennart" "Ludvig" 
+	"Malthe" "Mads" "Mikkel" "Mogens" "Niels" "Odd" "Olav" "Oluf" "Peder" "Poul" 
+	"Pridbjørn" "Ragnar" "Ragnvald" "Rolf" "Rune" "Severin" "Sigfred" "Sigtryg" "Sigurd" "Sivard" 
+	"Steen" "Svend" "Sämund" "Thorolf" "Thorvald" "Torben" "Torbjørn" "Tord" "Torfinn" "Torgils" 
+	"Ture" "Ubbe" "Uffe" "Ulf" "Valdemar" "Valentin" "Vilfred" "Yngvar" }
+monarch_names = {
+	"Huitzilin #0" = 1
+	"Patli #0" = -1
+	"Huitzilihuitl #0" = 1
+	"Coatl #0" = 1
+	"Tochtli #2" = 21
+	"Chimalma #0" = -1
+	"Cuicatl #0" = -1
+	"Ueman #0" = 1
+	"Romylia #0" = -1
+	"Cuetzpalli #0" = 1
+	"Cozahtli #0" = 1
+	"Coszcatl #0" = -1
+	"Itzcoatl #1" = 21
+	"Chimalpilli #0" = 1
+	"Iuitl #0" = -1
+	"Achcauhtli #0" = -1
+	"Acolmiztli #0" = 1
+	"Xocoyotl #0" = -1
+	"Xihuitl #0" = 1
+	"Cuauhtemoc #0" = 1
+	"Matlalihuitl #0" = 1
+	"Mizquixahual #0" = -1
+	"Iquehuacatzin #0" = 1
+	"Citlali #0" = -1
+	"Itzli #0" = 1
+	"Necahual #0" = -1
+	"Chalchiuitl #0" = -1
+	"Papa #0" = -1
+	"Xochitl #0" = 1
+	"Itotia #0" = -1
+	"Tezcatlan #0" = -1
+	"Acacitli #0" = 1
+	"Citlalli #0" = -1
+	"Acamapichtli #0" = 1
+	"Miyaoaxochitl #0" = -1
+	"Topiltzin #0" = 1
+	"Zipactonal #0" = 1
+	"Huitzitl #0" = 1
+	"Nelli #0" = -1
+	"Teicuih #0" = -1
+	"Ixcatzin #0" = -1
+	"Yolotli #0" = 1
+	"Eloxochitl #1" = -22
+	"Nezahualpilli #0" = 1
+	"Chicomecoatl #0" = -1
+	"Tapayaxi #0" = 1
+	"Matlatzincatzin #1" = 18
+	"Etalpalli #0" = -1
+	"Zeltzin #0" = -1
+	"Ozomatli #1" = 18
+	"Ohtli #0" = -1
+	"Tzompantzin #0" = 1
+	"Teiuc #0" = -1
+	"Xilonen #0" = -1
+	"Tlahco #0" = -1
+	"Itzcuintli #0" = 1
+	"Rørik #1" = 18
+	"Tlacaelel #0" = 1
+	"Ahuiliztli #0" = -1
+	"Hatim #1" = 0
+	"AbdAllâh #1" = 0
+	"Zalghîn #2" = 0
+	"Takfarinas #1" = 0
+	"Masmud #1" = 0
+	"Isa #1" = 0
+	"Talib #1" = 0
+	"Hussamaddin #1" = 0
+	"Tadefi #1" = -1
+	"Samira #1" = -1
+	"Yunes #2" = 0
+	"Ixfensen #1" = 0
+	"Bagay #1" = 0
+	"Dasin #1" = -1
+	"Tfit #1" = -1
+	"Qutaiba #1" = 0
+	"Urtilian #1" = 0
+	"Kenwa #1" = -1
+	"Amud #1" = 0
+	"Thordis #2" = -1
+	"Gyða #1" = -1
+	"Hroðgar #1" = 0
+	"Ingrid #1" = -1
+	"Gorm #1" = 0
+	"Atl #1" = -1
+	"Emilie #2" = -1
+	"Holger #1" = 0
+	"Momoztli #1" = -1
+	"Abel #0" = 0
+	"Anders #0" = 0
+	"Anund #0" = 0
+	"Asger #0" = 0
+	"Balder #0" = 0
+	"Benedikt #0" = 0
+	"Bjørn #0" = 0
+	"Bo #0" = 0
+	"Christoffer #0" = 0
+	"Edvard #0" = 0
+	"Einar #0" = 0
+	"Erik #0" = 0
+	"Ernst #0" = 0
+	"Esben #0" = 0
+	"Fredrik #0" = 0
+	"Frej #0" = 0
+	"Frode #0" = 0
+	"Glum #0" = 0
+	"Gnupa #0" = 0
+	"Gotfred #0" = 0
+	"Gregers #0" = 0
+	"Grim #0" = 0
+	"Gunnar #0" = 0
+	"Hårik #0" = 0
+	"Halfdan #0" = 0
+	"Halvor #0" = 0
+	"Harald #0" = 0
+	"Helge #0" = 0
+	"Hemming #0" = 0
+	"Henrik #0" = 0
+	"Hjalmar #0" = 0
+	"Ingolf #0" = 0
+	"Jørgen #0" = 0
+	"Jørn #0" = 0
+	"Jakob #0" = 0
+	"Jens #0" = 0
+	"Johann #0" = 0
+	"Karl #0" = 0
+	"Knud #0" = 0
+	"Kristian #0" = 0
+	"Leif #0" = 0
+	"Lennart #0" = 0
+	"Ludvig #0" = 0
+	"Malthe #0" = 0
+	"Mads #0" = 0
+	"Mikkel #0" = 0
+	"Mogens #0" = 0
+	"Niels #0" = 0
+	"Odd #0" = 0
+	"Olav #0" = 0
+	"Oluf #0" = 0
+	"Peder #0" = 0
+	"Poul #0" = 0
+	"Pridbjørn #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Rune #0" = 0
+	"Severin #0" = 0
+	"Sigfred #0" = 0
+	"Sigtryg #0" = 0
+	"Sigurd #0" = 0
+	"Sivard #0" = 0
+	"Steen #0" = 0
+	"Svend #0" = 0
+	"Sämund #0" = 0
+	"Thorolf #0" = 0
+	"Thorvald #0" = 0
+	"Torben #0" = 0
+	"Torbjørn #0" = 0
+	"Tord #0" = 0
+	"Torfinn #0" = 0
+	"Torgils #0" = 0
+	"Ture #0" = 0
+	"Ubbe #0" = 0
+	"Uffe #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+	"Valentin #0" = 0
+	"Vilfred #0" = 0
+	"Yngvar #0" = 0
+}
+

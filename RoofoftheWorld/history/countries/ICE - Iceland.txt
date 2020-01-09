@@ -1,0 +1,26 @@
+# Iceland
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 370
+1437.7.10 = {
+	monarch = {
+		name = "Þorbjörn"
+		birth_date = 1407.9.10
+		dynasty = "Hylling"
+		adm = 4
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 370
+	add_treasury = 307
+	add_prestige = 147
+}

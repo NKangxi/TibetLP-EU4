@@ -1,0 +1,37 @@
+# Muntenia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bolghar
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 161
+1440.7.7 = {
+	monarch = {
+		name = "Kuber"
+		birth_date = 1415.10.21
+		dynasty = "Goledid"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Bulger"
+		monarch_name = "Bulger II"
+		dynasty = "Goledid"
+		birth_date = 1419.1.15
+		death_date = 1499.1.15
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 161
+	add_treasury = 20
+	add_prestige = 81
+}

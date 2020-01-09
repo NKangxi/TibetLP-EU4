@@ -1,0 +1,39 @@
+# Derbent
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = armenian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2197
+1438.12.9 = {
+	monarch = {
+		name = "Avedis II"
+		birth_date = 1417.8.26
+		dynasty = "Naiman"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = expansionist_personality
+}
+1443.2.27 = {
+	heir = {
+		name = "Razmouhi"
+		monarch_name = "Razmouhi"
+		dynasty = "Naiman"
+		birth_date = 1443.2.27
+		death_date = 1523.2.27
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2197
+	add_treasury = 60
+	add_prestige = 125
+}

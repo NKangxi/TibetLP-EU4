@@ -1,0 +1,27 @@
+# Doregene
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = bon
+clear_scripted_personalities = yes
+capital = 714
+1402.7.17 = {
+	monarch = {
+		name = "Chaghagan"
+		birth_date = 1402.6.9
+		dynasty = "Doregene"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 714
+	add_treasury = 13
+	add_prestige = 283
+}

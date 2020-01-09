@@ -1,0 +1,26 @@
+# Gondar
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 1224
+1434.11.8 = {
+	monarch = {
+		name = "Haeran III"
+		birth_date = 1422.2.25
+		dynasty = "Bekele"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 1224
+	add_treasury = 40
+	add_prestige = 139
+}

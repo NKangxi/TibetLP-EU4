@@ -1,0 +1,235 @@
+# Paris
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 35 141 208 }
+
+
+
+
+leader_names = {
+
+	"Karl" "Agnethe" "Emilie" "Clotaire" "Tezcatlan" "Ragnvald" "Sigrid" "Ragnhild" "Zeltzin" "Tetlepanquetzaltzin" 
+	"Chimalpilli" "Techichpotzin" "Necahual" "Katrine" "Sanna" "Steen" "Sigurd" "Margrethe" "Balder" "Dagmar" 
+	"Valentin" "Hjalmar" "Grethe" "Helge" "Ernst" "Helena" "Rikissa" "Olav" "Bjørn" "Ingrid" 
+	"Yaretzi" "Frederikke" "Gnupa" "Torgils" "Yolyamanitzin" "Nezahualcoyotl" "Uffe" "Ueman" "Nezahualpilli" "Tlacaeleltzin" 
+	"Ayauhcihuatl" "Huitzitl" "Kirsten" "Gunhild" "Freja" "Xihuitl" "Teicuih" "Torben" "Momoztli" "Tepin" 
+	"Cuitlahuac" "Mogens" "Ragnar" "Yolotli" "Amoxtli" "Xipil" "Leif" "Yoltzin" "Silje" "Ludvig" 
+	"Ture" "Teiuc" "Cecilie" "Izel" "Chimalpopoca" "Tlacaelel" "Thorvald" "Tord" "Olafr" "Tizocic" 
+	"Huitzilihuitl" "Malthe" "Erik" "Itzcuintli" "Chicomecoatl" "Ahuiliztli" "Chipahua" "Alfr" "Tizoc" "Boson" 
+	"Charles" "Louis" "Carloman" "Aléarde" "Marthe" "Thiébaut" "Antoinette" "Yayauhqui" "Yunes" "Axayacatl" 
+	"Tapayaxi" "Tlazozomizqui" "Quiauhxochitl" "Tonalnan" "Thordis" "Citlalli" "Chimalma" "Xocoh" "Gunhilda" "Édouard" 
+	"Érrard" "Étienne" "Adalbert" "Adémar" "Adrien" "Aimery" "Alain" "Aldebert" "Aldéric" "Alphonse" 
+	"Amaury" "Amédée" "Ancel" "André" "Angelbert" "Antoine" "Archambaud" "Arnaud" "Arnault" "Arnoul" 
+	"Aubry" "Aymar" "Barthélémi" "Baudouin" "Benoît" "Bérenger" "Bernard" "Bertrand" "Bohemond" "Bouchard" 
+	"Centule" "Ebbon" "Enguerrand" "Eudes" "Eustache" "Evrard" "Foulques" "François" "Frédéric" "Géraud" 
+	"Gargamel" "Gaucher" "Gaucelin" "Gauthier" "Geoffroy" "Gelduin" "Gilbert" "Gilles" "Godefroy" "Guichard" 
+	"Guiges" "Guilhem" "Guillaume" "Guy" "Hélie" "Hamelin" "Henri" "Herbert" "Hildebert" "Hugues" 
+	"Humbert" "Jacques" "Jaufré" "Jaspert" "Jean" "Josselin" "Jourdain" "Julien" "Léon" "Léonard" 
+	"Lothaire" "Loup" "Manassès" "Mathieu" "Maurice" "Nicolas" "Ogier" "Onfroy" "Orson" "Othon" 
+	"Payen" "Philippe" "Pierre" "Raimbaut" "Raoul" "Raymond" "Raynaud" "Renaud" "Richard" "Robert" 
+	"Robin" "Roger" "Rorgon" "Rorgues" "Roubaud" "Savary" "Sigismond" "Thibault" "Thierry" "Valeran" 
+	"Yves" }
+monarch_names = {
+	"Karl #0" = 1
+	"Agnethe #0" = -1
+	"Emilie #1" = -25
+	"Clotaire #0" = 1
+	"Tezcatlan #0" = -1
+	"Ragnvald #0" = 1
+	"Sigrid #0" = -1
+	"Ragnhild #0" = -1
+	"Zeltzin #1" = -19
+	"Tetlepanquetzaltzin #0" = 1
+	"Chimalpilli #0" = 1
+	"Techichpotzin #0" = -1
+	"Necahual #0" = -1
+	"Katrine #0" = -1
+	"Sanna #0" = -1
+	"Steen #0" = 1
+	"Sigurd #0" = 1
+	"Margrethe #0" = -1
+	"Balder #0" = 1
+	"Dagmar #3" = -37
+	"Valentin #0" = 1
+	"Hjalmar #0" = 1
+	"Grethe #0" = -1
+	"Helge #0" = 1
+	"Ernst #0" = 1
+	"Helena #0" = -1
+	"Rikissa #1" = -25
+	"Olav #0" = 1
+	"Bjørn #0" = 1
+	"Ingrid #1" = -19
+	"Yaretzi #1" = -19
+	"Frederikke #0" = -1
+	"Gnupa #0" = 1
+	"Torgils #0" = 1
+	"Yolyamanitzin #0" = 1
+	"Nezahualcoyotl #0" = 1
+	"Uffe #0" = 1
+	"Ueman #0" = 1
+	"Nezahualpilli #0" = 1
+	"Tlacaeleltzin #0" = 1
+	"Ayauhcihuatl #0" = -1
+	"Huitzitl #0" = 1
+	"Kirsten #0" = -1
+	"Gunhild #0" = -1
+	"Freja #0" = -1
+	"Xihuitl #0" = 1
+	"Teicuih #0" = -1
+	"Torben #0" = 1
+	"Momoztli #0" = -1
+	"Tepin #0" = -1
+	"Cuitlahuac #1" = 18
+	"Mogens #0" = 1
+	"Ragnar #0" = 1
+	"Yolotli #0" = 1
+	"Amoxtli #1" = -19
+	"Xipil #0" = 1
+	"Leif #0" = 1
+	"Yoltzin #0" = -1
+	"Silje #0" = -1
+	"Ludvig #0" = 1
+	"Ture #0" = 1
+	"Teiuc #0" = -1
+	"Cecilie #1" = -22
+	"Izel #0" = -1
+	"Chimalpopoca #0" = 1
+	"Tlacaelel #0" = 1
+	"Thorvald #0" = 1
+	"Tord #0" = 1
+	"Olafr #0" = 1
+	"Tizocic #0" = 1
+	"Huitzilihuitl #0" = 1
+	"Malthe #0" = 1
+	"Erik #0" = 1
+	"Itzcuintli #0" = 1
+	"Chicomecoatl #0" = -1
+	"Ahuiliztli #0" = 1
+	"Chipahua #0" = -1
+	"Alfr #0" = 1
+	"Tizoc #0" = 1
+	"Boson #0" = 1
+	"Charles #1" = 0
+	"Louis #2" = 0
+	"Carloman #1" = 0
+	"Aléarde #1" = -1
+	"Marthe #1" = -1
+	"Thiébaut #1" = 0
+	"Antoinette #1" = -1
+	"Yayauhqui #1" = 0
+	"Yunes #1" = 0
+	"Axayacatl #2" = 0
+	"Tapayaxi #1" = 0
+	"Tlazozomizqui #1" = -1
+	"Quiauhxochitl #1" = -1
+	"Tonalnan #2" = -1
+	"Thordis #1" = -1
+	"Citlalli #2" = -1
+	"Chimalma #1" = -1
+	"Xocoh #1" = -1
+	"Gunhilda #1" = -1
+	"Édouard #0" = 0
+	"Érrard #0" = 0
+	"Étienne #0" = 0
+	"Adalbert #0" = 0
+	"Adémar #0" = 0
+	"Adrien #0" = 0
+	"Aimery #0" = 0
+	"Alain #0" = 0
+	"Aldebert #0" = 0
+	"Aldéric #0" = 0
+	"Alphonse #0" = 0
+	"Amaury #0" = 0
+	"Amédée #0" = 0
+	"Ancel #0" = 0
+	"André #0" = 0
+	"Angelbert #0" = 0
+	"Antoine #0" = 0
+	"Archambaud #0" = 0
+	"Arnaud #0" = 0
+	"Arnault #0" = 0
+	"Arnoul #0" = 0
+	"Aubry #0" = 0
+	"Aymar #0" = 0
+	"Barthélémi #0" = 0
+	"Baudouin #0" = 0
+	"Benoît #0" = 0
+	"Bérenger #0" = 0
+	"Bernard #0" = 0
+	"Bertrand #0" = 0
+	"Bohemond #0" = 0
+	"Bouchard #0" = 0
+	"Centule #0" = 0
+	"Ebbon #0" = 0
+	"Enguerrand #0" = 0
+	"Eudes #0" = 0
+	"Eustache #0" = 0
+	"Evrard #0" = 0
+	"Foulques #0" = 0
+	"François #0" = 0
+	"Frédéric #0" = 0
+	"Géraud #0" = 0
+	"Gargamel #0" = 0
+	"Gaucher #0" = 0
+	"Gaucelin #0" = 0
+	"Gauthier #0" = 0
+	"Geoffroy #0" = 0
+	"Gelduin #0" = 0
+	"Gilbert #0" = 0
+	"Gilles #0" = 0
+	"Godefroy #0" = 0
+	"Guichard #0" = 0
+	"Guiges #0" = 0
+	"Guilhem #0" = 0
+	"Guillaume #0" = 0
+	"Guy #0" = 0
+	"Hélie #0" = 0
+	"Hamelin #0" = 0
+	"Henri #0" = 0
+	"Herbert #0" = 0
+	"Hildebert #0" = 0
+	"Hugues #0" = 0
+	"Humbert #0" = 0
+	"Jacques #0" = 0
+	"Jaufré #0" = 0
+	"Jaspert #0" = 0
+	"Jean #0" = 0
+	"Josselin #0" = 0
+	"Jourdain #0" = 0
+	"Julien #0" = 0
+	"Léon #0" = 0
+	"Léonard #0" = 0
+	"Lothaire #0" = 0
+	"Loup #0" = 0
+	"Manassès #0" = 0
+	"Mathieu #0" = 0
+	"Maurice #0" = 0
+	"Nicolas #0" = 0
+	"Ogier #0" = 0
+	"Onfroy #0" = 0
+	"Orson #0" = 0
+	"Othon #0" = 0
+	"Payen #0" = 0
+	"Philippe #0" = 0
+	"Pierre #0" = 0
+	"Raimbaut #0" = 0
+	"Raoul #0" = 0
+	"Raymond #0" = 0
+	"Raynaud #0" = 0
+	"Renaud #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Robin #0" = 0
+	"Roger #0" = 0
+	"Rorgon #0" = 0
+	"Rorgues #0" = 0
+	"Roubaud #0" = 0
+	"Savary #0" = 0
+	"Sigismond #0" = 0
+	"Thibault #0" = 0
+	"Thierry #0" = 0
+	"Valeran #0" = 0
+	"Yves #0" = 0
+}
+

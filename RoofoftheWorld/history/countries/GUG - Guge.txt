@@ -1,0 +1,28 @@
+# Guge
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2128
+1422.10.27 = {
+	monarch = {
+		name = "Tashi II"
+		birth_date = 1388.6.13
+		dynasty = "Bel"
+		female = yes
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 2128
+	add_treasury = 20
+	add_prestige = 328
+}

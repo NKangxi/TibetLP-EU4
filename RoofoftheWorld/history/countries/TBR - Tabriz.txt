@@ -1,0 +1,28 @@
+# Tabriz
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = cuman
+religion = bon
+clear_scripted_personalities = yes
+capital = 2207
+1415.7.22 = {
+	monarch = {
+		name = "Chimey III"
+		birth_date = 1396.4.28
+		dynasty = "Khön"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 2207
+	add_treasury = 249
+	add_prestige = 112
+}

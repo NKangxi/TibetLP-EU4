@@ -1,0 +1,27 @@
+# Magadha
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 558
+1441.2.19 = {
+	monarch = {
+		name = "Gyimsheng II"
+		birth_date = 1413.7.2
+		dynasty = "Khon"
+		female = yes
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 558
+	add_treasury = 59
+	add_prestige = 186
+}

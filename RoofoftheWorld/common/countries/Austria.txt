@@ -1,0 +1,581 @@
+# Austria
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 220 220 220 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Ljuboneg" "Gojislav" "Veligoj" "Radonja" "Trebenja" "Trebimir" "Mirica" "Vlastibor" "Vidoslava" "Ljubonja" 
+	"Jarmila" "Dobrinja" "Bitinja" "Jaroslava" "Prisnec" "Daša" "Milojka" "Žitomisl" "Nedeljka" "Ogrinja" 
+	"Branimir" "Lilijana" "Cudna" "Mislena" "Prisnota" "Minigoj" "Ljuta" "Volcica" "Stojce" "Dobrota" 
+	"Milunka" "Stislava" "Dobrej" "Pomik" "Vilana" "Dušana" "Bratina" "Govica" "Slavka" "Milun" 
+	"Lastimir" "Vitko" "Gostinja" "Pitalo" "Vecevoj" "Žitigoj" "Pribislav" "Lastnik" "Stojina" "Milena" 
+	"Ljuban" "Zdegoj" "Smiljana" "Milo" "Godomir" "Radoh" "Lastigoj" "Trebivit" "Cveta" "Trdoslav" 
+	"Semika" "Kalina" "Zadrag" "Tihomil" "Braslav" "Dorogoj" "Ayasun" "Zenislava" "Ljutica" "Tihožit" 
+	"Cvetoš" "Mila" "Milislava" "Trebišin" "Pribic" "Rada" "Prisnoba" "Rebom" "Mišljena" "Mirjana" 
+	"Jaroslav" "Bogumila" "Mirko" "Lazica" "Novko" "Radinko" "Dobrovoj" "Wladyslaw" "Nacek" "Maleš" 
+	"Slava" "Boželisa" "Bega" "Slovenka" "Dragovit" "Ubislava" "Jelena" "Medved" "Domagoj" "Zlativenca" 
+	"Gradislava" "Ladana" "Mirca" "Zverka" "Budigoj" "Straha" "Stanila" "Gostibil" "Mistibor" "Milinko" 
+	"Košuta" "Ivka" "Stojko" "Pavica" "Nepokor" "Ljuba" "Zverica" "Vid" "Golomir" "Ljubenko" 
+	"Mala" "Hraber" "Zdemir" "Rajko" "Morava" "Volkonja" "Draga" "Zlatko" "Pribigoj" "Pribina" 
+	"Dobrilo" "Gostiša" "Ivko" "Vlatko" "Gorislava" "Boža" "Zdestan" "Bodigoj" "Miromisl" "Grobiša" 
+	"Radislav" "Miluš" "Divna" "Zdeslav" "Vida" "Brajna" "Zememišl" "Sveljub" "Uncat" "Godemir" 
+	"Dobrožica" "Gorazd" "Radek" "Vladoslav" "Ljubotin" "Dobrožižna" "Stane" "Ljubomira" "Junik" "Malina" 
+	"Dejana" "Stagoj" "Mica" "Neda" "Zorana" "Stojgoj" "Boril" "Misl" "Dobrija" "Milica" 
+	"Bela" "Tihomira" "Benebod" "Mira" "Miroslava" "Žizemir" "Vitin" "Predobra" "Borut" "Vladimir" 
+	"Dobruška" "Trebnik" "Cvetni" "Blagica" "Ljubiš" "Dobrodej" "Manidraga" "Negota" "Scenedrag" "Novica" 
+	"Ljutic" "Topa" "Tonislava" "Živkoka" "Kazimir" "Pacemira" "Radogej" "Radojko" "Milen" "Jelenka" 
+	"Stamer" "Težkona" "Ljubota" "Prisnoslav" "Miloš" "Stanislav" "Srecan" "Semiko" "Grozda" "Radojka" 
+	"Dober" "Svetopolk" "Zverce" "Nežir" "Bosiljka" "Stansgoj" "Božo" "Vratislav" "Žitomir" "Miluša" 
+	"Kazimira" "Milorad" "Karlmann" "Wilhelm" "Reinhard" "Tarkhan" "Barjik" "Anselm" "Liudolf" "Ferdinand" 
+	"Leopold" "Ekkehard" "Karlotte" "Jakob" "Günther" "Yayauhqui" "Mihailo" "Itzcuintli" "Almasd" "Bogdan" 
+	"Namena" "Stregomil" "Vitor" "Jagoda" "Golobica" "Radan" "Bedoslav" "Beli" "Benko" "Bislav" 
+	"Blagosod" "Boleslav" "Bogomir" "Bogumil" "Bojnoslav" "Borigoj" "Borižit" "Budin" "Cestilo" "Cestimir" 
+	"Crné" "Crnel" "Crni" "Crnig" "Dalimir" "Danimir" "Debeligoj" "Dobrislav" "Dobren" "Dobromisl" 
+	"Dobroneg" "Dobrost" "Dobrovlast" "Dobrožit" "Domažil" "Domomir" "Domomisl" "Dragomir" "Dragoslav" "Glavac" 
+	"Glušo" "Gnevaš" "Godemisl" "Gojen" "Gojimir" "Golodrag" "Golotek" "Gostidrag" "Grd" "Hoten" 
+	"Hotimir" "Hrast" "Inko" "Izbor" "Jelen" "Ljubodrag" "Ljubšin" "Ljutomir" "Manidrag" "Maraš" 
+	"Mil" "Milaš" "Milej" "Mirigoj" "Miroslav" "Mistislav" "Naciživ" "Nadovid" "Namdrag" "Našemisl" 
+	"Nebomir" "Negoj" "Negomir" "Nenadej" "Neško" "Nico" "Omisl" "Petanko" "Predoslav" "Premil" 
+	"Premisl" "Pribibor" "Prodan" "Radenko" "Radigoj" "Radin" "Radoš" "Radul" "Radušic" "Sebeteh" 
+	"Sebibor" "Sebidrag" "Sebigoj" "Sebimir" "Skrben" "Slav" "Slavko" "Slavuš" "Sojdrag" "Sprejmir" 
+	"Stano" "Stanon" "Stislav" "Stojan" "Stojdrag" "Stojmir" "Stradoslav" "Stranimir" "Sujce" "Svegoj" 
+	"Svemir" "Svetec" "Svetin" "Svetodrag" "Svetogoj" "Svetomir" "Svetoslav" "Tihodrag" "Tihomir" "Trdac" 
+	"Trdogoj" "Trdomir" "Trebec" "Trebegoj" "Trebeš" "Trebibor" "Trebibrat" "Trebil" "Trebin" "Trebušnež" 
+	"Unislav" "Val" "Valnik" "Vecegoj" "Velikne" "Vencegoj" "Venko" "Vilan" "Vitomir" "Vitomisl" 
+	"Vitogoj" "Vitošlav" "Višegoj" "Višemir" "Vlado" "Voinomir" "Volkoj" "Volkun" "Zababerad" "Zdebor" 
+	"Zdedrag" "Zemeteh" "Zemiboned" "Zemidrug" "Zemignev" "Zemin" "Zloslav" "Zvergoj" "Zverko" "Železen" 
+	"Židislav" "Žilec" "Žitovit" "Blaško" "Bogoslav" "Božidar" "Bojan" "Boris" "Boroj" "Boško" 
+	"Branko" "Budislav" "Cvetašin" "Cvetin" "Dejan" "Doberko" "Dobroslav" "Dragaš" "Dragobrat" "Dražilo" 
+	"Dušan" "Gojko" "Gradimir" "Izeslav" "Jezerko" "Karan" "Kocelj" "Krilan" "Ljuben" "Liubivoj" 
+	"Ljubinko" "Ljubomir" "Ljuboslav" "Miladin" "Milan" "Milanko" "Milenko" "Milevoj" "Milin" "Milislav" 
+	"Milovan" "Milutin" "Miljen" "Miljko" "Milobrat" "Milodrag" "Mirodar" "Mišljen" "Mladen" "Negoš" 
+	"Nedeljko" "Ninko" "Nino" "Obren" "Prerad" "Radivoj" "Radic" "Radmil" "Radovan" "Radoj" 
+	"Radomir" "Radosim" "Radoslav" "Ratko" "Savo" "Slavoljub" "Sokol" "Srecko" "Stanko" "Stojadin" 
+	"Šišman" "Šumijak" "Tašo" "Uroš" "Valhun" "Vasoj" "Veselin" "Vecerin" "Vetko" "Vidojko" 
+	"Vojdrag" "Vojtek" "Volkašin" "Zlatoslav" "Zlatoust" }
+monarch_names = {
+	"Ljuboneg #0" = 1
+	"Gojislav #0" = 1
+	"Veligoj #0" = 1
+	"Radonja #0" = -1
+	"Trebenja #0" = -1
+	"Trebimir #0" = 1
+	"Mirica #0" = -1
+	"Vlastibor #0" = 1
+	"Vidoslava #0" = -1
+	"Ljubonja #0" = -1
+	"Jarmila #0" = -1
+	"Dobrinja #0" = -1
+	"Bitinja #0" = -1
+	"Jaroslava #0" = -1
+	"Prisnec #0" = 1
+	"Daša #0" = -1
+	"Milojka #0" = -1
+	"Žitomisl #0" = 1
+	"Nedeljka #0" = -1
+	"Ogrinja #0" = -1
+	"Branimir #0" = 1
+	"Lilijana #0" = -1
+	"Cudna #0" = -1
+	"Mislena #0" = -1
+	"Prisnota #0" = -1
+	"Minigoj #0" = 1
+	"Ljuta #0" = -1
+	"Volcica #0" = -1
+	"Stojce #1" = 24
+	"Dobrota #0" = -1
+	"Milunka #0" = -1
+	"Stislava #0" = -1
+	"Dobrej #0" = 1
+	"Pomik #0" = 1
+	"Vilana #0" = -1
+	"Dušana #0" = -1
+	"Bratina #1" = -22
+	"Govica #0" = -1
+	"Slavka #0" = -1
+	"Milun #0" = 1
+	"Lastimir #2" = 27
+	"Vitko #0" = 1
+	"Gostinja #0" = -1
+	"Pitalo #0" = 1
+	"Vecevoj #0" = 1
+	"Žitigoj #0" = 1
+	"Pribislav #0" = 1
+	"Lastnik #0" = 1
+	"Stojina #0" = -1
+	"Milena #0" = -1
+	"Ljuban #0" = 1
+	"Zdegoj #0" = 1
+	"Smiljana #0" = -1
+	"Milo #0" = 1
+	"Godomir #0" = 1
+	"Radoh #0" = 1
+	"Lastigoj #0" = 1
+	"Trebivit #0" = 1
+	"Cveta #0" = -1
+	"Trdoslav #0" = 1
+	"Semika #0" = -1
+	"Kalina #0" = -1
+	"Zadrag #2" = 18
+	"Tihomil #1" = 39
+	"Braslav #0" = 1
+	"Dorogoj #0" = 1
+	"Ayasun #0" = -1
+	"Zenislava #0" = -1
+	"Ljutica #0" = -1
+	"Tihožit #0" = 1
+	"Cvetoš #0" = 1
+	"Mila #0" = -1
+	"Milislava #0" = -1
+	"Trebišin #0" = 1
+	"Pribic #0" = 1
+	"Rada #0" = -1
+	"Prisnoba #0" = -1
+	"Rebom #0" = 1
+	"Mišljena #0" = -1
+	"Mirjana #0" = -1
+	"Jaroslav #0" = 1
+	"Bogumila #0" = -1
+	"Mirko #0" = 1
+	"Lazica #0" = -1
+	"Novko #0" = 1
+	"Radinko #0" = 1
+	"Dobrovoj #0" = 1
+	"Wladyslaw #0" = 1
+	"Nacek #0" = 1
+	"Maleš #0" = 1
+	"Slava #0" = -1
+	"Boželisa #0" = -1
+	"Bega #0" = -1
+	"Slovenka #0" = -1
+	"Dragovit #0" = 1
+	"Ubislava #0" = -1
+	"Jelena #0" = -1
+	"Medved #0" = 1
+	"Domagoj #0" = 1
+	"Zlativenca #0" = -1
+	"Gradislava #0" = -1
+	"Ladana #0" = -1
+	"Mirca #0" = -1
+	"Zverka #0" = -1
+	"Budigoj #0" = 1
+	"Straha #0" = -1
+	"Stanila #0" = -1
+	"Gostibil #0" = 1
+	"Mistibor #0" = 1
+	"Milinko #0" = 1
+	"Košuta #0" = -1
+	"Ivka #0" = -1
+	"Stojko #0" = 1
+	"Pavica #0" = -1
+	"Nepokor #0" = 1
+	"Ljuba #0" = -1
+	"Zverica #0" = -1
+	"Vid #0" = 1
+	"Golomir #0" = 1
+	"Ljubenko #0" = 1
+	"Mala #0" = -1
+	"Hraber #0" = 1
+	"Zdemir #0" = 1
+	"Rajko #0" = 1
+	"Morava #0" = -1
+	"Volkonja #0" = -1
+	"Draga #0" = -1
+	"Zlatko #0" = 1
+	"Pribigoj #0" = 1
+	"Pribina #0" = -1
+	"Dobrilo #0" = 1
+	"Gostiša #0" = -1
+	"Ivko #0" = 1
+	"Vlatko #0" = 1
+	"Gorislava #0" = -1
+	"Boža #0" = -1
+	"Zdestan #0" = 1
+	"Bodigoj #0" = 1
+	"Miromisl #0" = 1
+	"Grobiša #0" = -1
+	"Radislav #0" = 1
+	"Miluš #0" = 1
+	"Divna #0" = -1
+	"Zdeslav #0" = 1
+	"Vida #0" = -1
+	"Brajna #0" = -1
+	"Zememišl #0" = 1
+	"Sveljub #0" = 1
+	"Uncat #0" = 1
+	"Godemir #0" = 1
+	"Dobrožica #0" = -1
+	"Gorazd #0" = 1
+	"Radek #0" = 1
+	"Vladoslav #0" = 1
+	"Ljubotin #0" = 1
+	"Dobrožižna #0" = -1
+	"Stane #0" = 1
+	"Ljubomira #0" = -1
+	"Junik #0" = 1
+	"Malina #0" = -1
+	"Dejana #0" = -1
+	"Stagoj #0" = 1
+	"Mica #0" = -1
+	"Neda #0" = -1
+	"Zorana #0" = -1
+	"Stojgoj #1" = 24
+	"Boril #0" = 1
+	"Misl #0" = 1
+	"Dobrija #1" = -19
+	"Milica #0" = -1
+	"Bela #0" = -1
+	"Tihomira #0" = -1
+	"Benebod #0" = 1
+	"Mira #0" = -1
+	"Miroslava #0" = -1
+	"Žizemir #0" = 1
+	"Vitin #0" = 1
+	"Predobra #0" = -1
+	"Borut #0" = 1
+	"Vladimir #0" = 1
+	"Dobruška #0" = -1
+	"Trebnik #0" = 1
+	"Cvetni #0" = 1
+	"Blagica #0" = -1
+	"Ljubiš #0" = 1
+	"Dobrodej #0" = 1
+	"Manidraga #0" = -1
+	"Negota #0" = -1
+	"Scenedrag #0" = 1
+	"Novica #0" = -1
+	"Ljutic #0" = 1
+	"Topa #0" = -1
+	"Tonislava #0" = -1
+	"Živkoka #0" = -1
+	"Kazimir #0" = 1
+	"Pacemira #0" = -1
+	"Radogej #0" = 1
+	"Radojko #0" = 1
+	"Milen #0" = 1
+	"Jelenka #0" = -1
+	"Stamer #0" = 1
+	"Težkona #0" = -1
+	"Ljubota #0" = -1
+	"Prisnoslav #0" = 1
+	"Miloš #0" = 1
+	"Stanislav #0" = 1
+	"Srecan #0" = 1
+	"Semiko #0" = 1
+	"Grozda #0" = -1
+	"Radojka #0" = -1
+	"Dober #0" = 1
+	"Svetopolk #0" = 1
+	"Zverce #0" = 1
+	"Nežir #0" = 1
+	"Bosiljka #0" = -1
+	"Stansgoj #1" = 18
+	"Božo #0" = 1
+	"Vratislav #0" = 1
+	"Žitomir #0" = 1
+	"Miluša #0" = -1
+	"Kazimira #0" = -1
+	"Milorad #0" = 1
+	"Karlmann #2" = 0
+	"Wilhelm #1" = 0
+	"Reinhard #1" = 0
+	"Tarkhan #1" = 0
+	"Barjik #1" = 0
+	"Anselm #1" = 0
+	"Liudolf #1" = 0
+	"Ferdinand #1" = 0
+	"Leopold #1" = 0
+	"Ekkehard #1" = 0
+	"Karlotte #1" = -1
+	"Jakob #1" = 0
+	"Günther #1" = 0
+	"Yayauhqui #1" = 0
+	"Mihailo #1" = 0
+	"Itzcuintli #1" = 0
+	"Almasd #1" = -1
+	"Bogdan #1" = 0
+	"Namena #1" = -1
+	"Stregomil #1" = 0
+	"Vitor #2" = 0
+	"Jagoda #1" = -1
+	"Golobica #1" = -1
+	"Radan #1" = 0
+	"Bedoslav #0" = 0
+	"Beli #0" = 0
+	"Benko #0" = 0
+	"Bislav #0" = 0
+	"Blagosod #0" = 0
+	"Boleslav #0" = 0
+	"Bogomir #0" = 0
+	"Bogumil #0" = 0
+	"Bojnoslav #0" = 0
+	"Borigoj #0" = 0
+	"Borižit #0" = 0
+	"Budin #0" = 0
+	"Cestilo #0" = 0
+	"Cestimir #0" = 0
+	"Crné #0" = 0
+	"Crnel #0" = 0
+	"Crni #0" = 0
+	"Crnig #0" = 0
+	"Dalimir #0" = 0
+	"Danimir #0" = 0
+	"Debeligoj #0" = 0
+	"Dobrislav #0" = 0
+	"Dobren #0" = 0
+	"Dobromisl #0" = 0
+	"Dobroneg #0" = 0
+	"Dobrost #0" = 0
+	"Dobrovlast #0" = 0
+	"Dobrožit #0" = 0
+	"Domažil #0" = 0
+	"Domomir #0" = 0
+	"Domomisl #0" = 0
+	"Dragomir #0" = 0
+	"Dragoslav #0" = 0
+	"Glavac #0" = 0
+	"Glušo #0" = 0
+	"Gnevaš #0" = 0
+	"Godemisl #0" = 0
+	"Gojen #0" = 0
+	"Gojimir #0" = 0
+	"Golodrag #0" = 0
+	"Golotek #0" = 0
+	"Gostidrag #0" = 0
+	"Grd #0" = 0
+	"Hoten #0" = 0
+	"Hotimir #0" = 0
+	"Hrast #0" = 0
+	"Inko #0" = 0
+	"Izbor #0" = 0
+	"Jelen #0" = 0
+	"Ljubodrag #0" = 0
+	"Ljubšin #0" = 0
+	"Ljutomir #0" = 0
+	"Manidrag #0" = 0
+	"Maraš #0" = 0
+	"Mil #0" = 0
+	"Milaš #0" = 0
+	"Milej #0" = 0
+	"Mirigoj #0" = 0
+	"Miroslav #0" = 0
+	"Mistislav #0" = 0
+	"Naciživ #0" = 0
+	"Nadovid #0" = 0
+	"Namdrag #0" = 0
+	"Našemisl #0" = 0
+	"Nebomir #0" = 0
+	"Negoj #0" = 0
+	"Negomir #0" = 0
+	"Nenadej #0" = 0
+	"Neško #0" = 0
+	"Nico #0" = 0
+	"Omisl #0" = 0
+	"Petanko #0" = 0
+	"Predoslav #0" = 0
+	"Premil #0" = 0
+	"Premisl #0" = 0
+	"Pribibor #0" = 0
+	"Prodan #0" = 0
+	"Radenko #0" = 0
+	"Radigoj #0" = 0
+	"Radin #0" = 0
+	"Radoš #0" = 0
+	"Radul #0" = 0
+	"Radušic #0" = 0
+	"Sebeteh #0" = 0
+	"Sebibor #0" = 0
+	"Sebidrag #0" = 0
+	"Sebigoj #0" = 0
+	"Sebimir #0" = 0
+	"Skrben #0" = 0
+	"Slav #0" = 0
+	"Slavko #0" = 0
+	"Slavuš #0" = 0
+	"Sojdrag #0" = 0
+	"Sprejmir #0" = 0
+	"Stano #0" = 0
+	"Stanon #0" = 0
+	"Stislav #0" = 0
+	"Stojan #0" = 0
+	"Stojdrag #0" = 0
+	"Stojmir #0" = 0
+	"Stradoslav #0" = 0
+	"Stranimir #0" = 0
+	"Sujce #0" = 0
+	"Svegoj #0" = 0
+	"Svemir #0" = 0
+	"Svetec #0" = 0
+	"Svetin #0" = 0
+	"Svetodrag #0" = 0
+	"Svetogoj #0" = 0
+	"Svetomir #0" = 0
+	"Svetoslav #0" = 0
+	"Tihodrag #0" = 0
+	"Tihomir #0" = 0
+	"Trdac #0" = 0
+	"Trdogoj #0" = 0
+	"Trdomir #0" = 0
+	"Trebec #0" = 0
+	"Trebegoj #0" = 0
+	"Trebeš #0" = 0
+	"Trebibor #0" = 0
+	"Trebibrat #0" = 0
+	"Trebil #0" = 0
+	"Trebin #0" = 0
+	"Trebušnež #0" = 0
+	"Unislav #0" = 0
+	"Val #0" = 0
+	"Valnik #0" = 0
+	"Vecegoj #0" = 0
+	"Velikne #0" = 0
+	"Vencegoj #0" = 0
+	"Venko #0" = 0
+	"Vilan #0" = 0
+	"Vitomir #0" = 0
+	"Vitomisl #0" = 0
+	"Vitogoj #0" = 0
+	"Vitošlav #0" = 0
+	"Višegoj #0" = 0
+	"Višemir #0" = 0
+	"Vlado #0" = 0
+	"Voinomir #0" = 0
+	"Volkoj #0" = 0
+	"Volkun #0" = 0
+	"Zababerad #0" = 0
+	"Zdebor #0" = 0
+	"Zdedrag #0" = 0
+	"Zemeteh #0" = 0
+	"Zemiboned #0" = 0
+	"Zemidrug #0" = 0
+	"Zemignev #0" = 0
+	"Zemin #0" = 0
+	"Zloslav #0" = 0
+	"Zvergoj #0" = 0
+	"Zverko #0" = 0
+	"Železen #0" = 0
+	"Židislav #0" = 0
+	"Žilec #0" = 0
+	"Žitovit #0" = 0
+	"Blaško #0" = 0
+	"Bogoslav #0" = 0
+	"Božidar #0" = 0
+	"Bojan #0" = 0
+	"Boris #0" = 0
+	"Boroj #0" = 0
+	"Boško #0" = 0
+	"Branko #0" = 0
+	"Budislav #0" = 0
+	"Cvetašin #0" = 0
+	"Cvetin #0" = 0
+	"Dejan #0" = 0
+	"Doberko #0" = 0
+	"Dobroslav #0" = 0
+	"Dragaš #0" = 0
+	"Dragobrat #0" = 0
+	"Dražilo #0" = 0
+	"Dušan #0" = 0
+	"Gojko #0" = 0
+	"Gradimir #0" = 0
+	"Izeslav #0" = 0
+	"Jezerko #0" = 0
+	"Karan #0" = 0
+	"Kocelj #0" = 0
+	"Krilan #0" = 0
+	"Ljuben #0" = 0
+	"Liubivoj #0" = 0
+	"Ljubinko #0" = 0
+	"Ljubomir #0" = 0
+	"Ljuboslav #0" = 0
+	"Miladin #0" = 0
+	"Milan #0" = 0
+	"Milanko #0" = 0
+	"Milenko #0" = 0
+	"Milevoj #0" = 0
+	"Milin #0" = 0
+	"Milislav #0" = 0
+	"Milovan #0" = 0
+	"Milutin #0" = 0
+	"Miljen #0" = 0
+	"Miljko #0" = 0
+	"Milobrat #0" = 0
+	"Milodrag #0" = 0
+	"Mirodar #0" = 0
+	"Mišljen #0" = 0
+	"Mladen #0" = 0
+	"Negoš #0" = 0
+	"Nedeljko #0" = 0
+	"Ninko #0" = 0
+	"Nino #0" = 0
+	"Obren #0" = 0
+	"Prerad #0" = 0
+	"Radivoj #0" = 0
+	"Radic #0" = 0
+	"Radmil #0" = 0
+	"Radovan #0" = 0
+	"Radoj #0" = 0
+	"Radomir #0" = 0
+	"Radosim #0" = 0
+	"Radoslav #0" = 0
+	"Ratko #0" = 0
+	"Savo #0" = 0
+	"Slavoljub #0" = 0
+	"Sokol #0" = 0
+	"Srecko #0" = 0
+	"Stanko #0" = 0
+	"Stojadin #0" = 0
+	"Šišman #0" = 0
+	"Šumijak #0" = 0
+	"Tašo #0" = 0
+	"Uroš #0" = 0
+	"Valhun #0" = 0
+	"Vasoj #0" = 0
+	"Veselin #0" = 0
+	"Vecerin #0" = 0
+	"Vetko #0" = 0
+	"Vidojko #0" = 0
+	"Vojdrag #0" = 0
+	"Vojtek #0" = 0
+	"Volkašin #0" = 0
+	"Zlatoslav #0" = 0
+	"Zlatoust #0" = 0
+}
+ship_names = {
+	"St. Kilian" "Tassilo III" "Kaiser Ludwig IV"
+	"König Arnulf" "Graf von Bogen" "Graf von Andechs"
+	"Graf von Sulzbach" Wittelsbach "Graf von Diepolding"
+	"König Konrad III" "König Friedrich I" "Pfalzgraf Otto"
+	Augsburg Andechs Burgau Diessen Friedberg Kempten Lindau
+	Memmingen Mindel Oettingen Straubing Wolfstein
+}
+

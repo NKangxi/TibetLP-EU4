@@ -1,0 +1,27 @@
+# Estonia
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 36
+1444.7.18 = {
+	monarch = {
+		name = "Astrid"
+		birth_date = 1415.12.3
+		dynasty = "Sleggja"
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 36
+	add_treasury = 413
+	add_prestige = 279
+}

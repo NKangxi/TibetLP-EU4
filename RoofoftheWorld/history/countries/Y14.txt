@@ -1,0 +1,38 @@
+# Odchigin
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = sunni
+clear_scripted_personalities = yes
+capital = 466
+1429.4.21 = {
+	monarch = {
+		name = "Harghasun"
+		birth_date = 1390.7.27
+		dynasty = "Rashtid"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = craven_personality
+	heir = {
+		name = "Alchidai"
+		monarch_name = "Alchidai"
+		dynasty = "Rashtid"
+		birth_date = 1407.8.23
+		death_date = 1487.8.23
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 466
+	add_treasury = 67
+	add_prestige = 275
+}

@@ -1,0 +1,192 @@
+# Carantanian Guard
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 92 230 140 }
+
+
+
+
+leader_names = {
+
+	"Phoyongsa" "Löntsen" "Mangmoje" "Gyal" "Tsenma" "Amala" "Ösung" "Sadnalegs" "Shang" "Zangmo" 
+	"Nam" "Lhanang" "Denöl" "Daktri" "Raksita" "Ghazan" "Tökarma" "Bagaridai" "Konchog" "Deu" 
+	"Pungtsen" "Chimey" "Dzeden" "Yondagmo" "Gyaltsen" "Drag" "Mungchang" "Gyalyum" "Yeke" "Magyal" 
+	"Mangtsen" "Rinchen" "Gémathar" "Ajinai" "Toktokteng" "Trisong" "Cham" "Nyigön" "Namri" "Tromo" 
+	"Thönmi" "Khribang" "Könchok" "Gunggyal" "Songtsen" "Lhakee" "Sadmarkar" "Gongpa" "Tridé" "Lha" 
+	"Getong" "Sengemo" "Sachen" "Dringma" "Tsugru" "Khritsun" "Zhangtsun" "Mangnyen" "Kyeden" "Lhathrimo" 
+	"Detrin" "Kunzang" "Gyalpo" "Tsunmotog" "Jetsun" "Tsogyal" "Orgyen" "Shonnu" "Choden" "Thothori" 
+	"Dechen" "Pal" "Selbar" "Dompu" "Chödron" "Mutri" "Trashi" "Sal" "Dongkar" "Chukpo" 
+	"Chökyi" "Dorje" "Tricham" "Zanam" "Tse" "Gyaltore" "Driza" "Temujin" "Kunga" "Checheyigen" 
+	"Lasya" "Laduta" "Hoelun" "Jochi" "Khorilartai" "Omade" "Alan" "Odchigin" "Temuge" "Ukhuna" 
+	"Longtsen" "Adam" "Andrija" "Bartol" "Besar" "Bojan" "Boris" "Branimir" "Castimir" "Danail" 
+	"Dmitar" "Dobromir" "Dragan" "Dragomir" "Drzislav" "Dujam" "Duym" "Filip" "Gaspar" "Gheorghe" 
+	"Grigorii" "Hranislav" "Hrvoje" "Igor" "Ioan" "Ivan" "Ivanis" "Jitej" "Karlo" "Koloman" 
+	"Kresimir" "Ladislav" "Ljudevit" "Ljutomisl" "Lovro" "Matej" "Mihajlo" "Milman" "Mislav" "Mutimir" 
+	"Nikolitza" "Ognjen" "Petar" "Prohor" "Radomir" "Ratimir" "Sebeslav" "Seslav" "Slavich" "Stanislav" 
+	"Stjepan" "Sulvan" "Teodor" "Tomislav" "Tvrdoslav" "Tvrtko" "Ulfo" "Vid" "Vitomir" "Vlaicu" 
+	"Vukan" "Zvonimir" }
+monarch_names = {
+	"Phoyongsa #0" = -1
+	"Löntsen #0" = 1
+	"Mangmoje #0" = -1
+	"Gyal #0" = 1
+	"Tsenma #0" = -1
+	"Amala #0" = -1
+	"Ösung #0" = 1
+	"Sadnalegs #0" = 1
+	"Shang #0" = 1
+	"Zangmo #0" = -1
+	"Nam #0" = 1
+	"Lhanang #0" = 1
+	"Denöl #0" = 1
+	"Daktri #0" = 1
+	"Raksita #0" = 1
+	"Ghazan #0" = 1
+	"Tökarma #0" = -1
+	"Bagaridai #0" = 1
+	"Konchog #0" = -1
+	"Deu #0" = 1
+	"Pungtsen #1" = 42
+	"Chimey #0" = -1
+	"Dzeden #0" = -1
+	"Yondagmo #0" = -1
+	"Gyaltsen #0" = 1
+	"Drag #0" = 1
+	"Mungchang #0" = -1
+	"Gyalyum #0" = -1
+	"Yeke #0" = 1
+	"Magyal #0" = -1
+	"Mangtsen #0" = 1
+	"Rinchen #0" = -1
+	"Gémathar #0" = -1
+	"Ajinai #0" = 1
+	"Toktokteng #1" = -22
+	"Trisong #0" = 1
+	"Cham #0" = -1
+	"Nyigön #0" = 1
+	"Namri #0" = 1
+	"Tromo #0" = 1
+	"Thönmi #0" = 1
+	"Khribang #0" = -1
+	"Könchok #0" = 1
+	"Gunggyal #0" = 1
+	"Songtsen #0" = 1
+	"Lhakee #0" = -1
+	"Sadmarkar #0" = -1
+	"Gongpa #0" = 1
+	"Tridé #0" = 1
+	"Lha #0" = 1
+	"Getong #1" = 18
+	"Sengemo #0" = -1
+	"Sachen #0" = 1
+	"Dringma #0" = -1
+	"Tsugru #0" = 1
+	"Khritsun #0" = -1
+	"Zhangtsun #0" = 1
+	"Mangnyen #0" = 1
+	"Kyeden #0" = -1
+	"Lhathrimo #0" = -1
+	"Detrin #0" = 1
+	"Kunzang #0" = -1
+	"Gyalpo #0" = 1
+	"Tsunmotog #0" = -1
+	"Jetsun #0" = 1
+	"Tsogyal #0" = -1
+	"Orgyen #0" = -1
+	"Shonnu #0" = -1
+	"Choden #0" = -1
+	"Thothori #0" = 1
+	"Dechen #0" = -1
+	"Pal #0" = 1
+	"Selbar #0" = 1
+	"Dompu #0" = 1
+	"Chödron #0" = -1
+	"Mutri #0" = 1
+	"Trashi #0" = 1
+	"Sal #0" = -1
+	"Dongkar #0" = -1
+	"Chukpo #0" = 1
+	"Chökyi #0" = -1
+	"Dorje #0" = 1
+	"Tricham #0" = -1
+	"Zanam #0" = 1
+	"Tse #0" = -1
+	"Gyaltore #0" = 1
+	"Driza #0" = -1
+	"Temujin #0" = 1
+	"Kunga #0" = -1
+	"Checheyigen #0" = -1
+	"Lasya #0" = -1
+	"Laduta #1" = -1
+	"Hoelun #2" = -1
+	"Jochi #1" = 0
+	"Khorilartai #1" = 0
+	"Omade #1" = 0
+	"Alan #1" = -1
+	"Odchigin #1" = 0
+	"Temuge #1" = 0
+	"Ukhuna #1" = 0
+	"Longtsen #1" = 0
+	"Adam #0" = 0
+	"Andrija #0" = 0
+	"Bartol #0" = 0
+	"Besar #0" = 0
+	"Bojan #0" = 0
+	"Boris #0" = 0
+	"Branimir #0" = 0
+	"Castimir #0" = 0
+	"Danail #0" = 0
+	"Dmitar #0" = 0
+	"Dobromir #0" = 0
+	"Dragan #0" = 0
+	"Dragomir #0" = 0
+	"Drzislav #0" = 0
+	"Dujam #0" = 0
+	"Duym #0" = 0
+	"Filip #0" = 0
+	"Gaspar #0" = 0
+	"Gheorghe #0" = 0
+	"Grigorii #0" = 0
+	"Hranislav #0" = 0
+	"Hrvoje #0" = 0
+	"Igor #0" = 0
+	"Ioan #0" = 0
+	"Ivan #0" = 0
+	"Ivanis #0" = 0
+	"Jitej #0" = 0
+	"Karlo #0" = 0
+	"Koloman #0" = 0
+	"Kresimir #0" = 0
+	"Ladislav #0" = 0
+	"Ljudevit #0" = 0
+	"Ljutomisl #0" = 0
+	"Lovro #0" = 0
+	"Matej #0" = 0
+	"Mihajlo #0" = 0
+	"Milman #0" = 0
+	"Mislav #0" = 0
+	"Mutimir #0" = 0
+	"Nikolitza #0" = 0
+	"Ognjen #0" = 0
+	"Petar #0" = 0
+	"Prohor #0" = 0
+	"Radomir #0" = 0
+	"Ratimir #0" = 0
+	"Sebeslav #0" = 0
+	"Seslav #0" = 0
+	"Slavich #0" = 0
+	"Stanislav #0" = 0
+	"Stjepan #0" = 0
+	"Sulvan #0" = 0
+	"Teodor #0" = 0
+	"Tomislav #0" = 0
+	"Tvrdoslav #0" = 0
+	"Tvrtko #0" = 0
+	"Ulfo #0" = 0
+	"Vid #0" = 0
+	"Vitomir #0" = 0
+	"Vlaicu #0" = 0
+	"Vukan #0" = 0
+	"Zvonimir #0" = 0
+}
+

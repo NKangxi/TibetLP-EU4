@@ -1,0 +1,39 @@
+# Cyprus
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = yazidi
+clear_scripted_personalities = yes
+capital = 321
+1434.3.28 = {
+	monarch = {
+		name = "Philaretos"
+		birth_date = 1400.1.31
+		dynasty = "Kegenes"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = martial_educator_personality
+}
+1439.6.22 = {
+	heir = {
+		name = "Eugenios"
+		monarch_name = "Eugenios"
+		dynasty = "Kegenes"
+		birth_date = 1439.6.22
+		death_date = 1519.6.22
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 321
+	add_treasury = 13
+	add_prestige = 55
+}

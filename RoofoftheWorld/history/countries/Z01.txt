@@ -1,0 +1,27 @@
+# Glywysing
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1861
+1439.9.30 = {
+	monarch = {
+		name = "Linda III"
+		birth_date = 1410.3.6
+		dynasty = "Sleggja"
+		female = yes
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 1861
+	add_treasury = 369
+	add_prestige = 235
+}

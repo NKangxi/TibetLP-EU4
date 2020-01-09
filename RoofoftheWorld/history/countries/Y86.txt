@@ -1,0 +1,27 @@
+# Saryupara
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2094
+1442.5.6 = {
+	monarch = {
+		name = "Dzeden"
+		birth_date = 1401.7.6
+		dynasty = "Ruyong"
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 2094
+	add_treasury = 2155
+	add_prestige = 172
+}

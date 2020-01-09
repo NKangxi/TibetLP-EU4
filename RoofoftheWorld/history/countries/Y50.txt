@@ -1,0 +1,39 @@
+# Maghreb
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 344
+1444.7.22 = {
+	monarch = {
+		name = "Þora"
+		birth_date = 1383.2.19
+		dynasty = "af Fano"
+		female = yes
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = drunkard_personality
+	heir = {
+		name = "Yrsa"
+		monarch_name = "Yrsa"
+		dynasty = "af Fano"
+		birth_date = 1381.8.8
+		death_date = 1461.8.8
+		female = yes
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+	add_heir_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 344
+	add_treasury = 382
+	add_prestige = 278
+}

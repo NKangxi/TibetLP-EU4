@@ -1,0 +1,26 @@
+# Bohemia
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = pommeranian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 59
+1444.7.25 = {
+	monarch = {
+		name = "Drosuk"
+		birth_date = 1429.1.4
+		dynasty = "of Thouars"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 59
+	add_treasury = 45
+	add_prestige = 79
+}

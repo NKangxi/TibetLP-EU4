@@ -1,0 +1,305 @@
+# Ungvar
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 156 15 15 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+
+
+leader_names = {
+
+	"Aepak" "Boža" "Stojana" "Crna" "Branimir" "Boris" "Zvonimir" "Slovenka" "Dmitar" "Maraš" 
+	"Stansgoj" "Cededa" "Marijana" "Stanislav" "Stjepan" "Tešina" "Rebom" "Sebeslav" "Dobrožica" "Dujam" 
+	"Žizemir" "Hrvoje" "Tihodrag" "Kocelj" "Lucija" "Miroslava" "Linda" "Lovro" "Nedeljko" "Vlaicu" 
+	"Sava" "Gaspar" "Radinko" "Vlado" "Volcica" "Gundes" "Yasar" "Sokal" "Gulay" "Asli" 
+	"Bozçin" "Eldeçyuk" "Könçek" "Sugr" "Pulad" "Uzluk" "Tura" "Gulçiçek" "Gzi" "Akgul" 
+	"Ilkay" "Kopti" "Samur" "Mala" "Ituk" "Togli" "Kozel" "Koza" "Kobyak" "Karacik" 
+	"Törtogul" "Asalup" "Kotyan" "Sirçan" "Ayasun" "Esin" "Ipekel" "Sirma" "Kubasar" "Kuntuvdi" 
+	"Blush" "Yildiz" "Atrak" "Özlem" "Uzur" "Umay" "Ayten" "Mutlu" "Gunes" "Sibel" 
+	"Çiltanesi" "Pribislava" "Gojimir" "Esma'il" "Blagica" "Peksen" "Jasna" "Trebimir" "Bogdan" "Gorislava" 
+	"Milislava" "Kalina" "Vratislav" "Zverica" "Mudra" "Trdoslav" "Milica" "Ljubomir" "Cestilo" "Gostinja" 
+	"Slavka" "Divna" "Zdenka" "Vitošlav" "Glušo" "Morava" "Mirjana" "Visarion" "Pribila" "Zverinja" 
+	"Stranimir" "Volkinja" "Milorad" "Stojko" "Dobrija" "Karika" "Casna" "Stranka" "Prisnoba" "Radogej" 
+	"Ljubonja" "Dobromisl" "Stojna" "Mira" "Dobrinja" "Tonka" "Kosmin" "Branka" "Neda" "Trdogoj" 
+	"Lepa" "Ljubota" "Milutin" "Stislava" "Maleš" "Grozdana" "Dorogoj" "Danimir" "Golomir" "Milunka" 
+	"Ljutomir" "Miljka" "Grozda" "Trebin" "Bosiljka" "Zorka" "Zleslava" "Radana" "Radoslav" "Tihožit" 
+	"Slavica" "Dobroslav" "Mistislav" "Ljubomira" "Pribic" "Stojmir" "Odola" "Hraber" "Trebibrat" "Milojka" 
+	"Lambert" "Rajko" "Sofija" "Zorana" "Ljuboneg" "Valnik" "Tvrdoslav" "Hranislav" "Dragomir" "Drzislav" 
+	"Vitimir" "Gostomil" "Álmos" "Ljutomisl" "Gosciwuj" "Snjezana" "Jagoda" "Darya" "Jitej" "Sieciech" 
+	"Antal" "Anthemios" "Megistos" "Antonija" "Iouliana" "Daniel" "Burundai" "Simonis" "Adam" "Andrija" 
+	"Bartol" "Besar" "Bojan" "Castimir" "Danail" "Dobromir" "Dragan" "Duym" "Filip" "Gheorghe" 
+	"Grigorii" "Igor" "Ioan" "Ivan" "Ivanis" "Karlo" "Koloman" "Kresimir" "Ladislav" "Ljudevit" 
+	"Matej" "Mihajlo" "Milman" "Mislav" "Mutimir" "Nikolitza" "Ognjen" "Petar" "Prohor" "Radomir" 
+	"Ratimir" "Seslav" "Slavich" "Sulvan" "Teodor" "Tomislav" "Tvrtko" "Ulfo" "Vid" "Vitomir" 
+	"Vukan" }
+monarch_names = {
+	"Aepak #0" = 1
+	"Boža #0" = -1
+	"Stojana #0" = -1
+	"Crna #0" = -1
+	"Branimir #0" = 1
+	"Boris #0" = 1
+	"Zvonimir #0" = 1
+	"Slovenka #0" = -1
+	"Dmitar #1" = 21
+	"Maraš #0" = 1
+	"Stansgoj #0" = 1
+	"Cededa #0" = -1
+	"Marijana #0" = -1
+	"Stanislav #0" = 1
+	"Stjepan #0" = 1
+	"Tešina #0" = -1
+	"Rebom #0" = 1
+	"Sebeslav #1" = 21
+	"Dobrožica #0" = -1
+	"Dujam #0" = 1
+	"Žizemir #0" = 1
+	"Hrvoje #0" = 1
+	"Tihodrag #0" = 1
+	"Kocelj #0" = 1
+	"Lucija #0" = -1
+	"Miroslava #0" = -1
+	"Linda #0" = -1
+	"Lovro #0" = 1
+	"Nedeljko #0" = 1
+	"Vlaicu #0" = 1
+	"Sava #0" = -1
+	"Gaspar #0" = 1
+	"Radinko #0" = 1
+	"Vlado #0" = 1
+	"Volcica #0" = -1
+	"Gundes #0" = -1
+	"Yasar #0" = -1
+	"Sokal #0" = 1
+	"Gulay #0" = -1
+	"Asli #0" = -1
+	"Bozçin #0" = -1
+	"Eldeçyuk #0" = 1
+	"Könçek #0" = 1
+	"Sugr #0" = 1
+	"Pulad #0" = 1
+	"Uzluk #0" = 1
+	"Tura #0" = -1
+	"Gulçiçek #0" = -1
+	"Gzi #0" = 1
+	"Akgul #0" = -1
+	"Ilkay #0" = -1
+	"Kopti #0" = 1
+	"Samur #0" = -1
+	"Mala #0" = -1
+	"Ituk #0" = 1
+	"Togli #0" = 1
+	"Kozel #0" = 1
+	"Koza #0" = 1
+	"Kobyak #0" = 1
+	"Karacik #0" = -1
+	"Törtogul #0" = 1
+	"Asalup #0" = 1
+	"Kotyan #0" = 1
+	"Sirçan #0" = 1
+	"Ayasun #0" = -1
+	"Esin #0" = -1
+	"Ipekel #0" = -1
+	"Sirma #0" = -1
+	"Kubasar #0" = 1
+	"Kuntuvdi #0" = 1
+	"Blush #0" = 1
+	"Yildiz #0" = -1
+	"Atrak #0" = 1
+	"Özlem #0" = -1
+	"Uzur #0" = 1
+	"Umay #0" = -1
+	"Ayten #0" = -1
+	"Mutlu #0" = -1
+	"Gunes #0" = -1
+	"Sibel #0" = -1
+	"Çiltanesi #0" = -1
+	"Pribislava #0" = -1
+	"Gojimir #0" = 1
+	"Esma'il #0" = 1
+	"Blagica #0" = -1
+	"Peksen #0" = -1
+	"Jasna #0" = -1
+	"Trebimir #0" = 1
+	"Bogdan #0" = 1
+	"Gorislava #0" = -1
+	"Milislava #0" = -1
+	"Kalina #0" = -1
+	"Vratislav #0" = 1
+	"Zverica #0" = -1
+	"Mudra #0" = -1
+	"Trdoslav #0" = 1
+	"Milica #0" = -1
+	"Ljubomir #0" = 1
+	"Cestilo #0" = 1
+	"Gostinja #0" = -1
+	"Slavka #0" = -1
+	"Divna #0" = -1
+	"Zdenka #0" = -1
+	"Vitošlav #0" = 1
+	"Glušo #0" = 1
+	"Morava #0" = -1
+	"Mirjana #0" = -1
+	"Visarion #0" = 1
+	"Pribila #0" = -1
+	"Zverinja #0" = -1
+	"Stranimir #0" = 1
+	"Volkinja #0" = -1
+	"Milorad #0" = 1
+	"Stojko #0" = 1
+	"Dobrija #0" = -1
+	"Karika #0" = -1
+	"Casna #0" = -1
+	"Stranka #0" = -1
+	"Prisnoba #0" = -1
+	"Radogej #0" = 1
+	"Ljubonja #0" = -1
+	"Dobromisl #0" = 1
+	"Stojna #0" = -1
+	"Mira #0" = -1
+	"Dobrinja #0" = -1
+	"Tonka #0" = -1
+	"Kosmin #0" = 1
+	"Branka #0" = -1
+	"Neda #0" = -1
+	"Trdogoj #0" = 1
+	"Lepa #0" = -1
+	"Ljubota #0" = -1
+	"Milutin #0" = 1
+	"Stislava #0" = -1
+	"Maleš #0" = 1
+	"Grozdana #0" = -1
+	"Dorogoj #0" = 1
+	"Danimir #0" = 1
+	"Golomir #0" = 1
+	"Milunka #0" = -1
+	"Ljutomir #0" = 1
+	"Miljka #0" = -1
+	"Grozda #0" = -1
+	"Trebin #1" = 18
+	"Bosiljka #0" = -1
+	"Zorka #0" = -1
+	"Zleslava #0" = -1
+	"Radana #0" = -1
+	"Radoslav #0" = 1
+	"Tihožit #0" = 1
+	"Slavica #0" = -1
+	"Dobroslav #0" = 1
+	"Mistislav #0" = 1
+	"Ljubomira #0" = -1
+	"Pribic #0" = 1
+	"Stojmir #1" = 18
+	"Odola #0" = -1
+	"Hraber #0" = 1
+	"Trebibrat #0" = 1
+	"Milojka #0" = -1
+	"Lambert #0" = 1
+	"Rajko #0" = 1
+	"Sofija #1" = -19
+	"Zorana #0" = -1
+	"Ljuboneg #0" = 1
+	"Valnik #0" = 1
+	"Tvrdoslav #1" = 0
+	"Hranislav #1" = 0
+	"Dragomir #1" = 0
+	"Drzislav #1" = 0
+	"Vitimir #1" = 0
+	"Gostomil #3" = 0
+	"Álmos #1" = 0
+	"Ljutomisl #1" = 0
+	"Gosciwuj #1" = 0
+	"Snjezana #1" = -1
+	"Jagoda #1" = -1
+	"Darya #1" = -1
+	"Jitej #1" = 0
+	"Sieciech #2" = 0
+	"Antal #2" = 0
+	"Anthemios #3" = 0
+	"Megistos #2" = 0
+	"Antonija #1" = -1
+	"Iouliana #1" = -1
+	"Daniel #1" = 0
+	"Burundai #1" = 0
+	"Simonis #1" = -1
+	"Adam #0" = 0
+	"Andrija #0" = 0
+	"Bartol #0" = 0
+	"Besar #0" = 0
+	"Bojan #0" = 0
+	"Castimir #0" = 0
+	"Danail #0" = 0
+	"Dobromir #0" = 0
+	"Dragan #0" = 0
+	"Duym #0" = 0
+	"Filip #0" = 0
+	"Gheorghe #0" = 0
+	"Grigorii #0" = 0
+	"Igor #0" = 0
+	"Ioan #0" = 0
+	"Ivan #0" = 0
+	"Ivanis #0" = 0
+	"Karlo #0" = 0
+	"Koloman #0" = 0
+	"Kresimir #0" = 0
+	"Ladislav #0" = 0
+	"Ljudevit #0" = 0
+	"Matej #0" = 0
+	"Mihajlo #0" = 0
+	"Milman #0" = 0
+	"Mislav #0" = 0
+	"Mutimir #0" = 0
+	"Nikolitza #0" = 0
+	"Ognjen #0" = 0
+	"Petar #0" = 0
+	"Prohor #0" = 0
+	"Radomir #0" = 0
+	"Ratimir #0" = 0
+	"Seslav #0" = 0
+	"Slavich #0" = 0
+	"Sulvan #0" = 0
+	"Teodor #0" = 0
+	"Tomislav #0" = 0
+	"Tvrtko #0" = 0
+	"Ulfo #0" = 0
+	"Vid #0" = 0
+	"Vitomir #0" = 0
+	"Vukan #0" = 0
+}
+ship_names = {
+	Aranybulla 
+	Arpad
+	Magyar
+	Sigismund
+	"Szent Istvan kiraly"
+	"Hunyadi Matyas"
+	"Karoly Robert"
+	"Nagy Lajos"
+	Laszlo
+	Kalman
+}
+

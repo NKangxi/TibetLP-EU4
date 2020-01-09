@@ -1,0 +1,89 @@
+# Khazaria
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 250 184 31 }
+
+
+
+
+leader_names = {
+
+	"Tabghaç" "Irbis" "Busir" "Barjik" "Bihar" "Baghatur" "Bulan" "Obadiah" "Hezekiah" "Manasseh" 
+	"Hanukkah" "Zebulun" "Alp" "Araslan" "Bagha" "Bälgiçi" "Barsbek" "Bastu" "Bashtwa" "Bihor" 
+	"Böri" "Bugha" "Bulçan" "Buzer" "Çat" "Çat'n" "Çorpan" "Ilik" "Iltäbär" "Itakh" 
+	"Kamaj" "Karadakh" "Kayghalagh" "Khatir" "Khuterkin" "Kibar" "Kisa" "Kundaçiq" "Kundaç" "Mänär" 
+	"Mänäs" "Mënümarót" "Ötemis" "Papaçyz" "Samsam" "Sartäç" "Simsam" "Täbär" "Tarkhan" "Tarmaç" 
+	"Tuzniq" "Vakrim" "Yabghu" "Yavantey" "Yençepi" "Yerneslu" "Yeçtirek" "Yilig" "Belet" "Ezra" 
+	"Nisi" "Yavdi" }
+monarch_names = {
+	"Tabghaç #1" = 18
+	"Irbis #1" = 0
+	"Busir #1" = 0
+	"Barjik #1" = 0
+	"Bihar #1" = 0
+	"Baghatur #1" = 0
+	"Bulan #1" = 0
+	"Obadiah #1" = 0
+	"Hezekiah #1" = 0
+	"Manasseh #2" = 0
+	"Hanukkah #1" = 0
+	"Zebulun #1" = 0
+	"Alp #0" = 0
+	"Araslan #0" = 0
+	"Bagha #0" = 0
+	"Bälgiçi #0" = 0
+	"Barsbek #0" = 0
+	"Bastu #0" = 0
+	"Bashtwa #0" = 0
+	"Bihor #0" = 0
+	"Böri #0" = 0
+	"Bugha #0" = 0
+	"Bulçan #0" = 0
+	"Buzer #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Çorpan #0" = 0
+	"Ilik #0" = 0
+	"Iltäbär #0" = 0
+	"Itakh #0" = 0
+	"Kamaj #0" = 0
+	"Karadakh #0" = 0
+	"Kayghalagh #0" = 0
+	"Khatir #0" = 0
+	"Khuterkin #0" = 0
+	"Kibar #0" = 0
+	"Kisa #0" = 0
+	"Kundaçiq #0" = 0
+	"Kundaç #0" = 0
+	"Mänär #0" = 0
+	"Mänäs #0" = 0
+	"Mënümarót #0" = 0
+	"Ötemis #0" = 0
+	"Papaçyz #0" = 0
+	"Samsam #0" = 0
+	"Sartäç #0" = 0
+	"Simsam #0" = 0
+	"Täbär #0" = 0
+	"Tarkhan #0" = 0
+	"Tarmaç #0" = 0
+	"Tuzniq #0" = 0
+	"Vakrim #0" = 0
+	"Yabghu #0" = 0
+	"Yavantey #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+	"Yilig #0" = 0
+	"Belet #0" = 0
+	"Ezra #0" = 0
+	"Nisi #0" = 0
+	"Yavdi #0" = 0
+
+
+	"Samur #0" = -1
+	"Sarä #0" = -1
+	"Esin #0" = -1
+	"Patiyer #0" = -1
+	"Çeçeppi #0" = -1
+}
+

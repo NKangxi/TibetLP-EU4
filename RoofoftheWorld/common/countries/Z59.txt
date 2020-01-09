@@ -1,0 +1,226 @@
+# Calabria
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 170 142 70 }
+historical_idea_groups = {
+	naval_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	religious_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"T'ar'iq" "Mahtar" "Talalit" "Azim" "Afaghis" "Fer'r'udja" "Sigrid" "Myassa" "Agama" "Siman" 
+	"Tazenkwedt" "Mula" "Emilie" "Kussil" "Hotha" "Timmi" "Lyaqut" "Fahriya" "Aggur" "Anwa" 
+	"Ammuc" "Karidenna" "Lacumaces" "Gildun" "Aaliyah" "Faghissa" "Tatbirt" "T'item" "Wahab" "Adam" 
+	"Bahiyya" "Maysar" "Agdun" "Mernissa" "Tinzert" "Barakah" "Sa'id" "Ittû" "Yugerten" "Rashid" 
+	"Awgustin" "Edza" "Sifal" "Hadiya" "Tawzalt" "Abdul-Haleem" "Ifser" "Tamrust" "Laweye" "Urz'ig" 
+	"Sekkura" "Badia" "Tadefi" "Kadidu" "Iccaam" "Fariza" "Taisto" "Abdul-Azeem" "Agdada" "Z'diant" 
+	"Bghnat" "Najiba" "Zubeyr" "Sinbad" "Bukkus" "Anaba" "Tilelli" "Ighlaf" "Yeften" "Zilgum" 
+	"Ionas" "Elias" "Basileios" "Isidoros" "Belisarios" "Theodotos" "Christophoros" "Kale" "Makarios" "Itzcoatl" 
+	"Haidar" "Sisso" "Yayauhqui" "Chimalpilli" "Xipilli" "Tezozomoc" "Toltecatl" "Acacitli" "Xochipilli" "Pantoleon" 
+	"Andronikos" "Nikolaos" "Karoline" "Jamal" "Malik" "Silje" "Gyla" "Björg" "Katarina" "Aarif" 
+	"Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Aghlab" "Akin" "Alim" "Aram" "Azam" "Bahir" 
+	"Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Husam" "Ibrahim" "Idris" 
+	"Is'mail" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mansur" "Mirza" 
+	"Mubarak" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" 
+	"Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Talib" 
+	"Ubayd" "Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+monarch_names = {
+	"T'ar'iq #0" = 1
+	"Mahtar #0" = 1
+	"Talalit #0" = -1
+	"Azim #0" = 1
+	"Afaghis #0" = 1
+	"Fer'r'udja #0" = -1
+	"Sigrid #3" = -19
+	"Myassa #0" = -1
+	"Agama #0" = 1
+	"Siman #0" = -1
+	"Tazenkwedt #0" = -1
+	"Mula #0" = 1
+	"Emilie #0" = -1
+	"Kussil #0" = 1
+	"Hotha #0" = 1
+	"Timmi #0" = -1
+	"Lyaqut #0" = -1
+	"Fahriya #0" = -1
+	"Aggur #0" = 1
+	"Anwa #0" = 1
+	"Ammuc #0" = 1
+	"Karidenna #0" = 1
+	"Lacumaces #0" = 1
+	"Gildun #0" = 1
+	"Aaliyah #0" = -1
+	"Faghissa #0" = -1
+	"Tatbirt #0" = -1
+	"T'item #0" = -1
+	"Wahab #0" = 1
+	"Adam #0" = 1
+	"Bahiyya #0" = -1
+	"Maysar #0" = 1
+	"Agdun #0" = 1
+	"Mernissa #0" = -1
+	"Tinzert #0" = -1
+	"Barakah #0" = -1
+	"Sa'id #0" = 1
+	"Ittû #0" = -1
+	"Yugerten #0" = 1
+	"Rashid #0" = 1
+	"Awgustin #0" = 1
+	"Edza #0" = -1
+	"Sifal #0" = 1
+	"Hadiya #0" = -1
+	"Tawzalt #0" = -1
+	"Abdul-Haleem #0" = 1
+	"Ifser #0" = 1
+	"Tamrust #0" = -1
+	"Laweye #0" = 1
+	"Urz'ig #0" = 1
+	"Sekkura #0" = -1
+	"Badia #0" = -1
+	"Tadefi #0" = -1
+	"Kadidu #0" = 1
+	"Iccaam #0" = 1
+	"Fariza #0" = -1
+	"Taisto #0" = 1
+	"Abdul-Azeem #0" = 1
+	"Agdada #0" = 1
+	"Z'diant #0" = -1
+	"Bghnat #0" = -1
+	"Najiba #0" = -1
+	"Zubeyr #0" = 1
+	"Sinbad #0" = 1
+	"Bukkus #0" = 1
+	"Anaba #0" = 1
+	"Tilelli #0" = -1
+	"Ighlaf #0" = 1
+	"Yeften #0" = 1
+	"Zilgum #0" = -1
+	"Ionas #1" = 0
+	"Elias #1" = 0
+	"Basileios #1" = 0
+	"Isidoros #1" = 0
+	"Belisarios #2" = 0
+	"Theodotos #1" = 0
+	"Christophoros #2" = 0
+	"Kale #2" = -1
+	"Makarios #1" = 0
+	"Itzcoatl #2" = 0
+	"Haidar #1" = 0
+	"Sisso #1" = 0
+	"Yayauhqui #1" = 0
+	"Chimalpilli #1" = 0
+	"Xipilli #1" = 0
+	"Tezozomoc #1" = 0
+	"Toltecatl #1" = -1
+	"Acacitli #1" = 0
+	"Xochipilli #1" = 0
+	"Pantoleon #1" = 0
+	"Andronikos #1" = 0
+	"Nikolaos #1" = 0
+	"Karoline #1" = -1
+	"Jamal #1" = 0
+	"Malik #1" = 0
+	"Silje #2" = -1
+	"Gyla #2" = -1
+	"Björg #1" = -1
+	"Katarina #1" = -1
+	"Aarif #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Abdul-Wahab #0" = 0
+	"Aghlab #0" = 0
+	"Akin #0" = 0
+	"Alim #0" = 0
+	"Aram #0" = 0
+	"Azam #0" = 0
+	"Bahir #0" = 0
+	"Burhanaddin #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Faruk #0" = 0
+	"Ghalib #0" = 0
+	"Hafiz #0" = 0
+	"Halil #0" = 0
+	"Husam #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Is'mail #0" = 0
+	"Isa #0" = 0
+	"Jabir #0" = 0
+	"Jalil #0" = 0
+	"Jibril #0" = 0
+	"Khaireddin #0" = 0
+	"Khalil #0" = 0
+	"Mahdi #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mubarak #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Najib #0" = 0
+	"Nasr #0" = 0
+	"Nizam #0" = 0
+	"Qawurd #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sadiq #0" = 0
+	"Sami #0" = 0
+	"Samir #0" = 0
+	"Shaiban #0" = 0
+	"Shamir #0" = 0
+	"Shujah #0" = 0
+	"Sulayman #0" = 0
+	"Talib #0" = 0
+	"Ubayd #0" = 0
+	"Uways #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+	"Zeyd #0" = 0
+}
+ship_names = {
+	Agatobles Altavilla Apollo Archimede Audaze Borbone
+	Calabria Capitana Diana Disttrutore Drago
+	Ercole Etna "Federigo Barbarossa" Folgorante Fulminante
+	Generoso Guiscardo Hohenstaufen Idra Invencibile L'Aretusa Jupiter
+	"Maria Inmacolata" Marte Mercurio Messaggero Minerva
+	Napoli Navigante Nettuno Palinuro Partenope Pegaso 
+	Peloro Plutone Puglia "Purissima Concezione"
+	"Re Carlo" "Re Federigo" "Re Ferrante" "Regina dei Mari"
+	"S.Francesco d'Assisi" Saetta "San Antonio" "San Carlo"
+	"San Ferdinando" "San Vito" Sannita "Santa Amalia" "Santa Helena"
+	"Santa Lucia" "Santa Wenfrida" Sant'Agata Sant'Agatone
+	Sibilla Sicilia Sirena Tancredi Veloce
+}
+

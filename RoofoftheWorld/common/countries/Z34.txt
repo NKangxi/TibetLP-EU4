@@ -1,0 +1,328 @@
+# Kuyavia
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 115 30 50 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Þorfinn" "Åke" "Märta" "Ingrid" "Fredrik" "Alan" "Chagatai" "Haukr" "Aleta" "Narin" 
+	"Iliana" "Inga" "Borzywoj" "Ludmila" "Skuli" "Karin" "Holmfrid" "Hafrid" "Ormr" "Tord" 
+	"Alfhildr" "Hysing" "Frej" "Ingfrid" "Totil" "Hoelun" "Bo" "Grima" "Yokhunan" "Bersi" 
+	"Skuld" "Tekine" "Szczesny" "Holuikhan" "Þorbjörn" "Þorsteinn" "Dan" "Þyra" "Björg" "Arnbjörn" 
+	"Alfgeir" "Bagge" "Þurid" "Guðröðr" "Ofeig" "Hroðulfr" "Aslaug" "Sveinn" "Freyja" "Gurli" 
+	"Birgitta" "Olafr" "Haraldr" "Margareta" "Hroðgar" "Hakon" "Arngrimr" "Katarina" "Astrid" "Gerðr" 
+	"Þorbrandr" "Sölvi" "Alessio" "Guðfrið" "Ottarr" "Gyða" "Dyre" "Kjartan" "Gunnhildr" "Gloð" 
+	"Gastone" "Saga" "Lodovica" "Hrane" "Þorolfr" "Helena" "Ulfr" "Ylva" "Ingvar" "Kol" 
+	"Ulfhildr" "Valerio" "Þordis" "Rolando" "Þorgil" "Cornelia" "Edla" "Buðli" "Fosca" "Rögnfrið" 
+	"Ingibjörg" "Rögnhildr" "Thordis" "Silvana" "Alda" "Iacopo" "Ragnar" "Gunhild" "Ragnfrid" "Ilsa" 
+	"Sten" "Sörkver" "Öysteinn" "Folki" "Halsten" "Kristina" "Svanhild" "Gyla" "Faste" "Ingólfr" 
+	"Ragnhild" "Maer" "Sæmundr" "Björn" "Arnfast" "Sämund" "Guðmundr" "Bror" "Kettilmund" "Bothildr" 
+	"Halla" "Asta" "Knut" "Snorri" "Asbjörn" "Torgils" "Örvar" "Helgi" "Rögnvaldr" "Grimr" 
+	"Gorm" "Sverker" "Karl" "Falki" "Sigtrygg" "Rikissa" "Gandalfr" "Suni" "Grim" "Freyr" 
+	"Sara" "Gyrið" "Sofia" "Kolbjörn" "Gytha" "Bodil" "Ingjald" "Odd" "Kraka" "Astrad" 
+	"Jedvard" "Eirikr" "Strasz" "Håkan" "Linda" "Sven" "Botulfr" "Elisabet" "Ingemar" "Borkvard" 
+	"Sif" "Witosz" "Imram" "Czcibor" "Sobieslaw" "Zofia" "Katarzyna" "Dobrawa" "Przemyslaw" "Aldona" 
+	"Olena" "Bezprym" "Boleslaw" "Doman" "Vratislav" "Zwinislawa" "Gertruda" "Wit" "Adelajda" "Lambert" 
+	"Radomila" "Albrikt" "Alf" "Algot" "Anders" "Anund" "Arne" "Azur" "Balder" "Bengt" 
+	"Bertil" "Birger" "Botulf" "Brage" "Brynjolf" "Dag" "Egil" "Einar" "Emund" "Erik" 
+	"Eskild" "Filip" "Folke" "Georg" "Greger" "Gudröd" "Gunnar" "Gustav" "Harald" "Henrik" 
+	"Hjalmar" "Holmger" "Inge" "Johan" "Kettil" "Klas" "Lars" "Markus" "Mats" "Nils" 
+	"Niklas" "Olaf" "Orvar" "Peder" "Rolf" "Rörek" "Ragnvald" "Sigbjörn" "Sigurd" "Starkad" 
+	"Styrbjörn" "Sune" "Tjudmund" "Toke" "Tolir" "Torbjörn" "Torbrand" "Torfinn" "Torkel" "Torolf" 
+	"Torsten" "Toste" "Tyke" "Ulf" "Valdemar" "Östen" }
+monarch_names = {
+	"Þorfinn #0" = 1
+	"Åke #0" = 1
+	"Märta #0" = -1
+	"Ingrid #0" = -1
+	"Fredrik #0" = 1
+	"Alan #0" = -1
+	"Chagatai #0" = 1
+	"Haukr #0" = 1
+	"Aleta #0" = -1
+	"Narin #0" = 1
+	"Iliana #0" = -1
+	"Inga #0" = -1
+	"Borzywoj #1" = 18
+	"Ludmila #1" = -19
+	"Skuli #0" = 1
+	"Karin #2" = -22
+	"Holmfrid #0" = -1
+	"Hafrid #0" = -1
+	"Ormr #0" = 1
+	"Tord #0" = 1
+	"Alfhildr #0" = -1
+	"Hysing #0" = 1
+	"Frej #0" = 1
+	"Ingfrid #0" = -1
+	"Totil #0" = 1
+	"Hoelun #0" = -1
+	"Bo #0" = 1
+	"Grima #0" = -1
+	"Yokhunan #0" = 1
+	"Bersi #0" = 1
+	"Skuld #1" = -22
+	"Tekine #0" = -1
+	"Szczesny #0" = 1
+	"Holuikhan #0" = -1
+	"Þorbjörn #0" = 1
+	"Þorsteinn #0" = 1
+	"Dan #0" = 1
+	"Þyra #0" = -1
+	"Björg #0" = -1
+	"Arnbjörn #0" = 1
+	"Alfgeir #0" = 1
+	"Bagge #0" = 1
+	"Þurid #0" = -1
+	"Guðröðr #0" = 1
+	"Ofeig #0" = 1
+	"Hroðulfr #0" = 1
+	"Aslaug #0" = -1
+	"Sveinn #0" = 1
+	"Freyja #0" = -1
+	"Gurli #0" = -1
+	"Birgitta #0" = -1
+	"Olafr #0" = 1
+	"Haraldr #0" = 1
+	"Margareta #0" = -1
+	"Hroðgar #0" = 1
+	"Hakon #0" = 1
+	"Arngrimr #0" = 1
+	"Katarina #0" = -1
+	"Astrid #0" = -1
+	"Gerðr #0" = -1
+	"Þorbrandr #0" = 1
+	"Sölvi #0" = 1
+	"Alessio #0" = 1
+	"Guðfrið #0" = 1
+	"Ottarr #0" = 1
+	"Gyða #0" = -1
+	"Dyre #0" = 1
+	"Kjartan #0" = 1
+	"Gunnhildr #0" = -1
+	"Gloð #0" = -1
+	"Gastone #0" = 1
+	"Saga #0" = -1
+	"Lodovica #0" = -1
+	"Hrane #0" = 1
+	"Þorolfr #0" = 1
+	"Helena #1" = -22
+	"Ulfr #0" = 1
+	"Ylva #0" = -1
+	"Ingvar #0" = 1
+	"Kol #0" = 1
+	"Ulfhildr #0" = -1
+	"Valerio #0" = 1
+	"Þordis #0" = -1
+	"Rolando #0" = 1
+	"Þorgil #0" = 1
+	"Cornelia #0" = -1
+	"Edla #0" = -1
+	"Buðli #0" = 1
+	"Fosca #0" = -1
+	"Rögnfrið #0" = -1
+	"Ingibjörg #0" = -1
+	"Rögnhildr #0" = -1
+	"Thordis #0" = -1
+	"Silvana #0" = -1
+	"Alda #0" = -1
+	"Iacopo #0" = 1
+	"Ragnar #0" = 1
+	"Gunhild #0" = -1
+	"Ragnfrid #0" = -1
+	"Ilsa #0" = -1
+	"Sten #0" = 1
+	"Sörkver #0" = 1
+	"Öysteinn #0" = 1
+	"Folki #0" = 1
+	"Halsten #0" = 1
+	"Kristina #0" = -1
+	"Svanhild #0" = -1
+	"Gyla #0" = -1
+	"Faste #0" = 1
+	"Ingólfr #0" = 1
+	"Ragnhild #0" = -1
+	"Maer #0" = -1
+	"Sæmundr #0" = 1
+	"Björn #0" = 1
+	"Arnfast #0" = 1
+	"Sämund #0" = 1
+	"Guðmundr #0" = 1
+	"Bror #0" = 1
+	"Kettilmund #0" = 1
+	"Bothildr #0" = -1
+	"Halla #0" = -1
+	"Asta #0" = -1
+	"Knut #0" = 1
+	"Snorri #0" = 1
+	"Asbjörn #0" = 1
+	"Torgils #0" = 1
+	"Örvar #0" = 1
+	"Helgi #0" = 1
+	"Rögnvaldr #0" = 1
+	"Grimr #0" = 1
+	"Gorm #0" = 1
+	"Sverker #0" = 1
+	"Karl #0" = 1
+	"Falki #0" = 1
+	"Sigtrygg #0" = 1
+	"Rikissa #1" = -22
+	"Gandalfr #0" = 1
+	"Suni #0" = 1
+	"Grim #0" = 1
+	"Freyr #0" = 1
+	"Sara #0" = -1
+	"Gyrið #0" = -1
+	"Sofia #0" = -1
+	"Kolbjörn #0" = 1
+	"Gytha #0" = -1
+	"Bodil #0" = -1
+	"Ingjald #0" = 1
+	"Odd #0" = 1
+	"Kraka #0" = -1
+	"Astrad #0" = 1
+	"Jedvard #0" = 1
+	"Eirikr #0" = 1
+	"Strasz #0" = 1
+	"Håkan #0" = 1
+	"Linda #0" = -1
+	"Sven #0" = 1
+	"Botulfr #0" = 1
+	"Elisabet #0" = -1
+	"Ingemar #0" = 1
+	"Borkvard #0" = 1
+	"Sif #0" = -1
+	"Witosz #2" = 0
+	"Imram #1" = 0
+	"Czcibor #1" = 0
+	"Sobieslaw #2" = 0
+	"Zofia #1" = -1
+	"Katarzyna #2" = -1
+	"Dobrawa #1" = -1
+	"Przemyslaw #1" = 0
+	"Aldona #1" = -1
+	"Olena #1" = -1
+	"Bezprym #1" = 0
+	"Boleslaw #1" = 0
+	"Doman #1" = 0
+	"Vratislav #1" = 0
+	"Zwinislawa #1" = -1
+	"Gertruda #1" = -1
+	"Wit #1" = 0
+	"Adelajda #1" = -1
+	"Lambert #2" = 0
+	"Radomila #1" = -1
+	"Albrikt #0" = 0
+	"Alf #0" = 0
+	"Algot #0" = 0
+	"Anders #0" = 0
+	"Anund #0" = 0
+	"Arne #0" = 0
+	"Azur #0" = 0
+	"Balder #0" = 0
+	"Bengt #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Botulf #0" = 0
+	"Brage #0" = 0
+	"Brynjolf #0" = 0
+	"Dag #0" = 0
+	"Egil #0" = 0
+	"Einar #0" = 0
+	"Emund #0" = 0
+	"Erik #0" = 0
+	"Eskild #0" = 0
+	"Filip #0" = 0
+	"Folke #0" = 0
+	"Georg #0" = 0
+	"Greger #0" = 0
+	"Gudröd #0" = 0
+	"Gunnar #0" = 0
+	"Gustav #0" = 0
+	"Harald #0" = 0
+	"Henrik #0" = 0
+	"Hjalmar #0" = 0
+	"Holmger #0" = 0
+	"Inge #0" = 0
+	"Johan #0" = 0
+	"Kettil #0" = 0
+	"Klas #0" = 0
+	"Lars #0" = 0
+	"Markus #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Olaf #0" = 0
+	"Orvar #0" = 0
+	"Peder #0" = 0
+	"Rolf #0" = 0
+	"Rörek #0" = 0
+	"Ragnvald #0" = 0
+	"Sigbjörn #0" = 0
+	"Sigurd #0" = 0
+	"Starkad #0" = 0
+	"Styrbjörn #0" = 0
+	"Sune #0" = 0
+	"Tjudmund #0" = 0
+	"Toke #0" = 0
+	"Tolir #0" = 0
+	"Torbjörn #0" = 0
+	"Torbrand #0" = 0
+	"Torfinn #0" = 0
+	"Torkel #0" = 0
+	"Torolf #0" = 0
+	"Torsten #0" = 0
+	"Toste #0" = 0
+	"Tyke #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+	"Östen #0" = 0
+}
+ship_names = {
+	"Arka Noego"
+        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
+        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
+        Fortuna
+        Gryf Gwiazda Gnieznienskie
+	Inoworclawskie
+	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
+        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
+        "Maly Bialy Orzel" Malborskie Mazowieckie
+        Niewrazliwy "Nowy Czarny Orzel"
+        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
+	"Rycerz Swiety Jerzy" Rawskie Ruskie
+        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
+        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
+        Zwyciestwo "Zólty Lew"
+}
+

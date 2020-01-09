@@ -1,0 +1,28 @@
+# Ostrogothia
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 3
+1422.9.1 = {
+	monarch = {
+		name = "Gloð"
+		birth_date = 1415.9.4
+		dynasty = "Kauping"
+		female = yes
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 3
+	add_treasury = 182
+	add_prestige = 199
+}

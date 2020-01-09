@@ -1,0 +1,40 @@
+# Serbia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = croatian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4173
+1396.10.2 = {
+	monarch = {
+		name = "Ninoslav"
+		birth_date = 1373.2.18
+		dynasty = "od Lukiv"
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1427.6.23 = {
+	heir = {
+		name = "Milutin"
+		monarch_name = "Milutin"
+		dynasty = "od Lukiv"
+		birth_date = 1427.6.23
+		death_date = 1507.6.23
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 4173
+	add_treasury = -20
+	add_prestige = 492
+}

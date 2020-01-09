@@ -1,0 +1,27 @@
+# Tamilakam
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 540
+1412.6.15 = {
+	monarch = {
+		name = "Tsendro II"
+		birth_date = 1394.3.4
+		dynasty = "Myang"
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 540
+	add_treasury = 475
+	add_prestige = 841
+}

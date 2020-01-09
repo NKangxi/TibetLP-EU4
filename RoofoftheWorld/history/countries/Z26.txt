@@ -1,0 +1,27 @@
+# Lisboa
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 227
+1442.12.4 = {
+	monarch = {
+		name = "Sigrid III"
+		birth_date = 1430.9.4
+		dynasty = "Svarti"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 227
+	add_treasury = 105
+	add_prestige = 63
+}

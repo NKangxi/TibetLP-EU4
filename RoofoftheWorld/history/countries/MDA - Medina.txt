@@ -1,0 +1,27 @@
+# Hijaz
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = nubian
+religion = bon
+clear_scripted_personalities = yes
+capital = 384
+1426.11.17 = {
+	monarch = {
+		name = "Sadnalegs"
+		birth_date = 1424.6.4
+		dynasty = "Purgyal"
+		adm = 6
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 384
+	add_treasury = 213
+	add_prestige = 1867
+}

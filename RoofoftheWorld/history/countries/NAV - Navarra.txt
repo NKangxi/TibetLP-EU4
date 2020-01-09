@@ -1,0 +1,28 @@
+# Navarra
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 210
+1426.11.15 = {
+	monarch = {
+		name = "Tezcatlan"
+		birth_date = 1401.12.15
+		dynasty = "Baselid"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 210
+	add_treasury = 37
+	add_prestige = 304
+}

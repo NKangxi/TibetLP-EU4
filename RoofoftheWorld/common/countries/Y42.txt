@@ -1,0 +1,246 @@
+# Cyrenaica
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 32 150 63 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Þorbrandr" "Gyrið" "Dan" "Rögnfrið" "Eskild" "Ingjald" "Sigbjörn" "Sæmundr" "Arngrimr" "Helena" 
+	"Ingólfr" "Ingjerðr" "Þordis" "Gurli" "Björg" "Grima" "Ulfr" "Dyre" "Totil" "Guðröðr" 
+	"Kol" "Haukr" "Hrolfr" "Alfgeir" "Yrsa" "Freyja" "Bagge" "Azim" "Khumarawayh" "Cena" 
+	"Aaron" "Rana" "Zakariyah" "Agathon" "Tajaddin" "Rafiq" "Badr" "Nabila" "Tawaret" "Raphaelkouda" 
+	"Enôch" "Fatima" "Shogofa" "Muzaffaraddin" "Ala'i" "Sitara" "Yasovarman" "Yassir" "Abdul-Hakam" "Khalid" 
+	"Sami" "Khalil" "Mansur" "Shujah" "Aarif" "Jamil" "Fayiz" "Abdul-Lateef" "Ibtisam" "Jalila" 
+	"Ale" "Alfr" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arni" "Arnfast" "Asbjörn" "Baldr" 
+	"Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" "Bo" "Borkvard" "Botulfr" "Bragi" 
+	"Buðli" "Dag" "Eilif" "Egill" "Emund" "Einarr" "Eirikr" "Falki" "Faste" "Filip" 
+	"Fredrik" "Frirek" "Froði" "Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" 
+	"Greger" "Grimr" "Guðfrið" "Guðmundr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Helgi" "Hemming" 
+	"Holmger" "Hrafn" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" "Ingemar" 
+	"Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" "Klas" "Knut" "Kolbjörn" 
+	"Markus" "Magni" "Mats" "Nils" "Niklas" "Oddr" "Ofeig" "Olafr" "Ormr" "Ottarr" 
+	"Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" "Sigtrygg" "Sigurðr" "Starkaðr" 
+	"Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" "Sverker" "Sölvi" "Sörkver" 
+	"Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" 
+	"Tryggve" "Tyke" "Vagn" "Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
+monarch_names = {
+	"Þorbrandr #0" = 1
+	"Gyrið #1" = -19
+	"Dan #0" = 1
+	"Rögnfrið #0" = -1
+	"Eskild #0" = 1
+	"Ingjald #0" = 1
+	"Sigbjörn #0" = 1
+	"Sæmundr #0" = 1
+	"Arngrimr #0" = 1
+	"Helena #0" = -1
+	"Ingólfr #0" = 1
+	"Ingjerðr #0" = -1
+	"Þordis #0" = -1
+	"Gurli #0" = -1
+	"Björg #0" = -1
+	"Grima #0" = -1
+	"Ulfr #0" = 1
+	"Dyre #0" = 1
+	"Totil #0" = 1
+	"Guðröðr #0" = 1
+	"Kol #0" = 1
+	"Haukr #0" = 1
+	"Hrolfr #0" = 1
+	"Alfgeir #0" = 1
+	"Yrsa #0" = -1
+	"Freyja #0" = -1
+	"Bagge #0" = 1
+	"Azim #1" = 0
+	"Khumarawayh #1" = 0
+	"Cena #2" = -1
+	"Aaron #1" = 0
+	"Rana #1" = -1
+	"Zakariyah #1" = 0
+	"Agathon #1" = 0
+	"Tajaddin #1" = 0
+	"Rafiq #3" = 0
+	"Badr #1" = 0
+	"Nabila #1" = -1
+	"Tawaret #1" = -1
+	"Raphaelkouda #1" = 0
+	"Enôch #1" = 0
+	"Fatima #1" = -1
+	"Shogofa #1" = -1
+	"Muzaffaraddin #1" = 0
+	"Ala'i #2" = 0
+	"Sitara #1" = -1
+	"Yasovarman #2" = 0
+	"Yassir #1" = 0
+	"Abdul-Hakam #1" = 0
+	"Khalid #2" = 0
+	"Sami #2" = 0
+	"Khalil #1" = 0
+	"Mansur #1" = 0
+	"Shujah #1" = 0
+	"Aarif #1" = 0
+	"Jamil #1" = 0
+	"Fayiz #1" = 0
+	"Abdul-Lateef #1" = 0
+	"Ibtisam #1" = -1
+	"Jalila #1" = -1
+	"Ale #0" = 0
+	"Alfr #0" = 0
+	"Anders #0" = 0
+	"Anlaufr #0" = 0
+	"Anundr #0" = 0
+	"Arnbjörn #0" = 0
+	"Arni #0" = 0
+	"Arnfast #0" = 0
+	"Asbjörn #0" = 0
+	"Baldr #0" = 0
+	"Barid #0" = 0
+	"Bengt #0" = 0
+	"Bersi #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Bo #0" = 0
+	"Borkvard #0" = 0
+	"Botulfr #0" = 0
+	"Bragi #0" = 0
+	"Buðli #0" = 0
+	"Dag #0" = 0
+	"Eilif #0" = 0
+	"Egill #0" = 0
+	"Emund #0" = 0
+	"Einarr #0" = 0
+	"Eirikr #0" = 0
+	"Falki #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Fredrik #0" = 0
+	"Frirek #0" = 0
+	"Froði #0" = 0
+	"Freyr #0" = 0
+	"Folki #0" = 0
+	"Gandalfr #0" = 0
+	"Geirr #0" = 0
+	"Georg #0" = 0
+	"Gnupa #0" = 0
+	"Gorm #0" = 0
+	"Greger #0" = 0
+	"Grimr #0" = 0
+	"Guðfrið #0" = 0
+	"Guðmundr #0" = 0
+	"Gunnarr #0" = 0
+	"Hakon #0" = 0
+	"Halsten #0" = 0
+	"Haraldr #0" = 0
+	"Helgi #0" = 0
+	"Hemming #0" = 0
+	"Holmger #0" = 0
+	"Hrafn #0" = 0
+	"Hrane #0" = 0
+	"Hæsteinn #0" = 0
+	"Hjalmar #0" = 0
+	"Hroðgar #0" = 0
+	"Hroðulfr #0" = 0
+	"Hrörekr #0" = 0
+	"Hysing #0" = 0
+	"Ingemar #0" = 0
+	"Ivar #0" = 0
+	"Jedvard #0" = 0
+	"Jon #0" = 0
+	"Karl #0" = 0
+	"Kettil #0" = 0
+	"Kettilmund #0" = 0
+	"Kjartan #0" = 0
+	"Klas #0" = 0
+	"Knut #0" = 0
+	"Kolbjörn #0" = 0
+	"Markus #0" = 0
+	"Magni #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Oddr #0" = 0
+	"Ofeig #0" = 0
+	"Olafr #0" = 0
+	"Ormr #0" = 0
+	"Ottarr #0" = 0
+	"Refr #0" = 0
+	"Refil #0" = 0
+	"Ragnarr #0" = 0
+	"Rikulfr #0" = 0
+	"Rögnvaldr #0" = 0
+	"Skuli #0" = 0
+	"Snorri #0" = 0
+	"Sigtrygg #0" = 0
+	"Sigurðr #0" = 0
+	"Starkaðr #0" = 0
+	"Steinn #0" = 0
+	"Sturla #0" = 0
+	"Styrbjörn #0" = 0
+	"Styrkar #0" = 0
+	"Sumarliði #0" = 0
+	"Suni #0" = 0
+	"Sveinn #0" = 0
+	"Sverker #0" = 0
+	"Sölvi #0" = 0
+	"Sörkver #0" = 0
+	"Tjudmund #0" = 0
+	"Toke #0" = 0
+	"Tolir #0" = 0
+	"Þorbjörn #0" = 0
+	"Þorfinn #0" = 0
+	"Þordr #0" = 0
+	"Þorgil #0" = 0
+	"Þorsteinn #0" = 0
+	"Þorolfr #0" = 0
+	"Toste #0" = 0
+	"Tryggve #0" = 0
+	"Tyke #0" = 0
+	"Vagn #0" = 0
+	"Valdemar #0" = 0
+	"Åke #0" = 0
+	"Yngvar #0" = 0
+	"Örvar #0" = 0
+	"Öysteinn #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

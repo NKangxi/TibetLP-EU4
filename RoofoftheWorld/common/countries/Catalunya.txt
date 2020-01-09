@@ -1,0 +1,306 @@
+# Barcelona
+ck2_converter_generated = yes
+graphical_culture = southamericagfx
+color = { 166 100 72 }
+
+
+
+
+leader_names = {
+
+	"Rothgar" "Asta" "Adelaida" "Elionor" "Sibila" "Ramon-Folc" "Joan" "Guisla" "Margareta" "Joscelin" 
+	"Ponç-Hug" "Odo" "Ponç" "Sanç" "Lesceline" "Eirikr" "Toste" "Hervé" "Gauslin" "Rorgon" 
+	"Renaud" "Gauzbert" "Theodrad" "Gauzlin" "Adaltrud" "Louis" "Gauzfrid" "Esclarmonde" "Richilde" "Bilchilde" 
+	"Valence" "Raimbaut" "Angelbert" "Bernard" "Ekkehard" "Archambaud" "Jean" "Ida" "Ogier" "Barthélémi" 
+	"Péronelle" "Douce" "Héloise" "Mélusine" "Emma" "Mascarose" "Alice" "Echive" "Isabeau" "Solène" 
+	"Marie" "Arnault" "Gottfried" "Adrien" "Adelheid" "Raynaud" "Thetburga" "Hodierne" "Belleassez" "Adalmode" 
+	"Gerhild" "Béatrix" "Perinne" "Ebbon" "Étienne" "Vela" "Amelie" "Bourgogne" "Clotaire" "Alix" 
+	"Jedvard" "Sofia" "Hafrid" "Ermengarde" "Guy" "Guillaumette" "Almodis" "Raymonde" "Steinn" "Skuli" 
+	"Arnfast" "Éléonore" "Karl" "Gorm" "Faste" "Knut" "Kol" "Antoinette" "Sturla" "Mathieu" 
+	"Ildégarde" "Magni" "Freyr" "Bodil" "Rögnfrið" "Tyke" "Hemming" "Sara" "Adémar" "Sölvi" 
+	"Élodie" "Anschaire" "Skuld" "Haukr" "Inga" "Hroðgar" "Érrard" "Helena" "Alfgeir" "Elin" 
+	"Alfhildr" "Gyla" "Gloð" "Astrid" "Einarr" "Rögnvaldr" "Gandalfr" "Birger" "Rögnhildr" "Grima" 
+	"Richard" "Bertil" "Teicuih" "Mecatl" "Alaïs" "Robin" "Þorbrandr" "Hrafn" "Chalchiuitl" "Frirek" 
+	"Tiernuallon" "Maelscuet" "Alison" "Hrolfr" "Arni" "Dag" "Alvör" "Ottarr" "Kraka" "Snorri" 
+	"Eilif" "Ingfrid" "Dyre" "Karin" "Arngrimr" "Gurli" "Ofeig" "Kettil" "Ulv" "Ylva" 
+	"Amaury" "Rikissa" "Holmfrid" "Tolir" "Aleta" "Sigbjörn" "Maer" "Sigrid" "Emund" "Brunisenda" 
+	"Starkaðr" "Rikulfr" "Tormod" "Þorbjörn" "Bera" "Rampon" "Berengar" "Suniefredo" "Guilhelm" "Aldedramn" 
+	"Isembard" "Odelric" "Hunifred" "Roger" "Sybille" "Alpaïs" "Ilsa" "Beatrix" "Lärkka" "Baldarich" 
+	"Alberich" "Amalrich" "Walram" "Poppo" "Acalan" "Acacitli" "Acamapichtli" "Acolmiztli" "Aculnahuacatl" "Ahuiliztli" 
+	"Ahuitzotl" "Atl" "Axayacatl" "Cacamatzin" "Chimalli" "Chimalpilli" "Chimalpopoca" "Cipac" "Coanacoch" "Coatl" 
+	"Cozahtli" "Cuauhtemoc" "Cuauhtl" "Cuetlachtli" "Cuetzpalli" "Cuixtli" "Cuitlahuac" "Huitzilin" "Huitzilihuitl" "Huitzitl" 
+	"Huitztecol" "Iquehuacatzin" "Itzcoatl" "Itzli" "Itzcuintli" "Ixtlilxochitl" "Mahchimaleh" "Matlal" "Mazatl" "Matlalihuitl" 
+	"Matlatzincatzin" "Maxtla" "Miztli" "Moctezuma" "Moquihuix" "Necuametl" "Nezahualcoyotl" "Nezahualpilli" "Nochehuatl" "Ocuil" 
+	"Olli" "Opochtli" "Ozomatli" "Quauhtli" "Tapayaxi" "Tecocoltzin" "Tecolotl" "Tetlepanquetzaltzin" "Tezozomoc" "Tizoc" 
+	"Tizocic" "Tlacaelel" "Tlacaeleltzin" "Tlalli" "Tlaloc" "Tochtli" "Tototl" "Tzompantzin" "Tlilpotonqui" "Topiltzin" 
+	"Totoquihuaztli" "Ueman" "Yaotl" "Yayauhqui" "Yolotli" "Yolyamanitzin" "Xicohtencatl" "Xiuhpilli" "Xihuitl" "Xipil" 
+	"Xipilli" "Xochitl" "Xochipepe" "Xochipilli" "Zipactonal" "Zolin" }
+monarch_names = {
+	"Rothgar #0" = 1
+	"Asta #0" = -1
+	"Adelaida #1" = -22
+	"Elionor #0" = -1
+	"Sibila #0" = -1
+	"Ramon-Folc #0" = 1
+	"Joan #0" = 1
+	"Guisla #0" = -1
+	"Margareta #0" = -1
+	"Joscelin #0" = 1
+	"Ponç-Hug #0" = 1
+	"Odo #0" = 1
+	"Ponç #0" = 1
+	"Sanç #0" = 1
+	"Lesceline #0" = -1
+	"Eirikr #0" = 1
+	"Toste #0" = 1
+	"Hervé #0" = 1
+	"Gauslin #0" = 1
+	"Rorgon #0" = 1
+	"Renaud #0" = 1
+	"Gauzbert #0" = 1
+	"Theodrad #0" = 1
+	"Gauzlin #0" = 1
+	"Adaltrud #0" = -1
+	"Louis #0" = 1
+	"Gauzfrid #0" = 1
+	"Esclarmonde #0" = -1
+	"Richilde #0" = -1
+	"Bilchilde #0" = -1
+	"Valence #0" = -1
+	"Raimbaut #0" = 1
+	"Angelbert #0" = 1
+	"Bernard #3" = 18
+	"Ekkehard #0" = 1
+	"Archambaud #0" = 1
+	"Jean #0" = 1
+	"Ida #0" = -1
+	"Ogier #0" = 1
+	"Barthélémi #0" = 1
+	"Péronelle #0" = -1
+	"Douce #0" = -1
+	"Héloise #0" = -1
+	"Mélusine #0" = -1
+	"Emma #0" = -1
+	"Mascarose #0" = -1
+	"Alice #0" = -1
+	"Echive #0" = -1
+	"Isabeau #0" = -1
+	"Solène #0" = -1
+	"Marie #0" = -1
+	"Arnault #0" = 1
+	"Gottfried #0" = 1
+	"Adrien #0" = 1
+	"Adelheid #0" = -1
+	"Raynaud #0" = 1
+	"Thetburga #0" = -1
+	"Hodierne #0" = -1
+	"Belleassez #0" = -1
+	"Adalmode #0" = -1
+	"Gerhild #0" = -1
+	"Béatrix #0" = -1
+	"Perinne #0" = -1
+	"Ebbon #0" = 1
+	"Étienne #0" = 1
+	"Vela #0" = 1
+	"Amelie #0" = -1
+	"Bourgogne #0" = -1
+	"Clotaire #0" = 1
+	"Alix #0" = -1
+	"Jedvard #0" = 1
+	"Sofia #0" = -1
+	"Hafrid #0" = -1
+	"Ermengarde #0" = -1
+	"Guy #1" = 18
+	"Guillaumette #0" = -1
+	"Almodis #0" = -1
+	"Raymonde #0" = -1
+	"Steinn #0" = 1
+	"Skuli #0" = 1
+	"Arnfast #0" = 1
+	"Éléonore #0" = -1
+	"Karl #0" = 1
+	"Gorm #0" = 1
+	"Faste #0" = 1
+	"Knut #0" = 1
+	"Kol #0" = 1
+	"Antoinette #0" = -1
+	"Sturla #0" = 1
+	"Mathieu #0" = 1
+	"Ildégarde #0" = -1
+	"Magni #0" = 1
+	"Freyr #0" = 1
+	"Bodil #0" = -1
+	"Rögnfrið #0" = -1
+	"Tyke #0" = 1
+	"Hemming #0" = 1
+	"Sara #0" = -1
+	"Adémar #0" = 1
+	"Sölvi #0" = 1
+	"Élodie #0" = -1
+	"Anschaire #0" = 1
+	"Skuld #0" = -1
+	"Haukr #0" = 1
+	"Inga #0" = -1
+	"Hroðgar #0" = 1
+	"Érrard #0" = 1
+	"Helena #0" = -1
+	"Alfgeir #0" = 1
+	"Elin #1" = -22
+	"Alfhildr #0" = -1
+	"Gyla #0" = -1
+	"Gloð #0" = -1
+	"Astrid #0" = -1
+	"Einarr #0" = 1
+	"Rögnvaldr #0" = 1
+	"Gandalfr #0" = 1
+	"Birger #0" = 1
+	"Rögnhildr #0" = -1
+	"Grima #0" = -1
+	"Richard #0" = 1
+	"Bertil #0" = 1
+	"Teicuih #0" = -1
+	"Mecatl #0" = -1
+	"Alaïs #0" = -1
+	"Robin #0" = 1
+	"Þorbrandr #0" = 1
+	"Hrafn #0" = 1
+	"Chalchiuitl #0" = -1
+	"Frirek #0" = 1
+	"Tiernuallon #0" = 1
+	"Maelscuet #0" = 1
+	"Alison #0" = -1
+	"Hrolfr #0" = 1
+	"Arni #0" = 1
+	"Dag #0" = 1
+	"Alvör #0" = -1
+	"Ottarr #0" = 1
+	"Kraka #0" = -1
+	"Snorri #0" = 1
+	"Eilif #0" = 1
+	"Ingfrid #0" = -1
+	"Dyre #0" = 1
+	"Karin #0" = -1
+	"Arngrimr #0" = 1
+	"Gurli #0" = -1
+	"Ofeig #0" = 1
+	"Kettil #0" = 1
+	"Ulv #0" = 1
+	"Ylva #0" = -1
+	"Amaury #0" = 1
+	"Rikissa #0" = -1
+	"Holmfrid #0" = -1
+	"Tolir #0" = 1
+	"Aleta #0" = -1
+	"Sigbjörn #0" = 1
+	"Maer #0" = -1
+	"Sigrid #0" = -1
+	"Emund #0" = 1
+	"Brunisenda #0" = -1
+	"Starkaðr #0" = 1
+	"Rikulfr #0" = 1
+	"Tormod #0" = 1
+	"Þorbjörn #0" = 1
+	"Bera #1" = 0
+	"Rampon #1" = 0
+	"Berengar #1" = 0
+	"Suniefredo #1" = 0
+	"Guilhelm #1" = 0
+	"Aldedramn #1" = 0
+	"Isembard #1" = 0
+	"Odelric #1" = 0
+	"Hunifred #1" = 0
+	"Roger #1" = 0
+	"Sybille #1" = -1
+	"Alpaïs #1" = -1
+	"Ilsa #1" = -1
+	"Beatrix #1" = -1
+	"Lärkka #1" = -1
+	"Baldarich #1" = 0
+	"Alberich #1" = 0
+	"Amalrich #3" = 0
+	"Walram #4" = 0
+	"Poppo #1" = 0
+	"Acalan #0" = 0
+	"Acacitli #0" = 0
+	"Acamapichtli #0" = 0
+	"Acolmiztli #0" = 0
+	"Aculnahuacatl #0" = 0
+	"Ahuiliztli #0" = 0
+	"Ahuitzotl #0" = 0
+	"Atl #0" = 0
+	"Axayacatl #0" = 0
+	"Cacamatzin #0" = 0
+	"Chimalli #0" = 0
+	"Chimalpilli #0" = 0
+	"Chimalpopoca #0" = 0
+	"Cipac #0" = 0
+	"Coanacoch #0" = 0
+	"Coatl #0" = 0
+	"Cozahtli #0" = 0
+	"Cuauhtemoc #0" = 0
+	"Cuauhtl #0" = 0
+	"Cuetlachtli #0" = 0
+	"Cuetzpalli #0" = 0
+	"Cuixtli #0" = 0
+	"Cuitlahuac #0" = 0
+	"Huitzilin #0" = 0
+	"Huitzilihuitl #0" = 0
+	"Huitzitl #0" = 0
+	"Huitztecol #0" = 0
+	"Iquehuacatzin #0" = 0
+	"Itzcoatl #0" = 0
+	"Itzli #0" = 0
+	"Itzcuintli #0" = 0
+	"Ixtlilxochitl #0" = 0
+	"Mahchimaleh #0" = 0
+	"Matlal #0" = 0
+	"Mazatl #0" = 0
+	"Matlalihuitl #0" = 0
+	"Matlatzincatzin #0" = 0
+	"Maxtla #0" = 0
+	"Miztli #0" = 0
+	"Moctezuma #0" = 0
+	"Moquihuix #0" = 0
+	"Necuametl #0" = 0
+	"Nezahualcoyotl #0" = 0
+	"Nezahualpilli #0" = 0
+	"Nochehuatl #0" = 0
+	"Ocuil #0" = 0
+	"Olli #0" = 0
+	"Opochtli #0" = 0
+	"Ozomatli #0" = 0
+	"Quauhtli #0" = 0
+	"Tapayaxi #0" = 0
+	"Tecocoltzin #0" = 0
+	"Tecolotl #0" = 0
+	"Tetlepanquetzaltzin #0" = 0
+	"Tezozomoc #0" = 0
+	"Tizoc #0" = 0
+	"Tizocic #0" = 0
+	"Tlacaelel #0" = 0
+	"Tlacaeleltzin #0" = 0
+	"Tlalli #0" = 0
+	"Tlaloc #0" = 0
+	"Tochtli #0" = 0
+	"Tototl #0" = 0
+	"Tzompantzin #0" = 0
+	"Tlilpotonqui #0" = 0
+	"Topiltzin #0" = 0
+	"Totoquihuaztli #0" = 0
+	"Ueman #0" = 0
+	"Yaotl #0" = 0
+	"Yayauhqui #0" = 0
+	"Yolotli #0" = 0
+	"Yolyamanitzin #0" = 0
+	"Xicohtencatl #0" = 0
+	"Xiuhpilli #0" = 0
+	"Xihuitl #0" = 0
+	"Xipil #0" = 0
+	"Xipilli #0" = 0
+	"Xochitl #0" = 0
+	"Xochipepe #0" = 0
+	"Xochipilli #0" = 0
+	"Zipactonal #0" = 0
+	"Zolin #0" = 0
+}
+

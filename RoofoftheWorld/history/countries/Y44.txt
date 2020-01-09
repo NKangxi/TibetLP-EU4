@@ -1,0 +1,41 @@
+# Africa
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2450
+1426.3.6 = {
+	monarch = {
+		name = "Aleta II"
+		birth_date = 1413.8.6
+		dynasty = "Eyjing"
+		female = yes
+		adm = 5
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
+}
+1432.9.2 = {
+	heir = {
+		name = "Grimr"
+		monarch_name = "Grimr"
+		dynasty = "Eyjing"
+		birth_date = 1432.9.2
+		death_date = 1512.9.2
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2450
+	add_treasury = 28
+	add_prestige = 77
+}

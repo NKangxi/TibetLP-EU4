@@ -1,0 +1,28 @@
+# Arabia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2328
+1433.5.19 = {
+	monarch = {
+		name = "Kinah"
+		birth_date = 1423.11.4
+		dynasty = "Seyfullahid"
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = calm_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 2328
+	add_treasury = 70
+	add_prestige = 138
+}

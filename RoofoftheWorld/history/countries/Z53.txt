@@ -1,0 +1,37 @@
+# Bamberg
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 66
+1443.11.22 = {
+	monarch = {
+		name = "Guntram"
+		birth_date = 1421.2.22
+		dynasty = "Viss"
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+	add_ruler_personality = conqueror_personality
+	heir = {
+		name = "Binhilde"
+		monarch_name = "Binhilde"
+		dynasty = "Viss"
+		birth_date = 1439.9.15
+		death_date = 1519.9.15
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 66
+	add_treasury = 258
+	add_prestige = 15
+}

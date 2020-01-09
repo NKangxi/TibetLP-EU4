@@ -1,0 +1,24 @@
+# Alsace
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = norse_pagan_reformed
+capital = 1880
+1444.6.26 = {
+	monarch = {
+		name = "Acolmiztli"
+		birth_date = 1439.8.3
+		dynasty = "Glysing"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1880
+	add_treasury = 17
+	add_prestige = 84
+}

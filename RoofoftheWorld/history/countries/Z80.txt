@@ -1,0 +1,26 @@
+# Jurchedei
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = bon
+clear_scripted_personalities = yes
+capital = 2189
+1438.6.11 = {
+	monarch = {
+		name = "Burundai"
+		birth_date = 1421.1.28
+		dynasty = "Jurchedei"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 2189
+	add_treasury = 4
+	add_prestige = 0
+}

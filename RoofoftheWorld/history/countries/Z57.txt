@@ -1,0 +1,28 @@
+# Sardinia and Corsica
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = berber
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2986
+1425.2.5 = {
+	monarch = {
+		name = "Tanefzawit"
+		birth_date = 1396.3.27
+		dynasty = "Alcúdi"
+		female = yes
+		adm = 5
+		dip = 0
+		mil = 6
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 2986
+	add_treasury = 29
+	add_prestige = 306
+}

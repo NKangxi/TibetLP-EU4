@@ -1,0 +1,185 @@
+# Scania
+ck2_converter_generated = yes
+graphical_culture = southamericagfx
+color = { 210 2 2 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Zyanya" "Opochtli" "Moquihuix" "Cihuaton" "Aculnahuacatl" "Tziquetzalpoztectzin" "Tlazozomizqui" "Chichimecacihuatzin" "Nelli" "Xochipepe" 
+	"Maxtla" "Toltecatl" "Xocoh" "Miahuaxiuitl" "Ohtli" "Xiuhtomiyauhtzin" "Acacitli" "Necahual" "Cuauhtemoc" "Xochipilli" 
+	"Tlahcoehua" "Matlalihuitl" "Eloxochitl" "Nahuatl" "Tlacaeleltzin" "Xipilli" "Citlalli" "Ahuiliztli" "Xipil" "Itzcoatl" 
+	"Malinalxochitl" "Tizocic" "Patli" "Huitzilihuitl" "Hafrid" "Þora" "Ragnvald" "Kettilmund" "Holger" "Borkvard" 
+	"Ylva" "Bagge" "Ingibjörg" "Thordis" "Ragnfrid" "Saga" "Kristina" "Svanhild" "Märta" "Holmfrid" 
+	"Gyrið" "Ingrid" "Acalan" "Acamapichtli" "Acolmiztli" "Ahuitzotl" "Atl" "Axayacatl" "Cacamatzin" "Chimalli" 
+	"Chimalpilli" "Chimalpopoca" "Cipac" "Coanacoch" "Coatl" "Cozahtli" "Cuauhtl" "Cuetlachtli" "Cuetzpalli" "Cuixtli" 
+	"Cuitlahuac" "Huitzilin" "Huitzitl" "Huitztecol" "Iquehuacatzin" "Itzli" "Itzcuintli" "Ixtlilxochitl" "Mahchimaleh" "Matlal" 
+	"Mazatl" "Matlatzincatzin" "Miztli" "Moctezuma" "Necuametl" "Nezahualcoyotl" "Nezahualpilli" "Nochehuatl" "Ocuil" "Olli" 
+	"Ozomatli" "Quauhtli" "Tapayaxi" "Tecocoltzin" "Tecolotl" "Tetlepanquetzaltzin" "Tezozomoc" "Tizoc" "Tlacaelel" "Tlalli" 
+	"Tlaloc" "Tochtli" "Tototl" "Tzompantzin" "Tlilpotonqui" "Topiltzin" "Totoquihuaztli" "Ueman" "Yaotl" "Yayauhqui" 
+	"Yolotli" "Yolyamanitzin" "Xicohtencatl" "Xiuhpilli" "Xihuitl" "Xochitl" "Zipactonal" "Zolin" }
+monarch_names = {
+	"Zyanya #0" = -1
+	"Opochtli #0" = 1
+	"Moquihuix #0" = 1
+	"Cihuaton #0" = -1
+	"Aculnahuacatl #0" = 1
+	"Tziquetzalpoztectzin #0" = -1
+	"Tlazozomizqui #1" = -19
+	"Chichimecacihuatzin #0" = -1
+	"Nelli #0" = -1
+	"Xochipepe #0" = 1
+	"Maxtla #0" = 1
+	"Toltecatl #0" = -1
+	"Xocoh #0" = -1
+	"Miahuaxiuitl #0" = -1
+	"Ohtli #0" = -1
+	"Xiuhtomiyauhtzin #0" = -1
+	"Acacitli #0" = 1
+	"Necahual #0" = -1
+	"Cuauhtemoc #0" = 1
+	"Xochipilli #0" = 1
+	"Tlahcoehua #0" = -1
+	"Matlalihuitl #0" = 1
+	"Eloxochitl #1" = -19
+	"Nahuatl #0" = -1
+	"Tlacaeleltzin #0" = 1
+	"Xipilli #0" = 1
+	"Citlalli #0" = -1
+	"Ahuiliztli #1" = -19
+	"Xipil #0" = 1
+	"Itzcoatl #0" = 1
+	"Malinalxochitl #1" = -19
+	"Tizocic #0" = 1
+	"Patli #1" = -19
+	"Huitzilihuitl #0" = 1
+	"Hafrid #1" = -1
+	"Þora #1" = -1
+	"Ragnvald #1" = 0
+	"Kettilmund #1" = 0
+	"Holger #1" = 0
+	"Borkvard #1" = 0
+	"Ylva #3" = -1
+	"Bagge #1" = 0
+	"Ingibjörg #1" = -1
+	"Thordis #1" = -1
+	"Ragnfrid #1" = -1
+	"Saga #1" = -1
+	"Kristina #2" = -1
+	"Svanhild #1" = -1
+	"Märta #2" = -1
+	"Holmfrid #1" = -1
+	"Gyrið #1" = -1
+	"Ingrid #1" = -1
+	"Acalan #0" = 0
+	"Acamapichtli #0" = 0
+	"Acolmiztli #0" = 0
+	"Ahuitzotl #0" = 0
+	"Atl #0" = 0
+	"Axayacatl #0" = 0
+	"Cacamatzin #0" = 0
+	"Chimalli #0" = 0
+	"Chimalpilli #0" = 0
+	"Chimalpopoca #0" = 0
+	"Cipac #0" = 0
+	"Coanacoch #0" = 0
+	"Coatl #0" = 0
+	"Cozahtli #0" = 0
+	"Cuauhtl #0" = 0
+	"Cuetlachtli #0" = 0
+	"Cuetzpalli #0" = 0
+	"Cuixtli #0" = 0
+	"Cuitlahuac #0" = 0
+	"Huitzilin #0" = 0
+	"Huitzitl #0" = 0
+	"Huitztecol #0" = 0
+	"Iquehuacatzin #0" = 0
+	"Itzli #0" = 0
+	"Itzcuintli #0" = 0
+	"Ixtlilxochitl #0" = 0
+	"Mahchimaleh #0" = 0
+	"Matlal #0" = 0
+	"Mazatl #0" = 0
+	"Matlatzincatzin #0" = 0
+	"Miztli #0" = 0
+	"Moctezuma #0" = 0
+	"Necuametl #0" = 0
+	"Nezahualcoyotl #0" = 0
+	"Nezahualpilli #0" = 0
+	"Nochehuatl #0" = 0
+	"Ocuil #0" = 0
+	"Olli #0" = 0
+	"Ozomatli #0" = 0
+	"Quauhtli #0" = 0
+	"Tapayaxi #0" = 0
+	"Tecocoltzin #0" = 0
+	"Tecolotl #0" = 0
+	"Tetlepanquetzaltzin #0" = 0
+	"Tezozomoc #0" = 0
+	"Tizoc #0" = 0
+	"Tlacaelel #0" = 0
+	"Tlalli #0" = 0
+	"Tlaloc #0" = 0
+	"Tochtli #0" = 0
+	"Tototl #0" = 0
+	"Tzompantzin #0" = 0
+	"Tlilpotonqui #0" = 0
+	"Topiltzin #0" = 0
+	"Totoquihuaztli #0" = 0
+	"Ueman #0" = 0
+	"Yaotl #0" = 0
+	"Yayauhqui #0" = 0
+	"Yolotli #0" = 0
+	"Yolyamanitzin #0" = 0
+	"Xicohtencatl #0" = 0
+	"Xiuhpilli #0" = 0
+	"Xihuitl #0" = 0
+	"Xochitl #0" = 0
+	"Zipactonal #0" = 0
+	"Zolin #0" = 0
+}
+ship_names = {
+	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
+	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
+	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
+	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"Prinds Christian" "Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
+	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
+	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
+	Victoria Vindhunden Wenden Ørnen
+}
+

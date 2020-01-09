@@ -1,0 +1,27 @@
+# Lahore
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 4511
+1428.10.20 = {
+	monarch = {
+		name = "Gangkarwa"
+		birth_date = 1395.10.10
+		dynasty = "Palrin"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 4511
+	add_treasury = 37
+	add_prestige = 333
+}

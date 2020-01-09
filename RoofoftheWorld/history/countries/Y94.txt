@@ -1,0 +1,27 @@
+# Haritanaka
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 510
+1424.5.11 = {
+	monarch = {
+		name = "Songtsen II"
+		birth_date = 1387.1.11
+		dynasty = "Gnyal"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = lawgiver_personality
+}
+1444.11.11 = {
+	capital = 510
+	add_treasury = 97
+	add_prestige = 105
+}

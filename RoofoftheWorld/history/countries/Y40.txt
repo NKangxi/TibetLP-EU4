@@ -1,0 +1,39 @@
+# Alexandria
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 358
+1444.7.20 = {
+	monarch = {
+		name = "Gyla"
+		birth_date = 1418.11.11
+		dynasty = "Eyjing"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = sinner_personality
+	heir = {
+		name = "Gyða"
+		monarch_name = "Gyða"
+		dynasty = "Eyjing"
+		birth_date = 1424.5.11
+		death_date = 1504.5.11
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 358
+	add_treasury = 46
+	add_prestige = 140
+}

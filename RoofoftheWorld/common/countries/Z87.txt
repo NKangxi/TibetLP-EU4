@@ -1,0 +1,235 @@
+# Wroclaw
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 200 50 70 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Folki" "Ivar" "Ingemar" "Hroðgar" "Sæmundr" "Steinn" "Guðfrið" "Rikissa" "Grimr" "Þorbrandr" 
+	"Snorri" "Suni" "Gyða" "Gandalfr" "Rögnvaldr" "Anlaufr" "Gyla" "Bodil" "Valdemar" "Gurli" 
+	"Kol" "Þorolfr" "Guðrun" "Margareta" "Aleta" "Alfhildr" "Iliana" "Egill" "Kettil" "Sara" 
+	"Sörkver" "Rögnhildr" "Tolir" "Tjudmund" "Hjalmar" "Guðröðr" "Odd" "Yngvar" "Skuli" "Baldr" 
+	"Arnfast" "Sif" "Ingibjörg" "Bragi" "Arngrimr" "Öysteinn" "Kolbjörn" "Ragnvald" "Jedvard" "Maer" 
+	"Sigtrygg" "Kraka" "Emund" "Toke" "Torgils" "Ulfhildr" "Þyra" "Þordis" "Olafr" "Sofia" 
+	"Dan" "Halla" "Bagge" "Yrsa" "Uzza" "Dyre" "Ale" "Alfr" "Alfgeir" "Anders" 
+	"Anundr" "Arnbjörn" "Arni" "Asbjörn" "Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" 
+	"Bo" "Borkvard" "Botulfr" "Buðli" "Dag" "Eilif" "Einarr" "Eirikr" "Eskild" "Falki" 
+	"Faste" "Filip" "Fredrik" "Frirek" "Froði" "Freyr" "Geirr" "Georg" "Gnupa" "Gorm" 
+	"Greger" "Guðmundr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" "Holmger" 
+	"Hrafn" "Hrolfr" "Hrane" "Hæsteinn" "Hroðulfr" "Hrörekr" "Hysing" "Ingólfr" "Ingjald" "Jon" 
+	"Karl" "Kettilmund" "Kjartan" "Klas" "Knut" "Markus" "Magni" "Mats" "Nils" "Niklas" 
+	"Oddr" "Ofeig" "Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Sigbjörn" "Sigurðr" 
+	"Starkaðr" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Sveinn" "Sverker" "Sölvi" "Þorbjörn" "Þorfinn" 
+	"Þordr" "Þorgil" "Þorsteinn" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" "Åke" 
+	"Örvar" }
+monarch_names = {
+	"Folki #0" = 1
+	"Ivar #0" = 1
+	"Ingemar #0" = 1
+	"Hroðgar #0" = 1
+	"Sæmundr #0" = 1
+	"Steinn #0" = 1
+	"Guðfrið #0" = 1
+	"Rikissa #0" = -1
+	"Grimr #0" = 1
+	"Þorbrandr #0" = 1
+	"Snorri #0" = 1
+	"Suni #0" = 1
+	"Gyða #0" = -1
+	"Gandalfr #0" = 1
+	"Rögnvaldr #0" = 1
+	"Anlaufr #0" = 1
+	"Gyla #0" = -1
+	"Bodil #0" = -1
+	"Valdemar #0" = 1
+	"Gurli #0" = -1
+	"Kol #0" = 1
+	"Þorolfr #0" = 1
+	"Guðrun #0" = -1
+	"Margareta #0" = -1
+	"Aleta #0" = -1
+	"Alfhildr #0" = -1
+	"Iliana #0" = -1
+	"Egill #0" = 1
+	"Kettil #0" = 1
+	"Sara #0" = -1
+	"Sörkver #0" = 1
+	"Rögnhildr #0" = -1
+	"Tolir #0" = 1
+	"Tjudmund #0" = 1
+	"Hjalmar #0" = 1
+	"Guðröðr #0" = 1
+	"Odd #0" = 1
+	"Yngvar #0" = 1
+	"Skuli #0" = 1
+	"Baldr #0" = 1
+	"Arnfast #0" = 1
+	"Sif #0" = -1
+	"Ingibjörg #0" = -1
+	"Bragi #0" = 1
+	"Arngrimr #0" = 1
+	"Öysteinn #0" = 1
+	"Kolbjörn #0" = 1
+	"Ragnvald #0" = 1
+	"Jedvard #0" = 1
+	"Maer #0" = -1
+	"Sigtrygg #0" = 1
+	"Kraka #0" = -1
+	"Emund #0" = 1
+	"Toke #0" = 1
+	"Torgils #0" = 1
+	"Ulfhildr #0" = -1
+	"Þyra #0" = -1
+	"Þordis #0" = -1
+	"Olafr #0" = 1
+	"Sofia #0" = -1
+	"Dan #0" = 1
+	"Halla #0" = -1
+	"Bagge #0" = 1
+	"Yrsa #0" = -1
+	"Uzza #0" = 1
+	"Dyre #0" = 1
+	"Ale #0" = 0
+	"Alfr #0" = 0
+	"Alfgeir #0" = 0
+	"Anders #0" = 0
+	"Anundr #0" = 0
+	"Arnbjörn #0" = 0
+	"Arni #0" = 0
+	"Asbjörn #0" = 0
+	"Barid #0" = 0
+	"Bengt #0" = 0
+	"Bersi #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Bo #0" = 0
+	"Borkvard #0" = 0
+	"Botulfr #0" = 0
+	"Buðli #0" = 0
+	"Dag #0" = 0
+	"Eilif #0" = 0
+	"Einarr #0" = 0
+	"Eirikr #0" = 0
+	"Eskild #0" = 0
+	"Falki #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Fredrik #0" = 0
+	"Frirek #0" = 0
+	"Froði #0" = 0
+	"Freyr #0" = 0
+	"Geirr #0" = 0
+	"Georg #0" = 0
+	"Gnupa #0" = 0
+	"Gorm #0" = 0
+	"Greger #0" = 0
+	"Guðmundr #0" = 0
+	"Gunnarr #0" = 0
+	"Hakon #0" = 0
+	"Halsten #0" = 0
+	"Haraldr #0" = 0
+	"Haukr #0" = 0
+	"Helgi #0" = 0
+	"Hemming #0" = 0
+	"Holmger #0" = 0
+	"Hrafn #0" = 0
+	"Hrolfr #0" = 0
+	"Hrane #0" = 0
+	"Hæsteinn #0" = 0
+	"Hroðulfr #0" = 0
+	"Hrörekr #0" = 0
+	"Hysing #0" = 0
+	"Ingólfr #0" = 0
+	"Ingjald #0" = 0
+	"Jon #0" = 0
+	"Karl #0" = 0
+	"Kettilmund #0" = 0
+	"Kjartan #0" = 0
+	"Klas #0" = 0
+	"Knut #0" = 0
+	"Markus #0" = 0
+	"Magni #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Oddr #0" = 0
+	"Ofeig #0" = 0
+	"Ormr #0" = 0
+	"Ottarr #0" = 0
+	"Refr #0" = 0
+	"Refil #0" = 0
+	"Ragnarr #0" = 0
+	"Rikulfr #0" = 0
+	"Sigbjörn #0" = 0
+	"Sigurðr #0" = 0
+	"Starkaðr #0" = 0
+	"Sturla #0" = 0
+	"Styrbjörn #0" = 0
+	"Styrkar #0" = 0
+	"Sumarliði #0" = 0
+	"Sveinn #0" = 0
+	"Sverker #0" = 0
+	"Sölvi #0" = 0
+	"Þorbjörn #0" = 0
+	"Þorfinn #0" = 0
+	"Þordr #0" = 0
+	"Þorgil #0" = 0
+	"Þorsteinn #0" = 0
+	"Toste #0" = 0
+	"Totil #0" = 0
+	"Tryggve #0" = 0
+	"Tyke #0" = 0
+	"Ulfr #0" = 0
+	"Vagn #0" = 0
+	"Åke #0" = 0
+	"Örvar #0" = 0
+}
+ship_names = {
+	"Arka Noego"
+        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
+        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
+        Fortuna
+        Gryf Gwiazda Gnieznienskie
+	Inoworclawskie
+	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
+        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
+        "Maly Bialy Orzel" Malborskie Mazowieckie
+        Niewrazliwy "Nowy Czarny Orzel"
+        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
+	"Rycerz Swiety Jerzy" Rawskie Ruskie
+        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
+        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
+        Zwyciestwo "Zólty Lew"
+}
+

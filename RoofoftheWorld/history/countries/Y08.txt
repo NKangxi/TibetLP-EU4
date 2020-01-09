@@ -1,0 +1,42 @@
+# Abkhazia
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = finnish
+religion = zikri
+clear_scripted_personalities = yes
+capital = 1856
+1405.10.7 = {
+	monarch = {
+		name = "Lempi"
+		birth_date = 1388.3.3
+		dynasty = "Geta"
+		female = yes
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1427.4.22 = {
+	heir = {
+		name = "Ilta"
+		monarch_name = "Ilta"
+		dynasty = "Geta"
+		birth_date = 1427.4.22
+		death_date = 1507.4.22
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 1856
+	add_treasury = 28
+	add_prestige = 269
+}

@@ -1,0 +1,27 @@
+# Cologne
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2975
+1439.5.19 = {
+	monarch = {
+		name = "Aslaug"
+		birth_date = 1429.12.19
+		dynasty = "av Agder"
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 2975
+	add_treasury = 53
+	add_prestige = 54
+}

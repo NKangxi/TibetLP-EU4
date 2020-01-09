@@ -1,0 +1,27 @@
+# Toulouse
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2753
+1437.6.15 = {
+	monarch = {
+		name = "Alfhildr"
+		birth_date = 1416.5.15
+		dynasty = "af Nordland"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 2753
+	add_treasury = 13
+	add_prestige = 180
+}

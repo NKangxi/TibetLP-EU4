@@ -1,0 +1,223 @@
+# Bohemia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 176 110 32 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Bohumir" "Radomila" "Casimir" "Smiechna" "Wera" "Rostislav" "Milosz" "Jarmila" "Kliment" "Barnim" 
+	"Malgorzata" "Strasz" "Drosuk" "Róza" "Stanislaw" "Václava" "Bedrich" "Jindrich" "Lucjan" "Kamila" 
+	"Boleslaw" "Kresimir" "Oldrich" "Markéta" "Vladislava" "Frantisek" "Bohdan" "Ksenia" "Zdenka" "Przemysl" 
+	"Edyta" "Björg" "Yngvar" "Gertruda" "Wladyslaw" "Luitgard" "Dobrawa" "Usciech" "Prendota" "Volkinja" 
+	"Vitošlav" "Ljubomir" "Dobrija" "Branka" "Trdogoj" "Danimir" "Liutbert" "Leopold" "Romilda" "Aleksander" 
+	"Andrzej" "Antoni" "Aron" "Bartosz" "Bezprzym" "Blazej" "Bogislaw" "Boriwoj" "Bozydar" "Branimir" 
+	"Branislav" "Bretislav" "Ctibor" "Dobieslaw" "Dobromil" "Dytryk" "Gawel" "Grzegorz" "Havel" "Jacenty" 
+	"Jakub" "Jakusz" "Janusz" "Jaromar" "Jaromil" "Jaromir" "Jaroslav" "Jedrzej" "Jirí" "Jozef" 
+	"Juliusz" "Kajetan" "Kamil" "Karel" "Kasper" "Kazimierz" "Kolman" "Kornel" "Krzeslaw" "Krzysztof" 
+	"Lech" "Leszek" "Lubomir" "Ludvik" "Marek" "Marian" "Mateusz" "Mieszko" "Mikolás" "Miloslaw" 
+	"Miroslaw" "Mscislaw" "Msciwoj" "Ondrej" "Otokar" "Patryk" "Pawel" "Piotr" "Przybyslaw" "Radomil" 
+	"Radomir" "Radoslav" "Ryszard" "Sambor" "Sobieslav" "Swietopelk" "Swietoslaw" "Szczepan" "Szczesny" "Szymon" 
+	"Tadeusz" "Tomasz" "Udalrich" "Urjasz" "Vojtech" "Waclaw" "Walenty" "Wratislaw" "Wawrzyniec" "Wenceslaw" 
+	"Wincenty" "Wizlaw" "Wlodek" "Wlodzimierz" "Wlodzislaw" "Zbigniew" "Zdenek" "Zdislav" "Zygmunt" }
+monarch_names = {
+	"Bohumir #0" = 1
+	"Radomila #1" = -22
+	"Casimir #0" = 1
+	"Smiechna #0" = -1
+	"Wera #0" = -1
+	"Rostislav #0" = 1
+	"Milosz #0" = 1
+	"Jarmila #0" = -1
+	"Kliment #0" = 1
+	"Barnim #0" = 1
+	"Malgorzata #0" = -1
+	"Strasz #0" = 1
+	"Drosuk #1" = 21
+	"Róza #0" = -1
+	"Stanislaw #0" = 1
+	"Václava #0" = -1
+	"Bedrich #0" = 1
+	"Jindrich #0" = 1
+	"Lucjan #0" = 1
+	"Kamila #0" = -1
+	"Boleslaw #0" = 1
+	"Kresimir #0" = 1
+	"Oldrich #0" = 1
+	"Markéta #0" = -1
+	"Vladislava #0" = -1
+	"Frantisek #0" = 1
+	"Bohdan #0" = 1
+	"Ksenia #0" = -1
+	"Zdenka #0" = -1
+	"Przemysl #0" = 1
+	"Edyta #0" = -1
+	"Björg #0" = -1
+	"Yngvar #0" = 1
+	"Gertruda #0" = -1
+	"Wladyslaw #0" = 1
+	"Luitgard #1" = -1
+	"Dobrawa #1" = -1
+	"Usciech #1" = 0
+	"Prendota #1" = 0
+	"Volkinja #1" = -1
+	"Vitošlav #1" = 0
+	"Ljubomir #1" = 0
+	"Dobrija #1" = -1
+	"Branka #1" = -1
+	"Trdogoj #1" = 0
+	"Danimir #1" = 0
+	"Liutbert #2" = 0
+	"Leopold #1" = 0
+	"Romilda #1" = -1
+	"Aleksander #0" = 0
+	"Andrzej #0" = 0
+	"Antoni #0" = 0
+	"Aron #0" = 0
+	"Bartosz #0" = 0
+	"Bezprzym #0" = 0
+	"Blazej #0" = 0
+	"Bogislaw #0" = 0
+	"Boriwoj #0" = 0
+	"Bozydar #0" = 0
+	"Branimir #0" = 0
+	"Branislav #0" = 0
+	"Bretislav #0" = 0
+	"Ctibor #0" = 0
+	"Dobieslaw #0" = 0
+	"Dobromil #0" = 0
+	"Dytryk #0" = 0
+	"Gawel #0" = 0
+	"Grzegorz #0" = 0
+	"Havel #0" = 0
+	"Jacenty #0" = 0
+	"Jakub #0" = 0
+	"Jakusz #0" = 0
+	"Janusz #0" = 0
+	"Jaromar #0" = 0
+	"Jaromil #0" = 0
+	"Jaromir #0" = 0
+	"Jaroslav #0" = 0
+	"Jedrzej #0" = 0
+	"Jirí #0" = 0
+	"Jozef #0" = 0
+	"Juliusz #0" = 0
+	"Kajetan #0" = 0
+	"Kamil #0" = 0
+	"Karel #0" = 0
+	"Kasper #0" = 0
+	"Kazimierz #0" = 0
+	"Kolman #0" = 0
+	"Kornel #0" = 0
+	"Krzeslaw #0" = 0
+	"Krzysztof #0" = 0
+	"Lech #0" = 0
+	"Leszek #0" = 0
+	"Lubomir #0" = 0
+	"Ludvik #0" = 0
+	"Marek #0" = 0
+	"Marian #0" = 0
+	"Mateusz #0" = 0
+	"Mieszko #0" = 0
+	"Mikolás #0" = 0
+	"Miloslaw #0" = 0
+	"Miroslaw #0" = 0
+	"Mscislaw #0" = 0
+	"Msciwoj #0" = 0
+	"Ondrej #0" = 0
+	"Otokar #0" = 0
+	"Patryk #0" = 0
+	"Pawel #0" = 0
+	"Piotr #0" = 0
+	"Przybyslaw #0" = 0
+	"Radomil #0" = 0
+	"Radomir #0" = 0
+	"Radoslav #0" = 0
+	"Ryszard #0" = 0
+	"Sambor #0" = 0
+	"Sobieslav #0" = 0
+	"Swietopelk #0" = 0
+	"Swietoslaw #0" = 0
+	"Szczepan #0" = 0
+	"Szczesny #0" = 0
+	"Szymon #0" = 0
+	"Tadeusz #0" = 0
+	"Tomasz #0" = 0
+	"Udalrich #0" = 0
+	"Urjasz #0" = 0
+	"Vojtech #0" = 0
+	"Waclaw #0" = 0
+	"Walenty #0" = 0
+	"Wratislaw #0" = 0
+	"Wawrzyniec #0" = 0
+	"Wenceslaw #0" = 0
+	"Wincenty #0" = 0
+	"Wizlaw #0" = 0
+	"Wlodek #0" = 0
+	"Wlodzimierz #0" = 0
+	"Wlodzislaw #0" = 0
+	"Zbigniew #0" = 0
+	"Zdenek #0" = 0
+	"Zdislav #0" = 0
+	"Zygmunt #0" = 0
+}
+ship_names = {
+	"Svatý Vaclav"
+	"Svatá Ludmila"
+	"Svatý Jan Nepomucký"
+	"Svatý Mikulás"
+	"Svatý Jirí"
+	"Svatá Anezká"
+	"Nejsvetejsí Trojice"
+	"Král Karel"
+	"Král Boleslav"
+	"Král Premysl"
+	"Panna Maria Vitezná"
+	"Jan Hus"
+	"Jan Zizka"
+	"Prokop Holý"
+	"Kníze Bretislav"
+	"Premysl Orac"
+	Ctirad
+	Cechy
+	Morava
+	Libuse
+	Odvázný
+	Neporazitelný
+	Rychlý
+	Bystrý
+	Orel
+	Sokol
+	Slezsko
+	Sipka
+	Hvezda
+}
+

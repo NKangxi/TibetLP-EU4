@@ -1,0 +1,26 @@
+# Merseburg
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 62
+1443.5.25 = {
+	monarch = {
+		name = "Valdemar"
+		birth_date = 1418.5.14
+		dynasty = "af Cavaillon"
+		adm = 6
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 62
+	add_treasury = 32
+	add_prestige = 43
+}

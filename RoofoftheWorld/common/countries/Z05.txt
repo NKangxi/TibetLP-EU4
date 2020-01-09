@@ -1,0 +1,211 @@
+# Upper Brittany
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 140 20 5 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	exploration_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Olafr" "Sigurðr" "Froði" "Sif" "Kettilmund" "Björg" "Holmfrid" "Totil" "Sveinn" "Gnupa" 
+	"Malmfrið" "Saga" "Toste" "Þorbrandr" "Arni" "Ingjald" "Alfgeir" "Þyra" "Hæsteinn" "Sarrazine" 
+	"Arnoul" "Plaisance" "Adelaide" "Mafalda" "Mascarose" "Filipa" "Charles" "Amédée" "Centule" "Berthe" 
+	"Ekkehard" "Grima" "Alaïs" "Ulfo" "Rikissa" "Gyrið" "Margareta" "Rögnhildr" "Freyja" "Muriella" 
+	"Rögnfrið" "Abelard" "Adam" "Adelard" "Ademar" "Alfons" "Amaury" "Anfroi" "Anquetil" "Anselm" 
+	"Armand" "Arnald" "Asclettin" "Aubrey" "Baldwin" "Bernard" "Berold" "Bertran" "Beuves" "Blayve" 
+	"Bohemond" "Botolf" "Clemence" "Drogo" "Errand" "Eustache" "Faramond" "Ferant" "Filbert" "Fulk" 
+	"Fraunk" "Frery" "Gaillard" "Gaufrid" "Geoffroy" "Gerald" "Gerard" "Gérard" "Geraud" "Gerbert" 
+	"Gervas" "Giffard" "Gilbert" "Godfrey" "Goubert" "Guntard" "Guy" "Haimo" "Hamelin" "Henry" 
+	"Herbert" "Herman" "Hubert" "Hugh" "Humbert" "Humphrey" "Ildebrando" "Joscelin" "Lambert" "Lancelin" 
+	"Mauger" "Nigel" "Norman" "Odo" "Orderic" "Osbern" "Osmond" "Oswulf" "Oswyn" "Radolf" 
+	"Radulf" "Randolf" "Ranulf" "Raymond" "Rayner" "Richard" "Robert" "Roger" "Rolland" "Roscelin" 
+	"Sayer" "Serlo" "Serril" "Sewal" "Silvester" "Stefen" "Tancred" "Torf" "Turold" "Turquetil" 
+	"Turstin" "Tybalt" "Walter" "William" "Wymund" }
+monarch_names = {
+	"Olafr #0" = 1
+	"Sigurðr #0" = 1
+	"Froði #0" = 1
+	"Sif #0" = -1
+	"Kettilmund #0" = 1
+	"Björg #1" = -22
+	"Holmfrid #1" = -28
+	"Totil #0" = 1
+	"Sveinn #0" = 1
+	"Gnupa #0" = 1
+	"Malmfrið #4" = -28
+	"Saga #0" = -1
+	"Toste #0" = 1
+	"Þorbrandr #0" = 1
+	"Arni #0" = 1
+	"Ingjald #0" = 1
+	"Alfgeir #0" = 1
+	"Þyra #2" = -19
+	"Hæsteinn #1" = 0
+	"Sarrazine #1" = -1
+	"Arnoul #1" = 0
+	"Plaisance #1" = -1
+	"Adelaide #2" = -1
+	"Mafalda #1" = -1
+	"Mascarose #1" = -1
+	"Filipa #1" = -1
+	"Charles #2" = 0
+	"Amédée #1" = 0
+	"Centule #1" = 0
+	"Berthe #1" = -1
+	"Ekkehard #1" = 0
+	"Grima #1" = -1
+	"Alaïs #1" = -1
+	"Ulfo #1" = 0
+	"Rikissa #2" = -1
+	"Gyrið #1" = -1
+	"Margareta #1" = -1
+	"Rögnhildr #1" = -1
+	"Freyja #1" = -1
+	"Muriella #1" = -1
+	"Rögnfrið #1" = -1
+	"Abelard #0" = 0
+	"Adam #0" = 0
+	"Adelard #0" = 0
+	"Ademar #0" = 0
+	"Alfons #0" = 0
+	"Amaury #0" = 0
+	"Anfroi #0" = 0
+	"Anquetil #0" = 0
+	"Anselm #0" = 0
+	"Armand #0" = 0
+	"Arnald #0" = 0
+	"Asclettin #0" = 0
+	"Aubrey #0" = 0
+	"Baldwin #0" = 0
+	"Bernard #0" = 0
+	"Berold #0" = 0
+	"Bertran #0" = 0
+	"Beuves #0" = 0
+	"Blayve #0" = 0
+	"Bohemond #0" = 0
+	"Botolf #0" = 0
+	"Clemence #0" = 0
+	"Drogo #0" = 0
+	"Errand #0" = 0
+	"Eustache #0" = 0
+	"Faramond #0" = 0
+	"Ferant #0" = 0
+	"Filbert #0" = 0
+	"Fulk #0" = 0
+	"Fraunk #0" = 0
+	"Frery #0" = 0
+	"Gaillard #0" = 0
+	"Gaufrid #0" = 0
+	"Geoffroy #0" = 0
+	"Gerald #0" = 0
+	"Gerard #0" = 0
+	"Gérard #0" = 0
+	"Geraud #0" = 0
+	"Gerbert #0" = 0
+	"Gervas #0" = 0
+	"Giffard #0" = 0
+	"Gilbert #0" = 0
+	"Godfrey #0" = 0
+	"Goubert #0" = 0
+	"Guntard #0" = 0
+	"Guy #0" = 0
+	"Haimo #0" = 0
+	"Hamelin #0" = 0
+	"Henry #0" = 0
+	"Herbert #0" = 0
+	"Herman #0" = 0
+	"Hubert #0" = 0
+	"Hugh #0" = 0
+	"Humbert #0" = 0
+	"Humphrey #0" = 0
+	"Ildebrando #0" = 0
+	"Joscelin #0" = 0
+	"Lambert #0" = 0
+	"Lancelin #0" = 0
+	"Mauger #0" = 0
+	"Nigel #0" = 0
+	"Norman #0" = 0
+	"Odo #0" = 0
+	"Orderic #0" = 0
+	"Osbern #0" = 0
+	"Osmond #0" = 0
+	"Oswulf #0" = 0
+	"Oswyn #0" = 0
+	"Radolf #0" = 0
+	"Radulf #0" = 0
+	"Randolf #0" = 0
+	"Ranulf #0" = 0
+	"Raymond #0" = 0
+	"Rayner #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Roger #0" = 0
+	"Rolland #0" = 0
+	"Roscelin #0" = 0
+	"Sayer #0" = 0
+	"Serlo #0" = 0
+	"Serril #0" = 0
+	"Sewal #0" = 0
+	"Silvester #0" = 0
+	"Stefen #0" = 0
+	"Tancred #0" = 0
+	"Torf #0" = 0
+	"Turold #0" = 0
+	"Turquetil #0" = 0
+	"Turstin #0" = 0
+	"Tybalt #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+	"Wymund #0" = 0
+}
+ship_names = {
+	Achille Actif Active Admirable Aglaé
+	Aimable Alcide Algésiras Alose Amazone
+	Ambition Amphion Anémone Annibal Apollon
+	Argonaute Artésien Audacieux Auguste Avenant
+	Badine Barbue Beaumont Bécasse Belliqueux
+	Bergère Berryer "Bien Aimé" Bienfaisant Bon
+	Bretagne Bretonne Brillant Brutus Caché
+	Célèbre Centaure Chameau Comte Courageux
+	Défenseur Diadème Diamant Dictateur Diligent
+	Dragon Duc Elephant Elisabeth Emerillon
+	Entreprenant Eole Fleuron Formidable Fortuné
+	Foudroyant Fougueux Fourgon Furieux Glorieux
+	"Grande Hermine" Impétueux Indien Indomptable Jupiter
+	Léopard Loire Massiac Neptune Nestor
+	Orion Pégase "Petite Hermine" Portefaix Profond
+	Protée Rolland "Saint Guillaume" Sarcelle Sévère
+	Six-Corps Solide Solitaire Souverain Sphère
+	Sphinx Superbe Tardif Téméraire Terrible
+	Thésée Tonnant Triomphant Triton Union
+	Vaillant Vengeur Victoire Vigilant Volante
+}
+

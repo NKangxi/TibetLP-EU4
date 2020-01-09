@@ -1,0 +1,26 @@
+# Iraq
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 420
+1440.10.15 = {
+	monarch = {
+		name = "Tsen"
+		birth_date = 1381.2.6
+		dynasty = " Azerbaijan"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 420
+	add_treasury = 115
+	add_prestige = 37
+}

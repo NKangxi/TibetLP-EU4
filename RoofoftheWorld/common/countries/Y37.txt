@@ -1,0 +1,166 @@
+# Socotra
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 142 255 85 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Bekele" "Abebe" "Benaim" "Mekonnen" "Daniachew" "Louama" "Hagos" "Falasha" "Gebereal" "Kayla" 
+	"Haeran" "Misrak" "Alitash" "Tsage" "Kelile" "Jahzara" "Zena" "Lishan" "Tamirat" "Ogbae" 
+	"Wagaye" "Belkis" "Gabra" "Tengene" "Hackeem" "Mandera" "Negus" "Afework" "China" "Abeba" 
+	"Tewodros" "Miruts" "Qwara" "Sisay" "Berta" "Negash" "Fana" "Zeina" "Philemon" "Athanasios" 
+	"Epiphanios" "Denha" "Ibrahim" "Sholah" "Mubarak" "Sajida" "Yasmin" "Khalil" "Abdul-Jaleel" "Shaiban" 
+	"Ghalib" "Idris" "Nyawela" "Najib" "Shamir" "Jibril" "Qawurd" "Zeyd" "Dinah" "Hafiz" 
+	"Abdul-Gafur" "Jabir" "Nasr" "Aarif" "Abdul-Qadir" "Abdul-Wahab" "Aghlab" "Akin" "Alim" "Aram" 
+	"Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" "Halil" "Husam" "Is'mail" "Isa" 
+	"Jalil" "Khaireddin" "Mahdi" "Mansur" "Mirza" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" 
+	"Nizam" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shujah" "Sulayman" "Talib" "Ubayd" 
+	"Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" }
+monarch_names = {
+	"Bekele #1" = 24
+	"Abebe #0" = 1
+	"Benaim #0" = 1
+	"Mekonnen #0" = 1
+	"Daniachew #0" = 1
+	"Louama #0" = -1
+	"Hagos #0" = 1
+	"Falasha #0" = -1
+	"Gebereal #0" = 1
+	"Kayla #0" = -1
+	"Haeran #0" = 1
+	"Misrak #0" = -1
+	"Alitash #0" = -1
+	"Tsage #0" = -1
+	"Kelile #0" = -1
+	"Jahzara #0" = -1
+	"Zena #0" = -1
+	"Lishan #0" = -1
+	"Tamirat #1" = 18
+	"Ogbae #0" = 1
+	"Wagaye #0" = -1
+	"Belkis #0" = -1
+	"Gabra #0" = 1
+	"Tengene #0" = 1
+	"Hackeem #0" = 1
+	"Mandera #0" = -1
+	"Negus #0" = 1
+	"Afework #0" = 1
+	"China #0" = -1
+	"Abeba #0" = -1
+	"Tewodros #0" = 1
+	"Miruts #0" = 1
+	"Qwara #0" = -1
+	"Sisay #0" = 1
+	"Berta #0" = 1
+	"Negash #0" = 1
+	"Fana #0" = -1
+	"Zeina #0" = -1
+	"Philemon #1" = 0
+	"Athanasios #1" = 0
+	"Epiphanios #1" = 0
+	"Denha #1" = 0
+	"Ibrahim #1" = 0
+	"Sholah #2" = -1
+	"Mubarak #3" = 0
+	"Sajida #2" = -1
+	"Yasmin #1" = -1
+	"Khalil #1" = 0
+	"Abdul-Jaleel #1" = 0
+	"Shaiban #1" = 0
+	"Ghalib #1" = 0
+	"Idris #1" = 0
+	"Nyawela #1" = -1
+	"Najib #2" = 0
+	"Shamir #1" = 0
+	"Jibril #1" = 0
+	"Qawurd #1" = 0
+	"Zeyd #2" = 0
+	"Dinah #1" = -1
+	"Hafiz #1" = 0
+	"Abdul-Gafur #1" = 0
+	"Jabir #1" = 0
+	"Nasr #1" = 0
+	"Aarif #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Abdul-Wahab #0" = 0
+	"Aghlab #0" = 0
+	"Akin #0" = 0
+	"Alim #0" = 0
+	"Aram #0" = 0
+	"Azam #0" = 0
+	"Bahir #0" = 0
+	"Burhanaddin #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Faruk #0" = 0
+	"Halil #0" = 0
+	"Husam #0" = 0
+	"Is'mail #0" = 0
+	"Isa #0" = 0
+	"Jalil #0" = 0
+	"Khaireddin #0" = 0
+	"Mahdi #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Nizam #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sadiq #0" = 0
+	"Sami #0" = 0
+	"Samir #0" = 0
+	"Shujah #0" = 0
+	"Sulayman #0" = 0
+	"Talib #0" = 0
+	"Ubayd #0" = 0
+	"Uways #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

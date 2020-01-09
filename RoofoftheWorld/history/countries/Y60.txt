@@ -1,0 +1,26 @@
+# Gorkha
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2070
+1444.2.9 = {
+	monarch = {
+		name = "Getong"
+		birth_date = 1385.1.9
+		dynasty = "Yarlung"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 2070
+	add_treasury = 86
+	add_prestige = 370
+}

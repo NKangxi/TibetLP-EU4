@@ -1,0 +1,485 @@
+# Birjand
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 138 171 82 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Anangpal" "Parviz" "Rostam" "Ayten" "Ghamze" "Selbar" "Thrimalö" "Tsogyal" "Ghobad" "Trisu" 
+	"Yeshe" "Gundes" "Usunbike" "Fatma" "Banu" "Farnaz" "Golbahar" "Farva" "Aydin" "Ilkay" 
+	"Sadri" "Gongru" "Ehsan" "Pongza" "Mungchang" "Baturay" "Behrad" "Dronmalön" "Balaban" "Machig" 
+	"Vasudev" "Gangeya" "Prithvimal" "Jagdev" "Narpal" "Udaysangh" "Karnpal" "Vachhal" "Jaidas" "Madanapala" 
+	"Bacchdev" "Mahipala" "Kumaradevi" "Baladitya" "Kanwar" "Madhavi" "Desaladevi" "Suhava" "Nagdeo" "Rudrani" 
+	"Candrabhattarikadevi" "Vatsaraja" "Sanyukta" "Lakhshaman-Singh" "Asaraja" "Vihangpal" "Samyukta" "Chachinidevi" "Krishnray" "Mandandeva" 
+	"Rahila" "Annaladevi" "Puppadevi" "Surajpal" "Kakhopal" "Hamir" "Vajradeva" "Mahalakshmi" "Brahmdevpal" "Suratrana" 
+	"Rijhpala" "Akal" "Prabhavatigupta" "Dhruvasvamini" "Manaladevi" "Dehanagadevi" "Mahendrapala" "Kshemraja" "Bauladevi" "Bijairai" 
+	"Mahayak" "Maharani" "Kunthapala" "Indrapala" "Mahipata" "Ramabhadra" "Karandeva" "Chamundaraja" "Rupadevi" "Popatraj" 
+	"Tejpal" "Dugarendra" "Mahidevi" "Kalyanachandra" "Birpal" "Sisupala" "Nattadevi" "Sohanpal" "Somalladevi" "Kakanvati" 
+	"Bhoo-Chand" "Bhoj" "Mayanalladevi" "Pratha" "Bhuyikadevi" "Tolpal" "Ganapatideva" "Bhumpal" "Anantadevi" "Namalladevi" 
+	"Prabhavati" "Sidhawa" "Paramardideva" "Ratnapala" "Premala" "Damayanti" "Mahtab" "Vakapati" "Hemavati" "Vairisimha" 
+	"Dharasena" "Hammiravarman" "Khashayar" "Sonpal" "Sundaridevi" "Vinaykpala" "Rajamati" "Dattadevi" "Laxmidevi" "Prannath" 
+	"Somasi" "Narwahan" "Udayamati" "Faraz" "Behrouz" "Uddharandeva" "Kanchuka" "Singhraja" "Jamshid" "Esfandiar" 
+	"Sisupal" "Mathan-Singh" "Tihunaka" "Humayun" "Ladahachandra" "Jatakhadga" "Mahendrani" "Jayat-Singh" "Elham" "Margdeva" 
+	"Govindachandra" "Shahrzad" "Ahu" "Berezira" "Golshan" "Salomeh" "Javaneh" "Yograj" "Padmini" "Rani" 
+	"Pourandokht" "Mumal" "Ambra-Prasad" "Manushihr" "Donya" "Jayasimha" "Vinayakapala" "Vigrharaja" "Rasaladevi" "Vahide" 
+	"Sahajapala" "Delaram" "Bozan" "Chandanaraja" "Jagdeva" "Kalayandevi" "Kaya" "Kaikaus" "Bhoja" "Rajyapala" 
+	"Datu" "Dhruvasena" "Anangpala" "Sevindik" "Sevilay" "Itlar" "Koboza" "Selim" "Tripta" "Bahar" 
+	"Saru" "Yekta" "Govindraj" "Saruca" "Çilen" "Tejapala" "Gopendraka" "Draupad" "Huriye" "Ramsha" 
+	"Ahila" "Nilufer" "Burandokht" "Yon" "Mozaffar" "Uzur" "Golnaz" "Ridvan" "Trongzhi" "Mala" 
+	"Gyal" "Pema" "Mahdokht" "Dhruvadevi" "Padmaladevi" "Touran" "Devitara" "Nazilla" "Gholam" "Kyeden" 
+	"Jamileh" "Dunya" "Farrin" "Baghpala" "Zohreh" "Irge" "Birpala" "Kambiz" "Zahak" "Yazdegerd" 
+	"Kamran" "Gunduz" "Shahbaz" "Babak" "Bayezid" "Khosrau" "Nagihan" "Fereedun" "Yasaman" "Jekundag" 
+	"Ferdows" "Pertevniyal" "Shrimitradevi" "Kavadh" "Chakna" "Ilknur" "Behnaz" "Bakhtiar" "Ardahan" "Dinah" 
+	"Tse" "Tökarma" "Farzad" "Darab" "Trikar" "Yasar" "Pelmo" "Roxana" "Nur" "Navvaba" 
+	"Lha" "Driza" "Pelgyimo" "Golpari" "Ghazal" "Songul" "Cogrobza" "Mashad" "Ayla" "Kutlug" 
+	"Trimonyen" "Tricham" "Trisumje" "Öpoche" "Elnaz" "Azadeh" "Soraya" "Azarmidokht" "Tsen" "Akgul" 
+	"Ghoncheh" "Thridang" "Lhamgonza" "Pungtsen" "Delbar" "Zarrindokht" "Roshanora" "Umay" "Bum" "Çagri" 
+	"Çaka" "Afsin" "Ahmet" "Aksonqor" "Alaeddin" "Alkan" "Alp Arslan" "Alp Yurek" "Alptigin" "Artuk" 
+	"Ayaz" "Aydogan" "Aydogdu" "Aytekin" "Böru" "Bulend" "Bahadir" "Basbuga" "Batuhan" "Baybars" 
+	"Baytas" "Belek" "Berkan" "Berkiyaruk" "Bugra" "Burak" "Cuneyd" "Dundar" "Danismend" "Davud" 
+	"Demir" "Dogan" "Dogukan" "Dukak" "Erdem" "Ertan" "Ertekin" "Ertugrul" "Hizir" "Ibrahim" 
+	"Ilgazi" "Inal" "Iskender" "Kurboga" "Kaikhusraw" "Kaiqobad" "Kara" "Karatay" "Kasim" "Kaytun" 
+	"Kemal" "Kiliç" "Korkut" "Kutalmis" "Kutay" "Mursel" "Mehmed" "Meliksah" "Mengucek" "Mesud" 
+	"Murad" "Mustafa" "Orhan" "Osman" "Porsuk" "Rustem" "Ramazan" "Söbuk" "Sökmen" "Sönmez" 
+	"Suleyman" "Saim" "Saltuk" "Savtekin" "Savur" "Sehinsah" "Selçuk" "Sencer" "Sinan" "Tanrivermis" 
+	"Tekin" "Timurtas" "Togay" "Togtekin" "Toktamis" "Tolun" "Toruntay" "Tugrul" "Tunga" "Turgut" 
+	"Turhan" "Tutus" "Uluç" "Umur" "Yakut" "Yaman" "Yinal" "Yunus" }
+monarch_names = {
+	"Anangpal #0" = 1
+	"Parviz #0" = 1
+	"Rostam #0" = 1
+	"Ayten #0" = -1
+	"Ghamze #0" = -1
+	"Selbar #0" = 1
+	"Thrimalö #0" = -1
+	"Tsogyal #0" = -1
+	"Ghobad #0" = 1
+	"Trisu #0" = 1
+	"Yeshe #0" = -1
+	"Gundes #0" = -1
+	"Usunbike #0" = -1
+	"Fatma #0" = -1
+	"Banu #0" = -1
+	"Farnaz #0" = -1
+	"Golbahar #0" = -1
+	"Farva #0" = -1
+	"Aydin #0" = 1
+	"Ilkay #0" = -1
+	"Sadri #0" = 1
+	"Gongru #0" = 1
+	"Ehsan #0" = 1
+	"Pongza #0" = -1
+	"Mungchang #0" = -1
+	"Baturay #0" = 1
+	"Behrad #0" = 1
+	"Dronmalön #0" = -1
+	"Balaban #0" = 1
+	"Machig #0" = -1
+	"Vasudev #0" = 1
+	"Gangeya #0" = 1
+	"Prithvimal #0" = 1
+	"Jagdev #0" = 1
+	"Narpal #0" = 1
+	"Udaysangh #0" = 1
+	"Karnpal #0" = 1
+	"Vachhal #0" = 1
+	"Jaidas #0" = 1
+	"Madanapala #0" = 1
+	"Bacchdev #0" = 1
+	"Mahipala #0" = 1
+	"Kumaradevi #0" = -1
+	"Baladitya #0" = 1
+	"Kanwar #0" = -1
+	"Madhavi #0" = -1
+	"Desaladevi #0" = -1
+	"Suhava #0" = -1
+	"Nagdeo #0" = 1
+	"Rudrani #0" = -1
+	"Candrabhattarikadevi #0" = -1
+	"Vatsaraja #0" = 1
+	"Sanyukta #0" = -1
+	"Lakhshaman-Singh #0" = 1
+	"Asaraja #0" = 1
+	"Vihangpal #0" = 1
+	"Samyukta #0" = -1
+	"Chachinidevi #0" = -1
+	"Krishnray #0" = 1
+	"Mandandeva #0" = 1
+	"Rahila #0" = 1
+	"Annaladevi #0" = -1
+	"Puppadevi #0" = -1
+	"Surajpal #0" = 1
+	"Kakhopal #0" = 1
+	"Hamir #0" = 1
+	"Vajradeva #0" = 1
+	"Mahalakshmi #0" = -1
+	"Brahmdevpal #0" = 1
+	"Suratrana #0" = 1
+	"Rijhpala #0" = 1
+	"Akal #0" = -1
+	"Prabhavatigupta #0" = -1
+	"Dhruvasvamini #0" = -1
+	"Manaladevi #0" = -1
+	"Dehanagadevi #0" = -1
+	"Mahendrapala #0" = 1
+	"Kshemraja #0" = 1
+	"Bauladevi #0" = -1
+	"Bijairai #0" = 1
+	"Mahayak #0" = 1
+	"Maharani #0" = -1
+	"Kunthapala #0" = 1
+	"Indrapala #0" = 1
+	"Mahipata #0" = 1
+	"Ramabhadra #0" = 1
+	"Karandeva #0" = 1
+	"Chamundaraja #0" = 1
+	"Rupadevi #0" = -1
+	"Popatraj #0" = 1
+	"Tejpal #0" = 1
+	"Dugarendra #0" = 1
+	"Mahidevi #0" = -1
+	"Kalyanachandra #0" = 1
+	"Birpal #0" = 1
+	"Sisupala #0" = 1
+	"Nattadevi #0" = -1
+	"Sohanpal #0" = 1
+	"Somalladevi #0" = -1
+	"Kakanvati #0" = -1
+	"Bhoo-Chand #0" = 1
+	"Bhoj #0" = 1
+	"Mayanalladevi #0" = -1
+	"Pratha #0" = -1
+	"Bhuyikadevi #0" = -1
+	"Tolpal #0" = 1
+	"Ganapatideva #0" = 1
+	"Bhumpal #0" = 1
+	"Anantadevi #0" = -1
+	"Namalladevi #0" = -1
+	"Prabhavati #0" = -1
+	"Sidhawa #0" = -1
+	"Paramardideva #0" = 1
+	"Ratnapala #0" = 1
+	"Premala #0" = -1
+	"Damayanti #0" = -1
+	"Mahtab #0" = -1
+	"Vakapati #0" = 1
+	"Hemavati #0" = -1
+	"Vairisimha #0" = 1
+	"Dharasena #0" = 1
+	"Hammiravarman #0" = 1
+	"Khashayar #0" = 1
+	"Sonpal #0" = 1
+	"Sundaridevi #0" = -1
+	"Vinaykpala #0" = 1
+	"Rajamati #0" = -1
+	"Dattadevi #0" = -1
+	"Laxmidevi #0" = -1
+	"Prannath #0" = 1
+	"Somasi #0" = 1
+	"Narwahan #0" = 1
+	"Udayamati #0" = -1
+	"Faraz #0" = 1
+	"Behrouz #0" = 1
+	"Uddharandeva #0" = 1
+	"Kanchuka #0" = -1
+	"Singhraja #0" = 1
+	"Jamshid #0" = 1
+	"Esfandiar #0" = 1
+	"Sisupal #0" = 1
+	"Mathan-Singh #0" = 1
+	"Tihunaka #0" = -1
+	"Humayun #0" = 1
+	"Ladahachandra #0" = 1
+	"Jatakhadga #0" = 1
+	"Mahendrani #0" = -1
+	"Jayat-Singh #0" = 1
+	"Elham #0" = -1
+	"Margdeva #0" = 1
+	"Govindachandra #0" = 1
+	"Shahrzad #0" = -1
+	"Ahu #0" = -1
+	"Berezira #0" = -1
+	"Golshan #0" = -1
+	"Salomeh #0" = -1
+	"Javaneh #0" = -1
+	"Yograj #0" = 1
+	"Padmini #0" = -1
+	"Rani #0" = -1
+	"Pourandokht #0" = -1
+	"Mumal #0" = -1
+	"Ambra-Prasad #0" = 1
+	"Manushihr #0" = 1
+	"Donya #0" = -1
+	"Jayasimha #0" = 1
+	"Vinayakapala #0" = 1
+	"Vigrharaja #0" = 1
+	"Rasaladevi #0" = -1
+	"Vahide #0" = -1
+	"Sahajapala #0" = 1
+	"Delaram #0" = -1
+	"Bozan #0" = 1
+	"Chandanaraja #0" = 1
+	"Jagdeva #0" = 1
+	"Kalayandevi #0" = -1
+	"Kaya #0" = 1
+	"Kaikaus #0" = 1
+	"Bhoja #0" = 1
+	"Rajyapala #0" = 1
+	"Datu #0" = 1
+	"Dhruvasena #0" = 1
+	"Anangpala #0" = 1
+	"Sevindik #0" = -1
+	"Sevilay #0" = -1
+	"Itlar #0" = 1
+	"Koboza #0" = -1
+	"Selim #0" = 1
+	"Tripta #0" = -1
+	"Bahar #0" = -1
+	"Saru #0" = 1
+	"Yekta #0" = -1
+	"Govindraj #0" = 1
+	"Saruca #0" = 1
+	"Çilen #0" = -1
+	"Tejapala #0" = 1
+	"Gopendraka #0" = 1
+	"Draupad #0" = 1
+	"Huriye #0" = -1
+	"Ramsha #0" = 1
+	"Ahila #0" = 1
+	"Nilufer #0" = -1
+	"Burandokht #0" = -1
+	"Yon #0" = -1
+	"Mozaffar #0" = 1
+	"Uzur #0" = 1
+	"Golnaz #0" = -1
+	"Ridvan #0" = 1
+	"Trongzhi #0" = 1
+	"Mala #0" = -1
+	"Gyal #0" = 1
+	"Pema #0" = -1
+	"Mahdokht #0" = -1
+	"Dhruvadevi #0" = -1
+	"Padmaladevi #0" = -1
+	"Touran #0" = -1
+	"Devitara #0" = -1
+	"Nazilla #0" = -1
+	"Gholam #0" = 1
+	"Kyeden #0" = -1
+	"Jamileh #0" = -1
+	"Dunya #0" = -1
+	"Farrin #0" = -1
+	"Baghpala #0" = 1
+	"Zohreh #0" = -1
+	"Irge #0" = -1
+	"Birpala #0" = 1
+	"Kambiz #0" = 1
+	"Zahak #0" = 1
+	"Yazdegerd #0" = 1
+	"Kamran #0" = 1
+	"Gunduz #0" = 1
+	"Shahbaz #0" = 1
+	"Babak #0" = 1
+	"Bayezid #0" = 1
+	"Khosrau #0" = 1
+	"Nagihan #0" = -1
+	"Fereedun #0" = 1
+	"Yasaman #0" = -1
+	"Jekundag #0" = 1
+	"Ferdows #0" = 1
+	"Pertevniyal #0" = -1
+	"Shrimitradevi #0" = -1
+	"Kavadh #0" = 1
+	"Chakna #0" = 1
+	"Ilknur #0" = -1
+	"Behnaz #0" = -1
+	"Bakhtiar #0" = 1
+	"Ardahan #0" = 1
+	"Dinah #0" = -1
+	"Tse #0" = -1
+	"Tökarma #0" = -1
+	"Farzad #0" = 1
+	"Darab #0" = 1
+	"Trikar #0" = -1
+	"Yasar #0" = -1
+	"Pelmo #0" = -1
+	"Roxana #0" = -1
+	"Nur #0" = -1
+	"Navvaba #0" = -1
+	"Lha #0" = -1
+	"Driza #0" = -1
+	"Pelgyimo #0" = -1
+	"Golpari #0" = -1
+	"Ghazal #0" = -1
+	"Songul #0" = -1
+	"Cogrobza #0" = -1
+	"Mashad #0" = 1
+	"Ayla #0" = -1
+	"Kutlug #0" = 1
+	"Trimonyen #0" = -1
+	"Tricham #0" = -1
+	"Trisumje #0" = 1
+	"Öpoche #0" = 1
+	"Elnaz #0" = -1
+	"Azadeh #0" = -1
+	"Soraya #0" = -1
+	"Azarmidokht #0" = -1
+	"Tsen #0" = 1
+	"Akgul #0" = -1
+	"Ghoncheh #0" = -1
+	"Thridang #0" = -1
+	"Lhamgonza #0" = -1
+	"Pungtsen #0" = 1
+	"Delbar #0" = -1
+	"Zarrindokht #0" = -1
+	"Roshanora #0" = -1
+	"Umay #0" = -1
+	"Bum #0" = -1
+	"Çagri #0" = 0
+	"Çaka #0" = 0
+	"Afsin #0" = 0
+	"Ahmet #0" = 0
+	"Aksonqor #0" = 0
+	"Alaeddin #0" = 0
+	"Alkan #0" = 0
+	"Alp Arslan #0" = 0
+	"Alp Yurek #0" = 0
+	"Alptigin #0" = 0
+	"Artuk #0" = 0
+	"Ayaz #0" = 0
+	"Aydogan #0" = 0
+	"Aydogdu #0" = 0
+	"Aytekin #0" = 0
+	"Böru #0" = 0
+	"Bulend #0" = 0
+	"Bahadir #0" = 0
+	"Basbuga #0" = 0
+	"Batuhan #0" = 0
+	"Baybars #0" = 0
+	"Baytas #0" = 0
+	"Belek #0" = 0
+	"Berkan #0" = 0
+	"Berkiyaruk #0" = 0
+	"Bugra #0" = 0
+	"Burak #0" = 0
+	"Cuneyd #0" = 0
+	"Dundar #0" = 0
+	"Danismend #0" = 0
+	"Davud #0" = 0
+	"Demir #0" = 0
+	"Dogan #0" = 0
+	"Dogukan #0" = 0
+	"Dukak #0" = 0
+	"Erdem #0" = 0
+	"Ertan #0" = 0
+	"Ertekin #0" = 0
+	"Ertugrul #0" = 0
+	"Hizir #0" = 0
+	"Ibrahim #0" = 0
+	"Ilgazi #0" = 0
+	"Inal #0" = 0
+	"Iskender #0" = 0
+	"Kurboga #0" = 0
+	"Kaikhusraw #0" = 0
+	"Kaiqobad #0" = 0
+	"Kara #0" = 0
+	"Karatay #0" = 0
+	"Kasim #0" = 0
+	"Kaytun #0" = 0
+	"Kemal #0" = 0
+	"Kiliç #0" = 0
+	"Korkut #0" = 0
+	"Kutalmis #0" = 0
+	"Kutay #0" = 0
+	"Mursel #0" = 0
+	"Mehmed #0" = 0
+	"Meliksah #0" = 0
+	"Mengucek #0" = 0
+	"Mesud #0" = 0
+	"Murad #0" = 0
+	"Mustafa #0" = 0
+	"Orhan #0" = 0
+	"Osman #0" = 0
+	"Porsuk #0" = 0
+	"Rustem #0" = 0
+	"Ramazan #0" = 0
+	"Söbuk #0" = 0
+	"Sökmen #0" = 0
+	"Sönmez #0" = 0
+	"Suleyman #0" = 0
+	"Saim #0" = 0
+	"Saltuk #0" = 0
+	"Savtekin #0" = 0
+	"Savur #0" = 0
+	"Sehinsah #0" = 0
+	"Selçuk #0" = 0
+	"Sencer #0" = 0
+	"Sinan #0" = 0
+	"Tanrivermis #0" = 0
+	"Tekin #0" = 0
+	"Timurtas #0" = 0
+	"Togay #0" = 0
+	"Togtekin #0" = 0
+	"Toktamis #0" = 0
+	"Tolun #0" = 0
+	"Toruntay #0" = 0
+	"Tugrul #0" = 0
+	"Tunga #0" = 0
+	"Turgut #0" = 0
+	"Turhan #0" = 0
+	"Tutus #0" = 0
+	"Uluç #0" = 0
+	"Umur #0" = 0
+	"Yakut #0" = 0
+	"Yaman #0" = 0
+	"Yinal #0" = 0
+	"Yunus #0" = 0
+}
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
+

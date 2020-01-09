@@ -1,0 +1,118 @@
+# Kairouan
+ck2_converter_generated = yes
+graphical_culture = southamericagfx
+color = { 32 244 107 }
+
+
+
+
+leader_names = {
+
+	"Moctezuma" "Ayauhcihuatl" "Agama" "Nezahualpilli" "Frawsen" "Yaotl" "Zipactonal" "Cuitlahuac" "Tezozomoc" "Nochehuatl" 
+	"Xicohtencatl" "N'Guna" "Xochipilli" "Atl" "Aghali" "Zolin" "Papa" "Issam" "Tetlepanquetzaltzin" "Ajdir" 
+	"Refil" "Tlacotl" "Tecolotl" "Acalan" "Acacitli" "Acamapichtli" "Acolmiztli" "Aculnahuacatl" "Ahuiliztli" "Ahuitzotl" 
+	"Axayacatl" "Cacamatzin" "Chimalli" "Chimalpilli" "Chimalpopoca" "Cipac" "Coanacoch" "Coatl" "Cozahtli" "Cuauhtemoc" 
+	"Cuauhtl" "Cuetlachtli" "Cuetzpalli" "Cuixtli" "Huitzilin" "Huitzilihuitl" "Huitzitl" "Huitztecol" "Iquehuacatzin" "Itzcoatl" 
+	"Itzli" "Itzcuintli" "Ixtlilxochitl" "Mahchimaleh" "Matlal" "Mazatl" "Matlalihuitl" "Matlatzincatzin" "Maxtla" "Miztli" 
+	"Moquihuix" "Necuametl" "Nezahualcoyotl" "Ocuil" "Olli" "Opochtli" "Ozomatli" "Quauhtli" "Tapayaxi" "Tecocoltzin" 
+	"Tizoc" "Tizocic" "Tlacaelel" "Tlacaeleltzin" "Tlalli" "Tlaloc" "Tochtli" "Tototl" "Tzompantzin" "Tlilpotonqui" 
+	"Topiltzin" "Totoquihuaztli" "Ueman" "Yayauhqui" "Yolotli" "Yolyamanitzin" "Xiuhpilli" "Xihuitl" "Xipil" "Xipilli" 
+	"Xochitl" "Xochipepe" }
+monarch_names = {
+	"Moctezuma #0" = 1
+	"Ayauhcihuatl #0" = -1
+	"Agama #0" = 1
+	"Nezahualpilli #0" = 1
+	"Frawsen #0" = 1
+	"Yaotl #0" = 1
+	"Zipactonal #0" = 1
+	"Cuitlahuac #0" = 1
+	"Tezozomoc #0" = 1
+	"Nochehuatl #0" = 1
+	"Xicohtencatl #0" = 1
+	"N'Guna #0" = 1
+	"Xochipilli #0" = 1
+	"Atl #0" = -1
+	"Aghali #0" = 1
+	"Zolin #0" = 1
+	"Papa #0" = -1
+	"Issam #0" = 1
+	"Tetlepanquetzaltzin #0" = 1
+	"Ajdir #0" = 1
+	"Refil #0" = 1
+	"Tlacotl #0" = -1
+	"Tecolotl #0" = 1
+	"Acalan #0" = 1
+	"Acacitli #0" = 0
+	"Acamapichtli #0" = 0
+	"Acolmiztli #0" = 0
+	"Aculnahuacatl #0" = 0
+	"Ahuiliztli #0" = 0
+	"Ahuitzotl #0" = 0
+	"Axayacatl #0" = 0
+	"Cacamatzin #0" = 0
+	"Chimalli #0" = 0
+	"Chimalpilli #0" = 0
+	"Chimalpopoca #0" = 0
+	"Cipac #0" = 0
+	"Coanacoch #0" = 0
+	"Coatl #0" = 0
+	"Cozahtli #0" = 0
+	"Cuauhtemoc #0" = 0
+	"Cuauhtl #0" = 0
+	"Cuetlachtli #0" = 0
+	"Cuetzpalli #0" = 0
+	"Cuixtli #0" = 0
+	"Huitzilin #0" = 0
+	"Huitzilihuitl #0" = 0
+	"Huitzitl #0" = 0
+	"Huitztecol #0" = 0
+	"Iquehuacatzin #0" = 0
+	"Itzcoatl #0" = 0
+	"Itzli #0" = 0
+	"Itzcuintli #0" = 0
+	"Ixtlilxochitl #0" = 0
+	"Mahchimaleh #0" = 0
+	"Matlal #0" = 0
+	"Mazatl #0" = 0
+	"Matlalihuitl #0" = 0
+	"Matlatzincatzin #0" = 0
+	"Maxtla #0" = 0
+	"Miztli #0" = 0
+	"Moquihuix #0" = 0
+	"Necuametl #0" = 0
+	"Nezahualcoyotl #0" = 0
+	"Ocuil #0" = 0
+	"Olli #0" = 0
+	"Opochtli #0" = 0
+	"Ozomatli #0" = 0
+	"Quauhtli #0" = 0
+	"Tapayaxi #0" = 0
+	"Tecocoltzin #0" = 0
+	"Tizoc #0" = 0
+	"Tizocic #0" = 0
+	"Tlacaelel #0" = 0
+	"Tlacaeleltzin #0" = 0
+	"Tlalli #0" = 0
+	"Tlaloc #0" = 0
+	"Tochtli #0" = 0
+	"Tototl #0" = 0
+	"Tzompantzin #0" = 0
+	"Tlilpotonqui #0" = 0
+	"Topiltzin #0" = 0
+	"Totoquihuaztli #0" = 0
+	"Ueman #0" = 0
+	"Yayauhqui #0" = 0
+	"Yolotli #0" = 0
+	"Yolyamanitzin #0" = 0
+	"Xiuhpilli #0" = 0
+	"Xihuitl #0" = 0
+	"Xipil #0" = 0
+	"Xipilli #0" = 0
+	"Xochitl #0" = 0
+	"Xochipepe #0" = 0
+
+
+	"Amoxtli #0" = -1
+}
+

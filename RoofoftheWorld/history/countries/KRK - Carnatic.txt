@@ -1,0 +1,26 @@
+# Karnata
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 1948
+1439.7.12 = {
+	monarch = {
+		name = "Gyal III"
+		birth_date = 1408.12.26
+		dynasty = "Myang"
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 1948
+	add_treasury = -4
+	add_prestige = 651
+}

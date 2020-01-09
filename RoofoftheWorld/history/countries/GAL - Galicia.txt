@@ -1,0 +1,27 @@
+# Galicia
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = bedouin_arabic
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 206
+1435.7.11 = {
+	monarch = {
+		name = "Momoztli II"
+		birth_date = 1388.1.11
+		dynasty = "Tapayaxi"
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 206
+	add_treasury = 32
+	add_prestige = 40
+}

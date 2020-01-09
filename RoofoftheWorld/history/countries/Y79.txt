@@ -1,0 +1,27 @@
+# Suhma
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2081
+1444.4.23 = {
+	monarch = {
+		name = "Khadrobum"
+		birth_date = 1410.10.5
+		dynasty = "Ruyong"
+		female = yes
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 2081
+	add_treasury = 133
+	add_prestige = 120
+}

@@ -1,0 +1,150 @@
+# Malinese Guard
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 205 255 167 }
+
+
+
+
+leader_names = {
+
+	"Takoi" "Dankataya" "Fi" "Hawa" "Gando" "Bintou" "Lahiltoul" "Amita" "Fodi" "Lorane" 
+	"Majan" "Fitila" "Ouali" "Djeneba" "Namiss" "Halima" "Moussa" "Tarifa" "Chindi" "Kinkin" 
+	"Adamu" "Biyo" "Kusur" "Mecca" "Lambu" "Alkamiisa" "Adama" "Birma" "Daara" "Missi" 
+	"Ize" "Dunku" "Tib" "Reidja" "Diara" "Arabi" "Cisse" "Zeïnab" "Kayna" "Nuh" 
+	"Mariam" "Ouankoy" "Geyka" "Abi-Bakr" "Abubakari" "Akoi" "Alayaman" "Ali" "Ali-Fay" "Ali-Kolon" 
+	"Ali-Zalil" "Badä" "Bakr" "Bakr-Kanbu" "Bamari" "Bankanu" "Bannu" "Bassarou" "Bassi" "Birama" 
+	"Bisi" "Biyu" "Bonga" "Dankaran" "Daoud" "Dawud" "Demba" "Düru" "Faga-Laye" "Fatta" 
+	"Fuluku" "Fädazu" "Gane" "Gao" "Hargani" "Harun" "Igoumou" "Ishaq" "Ismail" "Kabayo" 
+	"Kalabi" "Kambine" "Kanafa" "Kassa" "Kasseï" "Kaya" "Kisha" "Kodama" "Koïzé" "Kukuray" 
+	"Kusoy" "M'Bali" "Maammarou" "Maghan" "Mahmud" "Malla" "Mamadi" "Mamoudou" "Manding-Bory" "Mari-Djata" 
+	"Maÿroumfa" "Missi-Izé" "Morobani" "Musa" "Nintasanay" "Ouankoÿ" "Ouati" "Sakoura" "Salman" "Samsou-Béri" 
+	"Samsou-Keïna" "Sandaki" "Soumaba" "Soumaoro" "Soundiata" "Sulayman" "Tomo" "Tunka" "Umar" "Yama" 
+	"Yaqub" "Yasiboy" "Zakoi" "Zenku" }
+monarch_names = {
+	"Takoi #0" = 1
+	"Dankataya #0" = 1
+	"Fi #0" = 1
+	"Hawa #1" = -19
+	"Gando #0" = -1
+	"Bintou #0" = -1
+	"Lahiltoul #0" = 1
+	"Amita #0" = -1
+	"Fodi #0" = 1
+	"Lorane #0" = -1
+	"Majan #0" = 1
+	"Fitila #0" = -1
+	"Ouali #0" = 1
+	"Djeneba #0" = -1
+	"Namiss #1" = -19
+	"Halima #0" = -1
+	"Moussa #1" = 18
+	"Tarifa #0" = -1
+	"Chindi #0" = -1
+	"Kinkin #0" = 1
+	"Adamu #0" = 1
+	"Biyo #1" = 18
+	"Kusur #0" = 1
+	"Mecca #0" = -1
+	"Lambu #0" = -1
+	"Alkamiisa #0" = -1
+	"Adama #1" = -25
+	"Birma #0" = 1
+	"Daara #0" = -1
+	"Missi #0" = 1
+	"Ize #0" = 1
+	"Dunku #0" = 1
+	"Tib #1" = 0
+	"Reidja #1" = 0
+	"Diara #1" = 0
+	"Arabi #1" = 0
+	"Cisse #1" = 0
+	"Zeïnab #1" = -1
+	"Kayna #1" = 0
+	"Nuh #1" = 0
+	"Mariam #1" = -1
+	"Ouankoy #1" = 0
+	"Geyka #1" = -1
+	"Abi-Bakr #0" = 0
+	"Abubakari #0" = 0
+	"Akoi #0" = 0
+	"Alayaman #0" = 0
+	"Ali #0" = 0
+	"Ali-Fay #0" = 0
+	"Ali-Kolon #0" = 0
+	"Ali-Zalil #0" = 0
+	"Badä #0" = 0
+	"Bakr #0" = 0
+	"Bakr-Kanbu #0" = 0
+	"Bamari #0" = 0
+	"Bankanu #0" = 0
+	"Bannu #0" = 0
+	"Bassarou #0" = 0
+	"Bassi #0" = 0
+	"Birama #0" = 0
+	"Bisi #0" = 0
+	"Biyu #0" = 0
+	"Bonga #0" = 0
+	"Dankaran #0" = 0
+	"Daoud #0" = 0
+	"Dawud #0" = 0
+	"Demba #0" = 0
+	"Düru #0" = 0
+	"Faga-Laye #0" = 0
+	"Fatta #0" = 0
+	"Fuluku #0" = 0
+	"Fädazu #0" = 0
+	"Gane #0" = 0
+	"Gao #0" = 0
+	"Hargani #0" = 0
+	"Harun #0" = 0
+	"Igoumou #0" = 0
+	"Ishaq #0" = 0
+	"Ismail #0" = 0
+	"Kabayo #0" = 0
+	"Kalabi #0" = 0
+	"Kambine #0" = 0
+	"Kanafa #0" = 0
+	"Kassa #0" = 0
+	"Kasseï #0" = 0
+	"Kaya #0" = 0
+	"Kisha #0" = 0
+	"Kodama #0" = 0
+	"Koïzé #0" = 0
+	"Kukuray #0" = 0
+	"Kusoy #0" = 0
+	"M'Bali #0" = 0
+	"Maammarou #0" = 0
+	"Maghan #0" = 0
+	"Mahmud #0" = 0
+	"Malla #0" = 0
+	"Mamadi #0" = 0
+	"Mamoudou #0" = 0
+	"Manding-Bory #0" = 0
+	"Mari-Djata #0" = 0
+	"Maÿroumfa #0" = 0
+	"Missi-Izé #0" = 0
+	"Morobani #0" = 0
+	"Musa #0" = 0
+	"Nintasanay #0" = 0
+	"Ouankoÿ #0" = 0
+	"Ouati #0" = 0
+	"Sakoura #0" = 0
+	"Salman #0" = 0
+	"Samsou-Béri #0" = 0
+	"Samsou-Keïna #0" = 0
+	"Sandaki #0" = 0
+	"Soumaba #0" = 0
+	"Soumaoro #0" = 0
+	"Soundiata #0" = 0
+	"Sulayman #0" = 0
+	"Tomo #0" = 0
+	"Tunka #0" = 0
+	"Umar #0" = 0
+	"Yama #0" = 0
+	"Yaqub #0" = 0
+	"Yasiboy #0" = 0
+	"Zakoi #0" = 0
+	"Zenku #0" = 0
+}
+

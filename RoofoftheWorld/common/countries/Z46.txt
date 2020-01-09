@@ -1,0 +1,189 @@
+# Khozistan
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 120 144 28 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Dickey" "Tshistöng" "Taknye" "Dronmalön" "Lhathrimo" "Sotri" "Songtsen" "Shakya" "Gongpa" "Gyimsheng" 
+	"Tricham" "Koboza" "Tse" "Löntsen" "Kunga" "Magyal" "Zanam" "Tsugru" "Mangsong" "Jashi" 
+	"Mangnyen" "Jetsun" "Timur" "Lhakee" "Cham" "Gunggyal" "Gungtsen" "Devitara" "Jomo" "Khribang" 
+	"Palchen" "Pongza" "Thrisong" "Dongkar" "Dechen" "Gangkarwa" "Thrimalö" "Sadnalegs" "Phurbulcam" "Sumnang" 
+	"Phoyongsa" "Sal" "Touran" "Adballah" "Azam" "Nafisa" "Taneen" "Isa" "Aram" "Rasa" 
+	"Eliz" "Mänär" "Vetam" "Bahir" "Nizam" "Samir" "Meliksah" "Ruhollah" "Parviz" "Khudayar" 
+	"Manushihr" "Vali" "Sami" "Qawurd" "Lêlav" "Muslihiddin" "Uways" "Taknang" "Zangmo" "Zimun" 
+	"Amala" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Aghlab" "Akin" "Alim" "Burhanaddin" 
+	"Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Husam" "Ibrahim" "Idris" "Is'mail" 
+	"Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mansur" "Mirza" "Mubarak" "Mukhtar" 
+	"Murad" "Musa" "Muzaffaraddin" "Najib" "Nasr" "Ramadan" "Sa'daddin" "Sadiq" "Shaiban" "Shamir" 
+	"Shujah" "Sulayman" "Talib" "Ubayd" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+monarch_names = {
+	"Dickey #0" = 1
+	"Tshistöng #0" = -1
+	"Taknye #2" = 21
+	"Dronmalön #0" = -1
+	"Lhathrimo #0" = -1
+	"Sotri #1" = 27
+	"Songtsen #0" = 1
+	"Shakya #1" = 18
+	"Gongpa #0" = 1
+	"Gyimsheng #0" = -1
+	"Tricham #0" = -1
+	"Koboza #0" = -1
+	"Tse #0" = -1
+	"Löntsen #0" = 1
+	"Kunga #0" = -1
+	"Magyal #0" = -1
+	"Zanam #0" = 1
+	"Tsugru #0" = 1
+	"Mangsong #0" = 1
+	"Jashi #0" = -1
+	"Mangnyen #1" = 18
+	"Jetsun #0" = 1
+	"Timur #1" = 18
+	"Lhakee #0" = -1
+	"Cham #0" = -1
+	"Gunggyal #0" = 1
+	"Gungtsen #0" = 1
+	"Devitara #0" = -1
+	"Jomo #0" = -1
+	"Khribang #0" = -1
+	"Palchen #0" = 1
+	"Pongza #1" = -19
+	"Thrisong #0" = -1
+	"Dongkar #0" = -1
+	"Dechen #0" = -1
+	"Gangkarwa #0" = 1
+	"Thrimalö #0" = -1
+	"Sadnalegs #0" = 1
+	"Phurbulcam #0" = -1
+	"Sumnang #0" = 1
+	"Phoyongsa #0" = -1
+	"Sal #0" = -1
+	"Touran #1" = -1
+	"Adballah #1" = 0
+	"Azam #1" = 0
+	"Nafisa #1" = -1
+	"Taneen #1" = -1
+	"Isa #1" = 0
+	"Aram #1" = 0
+	"Rasa #1" = -1
+	"Eliz #1" = -1
+	"Mänär #1" = 0
+	"Vetam #1" = 0
+	"Bahir #1" = 0
+	"Nizam #1" = 0
+	"Samir #1" = 0
+	"Meliksah #1" = 0
+	"Ruhollah #1" = 0
+	"Parviz #1" = 0
+	"Khudayar #1" = 0
+	"Manushihr #1" = 0
+	"Vali #2" = 0
+	"Sami #1" = 0
+	"Qawurd #1" = 0
+	"Lêlav #1" = -1
+	"Muslihiddin #1" = 0
+	"Uways #1" = 0
+	"Taknang #1" = 0
+	"Zangmo #2" = -1
+	"Zimun #1" = 0
+	"Amala #1" = -1
+	"Aarif #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Abdul-Wahab #0" = 0
+	"Aghlab #0" = 0
+	"Akin #0" = 0
+	"Alim #0" = 0
+	"Burhanaddin #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Faruk #0" = 0
+	"Ghalib #0" = 0
+	"Hafiz #0" = 0
+	"Halil #0" = 0
+	"Husam #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Is'mail #0" = 0
+	"Jabir #0" = 0
+	"Jalil #0" = 0
+	"Jibril #0" = 0
+	"Khaireddin #0" = 0
+	"Khalil #0" = 0
+	"Mahdi #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mubarak #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Najib #0" = 0
+	"Nasr #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sadiq #0" = 0
+	"Shaiban #0" = 0
+	"Shamir #0" = 0
+	"Shujah #0" = 0
+	"Sulayman #0" = 0
+	"Talib #0" = 0
+	"Ubayd #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+	"Zeyd #0" = 0
+}
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
+

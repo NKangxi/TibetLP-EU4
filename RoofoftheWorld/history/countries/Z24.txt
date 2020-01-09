@@ -1,0 +1,28 @@
+# Badajoz
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 218
+1423.9.4 = {
+	monarch = {
+		name = "Edla II"
+		birth_date = 1422.1.14
+		dynasty = "Snjalli"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = righteous_personality
+}
+1444.11.11 = {
+	capital = 218
+	add_treasury = 107
+	add_prestige = 257
+}

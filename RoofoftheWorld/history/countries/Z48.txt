@@ -1,0 +1,27 @@
+# Makran
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 2233
+1441.4.14 = {
+	monarch = {
+		name = "Nyendrak"
+		birth_date = 1381.6.5
+		dynasty = "Miwoche"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 2233
+	add_treasury = 48
+	add_prestige = 42
+}

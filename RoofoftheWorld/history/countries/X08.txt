@@ -1,0 +1,28 @@
+# Qamdo
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 4205
+1394.9.4 = {
+	monarch = {
+		name = "Machig"
+		birth_date = 1380.10.13
+		dynasty = "Kyichu"
+		female = yes
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 4205
+	add_treasury = 76
+	add_prestige = 724
+}

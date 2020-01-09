@@ -1,0 +1,18 @@
+latin = {
+	italian = {
+		primary = ITA
+		dynasty_names = { "di Cuma" "Cenci" "Masci" "Mancini" "Tomacelli" "da Correggio" "Montefeltro" "di Murta" "di Forli" "di Sarno" "Pannocchieschi" "di Tresigallo" "di Alfonsine" "di Poggio Berni" }
+	}
+	roman = {
+		primary = ITA
+		dynasty_names = { }
+	}
+	dalmatian = {
+		primary = ITA
+		dynasty_names = { }
+	}
+	outremer = {
+		primary = KOJ
+		dynasty_names = { }
+	}
+}

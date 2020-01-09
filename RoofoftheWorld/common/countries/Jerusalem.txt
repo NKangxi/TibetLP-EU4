@@ -1,0 +1,219 @@
+# Jerusalem
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 202 202 190 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Mohri" "Gulnar" "Khaterah" "Munawwar" "Fayiz" "Prithichand" "Lachmi" "Budh" "Anup" "Anokhi" 
+	"Sabhirai" "Narayan" "Kishan" "Padmini" "Deoraj" "Sulakhni" "Jatanpal" "Vidurathpal" "Desaladevi" "Mayanalladevi" 
+	"Hariyadevi" "Mahidevi" "Mathan-Singh" "Ramapala" "Padmaladevi" "Lakshman" "Tihunaka" "Deopali-Deo" "Nihal" "Delhanadevi" 
+	"Tukojirao" "Prabhavatigupta" "Karmavati" "Khalid" "Yasovarman" "Amray" "Radhabai" "Jahan" "Ghazi" "Gaia" 
+	"Rabiya" "Nasraddin" "Farida" "Gabrielkouda" "Salahaddin" "Thana" "Abdul-Wahad" "Dehanagadevi" "Golbahar" "Hasti" 
+	"Mahwash" "Umaya" "Karima" "Seyfullah" "Tawfiq" "Lala" "Abdul-Lateef" "Gulnaz" "Sitara" "Minoo" 
+	"Nikoo" "Wahid" "Sharaf" "Murad" "Theobronia" "Muhsin" "Nuraddin" "Neelab" "Suhaila" "Mahsa" 
+	"Zahir" "Faisal" "Abdul-Razzaq" "Sadiya" "Akab" "Duha" "Zuhayra" "Muzaffaraddin" "Muaddam" "Aziza" 
+	"Khatira" "Majid" "Niki" "Nastaran" "Mukhtar" "Amir" "Imamaddin" "Nahal" "Zahra" "Jamil" 
+	"Najela" "Nazaneen" "Jalila" "Ibtisam" "Muzhdah" "Khandan" "Bashar" "Taimur" "Ashraf" "Mehri" 
+	"Madiha" "Shabib" "Qahtaba" "Al-Hasan" "Salil" "Shaykh" "Isa" "Leon" "Nikolaos" "Theodoros" 
+	"Niphon" "Kaydum" "Theodorich" "Gerlach" "Ilsa" "Abdul-Madjid" "Badiat" "Nabila" "Khaireddin" "Ala'i" 
+	"Philotheos" "Eirotatouññlki" "Epimachosi" "Tophêna" "Halima" "Theophilia" "Abdul-Azeem" "Abdul-Hamid" "Adhid" "Adil" 
+	"Aziz" "Boutros" "Da'ud" "Hakam" "Hamdan" "Hashmaddin" "Ibrahim" "Is'mail" "Ismat" "Kamran" 
+	"Khudayar" "Mas'ud" "Musa" "Muzaffar" "Nuri" "Radhi" "Rasul" "Sa'ud" "Sirhan" "Yahya" 
+	"Ya'qub" "Yasar" "Youkhanna" }
+monarch_names = {
+	"Mohri #0" = 1
+	"Gulnar #0" = -1
+	"Khaterah #0" = -1
+	"Munawwar #0" = -1
+	"Fayiz #2" = 21
+	"Prithichand #0" = 1
+	"Lachmi #0" = -1
+	"Budh #0" = 1
+	"Anup #0" = -1
+	"Anokhi #0" = -1
+	"Sabhirai #0" = -1
+	"Narayan #0" = 1
+	"Kishan #0" = -1
+	"Padmini #0" = -1
+	"Deoraj #0" = 1
+	"Sulakhni #0" = -1
+	"Jatanpal #0" = 1
+	"Vidurathpal #0" = 1
+	"Desaladevi #0" = -1
+	"Mayanalladevi #0" = -1
+	"Hariyadevi #0" = -1
+	"Mahidevi #0" = -1
+	"Mathan-Singh #0" = 1
+	"Ramapala #0" = 1
+	"Padmaladevi #0" = -1
+	"Lakshman #0" = -1
+	"Tihunaka #0" = -1
+	"Deopali-Deo #0" = 1
+	"Nihal #0" = -1
+	"Delhanadevi #0" = -1
+	"Tukojirao #0" = 1
+	"Prabhavatigupta #0" = -1
+	"Karmavati #0" = -1
+	"Khalid #0" = 1
+	"Yasovarman #2" = 21
+	"Amray #0" = 1
+	"Radhabai #0" = -1
+	"Jahan #0" = 1
+	"Ghazi #1" = 24
+	"Gaia #0" = 1
+	"Rabiya #0" = -1
+	"Nasraddin #0" = 1
+	"Farida #0" = -1
+	"Gabrielkouda #0" = 1
+	"Salahaddin #1" = 18
+	"Thana #0" = -1
+	"Abdul-Wahad #0" = 1
+	"Dehanagadevi #0" = -1
+	"Golbahar #0" = -1
+	"Hasti #0" = -1
+	"Mahwash #0" = -1
+	"Umaya #2" = 24
+	"Karima #0" = -1
+	"Seyfullah #3" = 30
+	"Tawfiq #0" = 1
+	"Lala #0" = -1
+	"Abdul-Lateef #0" = 1
+	"Gulnaz #0" = -1
+	"Sitara #0" = -1
+	"Minoo #0" = -1
+	"Nikoo #0" = -1
+	"Wahid #0" = 1
+	"Sharaf #0" = 1
+	"Murad #0" = 1
+	"Theobronia #0" = -1
+	"Muhsin #0" = 1
+	"Nuraddin #0" = 1
+	"Neelab #0" = -1
+	"Suhaila #0" = -1
+	"Mahsa #0" = -1
+	"Zahir #0" = 1
+	"Faisal #0" = 1
+	"Abdul-Razzaq #0" = 1
+	"Sadiya #0" = -1
+	"Akab #0" = 1
+	"Duha #0" = -1
+	"Zuhayra #0" = -1
+	"Muzaffaraddin #0" = 1
+	"Muaddam #0" = 1
+	"Aziza #0" = -1
+	"Khatira #0" = -1
+	"Majid #0" = 1
+	"Niki #0" = -1
+	"Nastaran #0" = -1
+	"Mukhtar #0" = 1
+	"Amir #0" = 1
+	"Imamaddin #1" = 18
+	"Nahal #0" = -1
+	"Zahra #0" = -1
+	"Jamil #0" = 1
+	"Najela #0" = -1
+	"Nazaneen #0" = -1
+	"Jalila #0" = -1
+	"Ibtisam #0" = -1
+	"Muzhdah #0" = -1
+	"Khandan #0" = -1
+	"Bashar #0" = 1
+	"Taimur #0" = 1
+	"Ashraf #0" = 1
+	"Mehri #0" = -1
+	"Madiha #0" = -1
+	"Shabib #1" = 0
+	"Qahtaba #1" = 0
+	"Al-Hasan #1" = 0
+	"Salil #1" = 0
+	"Shaykh #1" = 0
+	"Isa #1" = 0
+	"Leon #1" = 0
+	"Nikolaos #1" = 0
+	"Theodoros #1" = 0
+	"Niphon #1" = 0
+	"Kaydum #1" = 0
+	"Theodorich #1" = 0
+	"Gerlach #1" = 0
+	"Ilsa #1" = -1
+	"Abdul-Madjid #1" = 0
+	"Badiat #1" = -1
+	"Nabila #1" = -1
+	"Khaireddin #1" = 0
+	"Ala'i #1" = 0
+	"Philotheos #1" = 0
+	"Eirotatouññlki #1" = -1
+	"Epimachosi #1" = -1
+	"Tophêna #1" = 0
+	"Halima #1" = -1
+	"Theophilia #1" = -1
+	"Abdul-Azeem #0" = 0
+	"Abdul-Hamid #0" = 0
+	"Adhid #0" = 0
+	"Adil #0" = 0
+	"Aziz #0" = 0
+	"Boutros #0" = 0
+	"Da'ud #0" = 0
+	"Hakam #0" = 0
+	"Hamdan #0" = 0
+	"Hashmaddin #0" = 0
+	"Ibrahim #0" = 0
+	"Is'mail #0" = 0
+	"Ismat #0" = 0
+	"Kamran #0" = 0
+	"Khudayar #0" = 0
+	"Mas'ud #0" = 0
+	"Musa #0" = 0
+	"Muzaffar #0" = 0
+	"Nuri #0" = 0
+	"Radhi #0" = 0
+	"Rasul #0" = 0
+	"Sa'ud #0" = 0
+	"Sirhan #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Yasar #0" = 0
+	"Youkhanna #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

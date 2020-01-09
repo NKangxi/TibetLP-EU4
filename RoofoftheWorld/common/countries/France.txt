@@ -1,0 +1,192 @@
+# France
+ck2_converter_generated = yes
+graphical_culture = southamericagfx
+color = { 15 27 187 }
+
+
+
+
+leader_names = {
+
+	"Axayacatl" "Xochipilli" "Malinalxochitl" "Tepin" "Papa" "Xocoyotl" "Cipac" "Xochitl" "Cuitlahuac" "Tlaloc" 
+	"Necuametl" "Xilonen" "Tezozomoc" "Cuetzpalli" "Tlacaeleltzin" "Cacamatzin" "Tziquetzalpoztectzin" "Ahuiliztli" "Tlalli" "Toltecatl" 
+	"Tapayaxi" "Teicuih" "Acolmiztli" "Itotia" "Atotoztli" "Yaotl" "Iuitl" "Tlazozomizqui" "Topiltzin" "Chimalli" 
+	"Patli" "Xihuitl" "Tizocic" "Tlacaelel" "Gunhilda" "Mahchimaleh" "Momoztli" "Tlacotl" "Moctezuma" "Gnupa" 
+	"Tototl" "Atl" "Emilie" "Nelli" "Acamapichtli" "Huitzilihuitl" "Nezahualpilli" "Cihuaton" "Opochtli" "Tlilpotonqui" 
+	"Nahuatl" "Steen" "Yoltzin" "Ocuil" "Olli" "Coatl" "Quiauhxochitl" "Achcauhtli" "Ohtli" "Citlalmina" 
+	"Zyanya" "Nezahualcoyotl" "Tonalnan" "Sofie" "Sigrid" "Karoline" "Cecilie" "Oluf" "Xochipepe" "Dagmar" 
+	"Thordis" "Gunnar" "Asta" "Citlalli" "Edvard" "Cuauhtl" "Karin" "Frode" "Gyda" "Xocoh" 
+	"Lise" "Thorvald" "Tlahco" "Grim" "Dorothea" "Ottarr" "Karl" "Severin" "Rikissa" "Gorm" 
+	"Hakon" "Birgitta" "Nochehuatl" "Elin" "Kettilmund" "Huitztecol" "Vigdis" "Aculnahuacatl" "Mecatl" "Cuetlachtli" 
+	"Coszcatl" "Clovis" "Clotaire" "Chilpéric" "Dagobert" "Théoderic" "Childéric" "Childébert" "Louis" "Charles" 
+	"Carloman" "Aléarde" "Ramnulf" "Alice" "Alaïs" "Garcia" "Aymar" "Aimery" "Eloxochitl" "Chalchiuitl" 
+	"Acalan" "Acacitli" "Ahuitzotl" "Chimalpilli" "Chimalpopoca" "Coanacoch" "Cozahtli" "Cuauhtemoc" "Cuixtli" "Huitzilin" 
+	"Huitzitl" "Iquehuacatzin" "Itzcoatl" "Itzli" "Itzcuintli" "Ixtlilxochitl" "Matlal" "Mazatl" "Matlalihuitl" "Matlatzincatzin" 
+	"Maxtla" "Miztli" "Moquihuix" "Ozomatli" "Quauhtli" "Tecocoltzin" "Tecolotl" "Tetlepanquetzaltzin" "Tizoc" "Tochtli" 
+	"Tzompantzin" "Totoquihuaztli" "Ueman" "Yayauhqui" "Yolotli" "Yolyamanitzin" "Xicohtencatl" "Xiuhpilli" "Xipil" "Xipilli" 
+	"Zipactonal" "Zolin" }
+monarch_names = {
+	"Axayacatl #1" = 21
+	"Xochipilli #0" = 1
+	"Malinalxochitl #1" = -19
+	"Tepin #1" = -28
+	"Papa #0" = -1
+	"Xocoyotl #0" = -1
+	"Cipac #0" = 1
+	"Xochitl #1" = 36
+	"Cuitlahuac #0" = 1
+	"Tlaloc #0" = 1
+	"Necuametl #0" = 1
+	"Xilonen #0" = -1
+	"Tezozomoc #0" = -1
+	"Cuetzpalli #0" = 1
+	"Tlacaeleltzin #0" = 1
+	"Cacamatzin #1" = 21
+	"Tziquetzalpoztectzin #0" = -1
+	"Ahuiliztli #0" = -1
+	"Tlalli #0" = 1
+	"Toltecatl #0" = -1
+	"Tapayaxi #0" = 1
+	"Teicuih #0" = -1
+	"Acolmiztli #0" = 1
+	"Itotia #0" = -1
+	"Atotoztli #0" = -1
+	"Yaotl #0" = 1
+	"Iuitl #0" = -1
+	"Tlazozomizqui #0" = -1
+	"Topiltzin #0" = 1
+	"Chimalli #0" = 1
+	"Patli #1" = -25
+	"Xihuitl #0" = 1
+	"Tizocic #0" = 1
+	"Tlacaelel #0" = 1
+	"Gunhilda #4" = -34
+	"Mahchimaleh #0" = 1
+	"Momoztli #0" = -1
+	"Tlacotl #0" = -1
+	"Moctezuma #0" = 1
+	"Gnupa #0" = 1
+	"Tototl #0" = 1
+	"Atl #0" = -1
+	"Emilie #3" = -34
+	"Nelli #0" = -1
+	"Acamapichtli #0" = 1
+	"Huitzilihuitl #0" = 1
+	"Nezahualpilli #0" = 1
+	"Cihuaton #0" = -1
+	"Opochtli #0" = 1
+	"Tlilpotonqui #0" = 1
+	"Nahuatl #1" = -22
+	"Steen #0" = 1
+	"Yoltzin #0" = -1
+	"Ocuil #0" = 1
+	"Olli #0" = 1
+	"Coatl #0" = 1
+	"Quiauhxochitl #0" = -1
+	"Achcauhtli #0" = -1
+	"Ohtli #1" = -22
+	"Citlalmina #0" = -1
+	"Zyanya #0" = -1
+	"Nezahualcoyotl #0" = 1
+	"Tonalnan #0" = -1
+	"Sofie #0" = -1
+	"Sigrid #1" = -25
+	"Karoline #0" = -1
+	"Cecilie #0" = -1
+	"Oluf #0" = 1
+	"Xochipepe #0" = 1
+	"Dagmar #0" = -1
+	"Thordis #2" = -25
+	"Gunnar #0" = 1
+	"Asta #0" = -1
+	"Citlalli #0" = -1
+	"Edvard #0" = 1
+	"Cuauhtl #0" = 1
+	"Karin #0" = -1
+	"Frode #0" = 1
+	"Gyda #0" = -1
+	"Xocoh #0" = -1
+	"Lise #0" = -1
+	"Thorvald #0" = 1
+	"Tlahco #1" = -25
+	"Grim #0" = 1
+	"Dorothea #0" = -1
+	"Ottarr #0" = 1
+	"Karl #1" = 18
+	"Severin #0" = 1
+	"Rikissa #0" = -1
+	"Gorm #0" = 1
+	"Hakon #0" = 1
+	"Birgitta #0" = -1
+	"Nochehuatl #0" = 1
+	"Elin #0" = -1
+	"Kettilmund #0" = 1
+	"Huitztecol #0" = 1
+	"Vigdis #0" = -1
+	"Aculnahuacatl #0" = 1
+	"Mecatl #2" = -22
+	"Cuetlachtli #0" = 1
+	"Coszcatl #1" = -19
+	"Clovis #3" = 0
+	"Clotaire #4" = 0
+	"Chilpéric #2" = 0
+	"Dagobert #2" = 0
+	"Théoderic #2" = 0
+	"Childéric #2" = 0
+	"Childébert #1" = 0
+	"Louis #3" = 0
+	"Charles #1" = 0
+	"Carloman #1" = 0
+	"Aléarde #1" = -1
+	"Ramnulf #1" = 0
+	"Alice #1" = -1
+	"Alaïs #1" = -1
+	"Garcia #1" = 0
+	"Aymar #1" = 0
+	"Aimery #1" = 0
+	"Eloxochitl #2" = -1
+	"Chalchiuitl #1" = -1
+	"Acalan #0" = 0
+	"Acacitli #0" = 0
+	"Ahuitzotl #0" = 0
+	"Chimalpilli #0" = 0
+	"Chimalpopoca #0" = 0
+	"Coanacoch #0" = 0
+	"Cozahtli #0" = 0
+	"Cuauhtemoc #0" = 0
+	"Cuixtli #0" = 0
+	"Huitzilin #0" = 0
+	"Huitzitl #0" = 0
+	"Iquehuacatzin #0" = 0
+	"Itzcoatl #0" = 0
+	"Itzli #0" = 0
+	"Itzcuintli #0" = 0
+	"Ixtlilxochitl #0" = 0
+	"Matlal #0" = 0
+	"Mazatl #0" = 0
+	"Matlalihuitl #0" = 0
+	"Matlatzincatzin #0" = 0
+	"Maxtla #0" = 0
+	"Miztli #0" = 0
+	"Moquihuix #0" = 0
+	"Ozomatli #0" = 0
+	"Quauhtli #0" = 0
+	"Tecocoltzin #0" = 0
+	"Tecolotl #0" = 0
+	"Tetlepanquetzaltzin #0" = 0
+	"Tizoc #0" = 0
+	"Tochtli #0" = 0
+	"Tzompantzin #0" = 0
+	"Totoquihuaztli #0" = 0
+	"Ueman #0" = 0
+	"Yayauhqui #0" = 0
+	"Yolotli #0" = 0
+	"Yolyamanitzin #0" = 0
+	"Xicohtencatl #0" = 0
+	"Xiuhpilli #0" = 0
+	"Xipil #0" = 0
+	"Xipilli #0" = 0
+	"Zipactonal #0" = 0
+	"Zolin #0" = 0
+}
+

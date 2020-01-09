@@ -1,0 +1,39 @@
+# Tahert
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = danish
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 346
+1444.7.23 = {
+	monarch = {
+		name = "Grethe"
+		birth_date = 1406.10.7
+		dynasty = "af Pouilly"
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = cruel_personality
+	heir = {
+		name = "Lise"
+		monarch_name = "Lise"
+		dynasty = "af Pouilly"
+		birth_date = 1433.1.3
+		death_date = 1513.1.3
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 346
+	add_treasury = 47
+	add_prestige = 86
+}

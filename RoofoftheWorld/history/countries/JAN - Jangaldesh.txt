@@ -1,0 +1,28 @@
+# Jangladesh
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = bon
+clear_scripted_personalities = yes
+capital = 2066
+1417.3.27 = {
+	monarch = {
+		name = "Sal"
+		birth_date = 1395.7.9
+		dynasty = "Monyul"
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 2066
+	add_treasury = 86
+	add_prestige = 287
+}

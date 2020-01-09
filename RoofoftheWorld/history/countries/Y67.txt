@@ -1,0 +1,27 @@
+# Shigatse
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 676
+1431.7.24 = {
+	monarch = {
+		name = "Tsenye II"
+		birth_date = 1424.4.16
+		dynasty = "Karchen"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 676
+	add_treasury = 82
+	add_prestige = 449
+}

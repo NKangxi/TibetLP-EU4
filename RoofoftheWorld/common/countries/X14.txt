@@ -1,0 +1,182 @@
+# Manding
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 130 180 61 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	african_spearmen
+	mali_tribal_warfare
+	african_hill_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	african_western_franchise_warfare
+}
+
+
+
+leader_names = {
+
+	"M'Bali" "Tabouri" "Djire" "Fadima" "Alayaman" "Daara" "Sogolon" "Namandjé" "Halima" "Aminata" 
+	"Mariam" "Majan" "Soumaba" "Salimata" "Amina" "Kouton" "Soundiata" "Zeïnab" "Alima" "Bintou" 
+	"Namiss" "Zenku" "Mahmud" "Ali-Fay" "Chindi" "Huseina" "Sulayman" "Siya" "Faga-Laye" "Ali-Zalil" 
+	"Nafissa" "Gane" "Kanafa" "Mamadi" "Kadi" "Fatim" "Fadiga" "Tekhaye" "Musa" "Reidja" 
+	"Djenly" "Cissi" "Soumaoro" "Sakoura" "Fatta" "Samsou-Béri" "Bannu" "Bamari" "Aichata" "Bankanu" 
+	"Ina" "Sandaki" "Sidibé" "Hawa" "Yasiboy" "Dangey" "Bassi" "Fodi" "Ouankoy" "Falaku" 
+	"Lahilatoul" "Demba" "Watara" "Igoumou" "Nana" "Kilia" "Maÿroumfa" "Maghan" "Missi-Izé" "Safiatou" 
+	"Kodama" "Abi-Bakr" "Abubakari" "Akoi" "Ali" "Ali-Kolon" "Badä" "Bakr" "Bakr-Kanbu" "Bassarou" 
+	"Birama" "Bisi" "Biyu" "Bonga" "Cisse" "Dankaran" "Daoud" "Dawud" "Diara" "Düru" 
+	"Fuluku" "Fädazu" "Gao" "Hargani" "Harun" "Ishaq" "Ismail" "Kabayo" "Kalabi" "Kambine" 
+	"Kassa" "Kasseï" "Kaya" "Kayna" "Kinkin" "Kisha" "Koïzé" "Kukuray" "Kusoy" "Lahiltoul" 
+	"Maammarou" "Malla" "Mamoudou" "Manding-Bory" "Mari-Djata" "Morobani" "Nintasanay" "Nuh" "Ouali" "Ouankoÿ" 
+	"Ouati" "Salman" "Samsou-Keïna" "Takoi" "Tib" "Tomo" "Tunka" "Umar" "Yama" "Yaqub" 
+	"Zakoi" }
+monarch_names = {
+	"M'Bali #3" = 30
+	"Tabouri #0" = 1
+	"Djire #0" = -1
+	"Fadima #0" = -1
+	"Alayaman #1" = 21
+	"Daara #0" = 1
+	"Sogolon #0" = -1
+	"Namandjé #1" = -22
+	"Halima #1" = -22
+	"Aminata #0" = -1
+	"Mariam #0" = -1
+	"Majan #0" = 1
+	"Soumaba #0" = 1
+	"Salimata #0" = -1
+	"Amina #0" = -1
+	"Kouton #0" = -1
+	"Soundiata #0" = 1
+	"Zeïnab #0" = -1
+	"Alima #0" = -1
+	"Bintou #0" = -1
+	"Namiss #1" = -25
+	"Zenku #0" = 1
+	"Mahmud #0" = 1
+	"Ali-Fay #0" = 1
+	"Chindi #0" = -1
+	"Huseina #0" = -1
+	"Sulayman #0" = 1
+	"Siya #1" = -19
+	"Faga-Laye #0" = 1
+	"Ali-Zalil #0" = 1
+	"Nafissa #0" = -1
+	"Gane #0" = 1
+	"Kanafa #1" = 18
+	"Mamadi #1" = 18
+	"Kadi #0" = -1
+	"Fatim #0" = -1
+	"Fadiga #0" = 1
+	"Tekhaye #0" = -1
+	"Musa #0" = 1
+	"Reidja #0" = 1
+	"Djenly #0" = -1
+	"Cissi #1" = 18
+	"Soumaoro #0" = 1
+	"Sakoura #0" = 1
+	"Fatta #1" = 18
+	"Samsou-Béri #0" = 1
+	"Bannu #0" = 1
+	"Bamari #2" = 18
+	"Aichata #0" = -1
+	"Bankanu #0" = 1
+	"Ina #0" = -1
+	"Sandaki #1" = 21
+	"Sidibé #1" = -19
+	"Hawa #0" = -1
+	"Yasiboy #0" = 1
+	"Dangey #0" = -1
+	"Bassi #1" = 18
+	"Fodi #0" = 1
+	"Ouankoy #0" = 1
+	"Falaku #0" = 1
+	"Lahilatoul #1" = 0
+	"Demba #1" = 0
+	"Watara #1" = 0
+	"Igoumou #1" = 0
+	"Nana #2" = -1
+	"Kilia #1" = -1
+	"Maÿroumfa #1" = 0
+	"Maghan #1" = 0
+	"Missi-Izé #1" = 0
+	"Safiatou #2" = -1
+	"Kodama #1" = 0
+	"Abi-Bakr #0" = 0
+	"Abubakari #0" = 0
+	"Akoi #0" = 0
+	"Ali #0" = 0
+	"Ali-Kolon #0" = 0
+	"Badä #0" = 0
+	"Bakr #0" = 0
+	"Bakr-Kanbu #0" = 0
+	"Bassarou #0" = 0
+	"Birama #0" = 0
+	"Bisi #0" = 0
+	"Biyu #0" = 0
+	"Bonga #0" = 0
+	"Cisse #0" = 0
+	"Dankaran #0" = 0
+	"Daoud #0" = 0
+	"Dawud #0" = 0
+	"Diara #0" = 0
+	"Düru #0" = 0
+	"Fuluku #0" = 0
+	"Fädazu #0" = 0
+	"Gao #0" = 0
+	"Hargani #0" = 0
+	"Harun #0" = 0
+	"Ishaq #0" = 0
+	"Ismail #0" = 0
+	"Kabayo #0" = 0
+	"Kalabi #0" = 0
+	"Kambine #0" = 0
+	"Kassa #0" = 0
+	"Kasseï #0" = 0
+	"Kaya #0" = 0
+	"Kayna #0" = 0
+	"Kinkin #0" = 0
+	"Kisha #0" = 0
+	"Koïzé #0" = 0
+	"Kukuray #0" = 0
+	"Kusoy #0" = 0
+	"Lahiltoul #0" = 0
+	"Maammarou #0" = 0
+	"Malla #0" = 0
+	"Mamoudou #0" = 0
+	"Manding-Bory #0" = 0
+	"Mari-Djata #0" = 0
+	"Morobani #0" = 0
+	"Nintasanay #0" = 0
+	"Nuh #0" = 0
+	"Ouali #0" = 0
+	"Ouankoÿ #0" = 0
+	"Ouati #0" = 0
+	"Salman #0" = 0
+	"Samsou-Keïna #0" = 0
+	"Takoi #0" = 0
+	"Tib #0" = 0
+	"Tomo #0" = 0
+	"Tunka #0" = 0
+	"Umar #0" = 0
+	"Yama #0" = 0
+	"Yaqub #0" = 0
+	"Zakoi #0" = 0
+}
+ship_names = {
+	Kiringa Timbuktu "Koumbi Saleh" Gao
+	Jenne "Sundiata Keita" "Kankan Musa"
+	"Kouroukan Fouga" "Wali Keita" "Quati Keita"
+	"Khalifa Keita" Sakura
+}
+

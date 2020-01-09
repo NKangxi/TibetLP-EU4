@@ -1,0 +1,27 @@
+# Khozistan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = bon
+clear_scripted_personalities = yes
+capital = 4290
+1431.8.1 = {
+	monarch = {
+		name = "Shakya"
+		birth_date = 1406.7.23
+		dynasty = "Zhungpa"
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 4290
+	add_treasury = 87
+	add_prestige = 102
+}

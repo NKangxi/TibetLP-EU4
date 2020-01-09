@@ -1,0 +1,37 @@
+# Mongol Empire
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = bon
+clear_scripted_personalities = yes
+capital = 1969
+1441.10.15 = {
+	monarch = {
+		name = "Okhotur"
+		birth_date = 1386.4.2
+		dynasty = "Buryat"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+	heir = {
+		name = "Megujin"
+		monarch_name = "Megujin"
+		dynasty = "Buryat"
+		birth_date = 1415.2.12
+		death_date = 1495.2.12
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+	add_heir_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 1969
+	add_treasury = 8
+	add_prestige = 497
+}

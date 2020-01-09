@@ -1,0 +1,27 @@
+# Kerman
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = rajput
+religion = bon
+clear_scripted_personalities = yes
+capital = 432
+1424.11.13 = {
+	monarch = {
+		name = "Gyeltsen"
+		birth_date = 1401.2.25
+		dynasty = "Chimza"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 432
+	add_treasury = 47
+	add_prestige = 580
+}

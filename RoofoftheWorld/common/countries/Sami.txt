@@ -1,0 +1,128 @@
+# Lapland
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 255 125 69 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Járre" "Juoksáhkká" "Riibma" "Ággi" "Áigesárri" "Áilu" "Ámmot" "Ára" "Árrajuoksa" "Ásllat" 
+	"Èoavvá" "Ahkemiella" "Algebaeivi" "Baeivi" "Baeivvet" "Biejan" "Bijás" "Bilzi" "Dávgon" "Duttá" 
+	"Gáivvas" "Gáktu" "Henes" "Jeansa" "Juvven" "Lágon" "Lávrrohas" "Leammá" "Mellet" "Mihka" 
+	"Mohkku" "Mokci" "Náhkol" "Náinnas" "Njulgu" "Oaván" "Orddot" "Rástos" "Ruigi" "Sárra" 
+	"Speaidna" "Viggu" }
+monarch_names = {
+	"Járre #1" = 18
+	"Juoksáhkká #0" = -1
+	"Riibma #1" = 0
+	"Ággi #0" = 0
+	"Áigesárri #0" = 0
+	"Áilu #0" = 0
+	"Ámmot #0" = 0
+	"Ára #0" = 0
+	"Árrajuoksa #0" = 0
+	"Ásllat #0" = 0
+	"Èoavvá #0" = 0
+	"Ahkemiella #0" = 0
+	"Algebaeivi #0" = 0
+	"Baeivi #0" = 0
+	"Baeivvet #0" = 0
+	"Biejan #0" = 0
+	"Bijás #0" = 0
+	"Bilzi #0" = 0
+	"Dávgon #0" = 0
+	"Duttá #0" = 0
+	"Gáivvas #0" = 0
+	"Gáktu #0" = 0
+	"Henes #0" = 0
+	"Jeansa #0" = 0
+	"Juvven #0" = 0
+	"Lágon #0" = 0
+	"Lávrrohas #0" = 0
+	"Leammá #0" = 0
+	"Mellet #0" = 0
+	"Mihka #0" = 0
+	"Mohkku #0" = 0
+	"Mokci #0" = 0
+	"Náhkol #0" = 0
+	"Náinnas #0" = 0
+	"Njulgu #0" = 0
+	"Oaván #0" = 0
+	"Orddot #0" = 0
+	"Rástos #0" = 0
+	"Ruigi #0" = 0
+	"Sárra #0" = 0
+	"Speaidna #0" = 0
+	"Viggu #0" = 0
+
+
+	"Duojá #0" = -1
+	"Álgen #0" = -1
+	"Gierá #0" = -1
+	"Násti #0" = -1
+}
+ship_names = {
+	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+	Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+	Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+	Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+	Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+	Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+	Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+	"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+	"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+	Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+	Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
+	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
+	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
+	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"Prinds Christian" "Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
+	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
+	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
+	Victoria Vindhunden Wenden Ørnen
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

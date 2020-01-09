@@ -1,0 +1,27 @@
+# Thurgau
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1870
+1419.4.27 = {
+	monarch = {
+		name = "Alois"
+		birth_date = 1403.2.20
+		dynasty = "de Luxembourg"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 1870
+	add_treasury = 18
+	add_prestige = 193
+}

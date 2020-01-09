@@ -1,0 +1,38 @@
+# Derbent
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = armenian
+religion = yazidi
+clear_scripted_personalities = yes
+capital = 425
+1417.12.23 = {
+	monarch = {
+		name = "Abirad"
+		birth_date = 1406.9.4
+		dynasty = "Aharonian"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = cruel_personality
+	heir = {
+		name = "Hagop"
+		monarch_name = "Hagop"
+		dynasty = "Aharonian"
+		birth_date = 1413.9.3
+		death_date = 1493.9.3
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+	add_heir_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 425
+	add_treasury = 115
+	add_prestige = -47
+}

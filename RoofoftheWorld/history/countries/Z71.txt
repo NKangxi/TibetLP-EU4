@@ -1,0 +1,27 @@
+# Bryansk
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = animism
+clear_scripted_personalities = yes
+capital = 288
+1431.1.25 = {
+	monarch = {
+		name = "Paksyay II"
+		birth_date = 1403.1.17
+		dynasty = "Muromid"
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = sinner_personality
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 288
+	add_treasury = 45
+	add_prestige = 215
+}

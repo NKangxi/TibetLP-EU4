@@ -1,0 +1,28 @@
+# Upper Lorraine
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 189
+1416.1.14 = {
+	monarch = {
+		name = "Rikissa II"
+		birth_date = 1405.10.14
+		dynasty = "Eyjing"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 189
+	add_treasury = 80
+	add_prestige = 238
+}

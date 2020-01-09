@@ -1,0 +1,27 @@
+# The Isles
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 4364
+1442.11.10 = {
+	monarch = {
+		name = "Iliana"
+		birth_date = 1418.9.23
+		dynasty = "Sleggja"
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 4364
+	add_treasury = 54
+	add_prestige = 185
+}

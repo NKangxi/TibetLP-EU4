@@ -1,0 +1,28 @@
+# Ascalon
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 1854
+1405.5.9 = {
+	monarch = {
+		name = "Neelab"
+		birth_date = 1397.3.5
+		dynasty = "Adilid"
+		female = yes
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 1854
+	add_treasury = -1
+	add_prestige = 234
+}

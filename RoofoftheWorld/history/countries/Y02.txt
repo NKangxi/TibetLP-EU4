@@ -1,0 +1,28 @@
+# Liw
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mongol
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 257
+1426.1.20 = {
+	monarch = {
+		name = "Tekine"
+		birth_date = 1402.3.5
+		dynasty = "Megetu"
+		female = yes
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 257
+	add_treasury = 10
+	add_prestige = 105
+}
