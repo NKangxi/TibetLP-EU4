@@ -1,0 +1,338 @@
+# Religious/mystical rebels in Japan
+
+graphical_culture = asiangfx
+
+color = { 44  137  160 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	naval_ideas
+	trade_ideas
+	quality_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+#Japanese group
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Gennyo" = 50
+	"Gonnyo" = 50
+	"Gyônyo" = 50
+	"Hônyo" = 50
+	"Honnyo" = 50
+	"Ichinyo" = 50
+	"Jakunyo" = 50
+	"Jitsunyo" = 50
+	"Jônyo" = 50
+	"Junnyo" = 50
+	"Juunyo" = 50
+	"Kakunyo" = 50
+	"Kennyo" = 50
+	"Kônyo" = 50
+	"Kyônyo" = 50
+	"Monnyo" = 50
+	"Myônyo" = 50
+	"Rennyo" = 50
+	"Ryônyo" = 50
+	"Sennyo" = 50
+	"Shakunyo" = 50
+	"Shinnyo" = 50
+	"Shônyo" = 50
+	"Shunyo" = 50
+	"Sokunyo" = 50
+	"Takunyo" = 50
+	"Tannyo" = 50
+	"Tatsunyo" = 50
+	"Zennyo" = 50
+	"Zonnyo" = 50
+	
+	"Aiko" = -50
+	"Akako" = -50
+	"Akeko" = -50
+	"Akiko" = -50
+	"Akirako" = -50
+	"Ako" = -50
+	"Amiko" = -50
+	"Ariko" = -50
+	"Asako" = -50
+	"Atsuko" = -50
+	"Ayako" = -50
+	"Ayuko" = -50
+	"Chieko" = -50
+	"Chihoko" = -50
+	"Chikako" = -50
+	"Chiko" = -50
+	"Chisako" = -50
+	"Chiseko" = -50
+	"Chiyako" = -50
+	"Chiyoko" = -50
+	"Chiriko" = -50
+	"Chiwako" = -50
+	"Eiko" = -50
+	"Ekiko" = -50
+	"Emiko" = -50
+	"Eriko" = -50
+	"Fuko" = -50
+	"Fuuko" = -50
+	"Fukuko" = -50
+	"Fujiko" = -50
+	"Fumiko" = -50
+	"Fusako" = -50
+	"Fuyuko" = -50
+	"Hanako" = -50
+	"Haruko" = -50
+	"Hideko" = -50
+	"Hinako" = -50
+	"Hiroko" = -50
+	"Hisako" = -50
+	"Hiwako" = -50
+	"Hôko" = -50
+	"Ieko" = -50
+	"Iko" = -50
+	"Ikuko" = -50
+	"Imako" = -50
+	"Inako" = -50
+	"Isako" = -50
+	"Ishiko" = -50
+	"Itoko" = -50
+	"Itsuko" = -50
+	"Iôko" = -50
+	"Izuko" = -50
+	"Jôko" = -50
+	"Junko" = -50
+	"Kachiko" = -50
+	"Kadoko" = -50
+	"Kako" = -50
+	"Kaiko" = -50
+	"Kaeko" = -50
+	"Kahoko" = -50
+	"Kanako" = -50
+	"Kaneko" = -50
+	"Kanoko" = -50
+	"Kanko" = -50
+	"Kaoruko" = -50
+	"Katsuko" = -50
+	"Kayako" = -50
+	"Kazuko" = -50
+	"Keiko" = -50
+	"Kenko" = -50
+	"Kihoko" = -50
+	"Kiko" = -50
+	"Kikako" = -50
+	"Kikuko" = -50
+	"Kimiko" = -50
+	"Kinko" = -50
+	"Kineko" = -50
+	"Kiwako" = -50
+	"Kiyoko" = -50
+	"Kiyôko" = -50
+	"Koreko" = -50
+	"Kôko" = -50
+	"Kotoko" = -50
+	"Kumiko" = -50
+	"Kuniko" = -50
+	"Kyôko" = -50
+	"Machiko" = -50
+	"Mako" = -50
+	"Makiko" = -50
+	"Maiko" = -50
+	"Mamako" = -50
+	"Maoko" = -50
+	"Mariko" = -50
+	"Masako" = -50
+	"Mashiko" = -50
+	"Masuko" = -50
+	"Meiko" = -50
+	"Michiko" = -50
+	"Midoriko" = -50
+	"Mihoko" = -50
+	"Mikako" = -50
+	"Mikoko" = -50
+	"Miko" = -50
+	"Miiko" = -50
+	"Mieko" = -50
+	"Mioko" = -50
+	"Miuko" = -50
+	"Minako" = -50
+	"Minoriko" = -50
+	"Miriko" = -50
+	"Misako" = -50
+	"Mitsuko" = -50
+	"Miwako" = -50
+	"Miyako" = -50
+	"Miyoko" = -50
+	"Miyuko" = -50
+	"Miyukiko" = -50
+	"Moeko" = -50
+	"Motoko" = -50
+	"Muneko" = -50
+	"Myôko" = -50
+	"Nahoko" = -50
+	"Nako" = -50
+	"Nagako" = -50
+	"Nagiko" = -50
+	"Nakako" = -50
+	"Namiko" = -50
+	"Naoko" = -50
+	"Natsuko" = -50
+	"Nayuko" = -50
+	"Neiko" = -50
+	"Neneko" = -50
+	"Nobuko" = -50
+	"Noriko" = -50
+	"Ôko" = -50
+	"Okiko" = -50
+	"Oyako" = -50
+	"Ranko" = -50
+	"Rihoko" = -50
+	"Reiko" = -50
+	"Remiko" = -50
+	"Renako" = -50
+	"Renko" = -50
+	"Rikako" = -50
+	"Riko" = -50
+	"Riiko" = -50
+	"Rieko" = -50
+	"Rimiko" = -50
+	"Rinko" = -50
+	"Rinako" = -50
+	"Ririko" = -50
+	"Risako" = -50
+	"Riseko" = -50
+	"Ritsuko" = -50
+	"Riwako" = -50
+	"Riyôko" = -50
+	"Ruiko" = -50
+	"Rumiko" = -50
+	"Ruriko" = -50
+	"Ryôko" = -50
+	"Ryuuko" = -50
+	"Sachiko" = -50
+	"Sadako" = -50
+	"Sahoko" = -50
+	"Sako" = -50
+	"Sâko" = -50
+	"Saeko" = -50
+	"Sakiko" = -50
+	"Sanako" = -50
+	"Satoko" = -50
+	"Sayako" = -50
+	"Sayuko" = -50
+	"Sayoko" = -50
+	"Sawako" = -50
+	"Sakurako" = -50
+	"Seiko" = -50
+	"Sechiko" = -50
+	"Sekiko" = -50
+	"Senko" = -50
+	"Seriko" = -50
+	"Setsuko" = -50
+	"Shiiko" = -50
+	"Shihoko" = -50
+	"Shigeko" = -50
+	"Shinako" = -50
+	"Shinko" = -50
+	"Shizuko" = -50
+	"Shôko" = -50
+	"Shuko" = -50
+	"Shukuko" = -50
+	"Sôko" = -50
+	"Soyoko" = -50
+	"Sukeko" = -50
+	"Sumiko" = -50
+	"Suzuko" = -50
+	"Tadako" = -50
+	"Taeko" = -50
+	"Takako" = -50
+	"Takiko" = -50
+	"Taneko" = -50
+	"Tatsuko" = -50
+	"Teiko" = -50
+	"Teruko" = -50
+	"Toako" = -50
+	"Tokiko" = -50
+	"Tomiko" = -50
+	"Tomoko" = -50
+	"Tonko" = -50
+	"Toshiko" = -50
+	"Toyoko" = -50
+	"Tôko" = -50
+	"Towako" = -50
+	"Tsukiko" = -50
+	"Tsugiko" = -50
+	"Tsunako" = -50
+	"Tsuneko" = -50
+	"Uiko" = -50
+	"Ujiko" = -50
+	"Umiko" = -50
+	"Utako" = -50
+	"Utsuko" = -50
+	"Wako" = -50
+	"Wakako" = -50
+	"Yaeko" = -50
+	"Yasuko" = -50
+	"Yawako" = -50
+	"Yayoko" = -50
+	"Yôko" = -50
+	"Yoriko" = -50
+	"Yoshiko" = -50
+	"Yotsuko" = -50
+	"Yuiko" = -50
+	"Yuko" = -50
+	"Yuuko" = -50
+	"Yukako" = -50
+	"Yukariko" = -50
+	"Yukiko" = -50
+	"Yukko" = -50
+	"Yumako" = -50
+	"Yumiko" = -50
+	"Yuriko" = -50
+	"Yutako" = -50
+}
+
+leader_names = {
+	Akamatsu Akechi Ashikaga Amago Kyogoku Rokkaku Asakura Asano Aso Chosokabe Date Hachisuka
+	Hatakeyama Hojo Hosokawa Ichijo Keda Imagawa Isshiki Ito Jinbo Kikuchi Kono Maeda
+	Matsunaga Mimura Miyoshi Mogami Mori Nabeshima Nagao Oda Ogasawara Otomo Ouchi
+	Ryuzoji Sagara Saito Sanada Satake Satomi Shiba Shibata Shimazu Shoni Takeda Toki
+	Tokugawa Matsudaira Toyotomi Tsutsui Uesugi Uragami Yamana Yamauchi
+}
+
+ship_names = {
+	"Mutsu Maru" "Dewa Maru" "Shimotsuke Maru"
+	"Hitachi Maru"
+	"Kazusa Maru" "Shimousa Maru" "Musashi Maru" "Kozuke Maru" "Izu Maru" "Echigo Maru" "Ettchu Maru"
+	"Kaga Maru" "Noto Maru" "Suruga Maru" "Totomi Maru" "Joshu Maru" "Enshu Maru" "Bushu Maru" "Esshu Maru"
+	"Mikawa Maru" "Ushu Maru" "Soushu Maru" "Boushu Maru" "Kai Maru" "Shinshu Maru" "Koshu Maru"
+	"Owari Maru" "Bishu Maru" "Mino Maru" "Echizen Maru" "Ise Maru" "Shima Maru" "Omi Maru"
+	"Goushu Maru" "Yamashiro Maru" "Wakasa Maru" "Tanba Maru" "Tango Maru" "Yamato Maru" "Kii Maru"
+	"Kishu Maru" "Iga Maru" "Awa Maru" "Sanuki Maru" "Tosa Maru"
+	"Iyo Maru" "Harima Maru" "Banshu Maru"
+	"Hoki Maru" "Inaba Maru" "Bizen Maru" "Mimasaka Maru" "Binshu Maru"
+	"Bingo Maru" "Bittchu Maru" "Aki Maru" "Izumo Maru" "Iwami Maru" "Suou Maru" "Nagato Maru" "Bungo Maru"
+	"Buzen Maru" "Chikuzen Maru"
+	"Chikugo Maru" "Hizen Maru" "Higo Maru" "Chikushu Maru" "Hyuga Maru" "Osumi Maru" "Satsuma Maru" "Sasshu Maru"
+}
+
+army_names = {
+	"$PROVINCE$ Ikki"
+}
+
+fleet_names = {
+	"$PROVINCE$ Suigun" "$PROVINCE$ Sendan" "$PROVINCE$ Tai"
+}

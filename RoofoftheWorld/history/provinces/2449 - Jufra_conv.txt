@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = TRP
-controller = TRP
-add_core = TRP
+owner = Y44
+controller = Y44
+add_core = Y44
 culture = berber
 religion = sunni
 citysize = 2000
-add_permanent_claim = Y44
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -813,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TRP
-	controller = TRP
+	owner = Y44
+	controller = Y44
 	culture = berber
 	religion = sunni
 }

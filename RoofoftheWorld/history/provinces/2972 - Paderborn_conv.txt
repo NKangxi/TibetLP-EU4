@@ -1,7 +1,8 @@
 ck2_converter_generated = yes
-owner = GER
-controller = GER
-add_core = GER
+owner = SAX
+controller = SAX
+add_core = SAX
+add_permanent_claim = GER
 culture = german
 religion = fraticelli
 citysize = 2000
@@ -115,7 +116,6 @@ discovered_by = ottoman
 	remove_core = MUN
 	remove_core = OLD
 	remove_core = POM
-	remove_core = SAX
 	remove_core = SIL
 	remove_core = SLZ
 	remove_core = THU
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = GER
-	controller = GER
+	owner = SAX
+	controller = SAX
 	culture = german
 	religion = fraticelli
 }

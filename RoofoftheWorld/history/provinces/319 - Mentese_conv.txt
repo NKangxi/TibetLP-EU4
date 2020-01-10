@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Z92
-controller = Z92
-add_core = Z92
+owner = Z93
+controller = Z93
+add_core = Z93
 culture = greek
 religion = yazidi
 citysize = 2000
@@ -814,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z92
-	controller = Z92
+	owner = Z93
+	controller = Z93
 	culture = greek
 	religion = yazidi
 }

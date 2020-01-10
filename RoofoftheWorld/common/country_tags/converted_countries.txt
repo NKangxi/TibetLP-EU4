@@ -220,3 +220,4 @@ X18 = countries/X18.txt
 X19 = countries/X19.txt
 X20 = countries/X20.txt
 X21 = countries/X21.txt
+X22 = countries/X22.txt

@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = KHA
-controller = KHA
+owner = TIB
+controller = TIB
+add_core = TIB
 add_core = KHA
 culture = tocharian
 religion = buddhism
@@ -290,7 +291,6 @@ discovered_by = ottoman
 	remove_core = NGP
 	remove_core = DGL
 	remove_core = YOR
-	remove_core = TIB
 	remove_core = GUG
 	remove_core = UTS
 	remove_core = BHU
@@ -812,9 +812,9 @@ discovered_by = ottoman
 	remove_core = JMN
 	remove_core = SYN
 }
-1444.11.11 = {
-	owner = KHA
-	controller = KHA
+1444.1.1 = {
+	owner = TIB
+	controller = TIB
 	culture = tocharian
 	religion = buddhism
 }

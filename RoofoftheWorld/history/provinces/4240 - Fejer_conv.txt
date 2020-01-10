@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = Z54
-controller = Z54
+owner = BAV
+controller = BAV
+add_core = BAV
 add_core = Z54
 culture = slovieni
 religion = waldensian
@@ -97,7 +98,6 @@ discovered_by = ottoman
 	remove_core = PIC
 	remove_core = ANH
 	remove_core = BAD
-	remove_core = BAV
 	remove_core = BOH
 	remove_core = MVA
 	remove_core = BRA
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z54
-	controller = Z54
+	owner = BAV
+	controller = BAV
 	culture = slovieni
 	religion = waldensian
 }

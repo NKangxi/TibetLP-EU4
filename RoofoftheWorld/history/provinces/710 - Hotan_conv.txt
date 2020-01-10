@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = KHA
-controller = KHA
-add_core = KHA
+owner = TIB
+controller = TIB
+add_core = TIB
 culture = saka
 religion = buddhism
 citysize = 2000
@@ -290,7 +290,6 @@ discovered_by = ottoman
 	remove_core = NGP
 	remove_core = DGL
 	remove_core = YOR
-	remove_core = TIB
 	remove_core = GUG
 	remove_core = UTS
 	remove_core = BHU
@@ -813,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = KHA
-	controller = KHA
+	owner = TIB
+	controller = TIB
 	culture = saka
 	religion = buddhism
 }

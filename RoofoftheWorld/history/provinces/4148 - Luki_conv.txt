@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = JOM
-controller = JOM
-add_core = JOM
+owner = Z86
+controller = Z86
+add_core = Z86
 culture = finnish
 religion = norse_pagan_reformed
 citysize = 2000
@@ -814,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = JOM
-	controller = JOM
+	owner = Z86
+	controller = Z86
 	culture = finnish
 	religion = norse_pagan_reformed
 }

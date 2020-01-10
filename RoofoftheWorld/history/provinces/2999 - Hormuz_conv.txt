@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = TIM
-controller = TIM
-add_core = TIM
+owner = KRM
+controller = KRM
+add_core = KRM
 culture = tibetan
 religion = bon
 citysize = 2000
@@ -812,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIM
-	controller = TIM
+	owner = KRM
+	controller = KRM
 	culture = tibetan
 	religion = bon
 }

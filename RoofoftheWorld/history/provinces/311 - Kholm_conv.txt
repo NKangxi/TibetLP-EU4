@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Z69
-controller = Z69
-add_core = Z69
+owner = Z86
+controller = Z86
+add_core = Z86
 culture = russian_culture
 religion = monothelite
 citysize = 2000
@@ -814,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z69
-	controller = Z69
+	owner = Z86
+	controller = Z86
 	culture = russian_culture
 	religion = monothelite
 }

@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Y10
-controller = Y10
-add_core = Y10
+owner = Y09
+controller = Y09
+add_core = Y09
 culture = mongol
 religion = bon
 citysize = 2000
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Y10
-	controller = Y10
+	owner = Y09
+	controller = Y09
 	culture = mongol
 	religion = bon
 }

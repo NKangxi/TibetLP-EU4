@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Y03
-controller = Y03
-add_core = Y03
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 culture = russian_culture
 religion = monothelite
 citysize = 2000
@@ -24,7 +24,6 @@ discovered_by = ottoman
 	remove_core = GOT
 	remove_core = KRL
 	remove_core = ICE
-	remove_core = BYZ
 	remove_core = BUL
 	remove_core = CRO
 	remove_core = GRE
@@ -813,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Y03
-	controller = Y03
+	owner = BYZ
+	controller = BYZ
 	culture = russian_culture
 	religion = monothelite
 }

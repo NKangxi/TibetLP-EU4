@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = KOJ
-controller = KOJ
-add_core = KOJ
+owner = IRQ
+controller = IRQ
+add_core = IRQ
 culture = kurdish
 religion = buddhism
 citysize = 2000
@@ -215,7 +215,6 @@ discovered_by = ottoman
 	remove_core = RUM
 	remove_core = AYD
 	remove_core = CND
-	remove_core = IRQ
 	remove_core = KAR
 	remove_core = SYR
 	remove_core = TRE
@@ -812,8 +811,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = KOJ
-	controller = KOJ
+	owner = IRQ
+	controller = IRQ
 	culture = kurdish
 	religion = buddhism
 }

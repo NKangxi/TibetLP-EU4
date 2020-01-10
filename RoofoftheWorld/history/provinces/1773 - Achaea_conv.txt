@@ -1,11 +1,11 @@
 ck2_converter_generated = yes
-owner = EPI
-controller = EPI
-add_core = EPI
+owner = GRE
+controller = GRE
+add_core = GRE
 culture = aztek
 religion = norse_pagan_reformed
 citysize = 2000
-add_permanent_claim = GRE
+add_permanent_claim = EPI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = EPI
-	controller = EPI
+	owner = GRE
+	controller = GRE
 	culture = aztek
 	religion = norse_pagan_reformed
 }

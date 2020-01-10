@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
-owner = TIM
-controller = TIM
+owner = MDA
+controller = MDA
 add_core = TIM
 culture = bedouin_arabic
 religion = yazidi
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIM
-	controller = TIM
+	owner = MDA
+	controller = MDA
 	culture = bedouin_arabic
 	religion = yazidi
 }

@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = TBR
-controller = TBR
-add_core = TBR
+owner = IRQ
+controller = IRQ
+add_core = IRQ
 culture = bedouin_arabic
 religion = yazidi
 citysize = 2000
@@ -215,7 +215,6 @@ discovered_by = ottoman
 	remove_core = RUM
 	remove_core = AYD
 	remove_core = CND
-	remove_core = IRQ
 	remove_core = KAR
 	remove_core = SYR
 	remove_core = TRE
@@ -813,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TBR
-	controller = TBR
+	owner = IRQ
+	controller = IRQ
 	culture = bedouin_arabic
 	religion = yazidi
 }

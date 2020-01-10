@@ -1,0 +1,25 @@
+#IKK - Ikko Ikki
+
+government = theocracy
+government_rank = 1
+primary_culture = kyushuan
+religion = vajrayana
+technology_group = chinese
+capital = 4182
+
+1000.1.1 = {
+	set_variable = { which = "centralization_decentralization" value = 2 }
+	add_absolutism = -100
+	add_absolutism = 30
+}
+
+1444.1.1 = {
+	monarch = {
+		name = "Tokiko"
+		birth_date = 1415.1.1
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

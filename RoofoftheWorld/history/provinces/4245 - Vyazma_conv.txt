@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = LIT
-controller = LIT
-add_core = LIT
+owner = JOM
+controller = JOM
+add_core = JOM
 culture = russian_culture
 religion = bogomilist
 citysize = 2000
@@ -303,7 +303,6 @@ discovered_by = ottoman
 	remove_core = SMO
 	remove_core = NZH
 	remove_core = KOJ
-	remove_core = JOM
 	remove_core = HAH
 	remove_core = ROM
 	remove_core = ISR
@@ -813,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = LIT
-	controller = LIT
+	owner = JOM
+	controller = JOM
 	culture = russian_culture
 	religion = bogomilist
 }

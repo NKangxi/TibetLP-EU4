@@ -1,7 +1,8 @@
 ck2_converter_generated = yes
-owner = TIM
-controller = TIM
+owner = Z50
+controller = Z50
 add_core = TIM
+add_core = Z50
 culture = cuman
 religion = zikri
 citysize = 2000
@@ -813,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIM
-	controller = TIM
+	owner = Z50
+	controller = Z50
 	culture = cuman
 	religion = zikri
 }

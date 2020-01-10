@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = KHI
-controller = KHI
-add_core = KHI
+owner = IRQ
+controller = IRQ
+add_core = IRQ
 culture = bedouin_arabic
 religion = paulician
 citysize = 2000
-add_permanent_claim = IRQ
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -216,7 +215,6 @@ discovered_by = ottoman
 	remove_core = RUM
 	remove_core = AYD
 	remove_core = CND
-	remove_core = IRQ
 	remove_core = KAR
 	remove_core = SYR
 	remove_core = TRE
@@ -813,8 +811,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = KHI
-	controller = KHI
+	owner = IRQ
+	controller = IRQ
 	culture = bedouin_arabic
 	religion = paulician
 }
