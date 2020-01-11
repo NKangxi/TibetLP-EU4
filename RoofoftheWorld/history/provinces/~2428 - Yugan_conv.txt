@@ -1,10 +1,11 @@
 ck2_converter_generated = yes
-owner = Z69
-controller = Z69
+owner = KHA
+controller = KHA
 add_core = KHA
-culture = mongol
-religion = sunni
+culture = kirgiz
+religion = tengri_pagan_reformed
 citysize = 2000
+add_core = Z76
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -812,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z69
-	controller = Z69
-	culture = mongol
-	religion = sunni
+	owner = KHA
+	controller = KHA
+	culture = kirgiz
+	religion = tengri_pagan_reformed
 }
