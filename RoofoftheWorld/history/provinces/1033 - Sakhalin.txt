@@ -1,18 +1,21 @@
-#4193 - Oshima
+#1033 - Sakhalin
 
+owner = ANU
+controller = ANU
+add_core = ANU
 culture = ainu
-religion = shinto
-capital = "Katsuyama"
-trade_goods = fish
+religion = animism
+capital = "Sakhalin"
+trade_goods = unknown
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-owner = ANU
-controller = ANU
-add_core = ANU
-add_core = AKT
-is_city = yes
+#is_city = yes
+native_size = 5
+native_ferocity = 1
+native_hostileness = 1
+
 
 
 discovered_by = JAP
@@ -57,8 +60,17 @@ discovered_by = UTN
 discovered_by = TTI
 discovered_by = ASK
 
-1514.1.1 = { capital = "Matsumae" }
-1590.8.10 = { remove_core = AKT add_core = ODA owner = ODA controller = ODA }
-1603.3.24 = { remove_core = ODA add_core = TKG owner = TKG controller = TKG }
+1542.1.1 = { discovered_by = POR }
+
+1636.5.15 = { add_core = TKG }
 1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
-1787.1.1 = { discovered_by = FRA }
+1679.1.1 = {
+	owner = TKG
+	controller = TKG
+	culture = togoku
+	religion = shinto
+	trade_goods = fish
+} # Russian & Japanese attemps at colonization
+#1704.1.1 = { add_core = JAP }
+1767.1.1 = { add_core = RUS }
+1787.1.1 = { discovered_by = FRA } # Jean-Francois de La Pérouse
