@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
-owner = BRA
-controller = BRA
+owner = BOH
+controller = BOH
 add_core = BOH
 culture = german
 religion = fraticelli
@@ -101,6 +101,7 @@ discovered_by = ottoman
 	remove_core = BAD
 	remove_core = BAV
 	remove_core = MVA
+	remove_core = BRA
 	remove_core = BRE
 	remove_core = BRU
 	remove_core = GER
@@ -813,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = BRA
-	controller = BRA
+	owner = BOH
+	controller = BOH
 	culture = german
 	religion = fraticelli
 }

@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = Z01
-controller = Z01
+owner = DAN
+controller = DAN
+add_core = DAN
 add_core = Z01
 culture = danish
 religion = fraticelli
@@ -815,8 +816,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z01
-	controller = Z01
+	owner = DAN
+	controller = DAN
 	culture = danish
 	religion = fraticelli
 }

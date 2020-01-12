@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = KHA
-controller = KHA
+owner = SIB
+controller = SIB
+add_core = SIB
 add_core = KHA
 culture = khanty
 religion = animism
@@ -813,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = KHA
-	controller = KHA
+	owner = SIB
+	controller = SIB
 	culture = khanty
 	religion = animism
 }
