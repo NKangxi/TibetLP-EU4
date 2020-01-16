@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = KHA
-controller = KHA
+owner = SHY
+controller = SHY
+add_core = SHY
 add_core = KHA
 add_core = TIM
 culture = persian
@@ -398,7 +399,6 @@ discovered_by = ottoman
 	remove_core = SLE
 	remove_core = TET
 	remove_core = MRK
-	remove_core = SHY
 	remove_core = KOK
 	remove_core = QAR
 	remove_core = CIR
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = KHA
-	controller = KHA
+	owner = SHY
+	controller = SHY
 	culture = persian
 	religion = hinduism
 }

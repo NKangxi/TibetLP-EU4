@@ -1051,7 +1051,7 @@ TIB_ideas = {
 	
 	trigger = {
 		primary_culture = tibetan
-		religion = vajrayana 
+		religion = bon 
 	}
 	free = yes       #will be added at load.
 	

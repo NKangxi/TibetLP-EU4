@@ -6,6 +6,7 @@ add_core = KHA
 culture = tocharian
 religion = buddhism
 citysize = 2000
+hre = yes
 add_core = Z76
 discovered_by = eastern
 discovered_by = western

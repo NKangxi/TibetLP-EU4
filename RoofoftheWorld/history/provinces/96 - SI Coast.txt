@@ -1,3 +1,8 @@
+owner = Z11
+controller = Z11
+add_core = Z11
+hre = no
+
 1444.11.11 = {
 	discovered_by = AZT
 }

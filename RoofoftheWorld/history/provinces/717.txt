@@ -1,7 +1,8 @@
-owner = KHA
-controller = KHA
+owner = OIR
+controller = OIR
+add_core = OIR
 add_core = KHA
 1444.11.11 = {
-	owner = KHA
-	controller = KHA
+	owner = OIR
+	controller = OIR
 }
