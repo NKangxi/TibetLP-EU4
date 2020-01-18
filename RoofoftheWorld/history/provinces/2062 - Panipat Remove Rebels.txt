@@ -6,6 +6,7 @@ add_core = TIB
 culture = panjabi
 religion = hinduism
 citysize = 2000
+hre = yes
 
 1444.11.11 = {
 	owner = TIB

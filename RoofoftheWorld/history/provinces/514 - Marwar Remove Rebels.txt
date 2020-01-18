@@ -5,3 +5,4 @@ controller = TIB
 add_core = TIB
 culture = tibetan
 religion = bon
+hre = yes
