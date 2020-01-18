@@ -5,7 +5,6 @@ disable_time_widget = yes
 disallow_random_new_world = yes
 normal_or_historical_nations = no
 supported_version = "1.29.*.*"
-replace_path="history/provinces"
 replace_path = "common/countries/Iceland.txt"
 replace_path = "history/countries/ICE - Iceland.txt"
 replace_path = "common/countries/Ireland.txt"
