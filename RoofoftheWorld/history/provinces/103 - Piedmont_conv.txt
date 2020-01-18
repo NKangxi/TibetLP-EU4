@@ -1,6 +1,4 @@
 ck2_converter_generated = yes
-owner = MOD
-controller = MOD
 add_core = MOD
 culture = italian
 religion = zikri
@@ -813,8 +811,6 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = MOD
-	controller = MOD
 	culture = italian
-	religion = zikri
+	religion = sunni
 }

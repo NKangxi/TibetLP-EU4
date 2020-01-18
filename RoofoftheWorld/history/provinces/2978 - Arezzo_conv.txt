@@ -1,6 +1,5 @@
 ck2_converter_generated = yes
-owner = Z33
-controller = Z33
+
 add_core = Z33
 culture = aztek
 religion = norse_pagan_reformed
@@ -815,8 +814,6 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z33
-	controller = Z33
 	culture = aztek
 	religion = norse_pagan_reformed
 }

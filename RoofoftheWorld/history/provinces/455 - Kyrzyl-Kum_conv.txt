@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = KHA
-controller = KHA
-add_core = KHA
+owner = KHI
+controller = KHI
+add_core = KHI
 culture = cuman
 religion = tengri_pagan_reformed
 citysize = 2000
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = KHA
-	controller = KHA
+	owner = KHI
+	controller = KHI
 	culture = cuman
 	religion = tengri_pagan_reformed
 }

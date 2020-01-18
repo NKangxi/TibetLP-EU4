@@ -1,1 +1,4 @@
+owner = WCR
+controller = WCR
+add_core = WCR
 discovered_by = high_american

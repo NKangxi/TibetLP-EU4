@@ -1,1 +1,7 @@
+owner = HUR
+
+controller = HUR
+
+add_core = HUR
+
 discovered_by = high_american

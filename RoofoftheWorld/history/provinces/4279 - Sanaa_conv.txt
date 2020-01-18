@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = Y32
-controller = Y32
-add_core = Y32
+owner = ETH
+controller = ETH
+add_core = ETH
 culture = amhara
 religion = hinduism
 citysize = 2000
-add_permanent_claim = ETH
 add_permanent_claim = Y21
 discovered_by = eastern
 discovered_by = western
@@ -815,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Y32
-	controller = Y32
+	owner = ETH
+	controller = ETH
 	culture = amhara
 	religion = hinduism
 }

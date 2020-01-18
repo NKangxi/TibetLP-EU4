@@ -1,0 +1,11 @@
+#1096 - Cape Verde
+
+capital = "Cape Verde"
+owner = MAL
+controller = MAL
+add_core = MAL
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1

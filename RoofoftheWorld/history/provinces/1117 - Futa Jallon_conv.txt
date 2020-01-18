@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = HAU
-controller = HAU
-add_core = HAU
+owner = MAL
+controller = MAL
+add_core = MAL
 culture = mali
 religion = sunni
 citysize = 2000
-add_permanent_claim = MAL
 add_core = X13
 discovered_by = eastern
 discovered_by = western
@@ -814,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = HAU
-	controller = HAU
+	owner = MAL
+	controller = MAL
 	culture = mali
 	religion = sunni
 }

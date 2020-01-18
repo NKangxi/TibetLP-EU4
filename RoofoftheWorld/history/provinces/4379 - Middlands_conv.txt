@@ -1,7 +1,5 @@
 ck2_converter_generated = yes
-owner = MTH
-controller = MTH
-add_core = MTH
+
 culture = irish
 religion = cathar
 citysize = 2000
@@ -813,8 +811,6 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = MTH
-	controller = MTH
 	culture = irish
 	religion = cathar
 }
