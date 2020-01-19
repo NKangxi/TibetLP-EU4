@@ -177,7 +177,7 @@ feudalism = {
 }
 
 #######################################
-# Renaissance
+# Alt-Renaissance - TO BE RENAMED
 # 
 # Flows from italy
 #######################################
@@ -192,7 +192,7 @@ renaissance = {
 
 
 	historical_start_date = 1450.1.1
-	historical_start_province = 116 # Florence
+	historical_start_province = 820 # Quito - in Peru, near Central America
 
 	history = {
 		is_year = 1450
@@ -202,10 +202,12 @@ renaissance = {
 		is_year = 1450
 		development = 21
 		is_state = yes
-		NOT = { province_id = 126 }
 		is_island = no
-		NOT = { region = moluccas_region }
-		NOT = { region = indonesia_region }
+		OR = {
+			region = peru_region
+			area = popayan_area
+			area = coquivacoa_area
+		}
 	}
 	start_chance = 5		#in 100 for when a province can_start
 	

@@ -362,16 +362,19 @@ BSR = "countries/Basra.txt"
 MGR = "countries/Maregh.txt"
 QOM = "countries/Qom.txt"
 
-#Americas
-AZT = "countries/Aztec.txt"
+#North America
 CHE = "countries/Cherokee.txt"
-CHM = "countries/Chimu.txt"
 CRE = "countries/Creek.txt"
 HUR = "countries/Huron.txt"
-INC = "countries/Inca.txt"
 IRO = "countries/Iroquois.txt"
-MAY = "countries/Maya.txt"
 SHA = "countries/Shawnee.txt"
+
+#South America
+AZT = "countries/Aztec.txt"
+QUI = "countries/Quito.txt"
+CHM = "countries/Chimu.txt"
+INC = "countries/Inca.txt"
+MAY = "countries/Maya.txt"
 ZAP = "countries/Zapotec.txt"
 
 #Africa
@@ -534,18 +537,30 @@ SST	= "countries/Shan.txt"
 SUK	= "countries/Sukhothai.txt"
 SUL	= "countries/Sulu.txt"
 TAU	= "countries/Taungu.txt"
-TIB	= "countries/Tibet.txt"
 TOK	= "countries/Tonkin.txt"
 VIE	= "countries/Vientiane.txt"
 CZH = "countries/Zhou.txt"
 CSH = "countries/Shun.txt"
 CXI = "countries/Xi.txt"
 YUA = "countries/GreatYuan.txt"
+FRM = "countries/Formosa.txt"
+
+# Tibetan Empire
+TIB	= "countries/Tibet.txt"
+LNK = "countries/Lanka.txt"
+GOA = "countries/Goa.txt"
 
 # 1.27 steppe tags
 ILK = "countries/Ilkhanate.txt"
 KLM = "countries/Kalmyk.txt"
 MGE = "countries/MongolEmpire.txt"
+
+# 1.29 new tags
+SOO = "countries/So.txt" # Japanese potential pirate daimyo
+NVK = "countries/Nivkh.txt" # Split from Yeren
+SOL = "countries/Solon.txt" # Split from Yeren
+EJZ = "countries/EastJianzhou.txt" # Split from Jianzhou
+NHX = "countries/NorthHaixi.txt" # Split from Haixi
 
 #Manchuria tags
 MYR = "countries/Yeren.txt"
@@ -882,11 +897,6 @@ LIB = "countries/Libertatia.txt"
 JMN = "countries/Jan Mayen.txt"
 ROM = "countries/RomanEmpire.txt"
 SYN = "countries/Synthetics.txt"
-
-# New tags for Tibetlp
-IKK = "countries/IkkoIkki.txt"
-GOA = "countries/Goa.txt"
-LNK = "countries/Lanka.txt"
 
 #Converter tags:
 #JOM = countries/Jomsvikings.txt

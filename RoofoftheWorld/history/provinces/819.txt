@@ -1,6 +1,11 @@
-owner = INC
-controller = INC
-add_core = INC
+owner = QUI
+controller = QUI
+add_core = QUI
+
+base_tax = 5
+base_production = 4
+	base_manpower = 7
+
 culture = inca
 religion = inti
 discovered_by = high_american
@@ -8,10 +13,9 @@ discovered_by = mesoamerican
 discovered_by = andean
 citysize = 1000
 
-1444.11.11 = {
-	owner = INC
-	controller = INC
-	culture = inca
-	religion = inti
-}
-
+1444.11.11 = {
+	owner = QUI
+	controller = QUI
+	culture = inca
+	religion = inti
+}

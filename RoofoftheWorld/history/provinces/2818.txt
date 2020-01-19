@@ -9,6 +9,9 @@ discovered_by = andean
 citysize = 1000
 
 1444.11.11 = {
+	base_tax = 7
+	base_production = 7
+	base_manpower = 7
 	owner = INC
 	controller = INC
 	culture = inca
