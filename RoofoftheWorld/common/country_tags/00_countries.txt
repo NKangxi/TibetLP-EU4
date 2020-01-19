@@ -549,6 +549,7 @@ FRM = "countries/Formosa.txt"
 TIB	= "countries/Tibet.txt"
 LNK = "countries/Lanka.txt"
 GOA = "countries/Goa.txt"
+TKH = "countries/SacredHierarchy.txt"
 
 # 1.27 steppe tags
 ILK = "countries/Ilkhanate.txt"

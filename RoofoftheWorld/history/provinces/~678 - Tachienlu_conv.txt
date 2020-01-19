@@ -1,7 +1,6 @@
 ck2_converter_generated = yes
-owner = TKH
-controller = TKH
-add_core = TKH
+owner = TIB
+controller = TIB
 add_core = TIB
 culture = tibetan
 religion = bon
@@ -13,8 +12,8 @@ discovered_by = muslim
 discovered_by = ottoman
 1444.11.11 = {
 	hre = no
-	base_tax = 5
-	base_production = 5
+	base_tax = 3
+	base_production = 3
 	base_manpower = 2
 	remove_core = SCA
 	remove_core = SWE
@@ -814,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TKH
-	controller = TKH
+	owner = TIB
+	controller = TIB
 	culture = tibetan
 	religion = bon
 }
