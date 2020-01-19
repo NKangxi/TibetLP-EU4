@@ -885,6 +885,8 @@ SYN = "countries/Synthetics.txt"
 
 # New tags for Tibetlp
 IKK = "countries/IkkoIkki.txt"
+GOA = "countries/Goa.txt"
+LNK = "countries/Lanka.txt"
 
 #Converter tags:
 #JOM = countries/Jomsvikings.txt

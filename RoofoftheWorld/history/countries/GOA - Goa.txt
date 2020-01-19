@@ -1,0 +1,23 @@
+#GOA - Goa
+
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+mercantilism = 25
+primary_culture = tibetan
+add_accepted_culture = kannada
+religion = bon
+technology_group = indian
+capital = 2030	# Goa
+fixed_capital = 2030 # Cannot move capital away from this province & no power cost to move to it
+
+1394.1.1 = {
+	monarch = {
+		name = "We Mangammal"
+		birth_date = 1387.2.12
+		adm = 3
+		dip = 1
+		mil = 1
+		female = yes
+	}
+}

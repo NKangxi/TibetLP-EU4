@@ -1,0 +1,30 @@
+government = monarchy
+add_government_reform = nayankara_reform
+technology_group = indian
+religion = bon
+primary_culture = tibetan
+capital = 572 # Kotte
+
+1408.1.1 = {
+	monarch = {
+		name = "Parakramabahu"
+		dynasty = "Savulu"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1408.1.1 = {
+	heir = {
+		name = "Jayabahu"
+		monarch_name = "Jayabahu"
+		dynasty = "Savulu"
+		birth_date = 1408.1.1
+		death_date = 1470.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
