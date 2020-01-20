@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-native_size = 4
-native_ferocity = 8
-native_hostileness = 5
+owner = Z02
+controller = Z02
+add_core = Z02
 culture = aztek
 religion = norse_pagan_reformed
 citysize = 2000
@@ -812,6 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
+owner = Z02
+controller = Z02
 	culture = aztek
 	religion = norse_pagan_reformed
 }

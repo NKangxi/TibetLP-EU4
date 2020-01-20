@@ -3,7 +3,7 @@
 owner = IKK
 controller = IKK
 culture = japanese
-religion = shinto
+religion = vajrayana
 capital = "Tomo"
 trade_goods = grain
 hre = no

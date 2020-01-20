@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = ENG
-controller = ENG
+owner = ARA
+controller = ARA
+add_core = ARA
 add_core = ENG
 culture = bedouin_arabic
 religion = sunni
@@ -812,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = ENG
-	controller = ENG
+	owner = ARA
+	controller = ARA
 	culture = bedouin_arabic
 	religion = sunni
 }

@@ -1,7 +1,7 @@
 #1014 - Bungo
 
-owner = IKK
-controller = IKK
+owner = SOO
+controller = SOO
 culture = kyushuan
 religion = vajrayana
 capital = "Funai"
@@ -12,7 +12,7 @@ base_production = 2
 base_manpower = 3
 is_city = yes
 add_core = OTM
-add_core = IKK
+add_core = SOO
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA

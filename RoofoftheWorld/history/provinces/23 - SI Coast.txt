@@ -1,3 +1,6 @@
 1444.11.11 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
 	discovered_by = AZT
 }

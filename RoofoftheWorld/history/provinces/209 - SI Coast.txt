@@ -1,3 +1,6 @@
 1444.11.11 = {
+	owner = Z23
+	controller = Z23
+	add_core = Z23
 	discovered_by = AZT
 }

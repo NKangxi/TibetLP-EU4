@@ -899,6 +899,9 @@ JMN = "countries/Jan Mayen.txt"
 ROM = "countries/RomanEmpire.txt"
 SYN = "countries/Synthetics.txt"
 
+#New tags for TibetLP (might be sorted later)
+IKK = "countries/IkkoIkki.txt"
+
 #Converter tags:
 #JOM = countries/Jomsvikings.txt
 #HAH = countries/Hashshashin.txt

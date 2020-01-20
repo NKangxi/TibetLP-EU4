@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = Z02
+controller = Z02
+add_core = Z02
 culture = scottish
 religion = cathar
 citysize = 2000
@@ -812,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = ENG
-	controller = ENG
+owner = Z02
+controller = Z02
 	culture = scottish
 	religion = cathar
 }
