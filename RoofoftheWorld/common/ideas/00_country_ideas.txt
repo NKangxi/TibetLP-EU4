@@ -2,9 +2,51 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or ideas, make sure they are unique.
 
+### Modded in idea groups start here.
+### Use Ayutthaya, just below, as an example. Localization is handled in "powers_and_ideas_l_english.yml."
 
+AYU_ideas = {
+	start = {
+		land_morale = 0.05
+		army_tradition = 0.25
+	}
+	
+	bonus = {
+		infantry_fire = 1
+	}
+	
+	trigger = {
+		tag = AYU
+	}
+	free = yes
+	
+	trishula_battalions = {
+		discipline = 0.025
+	}
+	corvee_system = {
+		global_manpower_modifier = 0.10
+	}
+	the_great_fiery_weapon = {
+		siege_ability = 0.15
+	}
+	reform_the_peerage = {
+		core_creation = -0.20
+	}
+	bodhi_king = {
+		legitimacy = 0.25
+		tolerance_own = 0.5
+	}
+	personal_executions = {
+		stability_cost_modifier = -0.1
+	}
+	phrai_luang = {
+		global_unrest = -1
+	}
+}
 
-### Nation specific idea groups
+### Modded in idea groups end here.
+
+### Nation specific idea groups (from the converter, etc.)
 
 ENG_ideas = {
 	trigger = {
