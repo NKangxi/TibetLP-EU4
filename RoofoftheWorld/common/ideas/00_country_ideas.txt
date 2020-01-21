@@ -60,7 +60,7 @@ URU_ideas = {
 	free = yes
 
 	
-	diplomatic_initiative = {
+	diplomatic_initiative_uru = {
 		diplomatic_reputation = 1
 	}
 	the_high_plain = {
@@ -80,6 +80,46 @@ URU_ideas = {
 	}
 	sunday_markets = {
 		trade_efficiency = 0.2
+	}
+}
+
+TIB_ideas = {
+	start = {
+		legitimacy = 1
+		hostile_attrition = 0.5
+		may_recruit_female_generals = yes
+		female_advisor_chance = 0.35
+	}
+	
+	bonus = {
+		years_of_nationalism = -5
+	}
+	
+	trigger = {
+		tag = TIB
+	}
+	free = yes
+	
+	mount_lasya = {
+		prestige_decay = -0.01
+	}
+	the_unbroken_line = {
+		imperial_authority = 0.1
+	}
+	mountain_guardians = {
+		leader_land_shock = 1
+	}
+	formal_tribute = {
+		vassal_income = 0.2
+	}
+	potala_palace = {
+		diplomatic_reputation = 1
+	}
+	royal_universities = {
+		idea_cost = -0.075
+	}
+	the_empire_eternal = {
+		core_creation = -0.15
 	}
 }
 
