@@ -123,6 +123,89 @@ TIB_ideas = {
 	}
 }
 
+TIM_ideas = {
+	start = {
+		cavalry_shock = 1
+		ae_impact = -0.2
+	}
+
+	bonus = {
+		army_tradition_decay = -0.1
+	}
+
+	trigger = {
+		tag = TIM
+	}
+	free = yes
+
+	
+	saddle_lords = {
+		cav_to_inf_ratio = 0.1
+	}
+	shield_bonpo = {
+		institution_spread_from_true_faith = 0.1
+	}
+	legacy_timur = {
+		prestige_decay = -0.01
+		global_manpower_modifier = 0.1
+	}
+	mobile_artillery = {
+		artillery_shock = 1
+	}
+	elite_overseers = {
+		production_efficiency = 0.05
+	}
+	open_courts = {
+		num_accepted_cultures = 2
+	}
+	lords_of_war = {
+		discipline = 0.1
+		ship_durability = 0.1
+	}
+}
+
+# Jerusalem Raj
+Y21_ideas = {
+	start = {
+		tolerance_heretic = 1
+		prestige = 0.5
+	}
+
+	bonus = {
+		naval_forcelimit_modifier = 0.15
+	}
+
+	trigger = {
+		tag = Y21
+	}
+	free = yes
+
+	
+	haute_cour = {
+		advisor_cost = -0.15
+		advisor_pool = 1
+	}
+	holy_land_for_all = {
+		religious_unity = 0.5
+	}
+	end_silk_road = {
+		trade_range_modifier = 0.25
+	}
+	masters_mediterranean = {
+		galley_cost = -0.1
+		galley_power = 0.1
+	}
+	student_exchange = {
+		embracement_cost = -0.1
+	}
+	gilded_daggers = {
+		justify_trade_conflict_cost = -0.2
+	}
+	house_of_groves = {
+		global_ship_cost = -0.1
+	}
+}
+
 ### Modded in idea groups end here.
 
 ### Nation specific idea groups (from the converter, etc.)
