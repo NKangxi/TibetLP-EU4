@@ -1,0 +1,19 @@
+government = republic
+add_government_reform = free_city
+
+government_rank = 2
+primary_culture = tamil
+religion = hinduism
+technology_group = chinese
+capital = 536 # Madurai	
+add_army_professionalism = 0.05
+
+1440.10.15 = {
+	monarch = {
+		name = "Virappa"
+		birth_date = 1393.8.12
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}

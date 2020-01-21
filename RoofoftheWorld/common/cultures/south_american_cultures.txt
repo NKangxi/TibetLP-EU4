@@ -1,0 +1,21 @@
+andean_group = {
+	graphical_culture = southamericagfx
+	
+	lupihaques = {
+		primary = URU
+		dynasty_names = {
+			Guacricaur Tacaynamo Tiso Nancempinco Chilche Maras Luyes Maila Illa Rimac
+		}
+		male_names = {
+			"Anco Coyuch" "Caja Cimcim" "Chumun Caur" "Guaman Chumu" "Michan Caman" "Guari Cur" "Nancen Pico" 
+			"Tacaynamo" "Aiyotechapun" "Buvaovamu" "Caja Cápac" "Cama Bergu" "Chumtiku" "Cuyuchi" "Docoshamu" 
+			"Draytonamu" "Ehenymacu" "Felan Tamuc" "Gusmango" "Ilsayunamu" "Jotiantikaka" "Katitika" "Litun" 
+			"Melantonan" "Michan Chimor" "Muhton Belan" "Nartamamu" "Nehuametepun" "Opolcynamun" "Pacatmamu" 
+			"Puznaymun" "Relyen Padnu" "Seton Apac" "Seran Tugun" "Taracun" "Troynuremo" "Urtyantemu" 
+			"Yetuniamu" "Zergoetanu" "Orco" "Vetsalynun" 
+		}
+		female_names = {
+			Axomamma Cavillaca Kantuta Nina Ana Maiara
+		}
+	}
+}

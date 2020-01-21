@@ -1,0 +1,30 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+technology_group = indian
+religion = bon
+primary_culture = rajput
+capital = 2230 # Chakhansur
+
+1432.1.1 = {
+	monarch = {
+		name = "Faridun"
+		dynasty = "Afridi"
+		birth_date = 1400.5.27
+		ADM = 2
+		DIP = 1
+		MIL = 5
+	}
+}
+
+1436.4.18 = {
+	heir = {
+		name = "Olasyar"
+		monarch_name = "Olasyar"
+		dynasty = "Afridi"
+		birth_date = 1416.2.12
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 3
+	}
+}

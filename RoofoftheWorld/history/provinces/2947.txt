@@ -1,17 +1,14 @@
-owner = INC
-controller = INC
-add_core = INC
-culture = inca
+owner = URU
+controller = URU
+add_core = URU
+
+base_tax = 7
+base_production = 8
+base_manpower = 5
+
+culture = lupihaques
 religion = inti
 discovered_by = high_american
 discovered_by = mesoamerican
 discovered_by = andean
 citysize = 1000
-
-1444.11.11 = {
-	owner = INC
-	controller = INC
-	culture = inca
-	religion = inti
-}
-

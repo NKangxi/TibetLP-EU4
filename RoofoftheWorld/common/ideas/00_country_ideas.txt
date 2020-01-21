@@ -44,6 +44,45 @@ AYU_ideas = {
 	}
 }
 
+URU_ideas = {
+	start = {
+		diplomatic_reputation = 1
+		caravan_power = 0.2
+	}
+
+	bonus = {
+		land_morale = 0.1
+	}
+
+	trigger = {
+		tag = URU
+	}
+	free = yes
+
+	
+	diplomatic_initiative = {
+		diplomatic_reputation = 1
+	}
+	the_high_plain = {
+		development_cost = -0.1
+	}
+	free_macanas = {
+		mercenary_cost = -0.15
+	}
+	crossroads_andes = {
+		merchants = 1
+	}
+	titicaca_university = {
+		global_institution_spread = 0.1
+	}
+	highland_fortress = {
+		hostile_attrition = 1
+	}
+	sunday_markets = {
+		trade_efficiency = 0.2
+	}
+}
+
 ### Modded in idea groups end here.
 
 ### Nation specific idea groups (from the converter, etc.)

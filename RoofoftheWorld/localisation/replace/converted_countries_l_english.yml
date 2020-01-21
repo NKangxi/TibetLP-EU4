@@ -447,6 +447,7 @@
  X22_ADJ: "Han"
  MNG: "Jin"
  MNG_ADJ: "Jin"
+ 
  IKK: "Ikko-Ikki"
  IKK_ADJ: "Ikko-Ikki"
  BAV:0 "Carantania"
@@ -457,3 +458,7 @@
  LNK_ADJ:0 "Lankan"
  TKH:0 "Sacred Hierarchy"
  TKH_ADJ:0 "Hierarchic"
+ PSH:0 "Pashtunistan"
+ PSH_ADJ:0 "Pashtun"
+ URU:0 "Lupihaques"
+ URU_ADJ: "Lupihaques"
