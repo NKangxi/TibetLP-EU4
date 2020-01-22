@@ -206,6 +206,92 @@ Y21_ideas = {
 	}
 }
 
+# Jin Dynasty
+MNG_ideas = {
+	start = {
+		improve_relation_modifier = 0.25
+		global_tax_modifier = 0.1
+	}
+
+	bonus = {
+		administrative_efficiency = 0.1
+	}
+
+	trigger = {
+		tag = MNG
+	}
+	free = yes
+
+	
+	interfaith_scholarship = {
+		tolerance_heathen = 2
+		tolerance_heretic = 2
+	}
+	the_land_of_gold = {
+		trade_steering = 0.1
+		global_trade_power = 0.1
+	}
+	imperial_education_reform = {
+		yearly_corruption = -0.1
+		female_advisor_chance = 0.3
+	}
+	pacification_of_china = {
+		stability_cost_modifier = -0.1
+	}
+	sterling_reputation = {
+		diplomatic_reputation = 1
+	}
+	expand_the_wuxue = {
+		army_tradition_decay = -0.01
+		may_recruit_female_generals = yes
+	}
+	triple_platinum = {
+		production_efficiency = 0.2
+		inflation_reduction = -0.1
+	}
+}
+
+IKK_ideas = {
+	start = {
+		tolerance_own = 1
+		core_creation = -0.15
+	}
+
+	bonus = {
+		global_missionary_strength = 0.02
+	}
+
+	trigger = {
+		tag = IKK
+	}
+	free = yes
+
+	
+	advance_salvation_retreat_hell = {
+		land_morale = 0.2
+	}
+	plowshares_to_swords = {
+		manpower_recovery_speed = 0.1
+	}
+	loyalist_strongholds = {
+		enemy_core_creation = 0.2
+		hostile_attrition = 0.75
+	}
+	beneath_suspicion = {
+		spy_offence = 0.33
+	}
+	commoner_shinobi = {
+		siege_ability = 0.15
+		infantry_power = 0.1
+	}
+	liberator_common_man = {
+		years_of_nationalism = -5
+	}
+	unity_state_citizen = {
+		global_autonomy = -0.025
+	}
+}
+
 ### Modded in idea groups end here.
 
 ### Nation specific idea groups (from the converter, etc.)

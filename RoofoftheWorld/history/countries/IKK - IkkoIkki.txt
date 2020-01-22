@@ -1,6 +1,8 @@
 #IKK - Ikko Ikki
 
-government = theocracy
+government = republic
+add_government_reform = peasants_republic
+
 government_rank = 1
 primary_culture = kyushuan
 religion = vajrayana
