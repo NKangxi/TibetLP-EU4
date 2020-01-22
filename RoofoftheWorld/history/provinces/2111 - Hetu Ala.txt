@@ -2,6 +2,7 @@
 
 owner = MNG
 controller = MNG
+add_core = MNG
 add_core = MJZ
 culture = manchu
 religion = confucianism

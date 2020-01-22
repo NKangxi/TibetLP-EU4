@@ -3,7 +3,7 @@
 owner = KOR
 controller = KOR
 culture = manchu
-religion = confucianism
+religion = vajrayana
 capital = "Gyeongseong"
 trade_goods = fur
 hre = no

@@ -3,7 +3,7 @@ owner = TIB
 controller = TIB
 add_core = TIB
 culture = chihan
-religion = confucianism
+religion = bon
 citysize = 2000
 add_core = Y96
 discovered_by = eastern
@@ -812,12 +812,7 @@ discovered_by = ottoman
 	remove_core = JMN
 	remove_core = SYN
 }
-1444.11.11 = {
-	owner = TIB
-	controller = TIB
-	culture = chihan
-	religion = confucianism
-}
+
 add_permanent_province_modifier = {
 	name = wonder_university
 	duration = -1

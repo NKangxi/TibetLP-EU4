@@ -1,15 +1,16 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
-add_core = TIB
+owner = KJH
+controller = KJH
+add_core = KJH
 culture = bengali
-religion = buddhism
+religion = hinduism
 citysize = 2000
 add_core = ORI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
 1444.11.11 = {
 	hre = yes
 	base_tax = 4
@@ -810,10 +811,4 @@ discovered_by = ottoman
 	remove_core = LIB
 	remove_core = JMN
 	remove_core = SYN
-}
-1444.11.11 = {
-	owner = TIB
-	controller = TIB
-	culture = bengali
-	religion = buddhism
 }

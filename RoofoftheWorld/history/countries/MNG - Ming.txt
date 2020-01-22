@@ -2,11 +2,10 @@ government = monarchy
 add_government_reform = celestial_empire
 government_rank = 3
 technology_group = chinese
-add_harmonized_religion = buddhism
 capital = 1821	# Nanjing
 
 primary_culture = tibetan
-religion = mahayana
+religion = mahayanaadd_accepted_culture = wuadd_accepted_culture = jin
 1375.11.2 = {
 	monarch = {
 		name = "Jingzu"

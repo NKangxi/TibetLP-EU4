@@ -5,7 +5,7 @@ controller = X22
 add_core = X22
 
 culture = polynesian
-religion = animism
+religion = confucianism
 capital = "Middag"
 trade_goods = unknown
 hre = no
