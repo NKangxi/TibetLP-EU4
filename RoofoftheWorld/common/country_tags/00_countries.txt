@@ -547,13 +547,24 @@ YUA = "countries/GreatYuan.txt"
 FRM = "countries/Formosa.txt"
 
 # Tibetan Empire
+
+# Northeast / Imperial Core
 TIB	= "countries/Tibet.txt"
-LNK = "countries/Lanka.txt"
-GOA = "countries/Goa.txt"
 TKH = "countries/SacredHierarchy.txt"
+
+# Southeast
+MAD = "countries/Madurai.txt"
+LNK = "countries/Lanka.txt"
+
+#Southwest
+GOA = "countries/Goa.txt"
+GUJ = "countries/Gujarat.txt"
+JLV = "countries/Jhalavad.txt"
+PTL = "countries/Palitana.txt"
+
+# Northwest
 PUN = "countries/Punjab.txt"
 PSH = "countries/Pashtun.txt"
-MAD = "countries/Madurai.txt"
 
 # 1.27 steppe tags
 ILK = "countries/Ilkhanate.txt"
@@ -623,7 +634,6 @@ MYS = "countries/Mysore.txt"
 VIJ = "countries/Vijaynagara.txt"
 AHM = "countries/Ahmadnagar.txt"
 ASS = "countries/Assam.txt"
-GUJ = "countries/Gujarat.txt"
 JNP = "countries/Jaunpur.txt"
 MLW = "countries/Malwa.txt"
 MAW = "countries/Marwar.txt"
@@ -678,12 +688,9 @@ SDY = "countries/Sadiya.txt"
 BHA = "countries/Bharat.txt"
 YOR	= "countries/Andhra.txt"
 DGL = "countries/Maldives.txt"
-
 MBL = "countries/Bishnupur.txt"
 SKK = "countries/Sikkim.txt"
 IDR = "countries/Idar.txt"
-JLV = "countries/Jhalavad.txt"
-PTL = "countries/Palitana.txt"
 NVR = "countries/Navanagar.txt"
 RJK = "countries/Rajkot.txt"
 JGD = "countries/Junagarh.txt"

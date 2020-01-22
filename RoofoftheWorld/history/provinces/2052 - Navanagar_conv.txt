@@ -1,11 +1,11 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
-add_core = TIB
+owner = GUJ
+controller = GUJ
+add_core = GUJ
 culture = gujarati
-religion = bon
+religion = hinduism
 citysize = 2000
-add_core = Y51
+add_core = JLV
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -811,10 +811,4 @@ discovered_by = ottoman
 	remove_core = LIB
 	remove_core = JMN
 	remove_core = SYN
-}
-1444.11.11 = {
-	owner = TIB
-	controller = TIB
-	culture = gujarati
-	religion = bon
 }

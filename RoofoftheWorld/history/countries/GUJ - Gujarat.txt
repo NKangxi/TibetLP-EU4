@@ -1,13 +1,13 @@
 # Gujarat
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 2
+government_rank = 1
 mercantilism = 0.1
 technology_group = indian
 primary_culture = gujarati
-religion = bon
+religion = hinduism
 clear_scripted_personalities = yes
-capital = 2053
+capital = 2052 # Halar
 1425.6.8 = {
 	monarch = {
 		name = "Gungtsen"
@@ -19,9 +19,4 @@ capital = 2053
 	}
 	add_ruler_personality = conqueror_personality
 	add_ruler_personality = strict_personality
-}
-1444.11.11 = {
-	capital = 2053
-	add_treasury = 286
-	add_prestige = 882
 }
