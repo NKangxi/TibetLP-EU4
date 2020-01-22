@@ -3,7 +3,7 @@
 owner = SOO
 controller = SOO
 culture = kyushuan
-religion = vajrayana
+religion = shinto
 capital = "Funai"
 trade_goods = tropical_wood
 hre = no

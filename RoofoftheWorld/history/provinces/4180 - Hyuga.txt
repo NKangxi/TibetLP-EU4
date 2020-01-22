@@ -3,7 +3,7 @@
 owner = SOO
 controller = SOO
 culture = kyushuan
-religion = vajrayana
+religion = shinto
 capital = "Obi"
 trade_goods = livestock
 hre = no

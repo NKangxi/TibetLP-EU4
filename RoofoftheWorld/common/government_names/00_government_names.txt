@@ -24,9 +24,18 @@ vajrayana_peasant_republic = {
 		2 = DAIBIAO
 		3 = DAIBIAO
 	}
+	
+	trigger = {
+		AND = {
+			has_reform = peasants_republic
+			religion = vajrayana
+		}
+	}
 }
 
 ### Modded part ends here
+
+# Okay that should do it for Japan.
 
 pirate_government = {
 	rank = {
@@ -414,46 +423,6 @@ holy_roman_electors_bishoprics = {
 		government = theocracy
 		is_elector = yes
 		is_emperor = no
-	}
-}
-
-#Shogunate
-
-japanese_shogunate = {
-	rank = {
-		3 = EMPIRE
-		2 = KINGDOM
-		1 = DAIMYO
-	}
-
-	ruler_male = {
-		3 = SHOGUN
-		2 = KING
-		1 = LORD		
-	}
-	
-	ruler_female = {
-		3 = SHOGUNESS
-		2 = QUEEN
-		1 = LADY		
-	}
-	
-	consort_male = {
-		1 = LORD
-		2 = LORD
-		3 = LORD
-	}
-
-	consort_female = {
-		1 = LADY
-		2 = LADY
-		3 = LADY
-	}
-
-	trigger = {
-		tag = JAP
-		government = monarchy
-		NOT = { has_reform = shogunate }
 	}
 }
 

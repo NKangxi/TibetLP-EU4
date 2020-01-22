@@ -3,7 +3,7 @@
 owner = IKK
 controller = IKK
 culture = japanese
-religion = vajrayana
+religion = shinto
 capital = "Nakamura"
 trade_goods = naval_supplies
 hre = no
