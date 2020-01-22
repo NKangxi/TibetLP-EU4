@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
-owner = BAV
-controller = BAV
+owner = XXX
+controller = XXX
 add_core = BAV
 culture = carantanian
 religion = bogomilist
@@ -812,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = BAV
-	controller = BAV
+	owner = XXX
+	controller = XXX
 	culture = carantanian
 	religion = bogomilist
 }

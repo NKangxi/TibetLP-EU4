@@ -1,2 +1,10 @@
-discovered_by = high_american
+owner = MAH
+controller = MAH
+add_core = MAH
+discovered_by = high_american
+citysize = 1000
 
+1444.11.11 = {
+	owner = MAH
+	controller = MAH
+}

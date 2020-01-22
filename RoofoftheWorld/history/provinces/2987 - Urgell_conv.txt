@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
-owner = ARA
-controller = ARA
+owner = XXX
+controller = XXX
 add_core = ENG
 culture = catalan
 religion = waldensian
@@ -812,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = ARA
-	controller = ARA
+	owner = XXX
+	controller = XXX
 	culture = catalan
 	religion = waldensian
 }

@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
-owner = Z23
-controller = Z23
+owner = XXX
+controller = XXX
 add_core = Z23
 culture = andalucian
 religion = yazidi
@@ -814,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z23
-	controller = Z23
+	owner = XXX
+	controller = XXX
 	culture = andalucian
 	religion = yazidi
 }

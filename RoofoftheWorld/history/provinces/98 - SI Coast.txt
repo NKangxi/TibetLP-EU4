@@ -1,8 +1,9 @@
-owner = Z11
-controller = Z11
-add_core = Z11
+owner = XXX
+controller = XXX
 hre = no
 
 1444.11.11 = {
+	owner = XXX
+	controller = XXX
 	discovered_by = AZT
 }

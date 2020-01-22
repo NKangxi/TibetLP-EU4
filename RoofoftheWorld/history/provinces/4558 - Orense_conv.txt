@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
-owner = FRA
-controller = FRA
+owner = XXX
+controller = XXX
 add_core = FRA
 culture = bedouin_arabic
 religion = yazidi
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = FRA
-	controller = FRA
+	owner = XXX
+	controller = XXX
 	culture = bedouin_arabic
 	religion = yazidi
 }

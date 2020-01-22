@@ -1,2 +1,11 @@
-discovered_by = high_american
+owner = GUA
+controller = GUA
+add_core = GUA
+discovered_by = high_american
 
+
+
+1444.11.11 = {
+    owner = GUA
+    controller = GUA
+}

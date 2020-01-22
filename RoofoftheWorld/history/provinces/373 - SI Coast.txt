@@ -1,12 +1,12 @@
 ck2_converter_generated = yes
-owner = IRE
-controller = IRE
+owner = XXX
+controller = XXX
 add_core = IRE
 culture = irish
 religion = norse_pagan_reformed
 
 1444.11.11 = {
-	owner = IRE
-	controller = IRE
+	owner = XXX
+	controller = XXX
 	discovered_by = AZT
 }

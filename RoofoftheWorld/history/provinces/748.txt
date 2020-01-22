@@ -1,8 +1,9 @@
-owner = XXX
-controller = XXX
+owner = TPA
+controller = TPA
+add_core = TPA
 discovered_by = high_american
 
 1444.11.11 = {
-    owner = XXX
-    controller = XXX
+    owner = TPA
+    controller = TPA
 }

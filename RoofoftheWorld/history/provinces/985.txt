@@ -1,2 +1,9 @@
-discovered_by = high_american
+owner = MIK
+controller = MIK
+add_core = MIK
+discovered_by = high_american
 
+1444.11.11 = {
+    owner = MIK
+    controller = MIK
+}

@@ -1,2 +1,9 @@
-discovered_by = high_american
+owner = PEQ
+controller = PEQ
+add_core = PEQ
+discovered_by = high_american
 
+1444.11.11 = {
+    owner = PEQ
+    controller = PEQ
+}

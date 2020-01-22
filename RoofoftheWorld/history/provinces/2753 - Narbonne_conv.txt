@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
-owner = ENG
-controller = ENG
+owner = XXX
+controller = XXX
 add_core = ENG
 culture = occitain
 religion = zikri
@@ -812,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = ENG
-	controller = ENG
+	owner = XXX
+	controller = XXX
 	culture = occitain
 	religion = zikri
 }

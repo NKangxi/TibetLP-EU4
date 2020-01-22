@@ -1,2 +1,8 @@
-discovered_by = high_american
+owner = TPA
+controller = TPA
+discovered_by = high_american
 
+1444.11.11 = {
+    owner = TPA
+    controller = TPA
+}
