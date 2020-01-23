@@ -1,5 +1,7 @@
 ck2_converter_generated = yes
 
+owner = XXX
+controller = XXX
 add_core = Z02
 culture = dutch
 religion = waldensian
@@ -812,6 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
+	owner = XXX
+	controller = XXX
 	culture = dutch
 	religion = waldensian
 }

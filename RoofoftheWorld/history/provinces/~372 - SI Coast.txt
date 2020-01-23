@@ -1,5 +1,3 @@
 1444.11.11 = {
-	owner = XXX
-	controller = XXX
 	discovered_by = AZT
 }
