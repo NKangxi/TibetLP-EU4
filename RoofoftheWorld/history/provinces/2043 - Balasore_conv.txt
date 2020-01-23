@@ -1,8 +1,8 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
-add_core = TIB
-culture = tibetan
+owner = ORI
+controller = ORI
+add_core = ORI
+culture = oriya
 religion = hinduism
 citysize = 2000
 add_core = ORI

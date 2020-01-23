@@ -374,6 +374,45 @@ MAL_ideas = {
 	}
 }
 
+Y56_ideas = {
+	start = {
+		tolerance_heretic = 3
+		light_ship_cost = -0.15
+	}
+
+	bonus = {
+		global_trade_power = 0.2
+	}
+
+	trigger = {
+		tag = Y56
+	}
+	free = yes
+
+	ganges_of_the_south = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	arcot_steel = {
+		global_regiment_cost = 0.1
+	}
+	diamonds_of_the_sea = {
+		ship_durability = 0.1
+	}
+	merchant_ambassadors = {
+		trade_range_modifier = 0.3
+	}
+	swordpoint_discount = {
+		privateer_efficiency = 0.2
+	}
+	mines_into_quarries = {
+		development_cost = -0.05
+		build_cost = -0.1
+	}
+	calicut_blackpowder = {
+		artillery_fire = 1
+	}
+}
+
 ### Modded in idea groups end here.
 
 ### Unique Daimyo ideas (copied over from vanilla, since they somehow got wiped in the conversion).

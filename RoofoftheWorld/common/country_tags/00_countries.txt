@@ -553,6 +553,7 @@ TIB	= "countries/Tibet.txt"
 TKH = "countries/SacredHierarchy.txt"
 
 # Southeast
+TNJ = "countries/Tanjore.txt"
 MAD = "countries/Madurai.txt"
 LNK = "countries/Lanka.txt"
 
@@ -718,7 +719,6 @@ SRM = "countries/Sirmur.txt"
 KTU = "countries/Kathmandu.txt"
 KMN = "countries/Kumaon.txt"
 GNG = "countries/Gingee.txt"
-TNJ = "countries/Tanjore.txt"
 SRH = "countries/Sirhind.txt"
 RJP = "countries/Rajputana.txt"
 

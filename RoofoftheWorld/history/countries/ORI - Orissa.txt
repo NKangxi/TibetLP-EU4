@@ -1,13 +1,15 @@
 # Orissa
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 2
+government = republic
+add_government_reform = oligarchy_reform
+
+government_rank = 1
 mercantilism = 0.1
-technology_group = indian
+technology_group = chinese
 primary_culture = oriya
-religion = bon
+religion = hinduism
+
 clear_scripted_personalities = yes
-capital = 552
+capital = 552 # Cuttack
 1406.12.26 = {
 	monarch = {
 		name = "Lingpa"

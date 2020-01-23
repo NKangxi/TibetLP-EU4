@@ -311,8 +311,6 @@
  Y54_ADJ: "Nulambvadian"
  Y55: "Xia"
  Y55_ADJ: "Xia"
- Y56: "Tamilakam"
- Y56_ADJ: "Tamilakam"
  Y57: "Herat"
  Y57_ADJ: "Heratian"
  Y58: "Ngari"
@@ -445,9 +443,9 @@
  X21_ADJ: "Strymonian"
  X22: "Han"
  X22_ADJ: "Han"
+ 
  MNG: "Jin"
  MNG_ADJ: "Jin"
- 
  IKK: "Ikko-Ikki"
  IKK_ADJ: "Ikko-Ikki"
  BAV:0 "Carantania"
@@ -464,3 +462,5 @@
  URU_ADJ: "Lupihaques"
  IRO:0 "Haudenosaunee"
  IRO_ADJ:0 "Haudenosaunee"
+ Y56: "Tamilakam"
+ Y56_ADJ: "Tamilakam"

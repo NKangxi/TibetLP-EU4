@@ -1,25 +1,19 @@
 ck2_converter_generated = yes
-owner = Y56
-controller = Y56
-add_core = Y56
+owner = TIB
+controller = TIB
+add_core = TIB
 culture = tamil
-religion = buddhism
-
-1444.11.11 = {
-	owner = Y56
-	controller = Y56
-}
-
-add_core = KRK
+religion = bon
 citysize = 2000
+add_core = Y56
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 1444.11.11 = {
-	hre = yes
-	base_tax = 4
-	base_production = 4
+	hre = no
+	base_tax = 2
+	base_production = 2
 	base_manpower = 2
 	remove_core = SCA
 	remove_core = SWE
@@ -303,6 +297,7 @@ discovered_by = ottoman
 	remove_core = KAM
 	remove_core = KGR
 	remove_core = GHR
+	remove_core = NPL
 	remove_core = HSA
 	remove_core = BAR
 	remove_core = SMO
@@ -816,4 +811,10 @@ discovered_by = ottoman
 	remove_core = LIB
 	remove_core = JMN
 	remove_core = SYN
+}
+1444.11.11 = {
+	owner = TIB
+	controller = TIB
+	culture = tamil
+	religion = bon
 }
