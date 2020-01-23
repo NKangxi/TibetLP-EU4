@@ -507,4 +507,11 @@
  HEIR_fem:0 "Heiress"
  
  #modded
+ SACRED_HIERARCHY:0 "Sacred Hierarchy"
+ DIVINE_EMPIRE:0 "Divine Empire"
+ 
  DAIBIAO:0 "Dàibiao"
+ ARCHPRIEST:0 "Archpriest"
+ ARCHPRIESTESS:0 "Archpriestess"
+ PRIEST-KING:0 "Priest-King"
+ PRIEST-QUEEN:0 "Priest-Queen"

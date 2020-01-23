@@ -33,9 +33,34 @@ vajrayana_peasant_republic = {
 	}
 }
 
-### Modded part ends here
+sacred_hierarchy = {
+	rank = {
+		1 = SACRED_HIERARCHY
+		2 = SACRED_HIERARCHY
+		3 = DIVINE_EMPIRE
+	}
 
-# Okay that should do it for Japan.
+	ruler_male = {
+		1 = ARCHPRIEST
+		2 = ARCHPRIEST
+		3 = PRIEST-KING
+	}
+
+	ruler_female = {
+		1 = ARCHPRIESTESS
+		2 = ARCHPRIESTESS
+		3 = PRIEST-QUEEN
+	}
+
+	trigger = {
+		AND = {
+			government = theocracy
+			tag = TKH
+		}
+	}
+}
+
+### Modded part ends here
 
 pirate_government = {
 	rank = {
