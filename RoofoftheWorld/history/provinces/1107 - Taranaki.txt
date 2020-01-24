@@ -1,0 +1,13 @@
+#1107 - Taranaki
+owner = AOT
+controller = AOT
+add_core = AOT
+
+culture = polynesian
+religion = animism
+hre = no
+trade_goods = unknown
+base_manpower = 2
+base_tax = 3 
+base_production = 3
+capital = "Taranaki"

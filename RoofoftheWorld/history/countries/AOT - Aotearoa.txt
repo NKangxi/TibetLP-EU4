@@ -1,0 +1,18 @@
+government = republic
+add_government_reform = noble_elite_reform
+government_rank = 1
+primary_culture = polynesian
+religion = animism
+technology_group = chinese
+
+capital = 1108	# Tauranga
+
+1440.10.15 = {
+	monarch = {
+		name = "Ataahua"
+		birth_date = 1390.10.5
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}

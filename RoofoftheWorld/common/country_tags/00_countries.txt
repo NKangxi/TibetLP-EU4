@@ -910,6 +910,7 @@ SYN = "countries/Synthetics.txt"
 
 #New tags for TibetLP (might be sorted later)
 IKK = "countries/IkkoIkki.txt"
+AOT = "countries/Aotearoa.txt"
 
 #Converter tags:
 #JOM = countries/Jomsvikings.txt

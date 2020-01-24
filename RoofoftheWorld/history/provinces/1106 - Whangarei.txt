@@ -1,0 +1,13 @@
+#1106 - Whangarei
+owner = AOT
+controller = AOT
+add_core = AOT
+
+culture = polynesian
+religion = animism
+hre = no
+trade_goods = unknown
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+capital = "Whangarei"

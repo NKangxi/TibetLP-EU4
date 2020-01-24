@@ -413,11 +413,50 @@ Y56_ideas = {
 	}
 }
 
+AOT_ideas {
+	start = {
+		ship_durability = 0.15
+		global_unrest = -1
+	}
+
+	bonus = {
+		production_efficiency = 0.15
+	}
+
+	trigger = {
+		tag = AOT
+	}
+	free = yes
+
+	introduce_eastern_crops_maori = {
+		development_cost = -0.15
+	}
+	inter_island_shipping = {
+		trade_efficiency = 0.1
+		trade_range_modifier = 0.2
+	}
+	maori_hillforts = {
+		defensiveness = 0.2
+	}
+	polyglot_crews = {
+		diplomatic_reputation = 1
+	}
+	maori_colonists = {
+		colonists = 1
+	}
+	masters_of_the_ocean = {
+		heavy_ship_cost = -0.1
+	}
+	mana_overflowing = {
+		prestige = 1
+	}
+}
+
 ### Modded in idea groups end here.
 
 ### Unique Daimyo ideas (copied over from vanilla, since they somehow got wiped in the conversion).
 ### A couple of them mentioned Christianity and that doesn't really make much sense anymore and I don't
-###		feel like untangling that right now so they stay generic for the time being I think.
+###		feel like untangling that right now, so those daimyo will stay generic for the time being I think.
 HTK_ideas = {
 	start = {
 		land_morale = 0.1

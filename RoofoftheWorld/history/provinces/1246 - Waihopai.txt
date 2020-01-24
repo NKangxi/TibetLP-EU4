@@ -1,0 +1,13 @@
+#1246 - Waihopai
+owner = AOT
+controller = AOT
+add_core = AOT
+
+culture = polynesian
+religion = animism
+capital = "Waihopai"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1

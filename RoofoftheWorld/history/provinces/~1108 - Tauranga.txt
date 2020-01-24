@@ -1,0 +1,13 @@
+#1108 - Tauranga
+owner = AOT
+controller = AOT
+add_core = AOT
+
+culture = polynesian
+religion = animism
+hre = no
+capital = "Tauranga"
+trade_goods = unknown
+base_tax = 6 
+base_production = 6
+base_manpower = 1
