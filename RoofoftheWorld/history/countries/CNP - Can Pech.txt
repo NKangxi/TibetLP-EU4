@@ -4,9 +4,9 @@ government = tribal
 add_government_reform = tribal_despotism
 primary_culture = yucatec
 religion = mesoamerican_religion
-technology_group = mesoamerican
+technology_group = high_american
 capital = 845
-historical_rival = COC
+historical_rival = AZT
 
 1399.1.1 = {
 	monarch = {

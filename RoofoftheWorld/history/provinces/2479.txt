@@ -1,2 +1,4 @@
 discovered_by = high_american
-
+owner = YKT
+controller = YKT
+add_core = YKT

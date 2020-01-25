@@ -4,7 +4,7 @@ government = tribal
 add_government_reform = tribal_despotism
 primary_culture = yucatec
 religion = mesoamerican_religion
-technology_group = mesoamerican
+technology_group = high_american
 capital = 843
 
 1431.1.1 = {
