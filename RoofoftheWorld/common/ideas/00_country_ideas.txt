@@ -438,7 +438,7 @@ AOT_ideas {
 	maori_hillforts = {
 		defensiveness = 0.2
 	}
-	polyglot_crews = {
+	powhiri_and_mihi = {
 		diplomatic_reputation = 1
 	}
 	maori_colonists = {
