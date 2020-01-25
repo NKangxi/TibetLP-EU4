@@ -1,16 +1,16 @@
-owner = AZT
-controller = AZT
+owner = COC
+controller = COC
 add_core = AZT
-culture = aztek
+culture = yucatec
 religion = nahuatl
 discovered_by = mesoamerican
 discovered_by = high_american
 citysize = 1000
 
 1444.11.11 = {
-	owner = AZT
-	controller = AZT
-	culture = aztek
+	owner = COC
+	controller = COC
+	culture = yucatec
 	religion = nahuatl
 }
 
