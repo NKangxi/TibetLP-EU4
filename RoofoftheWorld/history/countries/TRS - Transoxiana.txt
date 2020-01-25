@@ -1,0 +1,19 @@
+technology_group = muslim
+primary_culture = cuman
+religion = zikri
+government = monarchy
+add_government_reform = iqta
+capital = 454 # Samarkand
+religious_school = hanafi_school
+
+1409.5.13 = {
+	monarch = {
+		name = "Ulugh Beg"
+		dynasty = "Timurid"
+		birth_date = 1394.1.1
+		claim = 50
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}

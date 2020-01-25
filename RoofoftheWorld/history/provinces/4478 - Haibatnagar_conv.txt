@@ -3,13 +3,20 @@ owner = TIB
 controller = TIB
 add_core = TIB
 culture = bengali
-religion = buddhism
+religion = bon
 citysize = 2000
 add_core = Y51
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+1444.11.11 = {
+	owner = TIB
+	controller = TIB
+	religion = bon
+}
+
 1444.11.11 = {
 	hre = yes
 	base_tax = 2
@@ -811,10 +818,4 @@ discovered_by = ottoman
 	remove_core = LIB
 	remove_core = JMN
 	remove_core = SYN
-}
-1444.11.11 = {
-	owner = TIB
-	controller = TIB
-	culture = bengali
-	religion = buddhism
 }

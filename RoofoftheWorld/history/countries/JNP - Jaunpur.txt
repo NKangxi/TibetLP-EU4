@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = indian_sultanate_reform
+technology_group = indian
+religion = bon
+primary_culture = avadhi
+capital = 555	# Jaunpur
+
+1436.1.1 = {
+	monarch = {
+		name = "Mahmud Shah"
+		dynasty = "Sharqi"
+		ADM = 3
+		DIP = 4
+		MIL = 1
+	}
+}

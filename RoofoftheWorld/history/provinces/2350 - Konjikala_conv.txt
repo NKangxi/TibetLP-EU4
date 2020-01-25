@@ -5,7 +5,7 @@ add_core = SHY
 add_core = KHA
 add_core = TIM
 culture = persian
-religion = hinduism
+religion = zikri
 citysize = 2000
 discovered_by = eastern
 discovered_by = western
@@ -811,10 +811,4 @@ discovered_by = ottoman
 	remove_core = LIB
 	remove_core = JMN
 	remove_core = SYN
-}
-1444.11.11 = {
-	owner = SHY
-	controller = SHY
-	culture = persian
-	religion = hinduism
 }
