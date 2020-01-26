@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = TIM
-controller = TIM
+owner = OMA
+controller = OMA
+add_core = OMA
 add_core = TIM
 culture = tibetan
 religion = bon
@@ -194,7 +195,6 @@ discovered_by = ottoman
 	remove_core = OKA
 	remove_core = BLO
 	remove_core = RSO
-	remove_core = OMA
 	remove_core = HED
 	remove_core = ALH
 	remove_core = ARB
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIM
-	controller = TIM
+	owner = OMA
+	controller = OMA
 	culture = tibetan
 	religion = bon
 }

@@ -1,8 +1,9 @@
 ck2_converter_generated = yes
-owner = TIM
-controller = TIM
+owner = ORM
+controller = ORM
+add_core = ORM
 add_core = TIM
-culture = bedouin_arabic
+culture = gulf_arabic
 religion = yazidi
 citysize = 2000
 add_permanent_claim = Y21
@@ -197,7 +198,6 @@ discovered_by = ottoman
 	remove_core = HED
 	remove_core = ALH
 	remove_core = ARB
-	remove_core = ORM
 	remove_core = NAJ
 	remove_core = YEM
 	remove_core = MHR
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIM
-	controller = TIM
+	owner = ORM
+	controller = ORM
 	culture = bedouin_arabic
 	religion = yazidi
 }

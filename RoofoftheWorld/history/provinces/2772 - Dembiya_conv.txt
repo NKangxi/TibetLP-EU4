@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = Y32
-controller = Y32
+owner = ETH
+controller = ETH
+add_core = ETH
 add_core = Y32
 culture = nubian
 religion = sunni
@@ -248,7 +249,6 @@ discovered_by = ottoman
 	remove_core = YZD
 	remove_core = AZT
 	remove_core = MAL
-	remove_core = ETH
 	remove_core = ALO
 	remove_core = MAK
 	remove_core = SON
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Y32
-	controller = Y32
+	owner = ETH
+	controller = ETH
 	culture = nubian
 	religion = sunni
 }

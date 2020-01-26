@@ -1,1 +1,3 @@
-1444.11.11 = { revolt = {} }
+owner = ETH
+controller = ETH
+add_core = ETH
