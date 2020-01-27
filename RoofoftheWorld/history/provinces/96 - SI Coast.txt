@@ -4,5 +4,8 @@ add_core = Z11
 hre = no
 
 1444.11.11 = {
+	base_tax = 1
+	base_production = 1
+	base_manpower = 2
 	discovered_by = AZT
 }

@@ -3,6 +3,9 @@ controller = XXX
 hre = no
 
 1444.11.11 = {
+	base_tax = 1
+	base_production = 1
+	base_manpower = 1
 	owner = XXX
 	controller = XXX
 	discovered_by = AZT

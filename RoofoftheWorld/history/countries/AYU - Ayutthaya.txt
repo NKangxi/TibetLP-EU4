@@ -71,7 +71,7 @@ add_army_professionalism = 0.05
 		claim = 95
 		adm = 6
 		dip = 2
-		mil = 2
+		mil = 6
 	}
 }
 
