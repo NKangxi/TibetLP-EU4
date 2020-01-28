@@ -371,12 +371,12 @@ SHA = "countries/Shawnee.txt"
 
 #South America - as modded
 AZT = "countries/Aztec.txt"
-QUI = "countries/Quito.txt"
 CHM = "countries/Chimu.txt"
 INC = "countries/Inca.txt"
 MAY = "countries/Maya.txt"
 ZAP = "countries/Zapotec.txt"
 URU = "countries/Lupihaques.txt"
+QTO = "countries/Quito.txt"
 
 #Africa
 ASH = "countries/Ashanti.txt"
@@ -858,7 +858,6 @@ CSU = "countries/Cusco.txt"
 CCQ = "countries/Calchaqui.txt"
 MPC = "countries/Mapuche.txt"
 MCA = "countries/Muisca.txt"
-QTO = "countries/Quito.txt"
 CJA = "countries/Cajamarca.txt"
 HJA = "countries/Huyla.txt"
 PTG = "countries/Potiguara.txt"

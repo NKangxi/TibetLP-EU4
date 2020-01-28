@@ -376,7 +376,8 @@ MAL_ideas = {
 
 Y56_ideas = {
 	start = {
-		tolerance_heretic = 3
+		tolerance_heretic = 1
+		tolerance_heathen = 1
 		light_ship_cost = -0.15
 	}
 
@@ -393,7 +394,7 @@ Y56_ideas = {
 		global_trade_goods_size_modifier = 0.1
 	}
 	arcot_steel = {
-		global_regiment_cost = 0.1
+		global_regiment_cost = -0.1
 	}
 	diamonds_of_the_sea = {
 		ship_durability = 0.1

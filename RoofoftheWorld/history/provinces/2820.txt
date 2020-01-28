@@ -1,12 +1,12 @@
-owner = QUI
-controller = QUI
-add_core = QUI
+owner = QTO
+controller = QTO
+add_core = QTO
 
 base_tax = 5
 base_production = 5
 base_manpower = 3
 
-culture = inca
+culture = caran
 religion = inti
 discovered_by = high_american
 discovered_by = mesoamerican
@@ -14,8 +14,8 @@ discovered_by = andean
 citysize = 1000
 
 1444.11.11 = {
-	owner = QUI
-	controller = QUI
-	culture = inca
+	owner = QTO
+	controller = QTO
+	culture = caran
 	religion = inti
 }

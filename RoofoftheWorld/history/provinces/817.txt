@@ -1,7 +1,7 @@
-owner = QUI
-controller = QUI
-add_core = QUI
-culture = inca
+owner = QTO
+controller = QTO
+add_core = QTO
+culture = caran
 religion = inti
 discovered_by = high_american
 discovered_by = mesoamerican
@@ -12,7 +12,7 @@ citysize = 1000
 	base_tax = 4
 	base_production = 2
 	base_manpower = 3
-	culture = inca
+	culture = caran
 	religion = inti
 }
 
