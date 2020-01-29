@@ -1,0 +1,40 @@
+# Bavaria
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = carantanian
+religion = bogomilist
+clear_scripted_personalities = yes
+capital = 2957
+1432.1.14 = {
+	monarch = {
+		name = "Tihodrag"
+		birth_date = 1407.2.21
+		dynasty = "Askarid"
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
+}
+1435.2.24 = {
+	heir = {
+		name = "Kocelj"
+		monarch_name = "Kocelj"
+		dynasty = "Askarid"
+		birth_date = 1435.2.24
+		death_date = 1515.2.24
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 2957
+	add_treasury = 35
+	add_prestige = 284
+}

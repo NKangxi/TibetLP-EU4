@@ -1,4 +1,4 @@
-# Iraq
+# Iraq/ Yi Rak
 government = theocracy
 add_government_reform = leading_clergy_reform
 government_rank = 2
@@ -12,7 +12,7 @@ capital = 420
 	monarch = {
 		name = "Tsen"
 		birth_date = 1381.2.6
-		dynasty = " Azerbaijan"
+		dynasty = "We"
 		adm = 3
 		dip = 2
 		mil = 2

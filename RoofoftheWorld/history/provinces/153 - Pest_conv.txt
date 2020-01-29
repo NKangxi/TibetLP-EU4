@@ -6,6 +6,7 @@ culture = slovieni
 religion = orthodox
 citysize = 2000
 add_core = Z55
+capital = "Budimpešta"
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

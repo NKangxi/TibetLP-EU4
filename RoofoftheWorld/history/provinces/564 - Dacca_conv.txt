@@ -5,6 +5,7 @@ add_core = TIB
 culture = bengali
 religion = bon
 citysize = 2000
+capital = "Takha"
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

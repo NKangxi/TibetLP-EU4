@@ -6,6 +6,7 @@ culture = carantanian
 religion = bogomilist
 citysize = 2000
 add_core = HAB
+capital = "Dunaj"
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

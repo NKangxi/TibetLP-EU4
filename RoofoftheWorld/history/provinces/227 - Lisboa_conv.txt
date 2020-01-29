@@ -6,6 +6,7 @@ culture = norse
 religion = norse_pagan_reformed
 citysize = 2000
 add_core = Z26
+capital = "Lissabon"
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
