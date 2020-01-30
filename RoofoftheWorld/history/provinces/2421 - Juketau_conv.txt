@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = KHA
-controller = KHA
+owner = KAZ
+controller = KAZ
+add_core = KAZ
 add_core = KHA
 culture = samoyed
 religion = norse_pagan_reformed
@@ -240,7 +241,6 @@ discovered_by = ottoman
 	remove_core = SIB
 	remove_core = KZH
 	remove_core = BUK
-	remove_core = KAZ
 	remove_core = CHG
 	remove_core = KHO
 	remove_core = LDK
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = KHA
-	controller = KHA
+	owner = KAZ
+	controller = KAZ
 	culture = samoyed
 	religion = norse_pagan_reformed
 }
