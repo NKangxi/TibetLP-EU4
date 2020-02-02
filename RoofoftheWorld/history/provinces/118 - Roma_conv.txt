@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
-owner = Z33
-controller = Z33
+owner = XXX
+controller = XXX
 add_core = Z33
 culture = italian
 religion = paulician
@@ -814,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z33
-	controller = Z33
+	owner = XXX
+	controller = XXX
 	culture = italian
 	religion = paulician
 }
