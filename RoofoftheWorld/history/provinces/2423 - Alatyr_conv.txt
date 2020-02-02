@@ -1,9 +1,10 @@
 ck2_converter_generated = yes
-owner = KHA
-controller = KHA
+owner = KAZ
+controller = KAZ
+add_core = KAZ
 add_core = KHA
-culture = mongol
-religion = sunni
+culture = khazar
+religion = karaite_faith
 citysize = 2000
 add_core = Z76
 discovered_by = eastern
@@ -813,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = KHA
-	controller = KHA
-	culture = mongol
-	religion = sunni
+	owner = KAZ
+	controller = KAZ
+	culture = khazar
+	religion = karaite_faith
 }

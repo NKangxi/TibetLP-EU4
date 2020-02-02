@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = KHA
-controller = KHA
+owner = PRM
+controller = PRM
+add_core = PRM
 add_core = KHA
 culture = komi
 religion = bon
@@ -185,7 +186,6 @@ discovered_by = ottoman
 	remove_core = TVE
 	remove_core = YAR
 	remove_core = PLT
-	remove_core = PRM
 	remove_core = ZAZ
 	remove_core = FEO
 	remove_core = BSH
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = KHA
-	controller = KHA
+	owner = PRM
+	controller = PRM
 	culture = komi
 	religion = bon
 }

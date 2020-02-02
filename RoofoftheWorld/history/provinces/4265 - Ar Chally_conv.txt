@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = KHA
-controller = KHA
+owner = Y14
+controller = Y14
+add_core = Y14
 add_core = KHA
 culture = mongol
 religion = bon
@@ -813,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = KHA
-	controller = KHA
+	owner = Y14
+	controller = Y14
 	culture = mongol
 	religion = bon
 }

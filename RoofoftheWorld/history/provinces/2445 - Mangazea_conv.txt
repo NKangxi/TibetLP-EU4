@@ -813,6 +813,7 @@ discovered_by = ottoman
 	remove_core = JMN
 	remove_core = SYN
 }
+
 1444.11.11 = {
 	owner = SIB
 	controller = SIB
