@@ -3,6 +3,8 @@ discovered_by = high_american
 owner = MAL
 controller = MAL
 add_core = MAL
+culture = mali
+religion = sunni
 
 1444.1.1 = { discovered_by = MAL }
 
