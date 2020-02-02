@@ -6,6 +6,9 @@ mercantilism = 0.1
 technology_group = indian
 primary_culture = tibetan
 religion = bon
+
+elector = yes
+
 clear_scripted_personalities = yes
 capital = 4479
 1434.12.3 = {

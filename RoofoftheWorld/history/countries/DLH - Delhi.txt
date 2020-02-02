@@ -5,6 +5,8 @@ religion = bon
 technology_group = indian
 capital = 522	# Delhi
 
+elector = yes
+
 1435.1.1 = {
 	monarch = {
 		name = "Mohammed Shah IV"
