@@ -1,17 +1,17 @@
-owner = INC
-controller = INC
-add_core = INC
-culture = inca
-religion = inti
-discovered_by = high_american
-discovered_by = mesoamerican
-discovered_by = andean
-citysize = 1000
-
-1444.11.11 = {
-	owner = INC
-	controller = INC
-	culture = inca
-	religion = inti
-}
+owner = MPC
+controller = MPC
+add_core = MPC
+add_core = INC
+culture = mapuche
+religion = animism
+discovered_by = high_american
+discovered_by = mesoamerican
+discovered_by = andean
+citysize = 1000
 
+1444.11.11 = {
+	owner = MPC
+	controller = MPC
+	culture = mapuche
+	religion = animism
+}

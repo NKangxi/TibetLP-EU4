@@ -1,8 +1,9 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
+owner = BST
+controller = BST
+add_core = BST
 add_core = TIB
-culture = oriya
+culture = gondi
 religion = hinduism
 citysize = 2000
 add_core = ORI
@@ -812,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIB
-	controller = TIB
-	culture = oriya
+	owner = BST
+	controller = BST
+	culture = gondi
 	religion = hinduism
 }

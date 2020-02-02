@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
-add_core = TIB
+owner = SND
+controller = SND
+add_core = SND
 culture = sindhi
 religion = bon
 citysize = 2000
-add_core = MLW
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
