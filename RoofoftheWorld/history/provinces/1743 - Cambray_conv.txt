@@ -1,11 +1,14 @@
 ck2_converter_generated = yes
 owner = XXX
 controller = XXX
-add_core = Z11
-culture = norse
+culture = aztek
 religion = norse_pagan_reformed
-citysize = 2000
-add_core = Z12
+
+citysize = 0
+native_size = 12
+native_hostileness = 4
+native_ferocity = 5
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -816,6 +819,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = XXX
 	controller = XXX
-	culture = norse
+	culture = aztek
 	religion = norse_pagan_reformed
 }

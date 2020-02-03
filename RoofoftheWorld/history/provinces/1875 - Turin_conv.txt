@@ -2,10 +2,14 @@ ck2_converter_generated = yes
 
 owner = XXX
 controller = XXX
-add_core = GEN
-culture = aztek
-religion = norse_pagan_reformed
-citysize = 2000
+culture = italian
+religion = catholic
+
+citysize = 0
+native_size = 15
+native_hostileness = 9
+native_ferocity = 8
+
 add_permanent_claim = ITA
 discovered_by = eastern
 discovered_by = western
@@ -816,6 +820,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = XXX
 	controller = XXX
-	culture = aztek
-	religion = norse_pagan_reformed
+	culture = italian
+	religion = catholic
 }

@@ -1,10 +1,15 @@
 ck2_converter_generated = yes
-owner = IRE
-controller = IRE
-add_core = IRE
-culture = norse
+owner = XXX
+controller = XXX
+add_core = XXX
+culture = irish
 religion = fraticelli
-citysize = 2000
+
+citysize = 0
+native_size = 6
+native_hostileness = 4
+native_ferocity = 3
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -812,8 +817,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = IRE
-	controller = IRE
+	owner = XXX
+	controller = XXX
 	culture = norse
 	religion = fraticelli
 }

@@ -1,12 +1,15 @@
 ck2_converter_generated = yes
 owner = XXX
 controller = XXX
-add_core = BAV
 culture = german
 religion = bogomilist
-citysize = 2000
+
+citysize = 0
+native_size = 28
+native_hostileness = 6
+native_ferocity = 8
+
 add_permanent_claim = GER
-add_core = TIR
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -15,7 +18,7 @@ discovered_by = ottoman
 	hre = no
 	base_tax = 1
 	base_production = 1
-	base_manpower = 1
+	base_manpower = 3
 	remove_core = SCA
 	remove_core = SWE
 	remove_core = DAN

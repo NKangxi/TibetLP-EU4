@@ -1,10 +1,14 @@
 ck2_converter_generated = yes
 owner = XXX
 controller = XXX
-add_core = FRA
-culture = norse
-religion = norse_pagan_reformed
-citysize = 2000
+culture = normand
+religion = shia
+
+citysize = 0
+native_size = 30
+native_hostileness = 7
+native_ferocity = 10
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -12,8 +16,8 @@ discovered_by = ottoman
 1444.11.11 = {
 	hre = no
 	base_tax = 3
-	base_production = 3
-	base_manpower = 2
+	base_production = 4
+	base_manpower = 4
 	remove_core = SCA
 	remove_core = SWE
 	remove_core = DAN
@@ -815,6 +819,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = XXX
 	controller = XXX
-	culture = norse
-	religion = norse_pagan_reformed
+	culture = normand
+	religion = shia
 }

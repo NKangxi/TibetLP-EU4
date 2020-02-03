@@ -1,13 +1,16 @@
 ck2_converter_generated = yes
 owner = XXX
 controller = XXX
-add_core = ENG
 culture = german
 religion = fraticelli
-citysize = 2000
+
+citysize = 0
+native_size = 5
+native_hostileness = 6
+native_ferocity = 5
+
 add_permanent_claim = POM
 add_permanent_claim = SCA
-add_core = Z07
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

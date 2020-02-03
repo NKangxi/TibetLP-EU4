@@ -1,10 +1,14 @@
 ck2_converter_generated = yes
 owner = XXX
 controller = XXX
-add_core = Z02
-culture = aztek
+culture = scottish
 religion = norse_pagan_reformed
-citysize = 2000
+
+citysize = 0
+native_size = 7
+native_hostileness = 5
+native_ferocity = 3
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

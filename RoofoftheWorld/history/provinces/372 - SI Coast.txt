@@ -1,7 +1,17 @@
-	owner = XXX
-	controller = XXX
+culture = irish
+religion = cathar
+
+citysize = 0
+native_size = 8
+native_hostileness = 5
+native_ferocity = 5
+
+owner = XXX
+controller = XXX
 
 1444.11.11 = {
+	native_size = 8
+
 	owner = XXX
 	controller = XXX
 	discovered_by = AZT
