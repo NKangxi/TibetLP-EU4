@@ -5,7 +5,10 @@ culture = aztek
 religion = nahuatl
 discovered_by = mesoamerican
 discovered_by = high_american
-citysize = 1000
+citysize = 1500
+base_tax = 4 
+base_production = 3
+base_manpower = 4
 
 1444.11.11 = {
 	owner = AZT
