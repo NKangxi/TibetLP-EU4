@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
+owner = Z48
+controller = Z48
+add_core = Z48
 add_core = TIB
 culture = rajput
 religion = bon

@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
+owner = RTT
+controller = RTT
+add_core = RTT
 add_core = TIB
 culture = avadhi
 religion = bon
@@ -636,7 +637,6 @@ discovered_by = ottoman
 	remove_core = KLP
 	remove_core = SBP
 	remove_core = PTT
-	remove_core = RTT
 	remove_core = KLH
 	remove_core = KJH
 	remove_core = PRD

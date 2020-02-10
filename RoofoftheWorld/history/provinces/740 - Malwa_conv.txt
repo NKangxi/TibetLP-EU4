@@ -1,11 +1,11 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
+owner = Y52
+controller = Y52
 add_core = TIB
 culture = rajput
 religion = jain
 citysize = 2000
-add_core = MLW
+add_core = Y52
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -812,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIB
-	controller = TIB
+	owner = Y52
+	controller = Y52
 	culture = rajput
 	religion = jain
 }

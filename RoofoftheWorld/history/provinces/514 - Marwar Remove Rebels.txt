@@ -1,13 +1,12 @@
-owner = TIB
-controller = TIB
+owner = Y52
+controller = Y52
 add_core = TIB
 culture = tibetan
 religion = bon
 hre = yes
 
 1444.11.11 = {
-	owner = TIB
-	controller = TIB
-	add_core = TIB
-	controller = TIB
+	owner = Y52
+	controller = Y52
+	add_core = Y52
 }
