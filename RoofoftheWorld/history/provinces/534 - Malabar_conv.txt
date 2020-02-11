@@ -1,13 +1,13 @@
 ck2_converter_generated = yes
-owner = Y56
-controller = Y56
-add_core = Y56
+owner = MAB
+controller = MAB
+add_core = MAB
 culture = tamil
 religion = jain
 
 1444.11.11 = {
-	owner = Y56
-	controller = Y56
+	owner = MAB
+	controller = MAB
 }
 
 citysize = 2000
@@ -605,7 +605,6 @@ discovered_by = ottoman
 	remove_core = KLN
 	remove_core = KHD
 	remove_core = ODH
-	remove_core = MAB
 	remove_core = MEW
 	remove_core = BDA
 	remove_core = BST

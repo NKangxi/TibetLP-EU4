@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
+owner = MLW
+controller = MLW
 add_core = TIB
 culture = jharkhandi
 religion = jain
@@ -12,8 +12,8 @@ discovered_by = muslim
 discovered_by = ottoman
 
 1444.11.11 = {
-	owner = TIB
-	controller = TIB
+	owner = MLW
+	controller = MLW
 }
 
 1444.11.11 = {

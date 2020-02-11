@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
+owner = PUN
+controller = PUN
 add_core = TIB
 culture = tibetan
 religion = bon
@@ -812,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIB
-	controller = TIB
+	owner = PUN
+	controller = PUN
 	culture = tibetan
 	religion = bon
 }

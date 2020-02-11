@@ -1,13 +1,13 @@
 ck2_converter_generated = yes
-owner = Y56
-controller = Y56
-add_core = Y56
+owner = KOC
+controller = KOC
+add_core = KOC
 culture = tamil
 religion = jain
 
 1444.11.11 = {
-	owner = Y56
-	controller = Y56
+	owner = KOC
+	controller = KOC
 }
 
 citysize = 2000
