@@ -1,7 +1,7 @@
-owner = INC
-controller = INC
-add_core = INC
-culture = inca
+owner = PCJ
+controller = PCJ
+add_core = PCJ
+culture = aimara
 religion = inti
 discovered_by = high_american
 discovered_by = mesoamerican
@@ -9,8 +9,8 @@ discovered_by = andean
 citysize = 1000
 
 1444.11.11 = {
-	owner = INC
-	controller = INC
+	owner = PCJ
+	controller = PCJ
 	culture = inca
 	religion = inti
 }
