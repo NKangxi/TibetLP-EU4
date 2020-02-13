@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
-add_core = TIB
+owner = BGL
+controller = BGL
+add_core = BGL
 culture = avadhi
 religion = bon
 citysize = 2000
@@ -12,8 +12,8 @@ discovered_by = muslim
 discovered_by = ottoman
 
 1444.11.11 = {
-	owner = TIB
-	controller = TIB
+	owner = BGL
+	controller = BGL
 }
 
 1444.11.11 = {
@@ -620,7 +620,6 @@ discovered_by = ottoman
 	remove_core = HAD
 	remove_core = NGA
 	remove_core = RMP
-	remove_core = BGL
 	remove_core = JFN
 	remove_core = PTA
 	remove_core = CHD

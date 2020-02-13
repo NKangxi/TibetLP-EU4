@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
-add_core = TIB
+owner = BGL
+controller = BGL
+add_core = BGL
 culture = avadhi
 religion = bon
 citysize = 2000
