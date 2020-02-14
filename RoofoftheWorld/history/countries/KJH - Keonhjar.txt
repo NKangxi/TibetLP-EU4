@@ -3,7 +3,7 @@ add_government_reform = free_city
 
 government_rank = 2
 primary_culture = garjati
-religion = hinduism
+religion = bon
 technology_group = chinese
 capital = 4450	# Mayurbhanj
 

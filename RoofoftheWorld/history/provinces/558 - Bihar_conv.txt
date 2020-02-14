@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
-add_core = TIB
+owner = NGP
+controller = NGP
+add_core = NGP
 culture = tibetan
 religion = bon
 citysize = 2000
@@ -287,7 +287,6 @@ discovered_by = ottoman
 	remove_core = DEC
 	remove_core = MAD
 	remove_core = MUL
-	remove_core = NGP
 	remove_core = DGL
 	remove_core = YOR
 	remove_core = GUG
@@ -811,8 +810,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIB
-	controller = TIB
+	owner = NGP
+	controller = NGP
 	culture = tibetan
 	religion = bon
 }

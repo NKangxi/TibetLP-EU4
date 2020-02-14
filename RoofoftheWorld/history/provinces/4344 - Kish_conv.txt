@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
-add_core = TIB
+owner = X06
+controller = X06
+add_core = X06
 culture = sogdian
 religion = zikri
 citysize = 2000
-add_permanent_claim = KHA
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -812,8 +811,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIB
-	controller = TIB
+	owner = X06
+	controller = X06
 	culture = sogdian
 	religion = zikri
 }

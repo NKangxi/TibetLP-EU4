@@ -1,0 +1,18 @@
+government = republic
+add_government_reform = free_city
+
+government_rank = 2
+primary_culture = garjati
+religion = hinduism
+technology_group = chinese
+capital = 4450	# Mayurbhanj
+
+1440.10.15 = {
+	monarch = {
+		name = "Tribikram"
+		birth_date = 1379.2.17
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}

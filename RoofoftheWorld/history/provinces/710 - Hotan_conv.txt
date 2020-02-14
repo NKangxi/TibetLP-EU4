@@ -5,7 +5,6 @@ add_core = TIB
 culture = saka
 religion = buddhism
 citysize = 2000
-add_core = Z76
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

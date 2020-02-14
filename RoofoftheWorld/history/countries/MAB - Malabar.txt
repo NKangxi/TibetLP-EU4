@@ -3,7 +3,7 @@ add_government_reform = free_city
 government_rank = 1
 technology_group = indian
 religion = jain
-primary_culture = malayalam
+primary_culture = tamil
 capital = 534	# Calicut
 
 1430.1.1 = {

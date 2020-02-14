@@ -1,11 +1,10 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
-add_core = TIB
+owner = PSH
+controller = PSH
+add_core = PSH
 culture = persian
 religion = hinduism
 citysize = 2000
-add_core = MLW
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -812,8 +811,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIB
-	controller = TIB
+	owner = PSH
+	controller = PSH
 	culture = persian
 	religion = hinduism
 }
