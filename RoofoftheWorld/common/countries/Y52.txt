@@ -1,7 +1,7 @@
 # Rajputana
 ck2_converter_generated = yes
 graphical_culture = asiangfx
-color = { 200 70 0 }
+color = { 0  20  50 }
 
 
 
