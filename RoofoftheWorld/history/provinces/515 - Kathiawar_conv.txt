@@ -5,7 +5,6 @@ add_core = GUJ
 culture = gujarati
 religion = hinduism
 citysize = 2000
-add_core = Y51
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

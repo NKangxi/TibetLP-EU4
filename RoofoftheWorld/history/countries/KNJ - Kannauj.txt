@@ -1,0 +1,26 @@
+# Kannauj
+
+government = republic
+add_government_reform = free_city
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tibetan
+religion = bon
+clear_scripted_personalities = yes
+capital = 4497
+1444.10.16 = {
+	monarch = {
+		name = "Thrimalö"
+		birth_date = 1398.9.10
+		dynasty = "Sakya"
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 4497
+	add_treasury = 100
+}

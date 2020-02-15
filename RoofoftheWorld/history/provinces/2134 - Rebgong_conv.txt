@@ -1,8 +1,7 @@
 ck2_converter_generated = yes
-owner = TKH
-controller = TKH
-add_core = TKH
-add_core = TIB
+owner = Y55
+controller = Y55
+add_core = Y55
 culture = tibetan
 religion = bon
 citysize = 2000
@@ -814,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TKH
-	controller = TKH
+	owner = Y55
+	controller = Y55
 	culture = tibetan
 	religion = bon
 }

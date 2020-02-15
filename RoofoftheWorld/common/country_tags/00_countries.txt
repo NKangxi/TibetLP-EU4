@@ -551,6 +551,7 @@ FRM = "countries/Formosa.txt"
 # Northeast / Imperial Core
 TIB	= "countries/Tibet.txt"
 TKH = "countries/SacredHierarchy.txt"
+TNM = "countries/Altishahr.txt"
 
 # Southeast
 TNJ = "countries/Tanjore.txt"
@@ -572,10 +573,13 @@ PSH = "countries/Pashtun.txt"
 MUL = "countries/Multan.txt"
 DLH = "countries/Delhi.txt"
 JNP = "countries/Jaunpur.txt"
+LAH = "countries/Lahore.txt"
+KNJ = "countries/Kannauj.txt"
 
 # Central South
 TLG = "countries/Telingana.txt"
 BAH	= "countries/Bahmanis.txt"
+SRT = "countries/Surat.txt"
 
 # 1.27 steppe tags
 ILK = "countries/Ilkhanate.txt"

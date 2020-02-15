@@ -1,8 +1,8 @@
 # 2182 - Liangzhou
 
-owner = TIB
-controller = TIB
-add_core = TIB
+owner = Y55
+controller = Y55
+add_core = Y55
 add_core = MNG
 culture = xibei
 religion = bon
@@ -13,6 +13,5 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = CSH
 discovered_by = chinese
 discovered_by = nomad_group

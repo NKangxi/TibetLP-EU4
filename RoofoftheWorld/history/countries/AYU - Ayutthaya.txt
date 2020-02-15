@@ -6,24 +6,13 @@ technology_group = chinese
 capital = 600 # Ayutthaya
 add_army_professionalism = 0.05
 
-
-1395.1.1 = {
+1434.1.1 = {
 	monarch = {
-		name = "Ramaracha"
-		dynasty = "Uthong"
-		adm = 2
-		dip = 1
-		mil = 1	
-	}
-}
-
-1408.1.1 = {
-	monarch = {
-		name = "Intha Racha"
+		name = "Borommaracha I"
 		dynasty = "Suphannaphum"
-		adm = 0
-		dip = 2
-		mil = 2
+		adm = 3
+		dip = 5
+		mil = 5
 	}
 }
 

@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = TIB
-controller = TIB
-add_core = TIB
+owner = KLN
+controller = KLN
+add_core = KLN
 culture = marathi
 religion = hinduism
 citysize = 2000
@@ -595,7 +595,6 @@ discovered_by = ottoman
 	remove_core = NAG
 	remove_core = GRJ
 	remove_core = DHU
-	remove_core = KLN
 	remove_core = KHD
 	remove_core = ODH
 	remove_core = MAB
@@ -811,8 +810,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = TIB
-	controller = TIB
+	owner = KLN
+	controller = KLN
 	culture = marathi
 	religion = hinduism
 }

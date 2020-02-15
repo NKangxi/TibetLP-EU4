@@ -1,0 +1,15 @@
+government = monarchy
+primary_culture = tibetan
+religion = bon
+technology_group = indian
+capital = 517	# Surat
+
+1434.1.1 = {
+	monarch = {
+		name = "Lha"
+		dynasty = "Yon"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

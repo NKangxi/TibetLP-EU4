@@ -1,0 +1,161 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 255 245 220 }
+
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+
+monarch_names = {
+	"Abdul-Karim #0" = 20
+	"Abdul-Latif #0" = 20
+	"Abdul-Rashîd #0" = 20
+	"Abdullah #0" = 20
+	"Ahmad #0" = 20
+	"Alghu #0" = 20
+	"Ali #0" = 20
+	"Baraq #0" = 20
+	"Bayan Quli #0" = 20
+	"Buqa Temür #0" = 20
+	"Buzan #0" = 20
+	"Chagatay #0" = 10
+	"Changshi #0" = 20
+	"Danishmendji #0" = 20
+	"Dost Muhammad #0" = 20
+	"Dughlat #0" = 20
+	"Duwa #0" = 20
+	"Duwa Temür #0" = 20
+	"Eljigidey #0" = 20
+	"Esen Buqa #0" = 20
+	"Ilbars #0" = 20
+	"Ilyas #0" = 20
+	"Ismail #0" = 20
+	"Kebek #0" = 20
+	"Khabul #0" = 20
+	"Khizr #0" = 20
+	"Könchek #0" = 20
+	"Mahmud #0" = 20
+	"Mansur #0" = 20
+	"Mubarak #0" = 20
+	"Muhammad #0" = 20
+	"Muhammad Amin #0" = 20
+	"Muhammad Mumin #0" = 20
+	"Naqsh-i-Jahan #0" = 20
+	"Negübei #0" = 20
+	"Qara Hulagu #0" = 10
+	"Qazaghan #0" = 20
+	"Qazan #0" = 20
+	"Quraysh #0" = 10
+	"Sa'id #0" = 20
+	"Satuq #0" = 20
+	"Shams-i-Jahan #1" = 20
+	"Sher Muhammad #0" = 20
+	"Soyurghatmish #0" = 20
+	"Taliqu #0" = 20
+	"Tarmashirin #0" = 20
+	"Temür #0" = 20
+	"Tughlugh Temür #1" = 20
+	"Uwais #0" = 20
+	"Yasa'ur #0" = 20
+	"Yesu Mongke #0" = 10
+	"Yesun Temür #0" = 20
+	"Yunus #0" = 20
+	
+	"Orqina #0" = -1
+	"Sakina #0" = -1
+	"Turakina #0" = -1
+	"Ruqia #0" = -1
+}
+
+leader_names = { 
+	"Torma" "Sal" "Rapsel" "Bilge" "Trikar" "Gémathar" "Bum" "Phoyongsa" "Orgyen" "Nanamsa" 
+	"Balpo" "Tritsen" "Ramsha" "Magyal" "Songtsen" "Kyi" "Tubten" "Nytari" "Sambhota" "Pelgyimo" 
+	"Podé" "Yülsung" "Zangmo" "Sutse" "Selbar" "Nyendrak" "Tsemo" "Namri" "Lhakee" "Tricham" 
+	"Mutri" "Muzu" "Kelzang" "Dongkar" "Mangsong" "Taramo" "Khagatai" "Holuikhan" "Temulun" "Khaidu" 
+	"Al-Alta" "Bulughan" "Khutulun" "Bugunutei" "Arkhai" "Temur" "Yesui" "Jamugha" "Narin" "Yesugun" 
+	"Khojin" "Tsentsän" "Bala" "Nomolun" "Pongza" "Dingtri" "Shirgugetu" "Trisumje" "Khorijin" "Yeshe" 
+	"Durlabhavardhana" "Chandrapida" "Tarapida" "Lalitadiyta-Muktapida" "Kuvalayapida" "Vajraditya" "Prithvyapida" "Jayapida" "Lalitapida" "Samgramapida" 
+	"Cippatajayapida" "Ajitapida" "Anangapida" "Utpalapida" "Avantivarma" "Samkaravarman" "Sumnang" "Trimonyen" "Tritog" "Lasya" 
+	"Ngawang" "Palkye" "Jetsunma" "Omade" "Degyal" "Aglen" "Chakna" "Changchub" "Chatri" "Chokey" 
+	"Chögyal" "Chukpo" "Daktri" "Denöl" "Desho" "Detrin" "Detsen" "Detrul" "Deu" "Dharmapala" 
+	"Dickey" "Dompu" "Dondup" "Donyö" "Dorje" "Drag" "Dragpa" "Dranga" "Drigum" "Drogön" 
+	"Drongnyen" "Dusong" "Dzamling" "Esho" "Gampo" "Gangkarwa" "Gesar" "Getong" "Gön" "Gongpa" 
+	"Gongru" "Gunggyal" "Gungsong" "Gungtsen" "Gyagar" "Gyal" "Gyalpo" "Gyaltore" "Gyaltsen" "Gyeltsen" 
+	"Isho" "Jamyang" "Jekundag" "Jetsun" "Könchok" "Kyidé" "Kunga" "Langdarma" "Lek" "Lekpa" 
+	"Lha" "Lhanang" "Lingpa" "Lodrö" "Longtsen" "Löntsen" "Lotsen" "Lukhong" "Mangban" "Mangnyen" 
+	"Mangpoje" "Mangsham" "Mangtsen" "Mertri" "Muné" "Mutik" "Nam" "Namdé" "Namkha" "Namzhungtsen" 
+	"Nyantsen" "Nyasig" "Nyigön" "Nyima" "Nyingpo" "Öpoche" "Ösung" "Pal" "Palden" "Palchen" 
+	"Pälkhortsän" "Phagpa" "Po" "Pude" "Pungse" "Pungtsen" "Raksita" "Ralpacan" "Rinchen" "Sachen" 
+	"Sadnalegs" "Senöl" "Shakya" "Shang" "Shanglon" "Shangnang" "Siptri" "Sönam" "Sotri" "Tagbu" 
+	"Takdra" "Taknang" "Taknye" "Taktsab" "Tawen" "Thönmi" "Thothori" "Thrikhyiding" "Tingngezin" "Tisho" 
+	"Tongtsen" "Tori" "Trashi" "Tridé" "Tridra" "Tridu" "Trimang" "Trinring" "Trinyen" "Trisong" 
+	"Trisu" "Tritsuk" "Tromo" "Trongzhi" "Tsangma" "Tsen" "Tsendro" "Tsenpo" "Tsensong" "Tsenye" 
+	"Tsugru" "Tsuktsen" "Udumtsen" "Wangchuk" "Wangdu" "Yongten" "Yontan" "Yumtän" "Zanam" "Zangtsa" 
+	"Zhangtsun" "Zhonnu" "Zimun" "Zindé" "Zungtsen" 
+	
+	"Bukha" "Khugurchin" "Bulughan" "Khojin" "Sorkhaghatani" "Borte" "Abagha" "Yesui" "Nomolun" "Inancha" 
+	"Hoelun" "Mandukhai" "Gurbesu" "Khulan" "Ghazan" "Oghul" "Bedugun" "Torolchi" "Ibakha" "Chabi" 
+	"Berke" "Eljigedei" "Doquz" "Chakha" "Ukhuna" "Hogelun" "Altani" "Temulun" "Chotan" "Kokochu" 
+	"Chilagun" "Guyug" "Doregene" "Tolui" "Khabichi" "Mongoljin" "Khogaghchin" "Babur" "Chagur" "Botokhui" 
+	"Orbei" "Checheyigen" "Machig" "Bogen" "Gangkarwa" "Shiraghul" "Mangnyen" "Iturgen" "Tridé" "Chakna" 
+	"Sadmarkar" "Tsunmotog" "Sokhatai" "Megujin" "Khrimalod" "Pal" "Töregene" "Podé" "Longtsen" "Bogorchu" 
+	"Hariti" "Dorje" "Lhamgonza" "Takdra" "Dranga" "Chaghagan" "Amala" "Dringma" "Zindé" "Dechen" 
+	"Yeke" "Wangmo" "Munglig" "Khadrobum" "Shonnu" "Tsendro" "Gémaspranglod" "Bugunutei" "Shakya" "Pungse" 
+	"Dagun" "Yesugun" "Lingpa" "Trinyen" "Al-Alta" "Tsomo" "Ebegei" "Taghai" "Tumen" "Tisho" 
+	"Tokhtamis" "Trikar" "Lhanang" "Rinchen" "Devitara" "Gyalyum" "Namzhungtsen" "Burkhan" "Chiledu" "Khutulun" 
+	"Temuge" "Nyingpo" "Alchidai" "Suyiketu" "Chulgetei" "Temujin" "Arasen" "Gughlug" "Bugidai" "Achigh" 
+	"Aguchu" "Ajai" "Ajinai" "Akhutai" "Alagh" "Alchi" "Altan" "Ambaghai" "Arkhai" "Badai" 
+	"Bagaridai" "Bala" "Barghujin" "Bartan" "Batu" "Begter" "Belgutei" "Belgunutei" "Bilge" "Bodonchar" 
+	"Bolkhadar" "Borjigidai" "Boroghul" "Bughu" "Bujeg" "Buri" "Burundai" "Chagatai" "Chanai" "Chigu" 
+	"Chidukhul" "Chormakhan" "Daritai" "Dayir" "Dodai" "Duua" "Ghunan" "Guchu" "Harghasun" "Horkhudagh" 
+	"Hulegu" "Husun" "Inalchi" "Jajiradai" "Jamugha" "Jebe" "Jochi" "Jurchedei" "Khachi" "Khachigun" 
+	"Khadagh" "Khagatai" "Khaidu" "Khal" "Khorchi" "Khorilartai" "Khubilai" "Khudu" "Khutula" "Khuyildar" 
+	"Kogsegu" "Megetu" "Menggei" "Mongke" "Morokha" "Nakhu" "Narin" "Nayaga" "Nogai" "Odchigin" 
+	"Ogodei" "Okhotur" "Oljaitu" "Oronartai" "Shirgugetu" "Subetei" "Tamachi" "Targhutai" "Temur" "Todogen" 
+	"Toghoril" "Toghtoga" "Uighurtai" "Usun" "Yedi" "Yegu" "Yesugei" "Yesunge" "Yokhunan" "Kadan" 
+	"Godan"
+}
+
+ship_names = {
+	"Alghu Khan"
+	"Baraq Khan"
+	Chagatai
+	Orghina 
+	"Genghis Khan"
+	"Mubarak Shah"
+	"Yesünto'a"
+	Qipchaq
+	"Jagatai Khan" "Amo Darya"
+	"Syr Darya" "Ögedai Khan"
+	Güyük "Möngke Khan" "Qubilai Khan"
+	Duwa "Qazan Khan" "Tughlugh Timur"
+	Irtysh "Amir Husayn" "Timur i Leng"
+	Samarqand
+}

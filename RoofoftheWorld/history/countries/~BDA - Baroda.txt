@@ -1,5 +1,5 @@
-government = theocracy
-add_government_reform = leading_clergy_reform
+government = monarchy
+add_government_reform = feudalism_reform
 technology_group = indian
 religion = bon
 primary_culture = gujarati
