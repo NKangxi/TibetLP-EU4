@@ -7,7 +7,6 @@ technology_group = indian
 religion = hinduism
 primary_culture = tamil
 capital = 2026 #Tanjore
-elector = yes
 
 1412.6.15 = {
 	monarch = {

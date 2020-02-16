@@ -7,7 +7,6 @@ technology_group = indian
 primary_culture = tibetan
 religion = bon
 clear_scripted_personalities = yes
-elector = yes
 capital = 525
 1443.7.5 = {
 	monarch = {

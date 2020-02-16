@@ -1,7 +1,0 @@
-owner = KHA
-controller = KHA
-add_core = KHA
-1444.11.11 = {
-	owner = KHA
-	controller = KHA
-}

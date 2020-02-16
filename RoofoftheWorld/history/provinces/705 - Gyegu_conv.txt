@@ -2,7 +2,6 @@ ck2_converter_generated = yes
 owner = TKH
 controller = TKH
 add_core = TKH
-add_core = TIB
 culture = tibetan
 religion = bon
 citysize = 2000

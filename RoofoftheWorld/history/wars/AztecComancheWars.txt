@@ -1,0 +1,17 @@
+name = "Aztec-Comanche Wars"
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 2668 # Borrado
+}
+
+1444.11.1 = {
+	add_attacker = COM
+	add_defender = AZT
+}
+
+# Peace
+1447.5.1 = {
+	rem_attacker = COM
+	rem_defender = AZT
+}

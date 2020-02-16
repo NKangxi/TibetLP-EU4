@@ -1,6 +1,6 @@
 owner = Y52
 controller = Y52
-add_core = TIB
+add_core = Y52
 culture = tibetan
 religion = bon
 hre = yes

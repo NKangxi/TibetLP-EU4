@@ -8,7 +8,6 @@ primary_culture = panjabi
 religion = bon
 clear_scripted_personalities = yes
 capital = 4509
-elector = yes
 1415.11.15 = {
 	monarch = {
 		name = "Zangtsa III"

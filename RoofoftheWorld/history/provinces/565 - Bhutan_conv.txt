@@ -5,7 +5,6 @@ add_core = TIB
 culture = tibetan
 religion = bon
 citysize = 2000
-add_core = Y52
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

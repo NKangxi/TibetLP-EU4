@@ -1,7 +1,6 @@
 ck2_converter_generated = yes
 owner = PUN
 controller = PUN
-add_core = TIB
 culture = rajput
 religion = bon
 citysize = 2000
