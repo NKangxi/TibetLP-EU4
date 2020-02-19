@@ -7,6 +7,9 @@ religion = nahuatl
 discovered_by = mesoamerican
 discovered_by = high_american
 citysize = 1000
+base_tax = 5
+base_production = 4
+base_manpower = 4
 
 1444.11.11 = {
 	owner = CHO

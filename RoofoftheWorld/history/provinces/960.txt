@@ -3,9 +3,10 @@ controller = IRO
 add_core = IRO
 discovered_by = high_american
 citysize = 1000
-base_tax = 5 
+base_tax = 8 
 base_production = 5
-base_manpower = 5
+base_manpower = 8
+fort_15th = yes 
 
 1444.11.11 = {
 	owner = IRO

@@ -3,6 +3,9 @@ controller = OSA
 add_core = OSA
 discovered_by = high_american
 citysize = 1000
+base_tax = 3
+base_production = 2
+base_manpower = 3
 
 1444.11.11 = {
 	owner = OSA

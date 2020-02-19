@@ -6,6 +6,7 @@ citysize = 1000
 base_tax = 3 
 base_production = 3
 base_manpower = 3
+fort_15th = yes
 
 1444.11.11 = {
 	owner = OSA

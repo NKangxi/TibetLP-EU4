@@ -2,7 +2,8 @@ owner = SHA
 controller = SHA
 add_core = SHA
 discovered_by = high_american
-citysize = 1000
+citysize = 1000
+fort_15th = yes
 
 1444.11.11 = {
 	owner = SHA

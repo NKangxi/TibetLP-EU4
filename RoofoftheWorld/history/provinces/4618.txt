@@ -9,6 +9,7 @@ citysize = 1000
 base_tax = 4 
 base_production = 4
 base_manpower = 4
+fort_15th = yes
 
 1444.11.11 = {
 	owner = AZT
