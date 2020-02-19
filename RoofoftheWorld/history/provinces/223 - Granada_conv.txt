@@ -3,7 +3,7 @@ owner = Z23
 controller = Z23
 add_core = Z23
 culture = mongol
-religion = yazidi
+religion = bon
 citysize = 2000
 add_permanent_claim = ADU
 discovered_by = eastern
@@ -817,5 +817,5 @@ discovered_by = ottoman
 	owner = Z23
 	controller = Z23
 	culture = mongol
-	religion = yazidi
+	religion = bon
 }

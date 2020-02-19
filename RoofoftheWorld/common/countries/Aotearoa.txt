@@ -36,7 +36,7 @@ monarch_names = {
 	# These ones *should* be assigned to women
     "Whetu #0" = -1
     "Manu #0" = -10
-    "Ātaahua #0" = -1
+    "Ataahua #0" = -1
     "Roimata #0" = -10
 }
 
@@ -45,7 +45,7 @@ leader_names = {
 	Eruera
 	Manu
 	Taika
-	Rāpata
+	Rapata
 }
 
 ship_names = {

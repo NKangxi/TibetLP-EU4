@@ -497,10 +497,34 @@ exploration_ideas = {
 			factor = 0
 			is_tribal = yes
 		}
+		
+		# Normally, AI subject nations will never pick Exploration...
+		# ...but that's no fun for the Han Remnants, is it?
 		modifier = {
 			factor = 0
-			is_subject = yes
-		}		
+			AND = {
+				is_subject = yes
+				NOT = { tag = X22 }
+			}
+		}
+		
+		# In fact, the Han Remnants should fucking LOVE picking Exploration.
+		# They should go APESHIT for it.
+		# So should Mali.
+		modifier = {
+			factor = 50
+			OR = {
+				tag = X22
+				tag = MAL
+			}
+		}
+		
+		# Aotearoa should also like it, but not quite as much.
+		modifier = {
+			factor = 10
+			tag = AOT
+		}
+		
 		modifier = {
 			factor = 0
 			primitives = yes
@@ -549,22 +573,24 @@ exploration_ideas = {
 				}
 			}
 		}
-		modifier = { # Aggressive Colonizers (Europe)
-			factor = 10
-			num_of_ports = 5
+		
+		# There used to be a bonus to colonizers from Iberia and Britain.
+		# But that's not right, is it?~
+		modifier = {
+			factor = 0.01
 			capital_scope = {
 				OR = {
 					region = iberia_region
 					region = british_isles_region
-				}
-			}
-			any_owned_province = {
-				any_province = {
-					has_province_modifier = "birthplace_of_the_renaissance"
-					continent = PREV
+					
+					region = france_region
+					region = italy_region
+					region = north_german_region
+					region = baltic_region
 				}
 			}
 		}
+		
 		modifier = { # Aggressive Colonizers (Asia)
 			factor = 10
 			num_of_ports = 5
@@ -601,26 +627,7 @@ exploration_ideas = {
 				}
 			}
 		}
-		modifier = { # Secondary Colonizers (Europe)
-			factor = 6
-			num_of_ports = 5
-			capital_scope = {
-				OR = {
-					region = france_region
-					region = low_countries_region
-					region = scandinavia_region	
-					region = italy_region
-					region = north_german_region
-					region = baltic_region
-				}
-			}
-			any_owned_province = {
-				any_province = {
-					has_province_modifier = "birthplace_of_the_renaissance"
-					continent = PREV
-				}
-			}
-		}
+		
 		modifier = { # Secondary Colonizers (Asia)
 			factor = 6
 			num_of_ports = 5
@@ -886,27 +893,15 @@ expansion_ideas = {
 				}
 			}
 		}
+		
+		# This used to penalize Chinese and Indian tech groups instead.
+		# No longer, I say!
 		modifier = {
 			factor = 0.1
-			NOT = {
+			
+			OR = {
 				technology_group = western
 				technology_group = eastern
-				technology_group = muslim
-				technology_group = high_american
-				AND = {
-					technology_group = chinese
-					any_country = {
-						technology_group = chinese
-						has_institution = renaissance
-					}
-				}
-				AND = {
-					technology_group = indian
-					any_country = {
-						technology_group = indian
-						has_institution = renaissance
-					}
-				}
 			}
 		}
 	}

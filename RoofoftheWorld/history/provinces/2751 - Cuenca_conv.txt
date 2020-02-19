@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Z23
 controller = Z23
 add_core = Z23
-culture = bedouin_arabic
+culture = twlydu
 religion = sunni
 citysize = 2000
 add_permanent_claim = ADU
@@ -816,6 +816,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = Z23
 	controller = Z23
-	culture = bedouin_arabic
+	culture = twlydu
 	religion = sunni
 }

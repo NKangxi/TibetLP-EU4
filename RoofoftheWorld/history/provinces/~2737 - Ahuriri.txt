@@ -1,18 +1,13 @@
-#2738 - Waitaha
-
+#2737 - Ahuriri
 owner = AOT
 controller = AOT
 add_core = AOT
 
-latent_trade_goods = {
-	coal
-}
-
-culture = maori
+culture = polynesian
 religion = animism
 hre = no
+capital = "Ahuriri"
 trade_goods = unknown
-base_manpower = 2
 base_tax = 3 
 base_production = 3
-capital = "Waitaha"
+base_manpower = 2

@@ -1,8 +1,8 @@
 ck2_converter_generated = yes
 owner = XXX
 controller = XXX
-culture = norse
-religion = norse_pagan_reformed
+culture = aztek
+religion = nahuatl
 
 citysize = 0
 native_size = 10
@@ -820,6 +820,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = XXX
 	controller = XXX
-	culture = norse
-	religion = norse_pagan_reformed
+	culture = aztek
+	religion = nahuatl
 }

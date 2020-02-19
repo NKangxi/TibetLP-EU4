@@ -1,0 +1,51 @@
+# Original cultures for the mod.
+
+iberian	= {
+	# Asturias/Toledo/Mellerstafjall. Mix of Bedouin and Castilian influence, possibly with some Norse in there.
+	twlydu = {
+		primary = Z23
+		
+		dynasty_names = {
+			"Rathulide" "Taridi" "Javridi" "del Kasim"
+			"Navonne" "Ebora" "Diavalos" "Alzay"
+		}
+		male_names = {
+			Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris "'Abd-Allah" Sa'ud Zayid Abdullah Muhammad
+			'Abdullah Turki Faisal Al-Rahman Khalid Fahd Aziz Abu-Bakr Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
+			Abdul-Wahab Abdul Abdul Abdullah Abdullah Aghlab Akin Ali Ali Alim Aram Azam Bahir Burhanaddin
+			Ignacio Laín Lope Miguel Nuño Odón Ramón Rodrigo Tomás Valeriano
+			Alfonso Alphonse Alonso Alphonse Álvar Oliver Álvaro Oliver Bermudo Vermudo Diego Diaco 
+			Henry Fadrique Frederick Felipe Philip Fernando Ferdinand Fruela Froila García Garcia Gil 
+			Egidius Gómez Gomez Gonzalo Gonzalo Guillén William Guillermo William Gutierre Walter Juan 
+			Lope Lupo Luis Louis Manrique Amalric Martín Martin Munio Munio Nuño Nuno Ordoño Ordono 
+			Obeko Pedro Peter Pelayo Pelagius Ramiro Ramiro Rodrigo Roderick Salvador Sancho Sancho  
+			Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
+			Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
+			Joseph Zeyd 
+		}
+		female_names = {
+			Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
+			Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Aldonza Aldonza Anderquina Beatriz Beatrice Berenguela Berengaria Blanca Blanche Constanza 
+			Constance Elvira Elvira Estefanía Stephania Fronilda Fronilde Gontroda Gotruda Inés Agnes 
+			Elisabeth Jimena Ximena Juana Joan Leonor Eleanor Mafalda Matilda María Maria Marina Marine 
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		}
+	}
+}
+
+pacific = {
+	maori = {
+		# Dynasty names drawn from notable Iwi.
+		dynasty_names = {
+			"Te Arawa" "Ngapuhi" "Whakatohea" "Te Atiawa" "Ngai Tahu" "Hauraki"
+		}
+
+		male_names = {
+			Potatau Witi Eruera Manu Ranginui
+		}
+		female_names = {
+			Wetu Manu Ataahua Romata
+		}
+	}
+}

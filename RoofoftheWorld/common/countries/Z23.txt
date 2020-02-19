@@ -1,7 +1,8 @@
-# Asturias
+# Toledo/Mellerstafjall
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 233 188 91 }
+
 historical_idea_groups = {
 	religious_ideas
 	exploration_ideas

@@ -1,13 +1,13 @@
-#2740 - Kirikiriroa
+#1106 - Whangarei
 owner = AOT
 controller = AOT
 add_core = AOT
 
-culture = maori
+culture = polynesian
 religion = animism
 hre = no
-capital = "Kirikiriroa"
 trade_goods = unknown
-base_tax = 3 
-base_production = 3
+base_tax = 4 
+base_production = 4
 base_manpower = 3
+capital = "Whangarei"

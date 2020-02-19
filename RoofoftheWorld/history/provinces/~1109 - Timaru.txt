@@ -1,18 +1,13 @@
-#2738 - Waitaha
-
+#1109 - Timaru
 owner = AOT
 controller = AOT
 add_core = AOT
 
-latent_trade_goods = {
-	coal
-}
-
-culture = maori
+culture = polynesian
 religion = animism
 hre = no
 trade_goods = unknown
-base_manpower = 2
+base_manpower = 1
 base_tax = 3 
 base_production = 3
-capital = "Waitaha"
+capital = "Timaru"

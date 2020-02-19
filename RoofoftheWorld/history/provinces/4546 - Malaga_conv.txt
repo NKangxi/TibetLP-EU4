@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = ADU
 controller = ADU
 add_core = ADU
-culture = mongol
+culture = andalucian
 religion = zikri
 citysize = 2000
 discovered_by = eastern
@@ -814,6 +814,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = ADU
 	controller = ADU
-	culture = mongol
+	culture = andalucian
 	religion = zikri
 }

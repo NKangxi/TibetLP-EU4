@@ -1,11 +1,13 @@
-# Badajoz
+# Portugal / Kaelhamm
 government = monarchy
 add_government_reform = autocracy_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = western
-primary_culture = norse
-religion = norse_pagan_reformed
+
+primary_culture = visigothic
+religion = yazidi
+
 clear_scripted_personalities = yes
 capital = 218
 1423.9.4 = {
