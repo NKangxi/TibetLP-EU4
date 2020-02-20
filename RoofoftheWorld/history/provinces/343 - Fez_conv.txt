@@ -3,7 +3,7 @@ owner = Y46
 controller = Y46
 add_core = Y46
 culture = berber
-religion = yazidi
+religion = nahuatl
 citysize = 2000
 add_permanent_claim = Y50
 discovered_by = eastern
@@ -817,5 +817,5 @@ discovered_by = ottoman
 	owner = Y46
 	controller = Y46
 	culture = berber
-	religion = yazidi
+	religion = nahuatl
 }

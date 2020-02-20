@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Z57
 controller = Z57
 add_core = Z57
-culture = berber
+culture = norvasunder
 religion = norse_pagan_reformed
 citysize = 2000
 add_permanent_claim = Y44
@@ -816,6 +816,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = Z57
 	controller = Z57
-	culture = berber
+	culture = norvasunder
 	religion = norse_pagan_reformed
 }

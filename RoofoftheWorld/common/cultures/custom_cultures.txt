@@ -49,3 +49,54 @@ pacific = {
 		}
 	}
 }
+
+# Northwest African cultures
+maghrebi = {
+	# Norse-Maghrebi
+	norvasunder = {
+		primary = Y50
+		dynasty_names = {
+			"Nabhani" "Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"
+			"Yiskay" "Bar-Kenhus" "Adalvard" "Kane" "Bayliqsen" "Bakka"
+			"Bayelqe" "Giril"
+		}
+		male_names = {
+			Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris "'Abd-Allah" Sa'ud Zayid Abdullah Muhammad
+			Inolf Inaymar Inyald Ketil
+			Kahyartin Kolbayoron Markus Odar
+			Rasul Zulfiqar Abbas Jabril Abakada Abazza Abbas Abbas Abdul Abdul Abdul-Azeem Abdul-Haleem 
+			Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
+			Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib 
+			Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
+			Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
+			Zeyd
+		}
+		female_names = {
+			Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa 
+			Lem'an Lemta Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda
+			Torild Alaita "Al-Fahilda" Ana Asa Beita 
+			Sheeshilla Ilin Fraya Gunilda
+			Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		}
+	}
+	
+	# Aztec-Maghrebi
+	# Named after Jabal Tariq/Gibraltar
+	xihualtl = {
+		primary = Y46
+		dynasty_names = {
+			"Acatl" "Atl" "Coatl" "Cuetzpalin" "Itz" "Malinalli" "Mazatl" "Nezahual" "Nochtli" "Ocelotl"
+			"Penxelap" "Uuled Citixec" "Xamaar" "Aitilaten" "Aitixer"
+		}
+		male_names = {
+			Muyamat Amat Hazan Huzen Mutza al-Hazan Zayid Xapan Iyagmulazan Haxin Xapar Xamal Xuneed
+			Itri Ixfensen Ixzi Izri Yafal Yamal Catiitu Camal Cenxela "Cid'r" Cutzil Luunis Luki 
+			Matitu Mahatar Malic Matzinitza Muyitz Muhamat Mutza 
+		}
+		female_names = {
+			Tabatzum Yatzilee Cala Canh'a Cantala Tayixa Talal Talyat Tament Tamimunt
+			Centehua Moyolehuani Yaotl Mixcoatl Necahual Nelli
+		}
+	}
+}

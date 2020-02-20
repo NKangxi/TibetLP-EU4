@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Y46
 controller = Y46
 add_core = Y46
-culture = berber
+culture = norvasunder
 religion = lollard
 citysize = 2000
 add_permanent_claim = ADU
@@ -817,6 +817,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = Y46
 	controller = Y46
-	culture = berber
+	culture = norvasunder
 	religion = lollard
 }

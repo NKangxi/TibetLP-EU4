@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = MAL
 controller = MAL
 add_core = MAL
-culture = berber
+culture = kanuri
 religion = yazidi
 citysize = 2000
 add_core = X13
@@ -814,6 +814,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = MAL
 	controller = MAL
-	culture = berber
+	culture = kanuri
 	religion = sunni
 }

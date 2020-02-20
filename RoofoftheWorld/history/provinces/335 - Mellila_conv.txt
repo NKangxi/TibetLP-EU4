@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Y49
 controller = Y49
 add_core = Y49
-culture = aztek
+culture = norvasunder
 religion = norse_pagan_reformed
 citysize = 2000
 add_permanent_claim = Y50
@@ -816,6 +816,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = Y49
 	controller = Y49
-	culture = aztek
+	culture = norvasunder
 	religion = norse_pagan_reformed
 }

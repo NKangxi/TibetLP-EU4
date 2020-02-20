@@ -3,7 +3,7 @@ owner = Z57
 controller = Z57
 add_core = Z57
 culture = berber
-religion = yazidi
+religion = norse_pagan_reformed
 citysize = 2000
 add_permanent_claim = Y44
 discovered_by = eastern
@@ -817,5 +817,5 @@ discovered_by = ottoman
 	owner = Z57
 	controller = Z57
 	culture = berber
-	religion = yazidi
+	religion = norse_pagan_reformed
 }

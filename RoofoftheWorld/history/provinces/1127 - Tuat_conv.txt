@@ -2,8 +2,11 @@ ck2_converter_generated = yes
 owner = X18
 controller = X18
 add_core = X18
-culture = bedouin_arabic
+
+culture = algerian
 religion = sunni
+add_core = ALG
+
 citysize = 2000
 add_permanent_claim = Y50
 discovered_by = eastern
@@ -227,7 +230,6 @@ discovered_by = ottoman
 	remove_core = MAM
 	remove_core = FEZ
 	remove_core = TRP
-	remove_core = ALG
 	remove_core = MOR
 	remove_core = EGY
 	remove_core = TUN
@@ -816,6 +818,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = X18
 	controller = X18
-	culture = bedouin_arabic
+	culture = algerian
 	religion = sunni
 }
