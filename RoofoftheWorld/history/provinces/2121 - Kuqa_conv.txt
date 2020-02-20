@@ -3,6 +3,7 @@ owner = TNM
 controller = TNM
 add_core = TNM
 add_core = Z76
+add_core = TIB
 culture = tocharian
 religion = buddhism
 citysize = 2000

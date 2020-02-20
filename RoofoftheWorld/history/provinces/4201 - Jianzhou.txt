@@ -4,6 +4,7 @@ owner = MCH
 controller = MCH
 add_core = MCH
 add_core = MJZ
+add_core = KOR
 culture = manchu
 religion = confucianism
 capital = "Jianzhou"

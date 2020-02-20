@@ -2,6 +2,7 @@ owner = XIU
 controller = XIU
 add_core = XIU
 add_core = AZT
+add_core = CNP
 culture = aztek
 religion = mesoamerican_religion
 discovered_by = mesoamerican

@@ -6,9 +6,10 @@ religion = nahuatl
 discovered_by = mesoamerican
 discovered_by = high_american
 citysize = 1000
-base_tax = 2 
-base_production = 2
-base_manpower = 2
+base_tax = 3
+base_production = 3
+base_manpower = 3
+fort_15th = yes
 
 1444.11.11 = {
 	owner = AZT

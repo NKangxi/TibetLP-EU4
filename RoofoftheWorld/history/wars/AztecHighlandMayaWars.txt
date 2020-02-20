@@ -1,0 +1,22 @@
+name = "Highland Maya-Aztec Wars"
+
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 840 #Honduras
+}
+
+1444.11.1 = {
+	add_attacker = KIC
+	add_attacker = CHT
+	add_attacker = MIS
+	add_defender = AZT
+}
+
+#Peace
+1444.12.1 = {
+	rem_attacker = KIC
+	rem_attacker = CHT
+	rem_attacker = MIS
+	rem_defender = AZT
+}

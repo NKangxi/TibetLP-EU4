@@ -7,26 +7,20 @@ war_goal = {
 }
 
 1444.11.1 = {
-	add_attacker = KIC
 	add_attacker = YOK
 	add_attacker = CNP
 	add_attacker = XIU
 	add_attacker = COC
 	add_attacker = CTM
-	add_attacker = CHT
-	add_attacker = MIS
 	add_defender = AZT
 }
 
 #Peace
 1444.12.1 = {
-	rem_attacker = KIC
 	rem_attacker = YOK
 	rem_attacker = CNP
 	rem_attacker = XIU
 	rem_attacker = COC
 	rem_attacker = CTM
-	rem_attacker = CHT
-	rem_attacker = MIS
 	rem_defender = AZT
 }

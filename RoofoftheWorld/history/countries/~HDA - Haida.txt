@@ -1,9 +1,8 @@
-government = monarchy
-government_rank = 1
-primary_culture = salish
+government = native government_rank = 1
+primary_culture = haida
 religion = totemism
 technology_group = high_american
-capital = 874	# Salish
+capital = 2022 #Haida
 
 
 1444.11.11 = {

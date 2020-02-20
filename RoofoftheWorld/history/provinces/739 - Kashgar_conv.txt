@@ -2,6 +2,7 @@ ck2_converter_generated = yes
 owner = TNM
 controller = TNM
 add_core = TNM
+add_core = TIB
 culture = saka
 religion = buddhism
 citysize = 2000

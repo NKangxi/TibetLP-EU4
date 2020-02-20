@@ -1,10 +1,11 @@
 ck2_converter_generated = yes
-owner = Z31
-controller = Z31
-add_core = Z31
+owner = Z01
+controller = Z01
+add_core = Z01
 culture = swedish
 religion = norse_pagan_reformed
 citysize = 2000
+add_permanent_claim = ENG
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -813,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z31
-	controller = Z31
+	owner = Z01
+	controller = Z01
 	culture = swedish
 	religion = norse_pagan_reformed
 }
