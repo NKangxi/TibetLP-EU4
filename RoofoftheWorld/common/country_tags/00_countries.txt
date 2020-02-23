@@ -918,6 +918,11 @@ SYN = "countries/Synthetics.txt"
 #New tags for TibetLP (might be sorted later)
 IKK = "countries/IkkoIkki.txt"
 AOT = "countries/Aotearoa.txt"
+AJJ = "countries/Atjuntja.txt"
+WAT = "countries/Watjubaga.txt"
+YAD = "countries/Yadji.txt"
+GUT = "countries/Gutjanal.txt"
+TJI = "countries/Tjibarr.txt"
 
 #Converter tags:
 #JOM = countries/Jomsvikings.txt

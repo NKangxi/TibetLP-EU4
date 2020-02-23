@@ -1,8 +1,8 @@
-#1086 - Kaurna
+#1089 - Wiradjuri
 
 culture = aboriginal
 religion = animism
-capital = "Kaurna"
+capital = "Wiradjuri"
 owner = WAT
 controller = WAT
 add_core = WAT
@@ -10,6 +10,4 @@ trade_goods = unknown
 hre = no
 base_tax = 3 
 base_production = 3
-base_manpower = 1
-
-discovered_by = AOT
+base_manpower = 2

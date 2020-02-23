@@ -1,15 +1,14 @@
-#1086 - Kaurna
+#1088 - Wergaia
 
 culture = aboriginal
 religion = animism
-capital = "Kaurna"
+capital = "Wergaia"
 owner = WAT
 controller = WAT
 add_core = WAT
 trade_goods = unknown
 hre = no
-base_tax = 3 
-base_production = 3
+base_tax = 1 
+base_production = 1
 base_manpower = 1
 
-discovered_by = AOT

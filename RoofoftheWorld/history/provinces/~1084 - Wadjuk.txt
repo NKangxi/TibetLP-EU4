@@ -1,0 +1,15 @@
+#1084 - Wadjuk
+
+culture = aboriginal
+religion = animism
+capital = "Wadjuk"
+owner = ATJ
+controller = ATJ
+add_core = ATJ
+hre = no
+trade_goods = unknown
+base_manpower = 1
+base_tax = 2 
+base_production = 2
+
+1619.1.10 = { discovered_by = NED } # Frederick de Houtman

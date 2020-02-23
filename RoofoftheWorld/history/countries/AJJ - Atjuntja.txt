@@ -1,0 +1,34 @@
+government = monarchy
+primary_culture = aboriginal
+government_rank = 1
+technology_group = chinese
+religion = animism
+capital = 1084 #Wadjuk
+
+
+# Atjuntja 
+
+1429.1.1 = {
+	monarch = {
+		name = "Warrain"
+		dynasty = "Malgana"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1429.1.1 = {
+	heir = {
+		name = "Elouera"
+		monarch_name = "Elouera"
+		dynasty = "Malgana"
+		birth_date = 1429.1.1
+		death_date = 1451.1.1
+		female = yes
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}

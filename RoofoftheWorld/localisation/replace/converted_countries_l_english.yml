@@ -1,4 +1,6 @@
 ﻿l_english: 
+ AJJ:0 "Atjuntja"
+ AJJ_ADJ:0 "Atjuntja"
  ASI:0 "Nakota"
  ASI_ADJ:0 "Nakota"
  AOT: "Aotearoa"
@@ -91,6 +93,8 @@
  TNM_ADJ:0 "Altishahran"
  URU:0 "Lupihaques"
  URU_ADJ: "Lupihaques"
+ WAT:0 "Watjubaga"
+ WAT_ADJ:0 "Watjubaga"
  WCR:0 "Nehiyaw Pwat"
  WCR_ADJ:0 "Nehiyaw Pwat"
  X00: "Para-Lauhitya"
