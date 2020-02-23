@@ -1,0 +1,11 @@
+government = monarchy
+primary_culture = aboriginal
+government_rank = 1
+technology_group = chinese
+religion = animism
+capital = 1088 #Wergaia
+
+
+# Gutjanal 
+
+# no rulers

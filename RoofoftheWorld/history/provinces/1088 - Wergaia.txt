@@ -6,6 +6,7 @@ capital = "Wergaia"
 owner = WAT
 controller = WAT
 add_core = WAT
+add_core = GUT
 trade_goods = unknown
 hre = no
 base_tax = 1 

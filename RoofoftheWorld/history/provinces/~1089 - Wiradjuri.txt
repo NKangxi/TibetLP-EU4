@@ -1,16 +1,13 @@
-#1087 - Wurundjeri
+#1089 - Wiradjuri
 
 culture = aboriginal
 religion = animism
-capital = "Wurundjeri"
+capital = "Wiradjuri"
 owner = WAT
 controller = WAT
 add_core = WAT
-add_core = YAD
-hre = no
 trade_goods = unknown
-base_manpower = 1
+hre = no
 base_tax = 3 
 base_production = 3
-
-discovered_by = AOT
+base_manpower = 2

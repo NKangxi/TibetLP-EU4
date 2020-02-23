@@ -1,16 +1,14 @@
-#1087 - Wurundjeri
+#1088 - Wergaia
 
 culture = aboriginal
 religion = animism
-capital = "Wurundjeri"
+capital = "Wergaia"
 owner = WAT
 controller = WAT
 add_core = WAT
-add_core = YAD
-hre = no
 trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
 base_manpower = 1
-base_tax = 3 
-base_production = 3
 
-discovered_by = AOT

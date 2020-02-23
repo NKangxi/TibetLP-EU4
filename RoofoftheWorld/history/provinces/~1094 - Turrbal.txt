@@ -1,14 +1,15 @@
-#1089 - Wiradjuri
+#1094 - Gubbi Gubbi
 
 culture = aboriginal
 religion = animism
-capital = "Wiradjuri"
-owner = WAT
-controller = WAT
-add_core = WAT
-add_core = GUT
+capital = "Brisbane"
 trade_goods = unknown
 hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
+native_size = 10
+native_ferocity = 1
+native_hostileness = 1
+
+discovered_by = AOT

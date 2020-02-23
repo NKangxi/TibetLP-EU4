@@ -6,7 +6,7 @@ religion = animism
 capital = 2735 #Gunditjmara
 
 
-# Atjuntja 
+# Watjubaga 
 
 1434.1.1 = {
 	monarch = {

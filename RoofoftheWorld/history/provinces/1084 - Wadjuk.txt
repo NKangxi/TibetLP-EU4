@@ -8,8 +8,8 @@ controller = AJJ
 add_core = AJJ
 hre = no
 trade_goods = unknown
-base_manpower = 1
-base_tax = 2 
-base_production = 2
+base_manpower = 2
+base_tax = 3 
+base_production = 3
 
 1619.1.10 = { discovered_by = NED } # Frederick de Houtman

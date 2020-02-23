@@ -6,6 +6,7 @@ capital = "Gunditjmara"
 owner = WAT
 controller = WAT
 add_core = WAT
+add_core = YAD
 hre = no
 trade_goods = unknown
 base_manpower = 1

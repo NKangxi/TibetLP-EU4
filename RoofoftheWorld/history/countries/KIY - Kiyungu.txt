@@ -1,0 +1,19 @@
+government = monarchy
+primary_culture = aboriginal
+government_rank = 1
+technology_group = chinese
+religion = animism
+capital = 1094 #Turrbal
+
+
+# Kiyungu 
+
+1434.1.1 = {
+	monarch = {
+		name = "Gurrumarra"
+		dynasty = "Matari"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}

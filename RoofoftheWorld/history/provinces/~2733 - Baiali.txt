@@ -1,15 +1,18 @@
-#1094 - Gubbi Gubbi
+#2733 - Baiali
+
+latent_trade_goods = {
+	coal
+}
 
 culture = aboriginal
 religion = animism
-capital = "Brisbane"
+capital = "Baiali"
 trade_goods = unknown
 hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-owner = KIY
-controller = KIY
-add_core = KIY
-
+native_size = 10
+native_ferocity = 1
+native_hostileness = 1
 discovered_by = AOT
