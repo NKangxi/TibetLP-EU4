@@ -1,6 +1,7 @@
 owner = AZT
 controller = AZT
 add_core = AZT
+add_core = CRE
 culture = aztek
 religion = nahuatl
 discovered_by = mesoamerican

@@ -6,17 +6,6 @@ primary_culture = tibetan
 capital = 542	# Golcanda 
 fixed_capital = 542 # Cannot move capital away from this province & no power cost to move to it
 
-1390.1.1 = {
-	monarch = {
-		name = "Tenzin"
-		dynasty = "Yonten"
-		DIP = 3
-		ADM = 5
-		MIL = 6
-	}
-	government_rank = 1
-}
-
 1490.1.1 = {
 	monarch = {
 		name = "Quli Qutb-ul-Mulk"

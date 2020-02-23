@@ -17,12 +17,6 @@ vassal = {
 	start_date = 1444.11.1
 	end_date = 1822.1.1
 }
-vassal = {
-	first = AZT
-	second = KIC
-	start_date = 1444.11.1
-	end_date = 1822.1.1
-}
 march = {
 	first = AZT
 	second = MCA

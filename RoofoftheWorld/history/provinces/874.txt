@@ -2,6 +2,8 @@ owner = SAL
 controller = SAL
 add_core = SAL
 discovered_by = high_american
+base_tax = 6
+manpower = 5 
 
 1444.11.11 = {
     owner = SAL

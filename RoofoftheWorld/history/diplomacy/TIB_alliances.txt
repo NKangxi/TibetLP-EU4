@@ -2,7 +2,7 @@
 vassal = {
 	first = TIB
 	second = NPL
-	start_date = 1444.11.11
+	start_date = 1430.11.11
 	end_date = 1900.1.1
 }
 
@@ -10,6 +10,6 @@ vassal = {
 vassal = {
 	first = TIB
 	second = Y53
-	start_date = 1444.11.11
+	start_date = 1430.11.11
 	end_date = 1900.1.1
 }

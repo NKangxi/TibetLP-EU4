@@ -3,6 +3,8 @@ owner = SAL
 controller = SAL
 add_core = SAL
 discovered_by = high_american
+base_tax = 3
+manpower = 3 
 
 
 

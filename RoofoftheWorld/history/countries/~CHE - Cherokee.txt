@@ -11,7 +11,7 @@ mercantilism = 0.1
 primary_culture = cherokee
 religion = totemism
 technology_group = high_american
-capital = 950	# Chesapeake
+capital = 925	# Tuskogee
 
 
 1399.1.1 = {
