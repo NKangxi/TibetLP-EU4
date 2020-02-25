@@ -7568,8 +7568,6 @@
  MEN_ADJ:0 "Mentese"
  RAM:0 "Ramazan"
  RAM_ADJ:0 "Ramazani"
- EPI:0 "Epirus"
- EPI_ADJ:0 "Epirote"
  rebel_sentiment:0 "Rebel Sentiment"
  desc_rebel_sentiment:0 "Our high Infamy has inflamed opportunist patriots and nationalists all over this province."
  TRIG_NOT_LIKELY_REBELS:0 "Likely Rebels are NOT $TITLE|Y$"
