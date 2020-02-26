@@ -297,7 +297,6 @@ discovered_by = ottoman
 	remove_core = KAM
 	remove_core = KGR
 	remove_core = GHR
-	remove_core = NPL
 	remove_core = HSA
 	remove_core = BAR
 	remove_core = SMO

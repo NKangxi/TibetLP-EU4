@@ -271,7 +271,6 @@ discovered_by = ottoman
 	remove_core = MLW
 	remove_core = SND
 	remove_core = DLH
-	remove_core = GDW
 	remove_core = JAN
 	remove_core = BHA
 	remove_core = AFG

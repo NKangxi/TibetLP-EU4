@@ -613,7 +613,6 @@ discovered_by = ottoman
 	remove_core = HAD
 	remove_core = NGA
 	remove_core = RMP
-	remove_core = BGL
 	remove_core = JFN
 	remove_core = PTA
 	remove_core = CHD

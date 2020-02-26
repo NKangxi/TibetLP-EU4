@@ -591,7 +591,6 @@ discovered_by = ottoman
 	remove_core = BAL
 	remove_core = BIJ
 	remove_core = BAH
-	remove_core = GOC
 	remove_core = MAR
 	remove_core = MYS
 	remove_core = VIJ
