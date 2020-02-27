@@ -11,6 +11,7 @@ religion = bon
 elector = yes
 clear_scripted_personalities = yes
 capital = 677
+
 1444.7.17 = {
 	monarch = {
 		name = "Yondagmo"

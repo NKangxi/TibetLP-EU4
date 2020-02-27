@@ -1,12 +1,12 @@
-#Tunhe
+#728 - Tuwan
 
 owner = MCH
 controller = MCH
 add_core = MCH
 add_core = NHX
 culture = manchu
-religion = vajrayana
-capital = "Tunhe"
+religion = tengri_pagan_reformed
+capital = "Tuwan"
 trade_goods = livestock
 hre = no
 base_tax = 1 
