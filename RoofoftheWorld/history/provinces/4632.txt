@@ -3,6 +3,9 @@ controller = PUE
 add_core = PUE
 discovered_by = high_american
 citysize = 1000
+base_tax = 3 
+base_production = 3
+base_manpower = 3
 
 1444.11.11 = {
 	owner = PUE
