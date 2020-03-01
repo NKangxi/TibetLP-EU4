@@ -1,0 +1,142 @@
+# The Bon Reformation
+country_event = {
+	id = 20001
+	title = "EVTNAME20001"
+	desc = "EVTDESC20001"
+	picture = RELIGION_eventPicture
+	
+	major = yes
+	
+	trigger = {
+		NOT = { is_religion_enabled = restorationist }
+		religion = bon
+		NOT = { has_reform = papacy_reform }
+		capital_scope = {
+			continent = asia
+		}
+		any_owned_province = {
+			can_have_center_of_reformation_trigger = {
+				RELIGION = restorationist
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 2500
+		
+		modifier = {
+			factor = 0.4
+			OR = {
+				culture_group = hindusthani
+				culture_group = central_indic
+				culture_group = iranian
+				culture_group = dravidian
+			}
+		}
+				
+		modifier = {
+			factor = 0.75
+			reform_desire = 1.0
+		}
+		modifier = {
+			factor = 0.75
+			reform_desire = 1.05
+		}
+		modifier = {
+			factor = 0.75
+			reform_desire = 1.10
+		}
+		modifier = {
+			factor = 0.66
+			reform_desire = 1.15
+		}
+		modifier = {
+			factor = 0.50
+			reform_desire = 1.20
+		}
+		modifier = {
+			factor = 0.25
+			reform_desire = 1.25
+		}
+		
+		modifier = {
+			factor = 0.75
+			NOT = { num_of_cities = 10 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { num_of_cities = 2 }
+		}
+		
+		modifier = {
+			factor = 0.75
+			has_idea_group = innovativeness_ideas
+		}
+		modifier = {
+			factor = 1.25
+			has_idea_group = religious_ideas
+		}
+
+		modifier = {
+			factor = 0.95
+			NOT = { has_opinion = { who = TKH value = -50 } }
+		}
+		modifier = {
+			factor = 0.85
+			NOT = { has_opinion = { who = TKH value = -100 } }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { has_opinion = { who = TKH value = -150 } }
+		}		
+		modifier = {
+			factor = 0.5
+			num_of_rebel_controlled_provinces = 1
+		}
+		modifier = {
+			factor = 2.0
+			government = theocracy
+		}
+		modifier = {
+			factor = 8.0
+			OR = {
+				culture_group = eastern_aryan
+				culture_group = tibetan_group
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTA20001"
+		enable_religion = restorationist
+		random_owned_province = {
+			limit = {
+				can_have_center_of_reformation_trigger = {
+					RELIGION = restorationist
+				}
+			}
+			change_religion = restorationist
+			add_reform_center = restorationist
+			add_permanent_province_modifier = {
+				name = "religious_zeal_at_conv"
+				duration = 9000
+			}
+			if = {
+				limit = {
+					NOT = { is_capital = yes }
+				}
+				root = {
+					capital_scope = {
+						change_religion = restorationist
+						add_permanent_province_modifier = {
+							name = "religious_zeal_at_conv"
+							duration = 9000
+						}
+					}
+				}
+			}
+		}
+		set_country_flag = "bon_reformation" 
+	}
+}
+
