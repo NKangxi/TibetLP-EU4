@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 add_core = FRA
-culture = cosmopolitan_french
-religion = cathar
+culture = hualanitscah
+religion = norse_pagan_reformed
 citysize = 2000
 add_core = BER
 discovered_by = eastern
@@ -810,6 +810,6 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	culture = cosmopolitan_french
-	religion = cathar
+	culture = hualanitscah
+	religion = norse_pagan_reformed
 }
