@@ -164,6 +164,45 @@ TIM_ideas = {
 	}
 }
 
+# Ethiopian Anatolia
+Z92_ideas = {
+	start = {
+		advisor_cost = -0.10
+		tolerance_heathen = 3
+	}
+	
+	bonus = {
+		legitimacy = 1
+	}
+	
+	trigger = {
+		tag = Z92
+	}
+	free = yes		#will be added at load.
+	
+	edge_of_civilization = {
+		defensiveness = 0.20
+	}
+	a_balance_of_diplomacy = {
+		diplomatic_reputation = 1
+	}
+	heirs_to_the_caliphate = {
+		prestige = 1
+	}
+	mediterranean_trade_caravans = {
+		global_tax_modifier = 0.1
+	}
+	the_negus_caliph_calls = {
+		global_manpower_modifier = 0.20
+	}
+	managed_army_reform = {
+		infantry_power = 0.1
+	}
+	great_smyrna_shipyard = {
+		light_ship_cost = -0.20
+	}	
+}	
+
 # Jerusalem Raj
 Y21_ideas = {
 	start = {
@@ -1523,6 +1562,209 @@ SBA_ideas = {
 
 ### Daimyo ideas end here.
 
+### Vanilla ideas added here.
+
+IRO_ideas = {
+	start = {
+		infantry_power = 0.1
+		diplomatic_reputation = 1
+	}
+	
+	bonus = {
+		improve_relation_modifier = 0.5
+	}
+	
+	trigger = {
+		tag = IRO
+	}
+	free = yes		# will be added at load
+	
+	kainerekowa = {
+		war_exhaustion_cost = -0.15
+	}
+	keepers_of_the_western_door = {
+		global_manpower_modifier = 0.25
+	}
+	keepers_of_the_eastern_door = {
+		global_own_trade_power = 0.25
+	}
+	keepers_of_the_fire = {
+		diplomats = 1
+	}
+	mourning_wars = {
+		manpower_recovery_speed = 0.2
+	}
+	warriors_unity = {
+		discipline = 0.05
+	}
+	the_four_kings = {
+		prestige = 1
+	}
+
+}
+
+
+CHE_ideas = {
+	start = {
+		advisor_cost = -0.10
+		enemy_core_creation = 0.25
+	}
+	
+	bonus = {
+		global_institution_spread = 0.1
+	}
+	
+	trigger = {
+		tag = CHE
+	}
+	free = yes		# will be added at load
+	
+	moundbilders_legacy_CHE = {
+		build_cost = -0.1
+	}
+	massacre_of_the_anikutani = {
+		stability_cost_modifier = -0.1
+	}
+	red_chiefs = {
+		global_manpower_modifier = 0.20
+	}
+	cherokee_adaptability = {
+		idea_cost = -0.10
+	}
+	ghigau = {
+		land_morale = 0.1
+	}
+	mountainous_isolation = {
+		defensiveness = 0.10
+	}
+	cherokee_emperor = {
+		diplomats = 1
+	}
+
+}
+
+
+AVA_ideas = {
+	start = {
+		land_morale = 0.1
+		infantry_cost = -0.15
+	}
+	
+	bonus = {
+		cavalry_power = 0.15
+	}
+	
+	trigger = {
+		tag = AVA
+	}
+	free = yes
+	
+	legacy_of_the_pagan_dynasty = {
+		prestige = 1
+	}
+	ava_rajadhiraja = {
+		land_forcelimit_modifier = 0.2
+	}
+	manu_kye_dhammathat = {
+		stability_cost_modifier = -0.10
+	}
+	ava_bamar_literature = {
+		same_culture_advisor_cost = -0.2
+	}
+	ava_hill_tribes = {
+		global_manpower_modifier = 0.2
+	}
+	ava_shan_in_line = {
+		diplomatic_reputation = 1
+	}
+	ava_provincial_governors = {
+		global_autonomy = -0.05
+	}
+}
+
+javan_ideas = {
+	start = {
+		tolerance_heathen = 2
+		prestige_decay = -0.01	
+	}
+	
+	bonus = {
+		naval_maintenance_modifier = -0.2
+	}
+	
+	trigger = {
+		OR = {
+			tag = MAJ
+			tag = SUN
+		}
+	}
+	free = yes
+	
+	candi_shrines = {
+		religious_unity = 0.20
+	}
+	indianization = {
+		global_institution_spread = 0.1
+	}
+	dharmasastra = {
+		global_missionary_strength = 0.02
+	}
+	pan_asian_trade = {
+		merchants = 1
+		trade_steering = 0.10
+	}
+	bi_yearly_harvest = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	modernized_shipbuilding = {
+		global_ship_cost = -0.10
+	}
+	terracotta_banking = {
+		trade_efficiency = 0.1
+	}
+}
+
+CHICK_ideas = {
+	start = {
+		land_forcelimit_modifier = 0.25
+		war_exhaustion_cost = -0.15
+	}
+	
+	bonus = {
+		land_attrition = -0.10
+	}
+	
+	trigger = {
+		tag = CHI
+	}
+	free = yes		# will be added at load
+	
+	moundbilders_legacy = {
+		build_cost = -0.1
+	}
+	spartans_of_miss = {
+		infantry_power = 0.1
+	}
+	nighttime_raids = {
+		hostile_attrition = 1.0
+	}
+	unconqured_and_unconquerable = {
+		enemy_core_creation = 0.5
+	}
+	slave_raids = {
+		trade_efficiency = 0.1
+		loot_amount = 0.10
+	}
+	
+	lessons_of_ackia = {
+		defensiveness = 0.2
+	}
+	swan_feathers_mantle = {
+		prestige = 1
+	}
+
+}
+
 ### Nation specific idea groups (from the converter, etc.)
 
 ENG_ideas = {
@@ -2684,3 +2926,5 @@ MVA_ideas = {
 		always = no
 	}
 }
+
+
