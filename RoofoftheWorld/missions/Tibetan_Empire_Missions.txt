@@ -1,0 +1,416 @@
+tibemp_slot_1 = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		tag = TIB
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	tib_invade_burma_mission = {
+		icon = mission_chinese_general_riding
+		required_missions = { 	}
+		icon = mission_build_up_to_force_limit
+		required_missions = {  }
+		trigger = {
+			army_size_percentage = 1
+		}
+		effect = {
+			arakan_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			upper_burma_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			chindwin_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			kachin_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			central_burma_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			lower_burma_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			if = {
+				limit = {
+					2041 = {
+						NOT = {
+							is_permanent_claim = ROOT
+							is_core = ROOT
+						}
+					}
+				}
+				2041 = {
+					add_permanent_claim = ROOT
+				}
+			}
+		}
+	}
+	tib_subjugate_burma_mission = {
+		icon = mission_have_two_subjects
+		required_missions = { tib_invade_burma_mission }
+		provinces_to_highlight = {
+			OR = {
+				area = arakan_area
+				area = upper_burma_area
+				area = chindwin_area
+				area = kachin_area
+				area = central_burma_area
+				area = lower_burma_area
+				province_id = 2041
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			arakan_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			upper_burma_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			chindwin_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			kachin_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			central_burma_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			lower_burma_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}			
+			2041 = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			burma_region = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			564 = {
+				add_base_tax = 2
+				add_base_production = 2
+				add_base_manpower = 2
+			}
+			586 = {
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+			}
+		}
+	}
+	tib_consolidate_burma_mission = {
+		icon = mission_unite_home_region
+		required_missions = { tib_subjugate_burma_mission }
+		completed_by = 1776.1.1
+		provinces_to_highlight = {
+			OR = {
+				province_id = 579
+				province_id = 584
+				province_id = 583
+				province_id = 2400
+				province_id = 580
+				province_id = 2396
+				province_id = 588
+				province_id = 2401
+				province_id = 582
+				province_id = 586
+				province_id = 4396
+				province_id = 585
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			# integrate minors
+			579 = {
+				owned_by = ROOT
+			}
+			584 = {
+				owned_by = ROOT
+			}
+			583 = {
+				owned_by = ROOT
+			}
+			2400 = {
+				owned_by = ROOT
+			}
+			580 = {
+				owned_by = ROOT
+			}
+			2396 = {
+				owned_by = ROOT
+			}
+			588 = {
+				owned_by = ROOT
+			}
+			2401 = {
+				owned_by = ROOT
+			}
+			582 = {
+				owned_by = ROOT
+			}
+			586 = {
+				owned_by = ROOT
+			}
+			4396 = {
+				owned_by = ROOT
+			}
+			585 = {
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "burmese_integration"
+				duration = 5475
+			}
+			584 = {
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+			}
+			586 = {
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+			}
+			585 = {
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+			}
+			579 = {
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+			}
+			malaya_region = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			central_thai_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			khorat_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			cambodia_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			mekong_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			south_laos_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			champa_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	tib_window_to_the_sea = {
+		icon = mission_galleys_in_port
+		required_missions = { tib_consolidate_burma_mission }
+		completed_by = 1776.1.1
+		provinces_to_highlight = {
+			OR = {
+				area = malaya_area
+				area = malacca_area
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			malaya_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT	
+			}
+			malacca_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT	
+			}
+			tennaserim_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT	
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "thai_sea_ambition_new"
+				duration = 5475
+			}
+		}
+	}
+}
+
+tibemp_slot_2 = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		tag = TIB
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+}
+
+tibemp_slot_3 = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		tag = TIB
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+}
+
+tibemp_slot_4 = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		tag = TIB
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	tib_monasteries_mission = {
+		icon = mission_land_of_churches
+		required_missions = {  }
+		provinces_to_highlight = {
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 20
+				OR = {
+					has_building = temple
+					has_building = cathedral
+				}
+			}
+		}
+		effect = {
+			add_estate_loyalty = {
+				estate = estate_church
+				loyalty = 10
+			}
+			if = {
+				limit = {
+					NOT = {
+						religion = bon
+					}
+				}
+				add_prestige = 10
+			}
+		}
+	}
+
+	tib_hierarchy_mission = {
+		icon = mission_russian_patriarchatee
+		required_missions = { tib_monasteries_mission }
+		position = 2
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					province_id = 2133
+					owned_by = TKH
+				}
+				AND = {
+					province_id = 295
+					NOT = {
+						owned_by = ROOT
+					}
+				}
+			}
+		}
+		trigger = {
+			NOT = { 
+				2133 = { 
+					owned_by = TKH 
+				}
+			}
+			religion = bon
+			295 = {
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			set_country_flag = hierarchy_falls
+			country_event = { id = tibet_empire.1 }
+			add_country_modifier = {
+				name = "tibetan_sacred_hierarchy"
+				duration = -1
+			}
+		}
+	}
+}
