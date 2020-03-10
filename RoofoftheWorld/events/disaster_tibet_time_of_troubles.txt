@@ -246,7 +246,7 @@ country_event = {
 		set_country_flag = TIB_had_event_1106
 	}
 	
-	option = {		# Recognize him as the legitimate ruler
+	option = {		# Recognize her as the legitimate ruler
 		name = "ttot.EVTOPTA1106"
 		ai_chance = { factor = 10 }
 		if = {
