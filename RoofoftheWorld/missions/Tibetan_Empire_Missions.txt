@@ -14,7 +14,7 @@ tibemp_slot_1 = {
 		icon = mission_build_up_to_force_limit
 		required_missions = {  }
 		trigger = {
-			army_size_percentage = .9
+			army_size_percentage = 1
 		}
 		effect = {
 			arakan_area = {
@@ -327,7 +327,7 @@ tibemp_slot_2 = {
 	
 	tib_rebuild_commercial_base = {
 		icon = mission_conquer_50_development
-		required_missions = { build_army_mission }
+		required_missions = { }
 		trigger = { grown_by_development = 50 }
 		effect = {
 			capital_scope = {

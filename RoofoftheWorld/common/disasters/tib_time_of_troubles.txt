@@ -1,11 +1,8 @@
 tibetan_time_of_troubles = {
 	potential = {
-		NOT = { has_country_flag = tibet_time_of_troubles }
+		NOT = { has_country_flag = tibetan_time_of_troubles }
 		tag = TIB
-		is_free_or_tributary_trigger = yes
 	}
-
-	
 	
 	can_start = {
 		current_age = age_of_reformation
@@ -13,7 +10,6 @@ tibetan_time_of_troubles = {
 		has_any_disaster = no
 		NOT = { stability = 0 }
 	}
-	
 	
 	can_stop = {
 		OR = {
@@ -77,3 +73,5 @@ tibetan_time_of_troubles = {
 		}
 	}
 }
+
+

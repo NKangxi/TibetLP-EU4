@@ -18,7 +18,7 @@ country_event = {
 	}
 	
 	immediate = {
-		set_country_flag = tibet_time_of_troubles
+		set_country_flag = tibetan_time_of_troubles
 	}
 	
 	option = {		# Hard times are ahead of us
@@ -608,3 +608,4 @@ country_event = {
 		}
 	}
 }
+
