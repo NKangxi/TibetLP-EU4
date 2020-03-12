@@ -169,13 +169,13 @@ TIM_ideas = {
 BAV_ideas = {
 	start = {
 		may_recruit_female_generals = yes
-		female_advisor_chance = 0.35
+		female_advisor_chance = 0.40
 		enemy_core_creation = 0.5
 		religious_unity = 0.10
 	}
 	
 	bonus = {
-	
+		missionaries = 1
 	}
 	
 	trigger = {
@@ -184,31 +184,31 @@ BAV_ideas = {
 	free = yes		#will be added at load.
 	
 	bogomilist_asceticism = {
-	
+		global_unrest = -1
 	}
 	
 	missionary_spirit = {
-	
+		global_missionary_strength = 0.01
 	}
 	
 	legacy_of_volkinja = { #the butcher
-	
+		shock_damage_received = -0.1
 	}
 	
 	satan_brother_of_jesus = {
-	
+		tolerance_own = 2
 	}
 	
 	against_the_cross = {
-	
+		defensiveness = 0.15
 	}
 	
 	dualist_thinking = {
-	
+		advisor_pool = 1
 	}
 	
 	the_gnostic_virtues = {
-	
+		discipline = 0.05
 	}
 
 }
@@ -749,6 +749,46 @@ X22_ideas {
 	}
 	army_guided_administration = {
 		stability_cost_modifier = -0.2
+	}
+}
+
+KHA_ideas = {
+	start = {
+		global_manpower_modifier = 0.25
+		years_of_nationalism = -5
+	}
+	
+	bonus = {
+		land_maintenance_modifier = -0.05
+	}
+	
+	trigger = {
+		tag = KHA
+	}
+	free = yes
+	
+	ghostly_horses_of_the_plain = {
+		cavalry_power = 0.20
+	}
+	ikh_mongol_uls = {
+		ae_impact = -0.15
+	}
+	life_of_steppe_warrior = {
+		#land_attrition = -0.20 (effect taken in OIR_ideas)
+	}
+	northern_yuan = {
+		core_creation = -0.25
+	}
+	yams_of_the_great_khan = {
+		envoy_travel_time = -0.25
+		reinforce_cost_modifier = -0.15
+	}
+	mongolian_mobility = {
+		leader_land_manuever = 1
+		movement_speed = 0.1
+	}
+	MNG_kheshig = {
+		leader_land_shock = 1
 	}
 }
 
@@ -2294,15 +2334,41 @@ NOV_ideas = {
 }
 
 ETH_ideas = {
+	start = {
+		global_autonomy = -0.05
+		land_attrition = -0.10
+	}
+	
+	bonus = {
+		colonists = 1
+	}
+	
 	trigger = {
-		num_of_ports = 5
-		num_of_cities = 10
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = amhara
+		tag = ETH
+	}
+	free = yes		#will be added at load.
+	
+	legacy_of_the_jerusalem_raj = {
+		prestige = 1
+	}
+	eth_death_has_come = {
+		hostile_attrition = 1
+	}
+	hostile_borders = {
+		defensiveness = 0.20
+	}
+	eth_sailors_of_the_indian_ocean = {
+		naval_forcelimit_modifier = 0.25
+		sailors_recovery_speed = 0.05
+	}
+	eth_diaspora = {
+		missionaries = 1
+	}
+	eth_expansionist_policy = {
+		core_creation = -0.10
+	}
+	eth_reformed_armies = {
+		infantry_power = 0.1
 	}
 }
 
