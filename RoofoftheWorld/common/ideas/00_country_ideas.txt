@@ -239,7 +239,7 @@ SCA_ideas = {
 		discipline = 0.1	
 	}
 	
-	southern_raids = {
+	heathen_animism = {
 		naval_forcelimit_modifier = 0.5	
 	}
 	
