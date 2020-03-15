@@ -1,8 +1,8 @@
 # The Bon Reformation
 country_event = {
-	id = 20001
-	title = "EVTNAME20001"
-	desc = "EVTDESC20001"
+	id = bon_restoration.1
+	title = "bon_restoration.1.t"
+	desc = "bon_restoration.1.d"
 	picture = RELIGION_eventPicture
 	
 	major = yes
