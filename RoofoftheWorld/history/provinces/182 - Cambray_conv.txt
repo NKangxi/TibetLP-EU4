@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Z11
-controller = Z11
-add_core = Z11
+owner = FRA
+controller = FRA
+add_core = FRA
 culture = cosmopolitan_french
 religion = iconoclast
 citysize = 2000
@@ -814,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z11
-	controller = Z11
+	owner = FRA
+	controller = FRA
 	culture = cosmopolitan_french
 	religion = iconoclast
 }

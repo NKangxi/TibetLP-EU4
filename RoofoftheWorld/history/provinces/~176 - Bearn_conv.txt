@@ -1,12 +1,12 @@
 ck2_converter_generated = yes
-owner = XXX
-controller = XXX
+owner = Z04
+controller = Z04
+add_core = Z04
 culture = basque
 religion = sunni
-citysize = 0
-native_size = 3
-native_hostileness = 7
-native_ferocity = 8
+citysize = 2000
+add_permanent_claim = LIT
+add_permanent_claim = ENG
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -815,8 +815,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = XXX
-	controller = XXX
+	owner = Z04
+	controller = Z04
 	culture = basque
 	religion = sunni
 }

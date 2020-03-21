@@ -1,10 +1,13 @@
 ck2_converter_generated = yes
-owner = Z01
-controller = Z01
-add_core = Z01
+owner = XXX
+controller = XXX
+add_core = XXX
 culture = jorviker
 religion = lollard
-citysize = 2000
+citysize = 0
+native_size = 12
+native_hostileness = 7
+native_ferocity = 8
 add_permanent_claim = ENG
 discovered_by = eastern
 discovered_by = western
@@ -814,8 +817,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z01
-	controller = Z01
+	owner = XXX
+	controller = XXX
 	culture = jorviker
 	religion = lollard
 }
