@@ -1,13 +1,13 @@
 ck2_converter_generated = yes
-owner = POM
-controller = POM
-add_core = POM
+owner = XXX
+controller = XXX
+add_core = XXX
 culture = german
 religion = catholic
-citysize = 2000
-add_permanent_claim = SAX
-add_permanent_claim = GER
-add_core = MKL
+citysize = 0
+native_size = 3
+native_hostileness = 3
+native_ferocity = 4
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -814,8 +814,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = POM
-	controller = POM
+	owner = XXX
+	controller = XXX
 	culture = german
 	religion = catholic
 }
