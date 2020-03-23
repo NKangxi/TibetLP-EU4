@@ -2,11 +2,6 @@ owner = PEQ
 controller = PEQ
 add_core = PEQ
 discovered_by = high_american
-base_tax = 5
-base_production = 4
-base_manpower = 5
-
-
 
 1444.11.11 = {
     owner = PEQ

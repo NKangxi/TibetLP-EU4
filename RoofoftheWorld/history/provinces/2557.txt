@@ -4,9 +4,6 @@ add_core = SUS
 discovered_by = high_american
 citysize = 1000
 fort_15th = yes
-base_tax = 2 
-base_production = 2
-base_manpower = 2
 
 1444.11.11 = {
 	owner = SUS

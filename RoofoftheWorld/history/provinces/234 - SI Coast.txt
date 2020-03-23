@@ -1,4 +1,3 @@
 1444.11.11 = {
-	culture = jorviker
 	discovered_by = AZT
 }

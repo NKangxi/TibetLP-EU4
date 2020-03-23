@@ -1,6 +1,7 @@
 ck2_converter_generated = yes
 owner = NPL
 controller = NPL
+add_core = TIB
 culture = bengali
 religion = bon
 citysize = 2000

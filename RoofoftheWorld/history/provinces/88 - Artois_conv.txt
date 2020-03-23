@@ -1,10 +1,11 @@
 ck2_converter_generated = yes
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = ENG
+controller = ENG
+add_core = ENG
 culture = normand
 religion = lollard
 citysize = 2000
+add_permanent_claim = FRA
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -812,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = FRA
-	controller = FRA
+	owner = ENG
+	controller = ENG
 	culture = normand
 	religion = lollard
 }

@@ -5,11 +5,6 @@ culture = cherokee
 religion = totemism
 discovered_by = high_american
 citysize = 1000
-base_tax = 3 
-base_production = 3
-base_manpower = 2
-
-
 
 1444.11.11 = {
 	owner = CHE

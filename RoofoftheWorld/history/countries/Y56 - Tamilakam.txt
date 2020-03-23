@@ -4,7 +4,7 @@ government_rank = 2
 mercantilism = 0.1
 
 technology_group = indian
-religion = bon
+religion = hinduism
 primary_culture = tamil
 capital = 2026 #Tanjore
 elector = yes

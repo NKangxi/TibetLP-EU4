@@ -594,6 +594,7 @@ discovered_by = ottoman
 	remove_core = NAG
 	remove_core = GRJ
 	remove_core = DHU
+	remove_core = KLN
 	remove_core = KHD
 	remove_core = ODH
 	remove_core = MAB

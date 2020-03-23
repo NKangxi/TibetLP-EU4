@@ -6,7 +6,6 @@ citysize = 2000
 base_tax = 4 
 base_production = 4
 base_manpower = 4
-center_of_trade = 1
 
 1444.11.11 = {
 	owner = IRO

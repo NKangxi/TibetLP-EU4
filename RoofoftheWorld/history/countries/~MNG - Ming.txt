@@ -1,18 +1,0 @@
-government = monarchy
-add_government_reform = celestial_empire
-government_rank = 3
-technology_group = chinese
-capital = 1821	# Nanjing
-
-primary_culture = tibetan
-religion = mahayanaadd_accepted_culture = wuadd_accepted_culture = jin
-1375.11.2 = {
-	monarch = {
-		name = "Jingzu"
-		birth_date = 1380.1.4
-		dynasty = "Purgyal"
-		adm = 2
-		dip = 4
-		mil = 3
-	}
-}

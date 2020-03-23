@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = ENG
 controller = ENG
 add_core = ENG
-culture = jorviker
+culture = anglo_saxon
 religion = catholic
 citysize = 2000
 discovered_by = eastern
@@ -814,6 +814,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = ENG
 	controller = ENG
-	culture = jorviker
+	culture = anglo_saxon
 	religion = catholic
 }

@@ -7,7 +7,7 @@ technology_group = chinese
 primary_culture = tibetan
 religion = bon
 clear_scripted_personalities = yes
-capital = 508 #Kashmir
+capital = 4209
 1420.7.15 = {
 	monarch = {
 		name = "Bilge"
@@ -21,7 +21,7 @@ capital = 508 #Kashmir
 	add_ruler_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
-	capital = 508
+	capital = 4209
 	add_treasury = 50
 	add_prestige = 675
 }

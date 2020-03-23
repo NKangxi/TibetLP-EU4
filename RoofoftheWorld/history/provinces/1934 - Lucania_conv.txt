@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Z61
 controller = Z61
 add_core = Z61
-culture = griklander
+culture = greek
 religion = paulician
 citysize = 2000
 add_permanent_claim = Z33
@@ -816,6 +816,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = Z61
 	controller = Z61
-	culture = griklander
+	culture = greek
 	religion = paulician
 }

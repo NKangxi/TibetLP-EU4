@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = GRE
 controller = GRE
 add_core = GRE
-culture = griklander
+culture = aztek
 religion = norse_pagan_reformed
 citysize = 2000
 add_permanent_claim = EPI
@@ -815,6 +815,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = GRE
 	controller = GRE
-	culture = griklander
+	culture = aztek
 	religion = norse_pagan_reformed
 }
