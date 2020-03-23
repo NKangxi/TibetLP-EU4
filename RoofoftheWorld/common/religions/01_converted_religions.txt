@@ -16,6 +16,7 @@ eastern = {
 		}
 		province = {
 			local_defensiveness = 0.1
+			local_missionary_strength = 0.01
 		}
 		
 		# Make it the official religion of the HRE, of course

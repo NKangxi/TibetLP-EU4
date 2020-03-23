@@ -1180,7 +1180,6 @@ pagan = {
 			local_missionary_strength = 0.02
 		}
 		
-		doom = yes
 		declare_war_in_regency = yes
 		# Get rid of religious reforms.
 		religious_reforms = no
