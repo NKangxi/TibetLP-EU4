@@ -485,7 +485,12 @@ new_world_i = {
 				}
 			}
 		}
-		
+		modifier = {
+			factor = 0.1
+			scale = yes
+			is_year = 1550
+			development = 5
+		}
 		modifier = {
 			factor = 5
 			scale = yes
@@ -585,7 +590,6 @@ printing_press = {
 			adm_tech = 12
 			NOT = {
 				government = tribal
-				government = native
 			}
 		}
 
@@ -653,6 +657,12 @@ printing_press = {
 				}
 				has_estate = estate_church
 			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			is_year = 1600
+			development = 5
 		}
 		modifier = {
 			factor = 1

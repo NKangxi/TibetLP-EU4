@@ -156,3 +156,29 @@ wonder_underground_city_petra = {
 	local_hostile_attrition = 2
 	local_core_creation = 1
 }
+
+### Event/Mission Modifiers ###
+burmese_integration = {
+	diplomatic_reputation = 3
+}
+
+thai_sea_ambition_new = {
+	trade_efficiency = 0.15
+	global_sailors_modifier = 0.33
+}
+
+tibetan_sacred_hierarchy = {
+	war_exhaustion_cost = -0.20
+}
+
+tibet_state_council_modifier = {
+	advisor_cost = -0.15
+}
+
+tibetan_autocracy = {
+	global_autonomy = -0.1
+}
+
+tib_loyal_musketeers = {
+	stability_cost_modifier = -0.2
+}

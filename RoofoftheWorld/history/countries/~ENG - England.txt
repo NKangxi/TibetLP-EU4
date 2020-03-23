@@ -1,0 +1,28 @@
+# England
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 239
+1403.2.21 = {
+	monarch = {
+		name = "Elin II"
+		birth_date = 1396.6.21
+		dynasty = "af Nordland"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 239
+	add_treasury = -10
+	add_prestige = 1070
+}

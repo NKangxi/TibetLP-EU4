@@ -1,8 +1,8 @@
 ck2_converter_generated = yes
 
 add_core = FRA
-culture = cosmopolitan_french
-religion = yazidi
+culture = hualanitscah
+religion = norse_pagan_reformed
 citysize = 2000
 add_permanent_claim = ADU
 add_permanent_claim = ENG
@@ -813,6 +813,6 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	culture = cosmopolitan_french
-	religion = yazidi
+	culture = hualanitscah
+	religion = norse_pagan_reformed
 }

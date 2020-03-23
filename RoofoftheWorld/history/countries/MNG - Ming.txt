@@ -5,14 +5,32 @@ technology_group = chinese
 capital = 1821	# Nanjing
 
 primary_culture = tibetan
-religion = mahayanaadd_accepted_culture = wuadd_accepted_culture = jin
-1375.11.2 = {
+religion = mahayana
+add_accepted_culture = wu
+add_accepted_culture = jin
+1380.1.4 = {
 	monarch = {
 		name = "Jingzu"
 		birth_date = 1380.1.4
 		dynasty = "Purgyal"
+		female = yes
 		adm = 2
 		dip = 4
 		mil = 3
 	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = pious_personality
+	add_ruler_personality = humane_personality
+	heir = {
+		name = "Khrimalod"
+		monarch_name = "Wuhong"
+		dynasty = "Purgyal"
+		birth_date = 1400.8.8
+		death_date = 1491.8.8
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = incorruptible_personality
 }

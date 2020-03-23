@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = EPI
 controller = EPI
 add_core = EPI
-culture = greek
+culture = griklander
 religion = paulician
 citysize = 2000
 discovered_by = eastern
@@ -814,6 +814,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = EPI
 	controller = EPI
-	culture = greek
+	culture = griklander
 	religion = paulician
 }

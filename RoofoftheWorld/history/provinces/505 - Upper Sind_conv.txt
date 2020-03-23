@@ -269,7 +269,6 @@ discovered_by = ottoman
 	remove_core = ORI
 	remove_core = CEY
 	remove_core = GUJ
-	remove_core = SND
 	remove_core = DLH
 	remove_core = GDW
 	remove_core = JAN

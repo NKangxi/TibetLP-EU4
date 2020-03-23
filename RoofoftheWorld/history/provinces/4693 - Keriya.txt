@@ -3,6 +3,7 @@
 owner = TNM
 controller = TNM
 add_core = TNM
+add_core = TIB
 culture = uyghur
 religion = buddhism
 capital = "Keriya"

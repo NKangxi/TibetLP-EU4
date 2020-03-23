@@ -15,10 +15,10 @@ discovered_by = ottoman
 }
 
 1444.11.11 = {
-	hre = yes
 	base_tax = 8
 	base_production = 8
 	base_manpower = 2
+	hre = yes
 	remove_core = SCA
 	remove_core = SWE
 	remove_core = DAN
@@ -275,7 +275,6 @@ discovered_by = ottoman
 	remove_core = CEY
 	remove_core = GUJ
 	remove_core = SND
-	remove_core = DLH
 	remove_core = GDW
 	remove_core = JAN
 	remove_core = BHA

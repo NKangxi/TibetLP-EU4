@@ -3,7 +3,7 @@ owner = BAV
 controller = BAV
 add_core = BAV
 add_core = Z54
-culture = slovieni
+culture = carantanian
 religion = waldensian
 citysize = 2000
 discovered_by = eastern
@@ -815,6 +815,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = BAV
 	controller = BAV
-	culture = slovieni
+	culture = carantanian
 	religion = waldensian
 }
