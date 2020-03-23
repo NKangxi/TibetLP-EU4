@@ -34,5 +34,15 @@ spriteType = {
 		texturefile = "gfx//interface//country_icon_religion.dds"
 		noOfFrames = 60		
 	}
+
 	
+}
+
+spriteTypes = {
+ spriteType = {
+  name = "GFX_disaster_tibetan_time_of_troubles"
+  texturefile = "gfx//interface//disasters//tibetan_time_of_troubles.dds"
+  noOfFrames = 3
+  loadType = "INGAME"
+ }
 }

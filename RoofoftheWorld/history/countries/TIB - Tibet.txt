@@ -11,6 +11,7 @@ religion = bon
 elector = yes
 clear_scripted_personalities = yes
 capital = 677
+
 1444.7.17 = {
 	monarch = {
 		name = "Yondagmo"
@@ -22,6 +23,8 @@ capital = 677
 		mil = 4
 	}
 	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = calm_personality
+	add_ruler_personality = well_advised_personality
 	heir = {
 		name = "Kyi"
 		monarch_name = "Kyi"

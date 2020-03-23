@@ -4,6 +4,9 @@ add_core = POT
 discovered_by = high_american
 citysize = 1000
 fort_15th = yes
+base_tax = 3 
+base_production = 4
+base_manpower = 3
 
 1444.11.11 = {
 	owner = POT

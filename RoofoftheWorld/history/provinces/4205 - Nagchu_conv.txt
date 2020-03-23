@@ -6,7 +6,6 @@ culture = tibetan
 religion = bon
 citysize = 2000
 hre = yes
-add_core = Y55
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

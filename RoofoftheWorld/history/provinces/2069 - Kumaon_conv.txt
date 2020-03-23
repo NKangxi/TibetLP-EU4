@@ -281,7 +281,6 @@ discovered_by = ottoman
 	remove_core = PUN
 	remove_core = KRK
 	remove_core = GWA
-	remove_core = JNP
 	remove_core = VND
 	remove_core = BRR
 	remove_core = DEC
