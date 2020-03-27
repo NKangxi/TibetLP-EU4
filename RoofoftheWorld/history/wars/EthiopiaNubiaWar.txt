@@ -1,0 +1,17 @@
+name = "Nubian invasion of Beja"
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 1226 # Beja
+}
+
+1444.11.1 = {
+	add_attacker = Y32
+	add_defender = ETH
+}
+
+# Peace
+1447.5.1 = {
+	rem_attacker = Y32
+	rem_defender = ETH
+}

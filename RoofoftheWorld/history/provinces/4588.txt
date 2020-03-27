@@ -11,7 +11,7 @@ citysize = 1000
 1444.11.11 = {
 	owner = COC
 	controller = COC
-	culture = mesoamerican_religion
+	culture = yucatec
 	religion = nahuatl
 }
 

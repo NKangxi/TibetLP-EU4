@@ -1,6 +1,6 @@
 # Sicily
-government = monarchy
-add_government_reform = autocracy_reform
+government = republic
+add_government_reform = pirate_republic_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = western

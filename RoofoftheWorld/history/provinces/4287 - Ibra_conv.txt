@@ -3,7 +3,7 @@ owner = OMA
 controller = OMA
 add_core = OMA
 add_core = TIM
-culture = tibetan
+culture = bedouin_arabic
 religion = bon
 citysize = 2000
 add_permanent_claim = Y21
@@ -815,6 +815,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = OMA
 	controller = OMA
-	culture = tibetan
+	culture = bedouin_arabic
 	religion = bon
 }

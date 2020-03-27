@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Z49
 controller = Z49
 add_core = TIM
-culture = tibetan
+culture = bedouin_arabic
 religion = yazidi
 citysize = 2000
 add_permanent_claim = Y21
@@ -816,6 +816,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = Z49
 	controller = Z49
-	culture = tibetan
+	culture = bedouin_arabic
 	religion = yazidi
 }

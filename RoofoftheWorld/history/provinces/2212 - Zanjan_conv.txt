@@ -3,7 +3,7 @@ owner = TIM
 controller = TIM
 add_core = TIM
 add_core = PER
-culture = tibetan
+culture = tibetan_arabic
 religion = bon
 citysize = 2000
 discovered_by = eastern
@@ -815,6 +815,6 @@ discovered_by = TIB
 1444.11.11 = {
 	owner = TIM
 	controller = TIM
-	culture = tibetan
+	culture = tibetan_arabic
 	religion = bon
 }

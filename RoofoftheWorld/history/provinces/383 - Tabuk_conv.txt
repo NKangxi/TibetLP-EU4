@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = Y21
 controller = Y21
 add_core = Y21
-culture = tibetan
+culture = tibetan_arabic
 religion = bon
 citysize = 2000
 add_permanent_claim = TIM
@@ -818,6 +818,6 @@ discovered_by = TIB
 1444.11.11 = {
 	owner = Y21
 	controller = Y21
-	culture = tibetan
+	culture = tibetan_arabic
 	religion = bon
 }

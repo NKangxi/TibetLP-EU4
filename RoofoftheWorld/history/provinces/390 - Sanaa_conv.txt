@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = tibetan
+culture = tibetan_arabic
 religion = bon
 citysize = 2000
 add_permanent_claim = Y21
@@ -817,6 +817,6 @@ discovered_by = TIB
 1444.11.11 = {
 	owner = ETH
 	controller = ETH
-	culture = tibetan
+	culture = tibetan_arabic
 	religion = bon
 }

@@ -13,3 +13,11 @@ vassal = {
 	start_date = 1430.11.11
 	end_date = 1900.1.1
 }
+
+#Tibet - Kashmir
+vassal = {
+	first = TIB
+	second = KSH
+	start_date = 1430.11.11
+	end_date = 1900.1.1
+}

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 owner = IRQ
 controller = IRQ
 add_core = IRQ
-culture = tibetan
+culture = tibetan_arabic
 religion = bon
 citysize = 2000
 discovered_by = eastern
@@ -814,6 +814,6 @@ discovered_by = ottoman
 1444.11.11 = {
 	owner = IRQ
 	controller = IRQ
-	culture = tibetan
+	culture = tibetan_arabic
 	religion = bon
 }
