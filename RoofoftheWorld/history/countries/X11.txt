@@ -1,6 +1,6 @@
 # Mongol Guard
 government = republic
-add_government_reform = oligarchy_reform
+add_government_reform = mercenary_republic
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern

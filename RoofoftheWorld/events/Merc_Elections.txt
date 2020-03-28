@@ -1,0 +1,314 @@
+namespace = merc_elections
+
+country_event = {
+	id = 700
+	title = "EVTNAME700"
+	picture = ELECTION_REPUBLICAN_eventPicture
+	
+	desc = {
+		trigger = { NOT = { has_ruler_flag = leader_has_been_pushed_out } }
+		desc = EVTDESC700
+	}
+	
+	desc = {
+		trigger = { has_ruler_flag = leader_has_been_pushed_out }
+		desc = elections.700.d
+	}
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		has_reform = mercenary_republic }
+	}
+
+	option = {
+		name = "EVTOPTA700"	# Current ruler stays
+		trigger = {
+			has_regency = no
+			NOT = { has_ruler_flag = leader_has_been_pushed_out }
+		}
+		ai_chance = { 
+			factor = 60
+			modifier = {
+				factor = 0
+				NOT = { republican_tradition = 25 }
+			}	
+			modifier = {
+				factor = 0.5
+				NOT = { republican_tradition = 50 }
+			}				
+			modifier = {
+				factor = 0.5
+				NOT = { republican_tradition = 75 }
+			}	
+			modifier = {
+				factor = 2.0
+				republican_tradition = 90
+			}		
+		}
+		custom_tooltip = remains_ruler
+		change_adm = 1
+		change_dip = 1
+		change_mil = 1
+		else_if = {
+			limit = {
+				is_tribal = no 
+				government = republic
+				NOT = { republican_tradition = 20 }				
+				NOT = { has_reform = revolutionary_republic_reform }
+				has_dlc = "Res Publica"
+			}
+			add_government_reform = presidential_despot_reform	
+		}
+		else_if = {
+			limit = {
+				government = republic
+				NOT = { republican_tradition = 20 }	
+				has_reform = revolutionary_republic_reform
+			}
+			change_government = monarchy
+			add_government_reform = revolutionary_empire_reform
+		}
+		if = {
+			limit = {
+				is_tribal = no  
+				government = republic
+				NOT = { republican_tradition = 20 }
+				NOT = { has_dlc = "Res Publica" }
+			}
+			change_government = monarchy
+			set_legacy_government = despotic_monarchy
+		}
+		add_scaled_republican_tradition = -10
+		random_list = {
+			10 = {
+				add_adm_power = 50
+			}
+			10 = {
+				add_dip_power = 50
+			}
+			10 = {
+				add_mil_power = 50
+			}
+		}
+		add_karma = -5
+	}
+	option = {
+		name = "EVTOPTB700"	# An administrator type
+		ai_chance = { factor = 20 }
+		if = {
+			limit = { has_active_policy = mandatory_service }
+			define_ruler = {
+				mil = 3
+				adm = 4
+				dip = 1
+				fixed = yes
+				random_gender = yes # Allows random gender for republics
+			}
+		}
+		else = {
+			define_ruler = {
+				mil = 3
+				adm = 4
+				dip = 1					
+				fixed = yes
+			}
+		}
+		add_karma = 10
+	}
+	option = {
+		name = "EVTOPTC700"	# A diplomat
+		ai_chance = { factor = 20 }
+		if = {
+			limit = { has_active_policy = mandatory_service }
+			define_ruler = {
+				dip = 4
+				adm = 1
+				mil = 3					
+				fixed = yes
+				random_gender = yes # Allows random gender for republics
+			}
+		}
+		else = {
+			define_ruler = {
+				dip = 4
+				adm = 1
+				mil = 3					
+				fixed = yes
+			}
+		}
+		add_karma = 10		
+	}
+	option = {
+		name = "EVTOPTD700"	# A military man
+		ai_chance = { factor = 20 }
+		if = {
+			limit = { has_active_policy = mandatory_service }
+			define_ruler = {
+				mil = 6
+				adm = 1
+				dip = 1					
+				fixed = yes
+				random_gender = yes # Allows random gender for republics
+			}
+		}
+		else = {
+			define_ruler = {
+				mil = 6
+				adm = 1
+				dip = 1					
+				fixed = yes
+			}
+		}
+		add_karma = 10
+	}
+
+	option = { # Nepotism choice, re-electing within dynasty
+		name = "EVTOPTE700"
+		trigger = {
+			has_government_attribute = enables_nepotism
+		}
+		ai_chance = { factor = 10 }
+		add_scaled_republican_tradition = -4
+		if = {
+			limit = { has_active_policy = mandatory_service }
+			define_ruler = {
+				mil = -2
+				adm = -2
+				dip = -2
+				min_age = 30
+				max_age = 50
+				name = "lastname"
+				random_gender = yes # Allows random gender for republics
+			}
+		}
+		else = {
+			define_ruler = {
+				mil = -2
+				adm = -2
+				dip = -2
+				min_age = 30
+				max_age = 50
+				name = "lastname"
+			}
+		}
+		if = {
+			limit = { 
+				has_faction = mr_aristocrats 
+			}
+			add_faction_influence = {
+				faction = mr_aristocrats
+				influence = 10
+			}				
+		}
+	}
+}
+
+country_event = {
+	id = 701
+	title = "EVTNAME700"
+	desc = "EVTDESC701"
+	picture = ELECTION_REPUBLICAN_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		has_reform = mercenary_republic 
+	}
+	
+	option = {
+		name = "EVTOPTB700"	# An administrator type
+		ai_chance = { factor = 40 }
+		if = {
+			limit = { has_active_policy = mandatory_service }
+			define_ruler = {
+				mil = 3
+				adm = 4
+				dip = 1					
+				fixed = yes
+				random_gender = yes # Allows random gender for republics
+			}
+		}
+		else = {
+			define_ruler = {
+				mil = 3
+				adm = 4
+				dip = 1					
+				fixed = yes
+			}
+		}
+
+	}
+	option = {
+		name = "EVTOPTC700"	# A diplomat
+		ai_chance = { factor = 30 }
+		if = {
+			limit = { has_active_policy = mandatory_service }
+			define_ruler = {
+				dip = 4
+				adm = 1
+				mil = 3					
+				fixed = yes
+				random_gender = yes # Allows random gender for republics
+			}
+		}
+		else = {
+			define_ruler = {
+				dip = 4
+				adm = 1
+				mil = 3					
+				fixed = yes
+			}
+		}
+	}
+	option = {
+		name = "EVTOPTD700"	# A military man
+		ai_chance = { factor = 30 }
+		if = {
+			limit = { has_active_policy = mandatory_service }
+			define_ruler = {
+				mil = 6
+				adm = 1
+				dip = 1					
+				fixed = yes
+				random_gender = yes # Allows random gender for republics
+			}
+		}
+		else = {
+			define_ruler = {
+				mil = 6
+				adm = 1
+				dip = 1					
+				fixed = yes
+			}
+		}	
+	}
+	option = { # Nepotism choice, re-electing within dynasty
+		name = "EVTOPTE700"
+		trigger = {
+			has_government_attribute = enables_nepotism
+		}
+		ai_chance = { factor = 10 }
+		add_scaled_republican_tradition = -4
+		if = {
+			limit = { has_active_policy = mandatory_service }
+			define_ruler = {
+				mil = -2
+				adm = -2
+				dip = -2
+				age = 30
+				name = "lastname"
+				random_gender = yes # Allows random gender for republics
+			}
+		}
+		else = {
+			define_ruler = {
+				mil = -2
+				adm = -2
+				dip = -2
+				age = 30
+				name = "lastname"
+			}
+		}
+	}
+}

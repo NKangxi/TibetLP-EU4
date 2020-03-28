@@ -180,4 +180,6 @@
  generic_rebels_name: "$RELIGION$ Zealots"
  generic_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
  generic_rebels_army: "$RELIGION$ Army"
+ mercenary_republic: "Mercenary Republic"
+ mercenary_republic_desc: "A republic established when a mercenary company took over the local government. Leaders are elected from among the mercenaries and are better at buying prices for mercenaries, as well as tending to be skilled in military matters. However, they tend to be a bit unstable."
  

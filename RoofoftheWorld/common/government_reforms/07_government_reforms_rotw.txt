@@ -1,0 +1,26 @@
+mercenary_republic = {
+	icon = "pirate_republic"
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			tag = X11
+			tag = X20
+			tag = Y03
+		}
+	}
+	valid_for_nation_designer = yes
+	nation_designer_cost = 50
+	legacy_equivalent = oligarchic_republic
+	lock_level_when_selected = yes
+	duration = 8
+	modifiers = {
+		merc_maintenance_modifier = -0.25
+		mercenary_cost = -0.25
+		max_absolutism = -50
+		stability_cost_modifier = 0.30
+	}
+	militarised_society = yes 
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
