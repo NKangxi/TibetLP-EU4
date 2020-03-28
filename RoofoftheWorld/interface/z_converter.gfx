@@ -46,3 +46,10 @@ spriteTypes = {
   loadType = "INGAME"
  }
 }
+
+	spriteType = {
+			name = "GFX_icon_catholic_reform_desire"
+			texturefile = "gfx//interface//icon_catholic_reform_desire.dds"
+			loadType = "INGAME"
+			transparencecheck = yes	
+		}

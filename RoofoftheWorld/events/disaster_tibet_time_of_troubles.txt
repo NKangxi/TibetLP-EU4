@@ -2,7 +2,7 @@
 # Time of Troubles
 ########################################
 
-namespace = time_of_troubles
+namespace = tib_time_of_troubles
 
 # Time of Troubles
 country_event = {
@@ -214,7 +214,7 @@ country_event = {
 	}
 }
 
-# First Dimitri
+# False Gyalyum (Tibet)
 country_event = {
 	id = tib_time_of_troubles.6
 	title = "ttot.EVTNAME1106"
@@ -295,60 +295,64 @@ country_event = {
 			ROOT = { set_country_flag = gyalyum_supporter_found }
 			if = {
 				limit = { tag = TIB }
-				country_event = { id = tib_time_of_troubles.11 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
+				country_event = { id = time_of_troubles.7 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
+			}
+			if = {
+				limit = { tag = STB }
+				country_event = { id = time_of_troubles.11 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
 			}
 		}
 		clr_country_flag = gyalyum_supporter_found
 	}
 }
 
-# False Gyalyu
+# False Gyalyum (Tibet)
 country_event = {
-	id = tib_time_of_troubles.11
+	id = time_of_troubles.7
 	title = "ttot.EVTNAME1107"
-	desc = "ttot.EVTDESC1111"
+	desc = "ttot.EVTDESC1107"
 	picture = ACCUSATION_eventPicture
 	
 	is_triggered_only = yes
 	
-	option = {		# Support him with troops
+	option = {		# Support her with troops
 		name = "ttot.EVTOPTA1107"
 		ai_chance = { factor = 75 }
 		set_country_flag = supporter_of_gyalyum
 		if = {
 			limit = { manpower = 30 }
-			set_country_flag = support_dimitri
+			set_country_flag = support_gyalyum
 			add_manpower = -6
 			FROM = {
 				set_country_flag = support_gyalyum_6
-				country_event = { id = tib_time_of_troubles.8 days = 30 tooltip = "ttot.EVTTOOLTIP1111" }
+				country_event = { id = time_of_troubles.8 days = 30 tooltip = "ttot.EVTTOOLTIP1107" }
 			}
 		}
 		if = {
 			limit = {
 				manpower = 20
-				NOT = { has_country_flag = support_dimitri }
+				NOT = { has_country_flag = support_gyalyum }
 			}
-			set_country_flag = support_dimitri
+			set_country_flag = support_gyalyum
 			add_manpower = -4
 			FROM = {
 				set_country_flag = support_gyalyum_4
-				country_event = { id = tib_time_of_troubles.8 days = 30 tooltip = "ttot.EVTTOOLTIP1111" }
+				country_event = { id = time_of_troubles.8 days = 30 tooltip = "ttot.EVTTOOLTIP1107" }
 			}
 		}
 		if = {
 			limit = {
 				manpower = 10
-				NOT = { has_country_flag = support_dimitri }
+				NOT = { has_country_flag = support_gyalyum }
 			}
 			set_country_flag = support_gyalyum
 			add_manpower = -2
 			FROM = {
 				set_country_flag = support_gyalyum_2
-				country_event = { id = tib_time_of_troubles.8 days = 30 tooltip = "ttot.EVTTOOLTIP1111" }
+				country_event = { id = time_of_troubles.8 days = 30 tooltip = "ttot.EVTTOOLTIP1107" }
 			}
 		}
-		clr_country_flag = support_dimitri
+		clr_country_flag = support_gyalyum
 	}
 	option = {		# Expel him from COUNTRY
 		name = "ttot.EVTOPTB1107"
@@ -374,7 +378,13 @@ country_event = {
 						limit = {
 							PREV = { tag = TIB }
 						}
-						country_event = { id = tib_time_of_troubles.11 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
+						country_event = { id = time_of_troubles.7 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
+					}
+					if = {
+						limit = {
+							PREV = { tag = STB }
+						}
+						country_event = { id = time_of_troubles.11 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
 					}
 				}
 			}
@@ -401,7 +411,135 @@ country_event = {
 						limit = {
 							PREV = { tag = TIB }
 						}
-						country_event = { id = tib_time_of_troubles.11 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
+						country_event = { id = time_of_troubles.7 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
+					}
+					if = {
+						limit = {
+							PREV = { tag = STB }
+						}
+						country_event = { id = time_of_troubles.11 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
+					}
+				}
+			}
+		}
+		hidden_effect = {
+			FROM = { clr_country_flag = gyalyum_supporter_found }
+		}
+	}
+}
+
+# False Gyalyum (Sacred Tibetan Empire)
+country_event = {
+	id = time_of_troubles.11
+	title = "ttot.EVTNAME1107"
+	desc = "ttot.EVTDESC1111"
+	picture = ACCUSATION_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {		# Support him with troops
+		name = "ttot.EVTOPTA1107"
+		ai_chance = { factor = 75 }
+		set_country_flag = supporter_of_gyalyum
+		if = {
+			limit = { manpower = 30 }
+			set_country_flag = support_gyalyum
+			add_manpower = -6
+			FROM = {
+				set_country_flag = support_gyalyum_6
+				country_event = { id = time_of_troubles.8 days = 30 tooltip = "ttot.EVTTOOLTIP1111" }
+			}
+		}
+		if = {
+			limit = {
+				manpower = 20
+				NOT = { has_country_flag = support_gyalyum }
+			}
+			set_country_flag = support_gyalyum
+			add_manpower = -4
+			FROM = {
+				set_country_flag = support_gyalyum_4
+				country_event = { id = time_of_troubles.8 days = 30 tooltip = "ttot.EVTTOOLTIP1111" }
+			}
+		}
+		if = {
+			limit = {
+				manpower = 10
+				NOT = { has_country_flag = support_gyalyum }
+			}
+			set_country_flag = support_gyalyum
+			add_manpower = -2
+			FROM = {
+				set_country_flag = support_gyalyum_2
+				country_event = { id = time_of_troubles.8 days = 30 tooltip = "ttot.EVTTOOLTIP1111" }
+			}
+		}
+		clr_country_flag = support_gyalyum
+	}
+	option = {		# Expel him from COUNTRY
+		name = "ttot.EVTOPTB1107"
+		ai_chance = { factor = 25 }
+		if = {
+			limit = {
+				FROM = {
+					any_neighbor_country = {
+						NOT = { tag = ROOT }
+						is_rival = PREV
+					}
+				}
+			}
+			FROM = {
+				random_neighbor_country = {
+					limit = {
+						NOT = { tag = ROOT }
+						is_rival = PREV
+						manpower = 10
+					}
+					PREV = { set_country_flag = gyalyum_supporter_found }
+					if = {
+						limit = {
+							PREV = { tag = TIB }
+						}
+						country_event = { id = time_of_troubles.7 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
+					}
+					if = {
+						limit = {
+							PREV = { tag = STB }
+						}
+						country_event = { id = time_of_troubles.11 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
+					}
+				}
+			}
+		}
+		if = {
+			limit = {
+				FROM = {
+					NOT = { has_country_flag = gyalyum_supporter_found }
+					any_neighbor_country = {
+						NOT = { tag = ROOT }
+						is_enemy = PREV
+					}
+				}
+			}
+			FROM = {
+				random_neighbor_country = {
+					limit = {
+						NOT = { tag = ROOT }
+						is_enemy = PREV
+						manpower = 10
+					}
+					PREV = { set_country_flag = gyalyum_supporter_found }
+					if = {
+						limit = {
+							PREV = { tag = TIB }
+						}
+						country_event = { id = time_of_troubles.7 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
+					}
+					if = {
+						limit = {
+							PREV = { tag = STB }
+						}
+						country_event = { id = time_of_troubles.11 days = 30 tooltip = "ttot.EVTTOOLTIP1106" }
 					}
 				}
 			}
@@ -594,8 +732,8 @@ country_event = {
 			kill_heir = yes
 		}
 		define_ruler = {
-			name = "Tenzin I"
-			dynasty = Khön
+			name = "Lhawang Dorje I"
+			dynasty = Shudpu
 			adm = 4
 			dip = 2
 			mil = 3

@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
-owner = ADU
-controller = ADU
+owner = XXX
+controller = XXX
 add_core = ADU
 culture = andalucian
 religion = norse_pagan_reformed
@@ -812,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = ADU
-	controller = ADU
+	owner = XXX
+	controller = XXX
 	culture = andalucian
 	religion = norse_pagan_reformed
 }
