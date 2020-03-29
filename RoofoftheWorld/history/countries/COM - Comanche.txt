@@ -12,8 +12,8 @@ capital = 2006 # Apsaalooke
 		name = "Tocmetone"
 		dynasty = "Huirivis"
 		female = yes
-		adm = 1
+		adm = 3
 		dip = 4
-		mil = 4
+		mil = 6
 	}
 }

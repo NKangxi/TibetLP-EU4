@@ -181,6 +181,7 @@
   
   #religions
   TAZIKIST:0 "Tazikist"
-  ZEN:0 "Pure Land Bon"
+  ZEN:0 "Pure Land Bön"
   SYNCRETIST:0 "Syncretist"
+  restorationist:0 "Restorationist Bön"
   REFORM_DESIRE_TOOLTIP:0 "§YReform Desire§!\nThis is how much reform is desired in the Church. If it goes too high we may see large scale heresies forcing radical transformations upon the Bön Sacred Hierarchy. This level is common through the entire Bön world, and actions by any Bön monarch may increase it."

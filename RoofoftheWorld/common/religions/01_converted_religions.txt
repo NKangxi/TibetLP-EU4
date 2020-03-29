@@ -18,6 +18,10 @@ eastern = {
 			local_defensiveness = 0.1
 			local_missionary_strength = 0.01
 		}
+		allowed_conversion = {
+			restorationist
+			reformed_bon
+		}
 		
 		# Make it the official religion of the HRE, of course
 		hre_religion = yes

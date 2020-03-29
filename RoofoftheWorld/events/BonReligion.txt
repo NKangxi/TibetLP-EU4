@@ -1,4 +1,7 @@
 # The Bon Reformation
+
+namespace = bon_restoration
+
 country_event = {
 	id = bon_restoration.1
 	title = "bon_restoration.1.t"
@@ -107,7 +110,7 @@ country_event = {
 	}
 
 	option = {
-		name = "EVTOPTA20001"
+		name = "bon_restoration.1.a"
 		enable_religion = restorationist
 		random_owned_province = {
 			limit = {
