@@ -112,7 +112,9 @@ historical_rival = INC
 		mil = 3
 	}
 }
-
+1444.11.11 = {
+	add_stability = -3
+}
 1468.11.22 = {
 	monarch = {
 		name = "Axayacatl"
