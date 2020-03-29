@@ -1,5 +1,6 @@
-owner = AZT
-controller = AZT
+owner = AYI
+controller = AYI
+add_core = AYI
 add_core = AZT
 culture = aztek
 religion = nahuatl
@@ -12,8 +13,8 @@ base_manpower = 4
 fort_15th = yes
 
 1444.11.11 = {
-	owner = AZT
-	controller = AZT
+	owner = AYI
+	controller = AYI
 	culture = aztek
 	religion = nahuatl
 }

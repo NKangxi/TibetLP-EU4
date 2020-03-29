@@ -178,3 +178,9 @@
   tibetan_absolutism_mission_title_desc:0 "History has demonstrated that a strong unified leadership is the only way to withstand great crises."
   tibet_revolution_mission_title:0 "Revolution or Reaction?"
   tibet_revolution_mission_desc:0 "For things to stay the same, they must change."
+  
+  #religions
+  TAZIKIST:0 "Tazikist"
+  ZEN:0 "Pure Land Bon"
+  SYNCRETIST:0 "Syncretist"
+  REFORM_DESIRE_TOOLTIP:0 "§YReform Desire§!\nThis is how much reform is desired in the Church. If it goes too high we may see large scale heresies forcing radical transformations upon the Bön Sacred Hierarchy. This level is common through the entire Bön world, and actions by any Bön monarch may increase it."

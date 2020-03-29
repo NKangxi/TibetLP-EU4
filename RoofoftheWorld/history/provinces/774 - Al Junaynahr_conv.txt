@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = ETH
-controller = ETH
-add_core = ETH
+owner = X20
+controller = X20
+add_core = X20
 culture = kanuri
 religion = monothelite
 citysize = 2000
@@ -813,8 +813,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = ETH
-	controller = ETH
+	owner = X20
+	controller = X20
 	culture = kanuri
 	religion = monothelite
 }

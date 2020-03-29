@@ -1,0 +1,51 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 51  79  91 } 
+
+historical_idea_groups = {
+	exploration_ideas
+	trade_ideas
+	naval_ideas
+	maritime_ideas
+	expansion_ideas
+	economic_ideas
+	quality_ideas
+	defensive_ideas
+}
+
+
+monarch_names = {
+	"Agueybana #0" = 20
+	"Manicatoex #0" = 20
+	"Hayuya #0" = 10
+	"Imotonex #0" = 10
+	"Habaguanex #0" = 10
+	"Guarionex #0" = 10
+	"Guaoconel #0" = 10
+	"Guarocuya #0" = 20
+	"Tinima #0" = -20
+	"Yuisa #0" = -20
+	"Biautex #0" = 20
+	"Arasibo #0" = 10
+	"Abama #0" = -20
+	"Iguanama #0" = -20
+	"Anacaona #1" = -40
+	"Yeltatzie #0" = 0
+	"Abama #0" = 0
+	"Anacona #0" = 0
+	"Manica #0" = 0
+	"Higuamota #0" = 0
+	
+	
+
+}
+
+leader_names = {
+	Xaragua Cueyba Camaguey Magua Baracoa Quisqueya Agueybana Jatibonicu Boriken Daguao Hatuey Guanini Guay Gaguey Hari Hicaco Hio Inaru Mautia Mayani Nitaino Nitaino Nitaino Nitaino Nitaino Nitaino Oroco Yarima
+}
+
+ship_names = {
+	"Spice Islands" "Bountiful Repast" "Unlucky Tide" "Adjective Noun" "Cacica of Ayiti" Cacique Coabana Cubao Baracoa Bayamo Habana Mayabeqe Vaccinator Abama Anacaona Manica Hayuya Ayiti "Cacica Anacaona" Matazanas Atabeira Baira Bara Atey Cajaya Cano Caona Caribe Guanin Hadali "Iti Itabo" Jaiba Kairi "Jucaro Karaya" Oroco Taino Tiburon Tona Yauna
+}

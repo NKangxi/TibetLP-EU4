@@ -1,0 +1,22 @@
+name = "Great Vassals Rebellion"
+
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 4582 #Teotitlan
+}
+
+1444.11.1 = {
+	add_attacker = TLA
+	add_attacker = TLX
+	add_attacker = TAR
+	add_defender = AZT
+}
+
+#Peace
+1444.12.1 = {
+	rem_attacker = TLA
+	rem_attacker = TLX
+	rem_attacker = TAR
+	rem_defender = AZT
+}

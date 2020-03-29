@@ -925,6 +925,7 @@ GUT = "countries/Gutjanal.txt"
 TJI = "countries/Tjibarr.txt"
 KIY = "countries/Kiyungu.txt"
 STB = "countries/SacredTibetanEmpire.txt"
+AYI = "countries/Ayiti.txt"
 
 #Converter tags:
 #JOM = countries/Jomsvikings.txt

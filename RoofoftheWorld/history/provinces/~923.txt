@@ -1,7 +1,6 @@
-owner = COM
-controller = COM
-add_core = COM
-add_core = AZT
+owner = AZT
+controller = AZT
+add_core = AZT
 culture = aztek
 religion = nahuatl
 discovered_by = mesoamerican
@@ -9,8 +8,8 @@ discovered_by = high_american
 citysize = 1000
 
 1444.11.11 = {
-	owner = COM
-	controller = COM
+	owner = AZT
+	controller = AZT
 	culture = aztek
 	religion = nahuatl
 }

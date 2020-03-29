@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
-owner = Z93
-controller = Z93
-add_core = Z93
+owner = SME
+controller = SME
+add_core = SME
 culture = mongol
 religion = paulician
 citysize = 2000
@@ -388,7 +388,6 @@ discovered_by = ottoman
 	remove_core = RAM
 	remove_core = AVR
 	remove_core = MLK
-	remove_core = SME
 	remove_core = ARL
 	remove_core = MSY
 	remove_core = TFL
@@ -813,8 +812,8 @@ discovered_by = ottoman
 	remove_core = SYN
 }
 1444.11.11 = {
-	owner = Z93
-	controller = Z93
+	owner = SME
+	controller = SME
 	culture = mongol
 	religion = paulician
 }

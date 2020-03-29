@@ -1,16 +1,16 @@
-owner = AZT
-controller = AZT
-add_core = AZT
-culture = aztek
-religion = nahuatl
+owner = PIM
+controller = PIM
+add_core = PIM
+culture = piman
+religion = totemism
 discovered_by = mesoamerican
 discovered_by = high_american
 citysize = 1000
 
 1444.11.11 = {
-	owner = AZT
-	controller = AZT
+	owner = PIM
+	controller = PIM
 	culture = aztek
-	religion = nahuatl
+	religion = totemism
 }
 
