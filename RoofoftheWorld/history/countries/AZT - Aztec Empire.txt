@@ -92,10 +92,9 @@ historical_rival = INC
 	monarch = {
 		name = "Moctezuma I Ilhuicamina"
 		dynasty = "Acamapichtli"
-		adm = 4
-		dip = 3
-		mil = 5
-		leader = {	name = "Moctezuma I"           	type = general	rank = 0	fire = 3	shock = 4	manuever = 4	siege = 0}
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 
