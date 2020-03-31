@@ -227,7 +227,18 @@ eastern = {
 		
 		uses_church_power = yes				# Uses church power/aspect mechanics
 		aspects = {
-			#To be implemented later
+			encourage_monasticism_aspect
+			one_thousand_hells_aspect
+			venerate_the_second_tse_aspect
+			knuckle_slammers_aspect
+			recitations_aspect
+			bon_icons_images_aspect
+			meritocracy_aspect
+			taoist_mysticism_aspect
+			dissolution_of_monasteries_aspect
+			accept_the_material_aspect
+			encourage_attendancy_aspect
+			state_oracle_aspect
 		}
 		aspects_name = BON_RESTORATIONIST_ASPECTS
 		

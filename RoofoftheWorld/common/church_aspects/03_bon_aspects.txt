@@ -1,0 +1,196 @@
+encourage_monasticism_aspect = {
+	cost = 100
+	modifier = {
+		development_cost = -0.05
+	}
+	ai_will_do = {
+		factor = 15
+		modifier = {
+			factor = 1
+			is_at_war = no
+		}
+	}
+}
+
+one_thousand_hells_aspect = {
+	cost = 100
+	modifier = {
+		stability_cost_modifier = -0.10
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			NOT = { religious_unity = 0.8 }
+		}
+		modifier = {
+			factor = 2
+			unrest = 4
+			NOT = { stability = 0 }
+		}
+	}
+}
+
+venerate_the_second_tse_aspect = {
+	cost = 100
+	modifier = { 
+		global_missionary_strength = 0.01
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			NOT = { religious_unity = 0.8 }
+		}
+		modifier = {
+			factor = 0
+			NOT = {
+				any_owned_province = {
+					has_owner_religion = no
+				}
+			}
+		}
+	}
+}
+
+knuckle_slammers_aspect = {
+	cost = 100
+	modifier = { 
+		discipline = 0.025
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			is_at_war = yes
+		}
+	}
+}
+
+recitations_aspect = {
+	cost = 100
+	modifier = { 
+		land_morale = 0.05
+		naval_morale = 0.05
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			is_at_war = yes
+		}
+	}
+}
+
+bon_icons_images_aspect = {
+	cost = 100
+	modifier = { 
+		prestige = 0.5
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			NOT = { prestige = -40 }
+		}
+	}
+}
+
+meritocracy_aspect = {
+	cost = 100
+	modifier = {
+		legitimacy = 0.25
+		devotion = 0.25
+		horde_unity = 0.25
+		republican_tradition = 0.1
+	}
+	ai_will_do = {
+		factor = 6
+		modifier = {
+			factor = 2
+			NOT = { legitimacy_equivalent = 80 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { legitimacy_equivalent = 60 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { legitimacy_equivalent = 40 }
+		}
+		modifier = {
+			factor = 0
+			legitimacy_equivalent = 95
+		}
+	}
+}
+
+taoist_mysticism_aspect = {
+	cost = 100
+	modifier = {
+		land_morale = 0.1
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			is_at_war = yes
+		}
+	}
+}
+
+dissolution_of_monasteries_aspect = {
+	cost = 100
+	modifier = {
+		global_autonomy = -0.025
+	}
+	ai_will_do = {
+		factor = 15
+	}
+}
+
+state_oracle_aspect = {
+	cost = 100
+	modifier = { 
+		idea_cost = -0.05
+	}
+	ai_will_do = {
+		factor = 15
+	}
+}
+
+accept_the_material_aspect = {
+	cost = 100
+	modifier = { 
+		production_efficiency = 0.1
+	}
+	ai_will_do = {
+		factor = 17
+		modifier = {
+			factor = 0.5
+			treasury = 500
+		}
+		modifier = {
+			factor = 0
+			treasury = 2500
+		}
+	}
+}
+
+encourage_attendancy_aspect = {
+	cost = 100
+	modifier = {
+		global_unrest = -1
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			unrest = 2
+		}
+		modifier = {
+			factor = 2
+			num_of_rebel_controlled_provinces = 1
+		}	
+	}
+}
