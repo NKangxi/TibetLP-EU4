@@ -6822,9 +6822,9 @@
  y52_monumental_architecture_desc:0 "A new empire requires a new style. We must build upon the classical monumental architecture of the Tibetan period and the Imperial Pratihara to create a new style worthy of our growing empire."
  
  
- z69_ideas:0 "Vladimirian Ideas"
- z69_ideas_start:0 "Vladimirian Traditions"
- z69_ideas_bonus:0 "Vladimirian Ambitions"
+ Z69_ideas:0 "Vladimirian Ideas"
+ Z69_ideas_start:0 "Vladimirian Traditions"
+ Z69_ideas_bonus:0 "Vladimirian Ambitions"
  sultan_of_all_the_rus:0 "Sultan of All the Rus"
  sultan_of_all_the_rus_desc:0 "After the fall of the old principalities and the great conversions and declarations of belief, we, by the grace of God almighty, are the greatest of the Russian states. Vladimir is the seat of a great kingdom, and we are among the few peoples to survive against a Mongolian invasion."
  nenets_mercenaries:0 "Nenets Mercenaries"

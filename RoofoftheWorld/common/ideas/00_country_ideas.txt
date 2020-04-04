@@ -834,6 +834,45 @@ COM_ideas = {
 	}
 }
 
+LXA_ideas = {
+	start = {
+		tolerance_own = 2
+		global_missionary_strength = 0.01
+	}
+	
+	bonus = {
+		land_forcelimit_modifier = 0.2
+	}
+	
+	trigger = {
+		tag = LXA
+	}
+	free = yes
+	
+	lao_ethnic_diversity = {
+		num_accepted_cultures = 1
+	}	
+	lxa_elephant_cavalry = {
+		cavalry_power = 0.1
+	}	
+	court_history_of_lang_xang = {
+		ae_impact = -0.1
+		improve_relation_modifier = 0.15		
+	}
+	lxa_white_elephant = {
+		global_unrest = -1
+	}
+	flowering_of_culture = {
+		stability_cost_modifier = -0.1
+	}
+	merchants_of_vientiane = {
+		defensiveness = 0.1
+	}
+	renaissance_of_lan_xang = {
+		global_institution_spread = 0.1
+	}
+}
+
 ### Modded in idea groups end here.
 
 ### Unique Daimyo ideas (copied over from vanilla, since they somehow got wiped in the conversion).

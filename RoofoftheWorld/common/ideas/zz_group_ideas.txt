@@ -311,7 +311,7 @@ bengali_ideas = {
 		war_exhaustion_cost = -0.10
 	}
 	jute_production = {
-		#production_efficiency = 0.1 #Uses bonus from Tripuran ideas
+		production_efficiency = 0.1 #Uses bonus from Tripuran ideas
 	}
 	opium_fields = {
 		global_tax_modifier = 0.1
@@ -485,7 +485,7 @@ horde_ideas = {
 		core_creation = -0.25
 	}
 	logistics_of_khan = {
-		#manpower_recovery_speed = 0.2 (effect taken in GLH idea)
+		manpower_recovery_speed = 0.2 (effect taken in GLH idea)
 	}
 	glory_of_conquest = {
 		global_manpower_modifier = 0.25
@@ -1916,8 +1916,8 @@ malagasy_ideas = {
 	}
 	malagasy_pirate_ports = {
 		#Effects from BTS Ideas
-		#embargo_efficiency = 0.1
-		#privateer_efficiency = 0.15
+		embargo_efficiency = 0.1
+		privateer_efficiency = 0.15
 	}
 	malagasy_raid_warfare = {
 		global_manpower_modifier = 0.1
@@ -1956,7 +1956,7 @@ zambezi_ideas = { #Above all based on the Bororo/Lundu.
 		merc_maintenance_modifier = -0.15
 	}
 	zambezi_maravi_influences = {
-		#Effect from TBK_ideas
+		stability_cost_modifier = -0.1
 	}
 	zambezi_control_the_zambezi_trade = {
 		global_own_trade_power = 0.25
@@ -2145,7 +2145,6 @@ deccani_muslim_ideas = {
 	}
 	
 	trigger = {
-		religion_group = muslim
 		OR = {
 			primary_culture = marathi
 			culture_group = dravidian
