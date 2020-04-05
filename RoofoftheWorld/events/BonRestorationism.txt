@@ -1288,7 +1288,7 @@ country_event = {
 		is_religion_enabled = restorationist
 		religion_years = { restorationist = 70 }
 		NOT = { religion_years = { restorationist = 150 } }
-		NOT = { has_ruler_modifier = phillipists }
+		NOT = { has_ruler_modifier = lhasaists }
 	}
 	
 	mean_time_to_happen = {
@@ -1311,7 +1311,7 @@ country_event = {
 			}
 		}
 		add_country_modifier = {
-			name = "phillipists"
+			name = "lhasaists"
 			duration = 1825
 		}
 		if = {

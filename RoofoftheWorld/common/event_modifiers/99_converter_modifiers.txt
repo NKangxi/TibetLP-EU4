@@ -182,3 +182,196 @@ tibetan_autocracy = {
 tib_loyal_musketeers = {
 	stability_cost_modifier = -0.2
 }
+
+### Bon Restorationist/High Church Modifiers ###
+
+
+#Protestantism Events
+harbouring_reformer = {
+	church_power_modifier = 0.15
+	prestige = 1
+	religion = yes
+}
+
+bons_in_hiding = {
+	church_power_modifier = 0.1
+	tolerance_own = 0.5	#Church and state is one.
+	tolerance_heretic = -1	#Strikes directly at Catholic provinces.
+	religion = yes
+}
+
+rumored_crypto_bons = {
+	global_unrest = 1
+	religion = yes
+}
+
+millenarianism = {
+	local_unrest = 5
+	trade_goods_size = -0.1
+}
+
+fear_of_god = {
+	global_unrest = 1
+	church_power_modifier = 0.15
+	religion = yes
+}
+
+prot_economic_downturn = {
+	local_unrest = 2
+	trade_goods_size = -0.1
+}
+
+stricter_usury_regulations = {
+	production_efficiency = -0.05 #modifies the +0.1 from allowed usury
+	religion = yes
+}
+
+prot_peace = {
+	war_exhaustion = -0.01
+	religion = yes
+}
+
+prot_wars = {
+	unjustified_demands = -0.1
+	religion = yes
+}
+
+prot_purity_of_faith = {
+	global_heretic_missionary_strength = 0.01
+	religion = yes
+}
+
+prot_christian_unity = {
+	tolerance_own = 0.5
+	religion = yes
+}
+
+bon_zealot = {
+	global_heretic_missionary_strength = 0.015
+	religion = yes
+}
+
+tolerant_monarch = {
+	tolerance_heretic = 1.5
+	religion = yes
+}
+
+bon_stronghold = {
+	local_missionary_strength = -0.05
+	local_tax_modifier = -0.1
+}
+
+plagued_concience = {
+	tolerance_own = -0.5
+	religion = yes
+}
+
+lhasaists = {
+	global_heretic_missionary_strength = -0.02
+	tolerance_heretic = 0.5
+	religion = yes
+}
+
+restorationist_influx = {
+	advisor_cost = -0.1
+	stability_cost_modifier = 0.1
+	religion = yes
+}
+
+restorationist_refugees = {
+	local_tax_modifier = 0.1
+	trade_goods_size = 0.1
+	local_unrest = 2
+}
+
+restorationist_refugees_to_the_colonies = {
+	global_colonial_growth = 5
+	colonists = 1
+	religion = yes
+}
+
+controversy_over_official_bible = {
+	tolerance_own = -0.5
+	legitimacy = 0.5
+	republican_tradition = 0.2
+	devotion = 0.5
+	religion = yes
+}
+
+new_bible_translation = {
+	prestige = 1
+	church_power_modifier = 0.1
+	religion = yes
+}
+
+protestant_bigamy = {
+	heir_chance = 1
+	diplomatic_upkeep = 2
+	religion = yes
+}
+
+mosaic_law_accusations = {
+	local_unrest = 2
+	trade_goods_size = -0.05
+}
+
+stern_theologian_education = {
+	tolerance_own = 0.5
+	global_heretic_missionary_strength = 0.01
+	religion = yes
+}
+
+stern_theologian_mission = {
+	global_missionary_strength = 0.02
+	religion = yes
+}
+
+stern_theologian_leader = {
+	global_unrest = -1
+	church_power_modifier = 0.1
+	religion = yes
+}
+
+spread_of_pietism = {
+	tolerance_heretic = 1
+	global_missionary_strength = 0.01
+	church_power_modifier = -0.2
+	religion = yes
+}
+
+iconoclast_riot = {
+	local_unrest = 2
+}
+
+colonial_religious_tensions = {
+	local_unrest = 2
+}
+
+loyalist_preacher = {
+	local_missionary_strength = 0.02
+	local_unrest = -1
+}
+
+patriot_preacher = {
+	local_missionary_strength = -0.05
+	local_unrest = 1
+}
+
+prot_stopped_witch_trials = {
+	local_unrest = 1
+}
+
+prot_witch_trials = {
+	local_unrest = 2
+	trade_goods_size = -0.1
+}
+
+escalated_witch_trials = {
+	local_unrest = 2
+	trade_goods_size = -0.5
+}
+
+dyn_newborn_daughter = {
+	heir_chance = -1
+	global_unrest = 3
+}
