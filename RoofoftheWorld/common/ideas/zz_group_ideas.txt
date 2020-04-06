@@ -842,7 +842,10 @@ central_indic_ideas = { #Gond Ideas
 	}
 	
 	trigger = {
-		primary_culture = gondi
+		OR = {
+			TAG = CHD
+			primary_culture = gondi
+		}
 	}
 	free = yes
 	

@@ -414,32 +414,6 @@ SER_ideas = {
 }
 
 
-ORI_ideas = {
-	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = oriya
-	}
-}
-
-
-PUN_ideas = {
-	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = panjabi
-	}
-}
-
-
 RAG_ideas = {
 	trigger = {
 		always = no
@@ -784,12 +758,6 @@ KHI_ideas = {
 	}
 }
 
-JNP_ideas = {
-	trigger = {
-		always = no
-	}
-}
-
 HAM_ideas = {
 	trigger = {
 		always = no
@@ -956,12 +924,6 @@ DMS_ideas = {
 	}
 }
 
-MLW_ideas = {
-	trigger = {
-		always = no
-	}
-}
-
 CEP_ideas = {
 	trigger = {
 		always = no
@@ -993,12 +955,6 @@ BLO_ideas = {
 }
 
 RSO_ideas = {
-	trigger = {
-		always = no
-	}
-}
-
-NPL_ideas = {
 	trigger = {
 		always = no
 	}

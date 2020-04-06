@@ -9,8 +9,11 @@ jewish_ideas = {
 	}
 	
 	trigger = {
-		tag = ISR
-		tag = Y05
+		OR = {
+			tag = ISR
+			tag = Y05
+			tag = KAZ
+		}
 		religion_group = jewish_group
 	}
 	free = yes

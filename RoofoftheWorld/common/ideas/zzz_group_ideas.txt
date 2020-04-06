@@ -79,13 +79,6 @@ latin_ideas = {
 }
 
 
-central_indic_ideas = {
-	trigger = {
-		always = no
-	}
-}
-
-
 west_african_ideas = {
 	trigger = {
 		always = no
