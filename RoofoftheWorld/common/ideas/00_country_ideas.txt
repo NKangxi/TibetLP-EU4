@@ -128,6 +128,44 @@ MLW_ideas = {
 	}
 }
 
+DHU_ideas = {
+	start = {
+		land_morale = 0.1
+		caravan_power = 0.2
+	}
+	
+	bonus = {
+		fire_damage = 0.1
+	}
+	
+	trigger = {
+		tag = MEW
+	}
+	free = yes #will be added at load.
+	
+	dhu_improve_amer_fort = {
+		defensiveness = 0.2
+	}
+	dhu_seek_protection_of_great_powers = {
+		diplomatic_reputation = 1
+	}
+	dhu_restore_hindu_ceremonies = {
+		tolerance_own = 1
+	}
+	dhu_foundation_of_jaipur = {
+		development_cost = -0.1
+	}
+	dhu_battles_in_foreign_lands = {
+		army_tradition_from_battle = 0.5
+	}
+	dhu_astronomical_education = {
+		technology_cost = -0.05
+	}
+	dhu_recruit_from_the_pindari = {
+		land_attrition = -0.15
+	}
+}
+
 URU_ideas = {
 	start = {
 		diplomatic_reputation = 1
@@ -369,7 +407,7 @@ RJP_ideas = {
 	king_of_priests = {
 		global_tax_modifier = 0.1
 	}
-	y52_marwari_horses = {
+	marwari_horses = {
 		cavalry_power = 0.15
 		movement_speed = 0.1
 	}
@@ -1374,6 +1412,91 @@ DLH_ideas = {
 	}
 	dlh_throne_of_india = {
 		legitimacy = 1
+	}
+}
+ 
+CEY_ideas = {
+	start = {
+		defensiveness = 0.1
+		trade_efficiency = 0.1		
+	}
+
+	bonus = {
+		global_own_trade_power = 0.1
+	}
+	
+	trigger = {
+		OR = {
+			tag = CEY
+			tag = KND
+			tag = LNK
+		}
+	}
+	free = yes		#will be added at load.
+	
+	gabadagam = {
+		global_tax_modifier = 0.10
+	}
+	sinhalese_sandesas = {
+		prestige = 1
+	}
+	pearl_of_the_indian_ocean = {
+		merchants = 1
+	}
+	cey_centre_of_learning = {
+		diplomatic_reputation = 1
+	}
+	cey_cinnamon = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	cey_growth_of_new_castes = {
+		production_efficiency = 0.1
+	}
+	sinhalese_guerilla_warfare = {
+		hostile_attrition = 1.0
+	}
+}
+
+
+VIJ_ideas = {
+	start = {
+		advisor_pool = 1
+		infantry_power = 0.1
+	}
+	
+	bonus = {
+		possible_mercenaries = 0.5
+	}
+	
+	trigger = {
+		OR = {
+			tag = VIJ
+			tag = SRT
+		}
+	}
+	free = yes
+	
+	vij_promo_trade = {
+		global_trade_power = 0.10
+	}
+	arab_horses = {
+		cavalry_power = 0.10
+	}
+	harsh_penal_code = {
+		stability_cost_modifier = -0.1
+	}
+	vij_tolerance = {
+		tolerance_heretic = 1
+ 		tolerance_heathen = 1
+	}
+	carnatic_music = {
+		prestige = 1
+	}
+	adroit_diplomacy = {
+		diplomats = 1
+	}
+	army_for_city_of_victory = {
+		discipline = 0.05
 	}
 }
 
@@ -3053,12 +3176,6 @@ BYZ_ideas = {
 	}
 }
 
-VIJ_ideas = {
-	trigger = {
-		always = no
-	}
-}
-
 NOR_ideas = {
 	trigger = {
 		num_of_ports = 5
@@ -3689,7 +3806,10 @@ JNP_ideas = {
 	}
 	
 	trigger = {
-		tag = JNP
+		OR = {
+			tag = JNP
+			tag = Y72
+		}
 	}
 	free = yes	
 	
@@ -3767,12 +3887,6 @@ TRA_ideas = {
 }
 
 WBG_ideas = {
-	trigger = {
-		always = no
-	}
-}
- 
-CEY_ideas = {
 	trigger = {
 		always = no
 	}

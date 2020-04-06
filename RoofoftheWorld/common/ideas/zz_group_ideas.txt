@@ -168,10 +168,9 @@ rajput_ideas = {
 	
 	trigger = {
 		OR = {
-			primary_culture = rajput
-			primary_culture = malvi
+			tag = MUL
+			tag = BDA
 		}
-		NOT = { religion_group = muslim }
 	}
 	free = yes
 
@@ -182,7 +181,8 @@ rajput_ideas = {
 		defensiveness = 0.15
 	}
 	marwari_horses = {
-		#Same as RJP ideas.
+		cavalry_power = 0.15
+		movement_speed = 0.1
 	}
 	rajput_resistance = {
 		war_exhaustion = -0.03
@@ -211,7 +211,10 @@ telugu_ideas = { #Telugu Ideas
 	}
 	
 	trigger = {
-		primary_culture = telegu
+		OR = {
+			tag = KRK
+			tag = GOC
+		}
 	}
 	free = yes
 	
@@ -249,9 +252,14 @@ dravidian_ideas = {
 	}
 	
 	trigger = {
-		culture_group = dravidian
-		NOT = { primary_culture = malayalam }
-		religion = hinduism
+		OR = {
+			tag = MAD
+			AND = {
+				culture_group = dravidian
+				NOT = { primary_culture = malayalam }
+				religion = hinduism
+			}
+		}
 	}
 	free = yes
 	
@@ -294,6 +302,7 @@ bengali_ideas = {
 			primary_culture = bengali
 			TAG = KMT
 			TAG = KAC
+			TAG = NGP
 		}
 	}
     free = yes       #will be added at load.
@@ -336,6 +345,8 @@ gujarati_ideas = {
 			primary_culture = gujarati
 			primary_culture = saurashtri
 			tag = BGA
+			tag = KAT
+			tag = JLV
 		}
 	}
 	free = yes
@@ -374,14 +385,18 @@ indian_muslim_ideas = {
 	}
 	
 	trigger = {
-		religion_group = muslim
 		OR = {
-			culture_group = hindusthani
-			culture_group = eastern_aryan
-			culture_group = western_aryan
-		}
-		NOT = {
-			primary_culture = marathi
+			tag = KSH
+			tag = LAH
+			tag = KNJ
+			AND = {
+				religion_group = muslim
+				OR = {
+					culture_group = hindusthani
+					culture_group = eastern_aryan
+					culture_group = western_aryan
+				}
+			}
 		}
 	}
 	free = yes
@@ -844,6 +859,7 @@ central_indic_ideas = { #Gond Ideas
 	trigger = {
 		OR = {
 			TAG = CHD
+			TAG = GDW
 			primary_culture = gondi
 		}
 	}
@@ -2192,6 +2208,7 @@ nepalese_minor_ideas = {
 		OR = {
 			primary_culture = pahari
 			primary_culture = nepali
+			tag = Y51
 		}
 	}
 	free = yes
@@ -2271,7 +2288,7 @@ malabari_ideas = {
 	}
 	
 	trigger = {
-		primary_culture = malayalam
+		tag = GOA
 	}
 	free = yes
 	

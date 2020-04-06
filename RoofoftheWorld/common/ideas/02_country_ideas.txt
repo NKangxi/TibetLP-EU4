@@ -257,12 +257,6 @@ BYZ_ideas = {
 	}
 }
 
-VIJ_ideas = {
-	trigger = {
-		always = no
-	}
-}
-
 NOR_ideas = {
 	trigger = {
 		num_of_ports = 5
@@ -771,12 +765,6 @@ TRA_ideas = {
 }
 
 WBG_ideas = {
-	trigger = {
-		always = no
-	}
-}
- 
-CEY_ideas = {
 	trigger = {
 		always = no
 	}
