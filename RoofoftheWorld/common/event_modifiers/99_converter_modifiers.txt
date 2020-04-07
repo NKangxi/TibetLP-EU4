@@ -304,7 +304,7 @@ new_bible_translation = {
 	religion = yes
 }
 
-protestant_bigamy = {
+restorationist_bigamy = {
 	heir_chance = 1
 	diplomatic_upkeep = 2
 	religion = yes

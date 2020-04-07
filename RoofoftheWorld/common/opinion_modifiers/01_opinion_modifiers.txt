@@ -1,0 +1,19 @@
+#OPINION MODIFIERS
+
+#THESE ARE BRAND-NEW
+
+# Bon religion events
+welcomed_fleeing_restorationists = {
+	opinion = -50
+	yearly_decay = 2
+}
+
+turned_away_fleeing_restorationists = {
+	opinion = 50
+	yearly_decay = 2
+}
+
+restorationist_ideal = {
+	opinion = 50
+	yearly_decay = 3
+}
