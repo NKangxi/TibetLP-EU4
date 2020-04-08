@@ -126,12 +126,6 @@ HAB_ideas = {
 	}
 }
 
-BAV_ideas = {
-	trigger = {
-		always = no
-	}
-}
-
 PER_ideas = {
 	trigger = {
 		num_of_cities = 15
