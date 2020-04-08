@@ -9,6 +9,18 @@
   tibet_pragmatic_sanction.EVTNAME1:0 "The Sacred Tibetan Empire"
   tibet_pragmatic_sanction.EVTDESC1:0 "The Sacred Tibetan Empire, first reformed by Empress $EMPERORNAME$ in 1429, and the successor to the empire formed by Purgyal Gyalyum in 920, is a compromise borne out of decades of civil strife and legal conflict. The Empress Purgyal Lasya, who reigned from 1362 to 1417, was responsible for the successful conquest of the Third Han Dynasty by the year 1376. She was also responsible for violent campaigns against the nobility, and led bloody and fruitless campaigns against the Mongols and Timurids that exhausted the treasury. After her death, the empire fell into years of disunity, weakened by years of warfare, and nearly came to total ruin. The Empress $EMPERORNAME$, with a steady hand, prevented the total dissolution of the empire and negotiated a series of compromises with the remaining nobility and local elites. The result is a decentralized elective monarchy, comprised of cities, vassal kingdoms, church holdings, tribal confederations, and other distinct polities. The power of the Emperor or Empress is limited, and while the vassals of the emperor retain substantial autonomy they are sworn to each others' defense. An unwieldly solution, but one that has prevented further catastrophe and possibly the empire's complete dissolution."
   tibet_pragmatic_sanction.EVTOPTA1:0 "The Empire is Unconqerable!"
+  
+  tibet_sacred_hierarchy.EVTNAME1:0 "The Sacred Hierarchy"
+  tibet_sacred_hierarchy.EVTDESC1:0 "The intense devotion of the many Bon faithful has awakened a desire for a free and independent church. A large part of the population has expressed support for this idea, and they have not turned to $MONARCH$ for approval."
+  tibet_sacred_hierarchy.EVTOPTA1:0 "We will never support such an arrangement"
+  tibet_sacred_hierarchy.EVTOPTB1:0 "Dege of Kham is theirs"
+  
+  tibet_sacred_hierarchy.EVTNAME2:0 "Restoring the Sacred Hierarchy"
+  tibet_sacred_hierarchy.EVTDESC2:0 "We are shocked and saddened to learn that the lands and dominions of the Sacred Hierarchy have been scattered. Our fervent devotion has made us a strong candidate for establishing a new Sacred Hierarch. Perhaps we could cede some of our land?"
+  tibet_sacred_hierarchy.EVTOPTA2:0 "For the benevolence of the gods!"
+  tibet_sacred_hierarchy.EVTOPTB2:0 "Perhaps not..."
+  
+  
   ttot.EVTNAME1101:0 "Time of Troubles"
   ttot.EVTDESC1101:0 "The Time of Troubles stretched from the death of the last Tsenpo of the 1600-year-old Purgyal dynasty, in 1598, and the ascension of Tenzin I of the Khon dynasty in 1613. Famine, plague, public unrest and the appearance of false claimants plunged the country into a decade of turmoil as neighboring powers like Jin and Mongolia saw their chance to interfere."
   ttot.EVTOPTA1101:0 "Hard times are ahead of us"

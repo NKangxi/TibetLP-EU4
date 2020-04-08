@@ -1,0 +1,198 @@
+# Tibetan Sacred Hierarchy
+
+namespace = tibet_sacred_hierarchy
+
+
+country_event = {
+	id = tibet_sacred_hierarchy.1
+	title = "tibet_sacred_hierarchy.EVTNAME1"
+	desc = "tibet_sacred_hierarchy.EVTDESC1"
+	picture = POPE_PREACHING_eventPicture
+	
+	trigger = {
+		papacy_active = yes
+		owns = 2133		# Dege
+		religion = bon
+		NOT = { tag = TKH }
+		NOT = { tag = STE }
+		NOT = { exists = STE }
+		NOT = { has_country_flag = no_support }
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		
+		modifier = {
+			factor = 0.95
+			num_of_cardinals = 1
+		}
+		modifier = {
+			factor = 0.95
+			num_of_cardinals = 2
+		}
+		modifier = {
+			factor = 0.75
+			has_idea_group = religious_ideas
+		}
+		modifier = {
+			factor = 0.9
+			is_defender_of_faith = yes
+		}
+		modifier = {
+			factor = 1.1
+			NOT = { is_defender_of_faith = yes }
+		}
+		modifier = {
+			factor = 1.1
+			NOT = { advisor = theologian }
+		}
+		modifier = {
+			factor = 0.9
+			theologian = 2
+		}
+	}
+	
+	option = {
+		name = "tibet_sacred_hierarchy.EVTOPTA1" # We will never support such a state
+		ai_chance = { factor = 25 }
+		add_prestige = -10
+		add_stability = -1
+		every_country = {
+			limit = {
+				religion = bon
+				NOT = { tag = ROOT }
+			}
+			add_opinion = { who = ROOT modifier = opinion_declined_independent_state_support }
+		}
+		set_country_flag = no_support
+	}
+	option = {
+		name = "tibet_sacred_hierarchy.EVTOPTB1" # Dege is rightfully theirs
+		ai_chance = { 
+			factor = 75 
+			modifier = {
+				factor = 0
+				is_core = 2133
+			}
+		}
+		2133 = {
+			add_core = TKH
+			cede_province = TKH
+			if = {
+				limit = {
+					is_core = ROOT
+				}
+				remove_core = ROOT
+			}
+		}
+		add_prestige = 25
+	}
+}
+
+# The Papal State
+country_event = {
+	id = tibet_sacred_hierarchy.2
+	title = "tibet_sacred_hierarchy.EVTNAME2"
+	desc = "tibet_sacred_hierarchy.EVTDESC2"
+	picture = POPE_PREACHING_eventPicture
+	
+	trigger = {
+		papacy_active = yes
+		NOT = { exists = TKH }
+		NOT = { exists = STE }
+		religion = bon
+		government = theocracy
+		NOT = { has_ruler_flag = refused_sacred_hierarchy }
+		is_at_war = no
+		num_of_cities = 2
+		NOT = { num_of_cities = 5 }
+		any_owned_province = {
+			is_capital = no
+			religion = bon
+			continent = asia
+		}
+		118 = {
+			owner = {
+				OR = {
+					NOT = { religion = bon }
+					has_country_flag = no_support
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 6
+		modifier = {
+			factor = 2.0
+			capital_scope = {
+				NOT = { religion = bon }
+			}
+		}
+		modifier = {
+			factor = 0.95
+			theologian = 3
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { num_of_cities = 3 }
+		}
+		modifier = {
+			factor = 0.5
+			NOT = { num_of_cities = 2 }
+		}
+	}
+	
+	immediate = {
+		hidden_effect = {
+			random_owned_province = {
+				limit = {
+					is_capital = no
+					religion = bon
+					continent = asia
+					any_neighbor_province = {
+						NOT = { owned_by = ROOT }
+					}
+				}
+				set_province_flag = sacredhierarchy_province
+			}
+			random_owned_province = {
+				limit = {
+					is_capital = no
+					religion = bon
+					continent = asia
+					owner = {
+						NOT = {
+							any_owned_province = {
+								has_province_flag = sacredhierarchy_province
+							}
+						}
+					}
+				}
+				set_province_flag = sacredhierarchy_province
+			}
+		}
+	}
+	
+	option = {
+		name = "tibet_sacred_hierarchy.EVTOPTA2"
+		ai_chance = { factor = 100 }
+		random_owned_province = {
+			limit = {
+				has_province_flag = sacredhierarchy_province
+			}
+			remove_core = ROOT
+			add_core = TKH
+			cede_province = TKH
+			clr_province_flag = sacredhierarchy_province
+		}
+		add_papal_influence = 20
+		add_prestige = 25
+	}
+	option = {
+		name = "tibet_sacred_hierarchy.EVTOPTB2"
+		ai_chance = { factor = 0 }
+		set_ruler_flag = refused_sacred_hierarchy
+		add_prestige = -25
+	}
+}
