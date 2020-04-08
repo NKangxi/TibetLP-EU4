@@ -3047,26 +3047,6 @@ DAN_ideas = {
 	}
 }
 
-FRA_ideas = {
-	trigger = {
-		num_of_ports = 5
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		OR = {
-			primary_culture = cosmopolitan_french
-			primary_culture = normand
-			primary_culture = occitain
-		}
-		NOT = {
-			tag = KOJ
-		}
-	}
-}
-
 PRU_ideas = {
 	trigger = {
 		culture_group = germanic
