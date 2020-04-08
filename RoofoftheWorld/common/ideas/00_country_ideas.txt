@@ -632,6 +632,46 @@ IKK_ideas = {
 	}
 }
 
+
+IRO_ideas = { #Thanks to Gravity Cant Apple for the localizations
+	start = {
+		infantry_power = 0.1
+		diplomatic_reputation = 1
+	}
+	
+	bonus = {
+		improve_relation_modifier = 0.5
+	}
+	
+	trigger = {
+		tag = IRO
+	}
+	free = yes		# will be added at load
+	
+	kainerekowa = {
+		war_exhaustion_cost = -0.15
+	}
+	the_three_sisters = {
+		global_manpower_modifier = 0.25
+	}
+	wampumpeag = {
+		prestige = 1
+	}
+	people_of_the_flint = {
+		discipline = 0.05
+	}
+	mourning_wars = {
+		manpower_recovery_speed = 0.2
+	}
+	covenant_chain = {
+		advisor_pool = 1
+	}
+	turtle_island = {
+		ae_impact = -0.2
+	}
+
+}
+
 FRA_ideas = {
 	start = {
 		may_recruit_female_generals = yes
@@ -2568,46 +2608,6 @@ SBA_ideas = {
 ### Daimyo ideas end here.
 
 ### Vanilla ideas added here.
-
-IRO_ideas = {
-	start = {
-		infantry_power = 0.1
-		diplomatic_reputation = 1
-	}
-	
-	bonus = {
-		improve_relation_modifier = 0.5
-	}
-	
-	trigger = {
-		tag = IRO
-	}
-	free = yes		# will be added at load
-	
-	kainerekowa = {
-		war_exhaustion_cost = -0.15
-	}
-	keepers_of_the_western_door = {
-		global_manpower_modifier = 0.25
-	}
-	keepers_of_the_eastern_door = {
-		global_own_trade_power = 0.25
-	}
-	keepers_of_the_fire = {
-		diplomats = 1
-	}
-	mourning_wars = {
-		manpower_recovery_speed = 0.2
-	}
-	warriors_unity = {
-		discipline = 0.05
-	}
-	the_four_kings = {
-		prestige = 1
-	}
-
-}
-
 
 CHE_ideas = {
 	start = {
