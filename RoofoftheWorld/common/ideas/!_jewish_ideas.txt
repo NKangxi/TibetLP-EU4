@@ -18,24 +18,27 @@ jewish_ideas = {
 	}
 	free = yes
 	
-	end_of_diaspora = {
-		global_unrest = -1
+	eternal_diaspora = {
+		cavalry_power = 0.1
+		cavalry_cost = -0.1
 	}
 	national_myths_restored = {
 		discipline = 0.05
 	}
-	return_home = {
-		production_efficiency = 0.2
+	nomadic_institutions = {
+		global_institution_spread = 0.1
+		technology_cost = -0.05
 	}
 	jewish_trade_tradition = {
 		trade_steering = 0.1
 		trade_efficiency = 0.1
 	}
-	jewish_banking = {
-		interest = -1
+	the_blighted_west = {
+		hostile_attrition = 1
 	}
-	people_of_exile = {
-		global_colonial_growth = 33
+	the_brothers_feud = {
+		land_attrition = -0.10
+		movement_speed = 0.05
 	}
 	the_chosen_people = {
 		enemy_core_creation = 1.0

@@ -6883,7 +6883,7 @@
  COM_beyond_imperial_borders:0 "Beyond Imperial Borders"
  COM_beyond_imperial_borders_desc:0 "We laugh at the absurd pretensions of the southern empires. They do not and cannot control the vast frontier; we raid wherever we can."
  COM_a_people_all_on_horseback:0 "A People All on Horseback"
- COM_a_people_all_on_horseback_desc:0 "The introduction of horses to our people centuries ago was as fooundational as learning fire or agriculture. Every person can and must ride; all must be skillful."
+ COM_a_people_all_on_horseback_desc:0 "The introduction of horses to our people centuries ago was as foundational as learning fire or agriculture. Every person can and must ride; all must be skillful."
  COM_lords_of_the_south_plains:0 "Lords of the South Plains"
  COM_lords_of_the_south_plains_desc:0 "Although our origins are in the more remote mountains to our north, the bulk of our land, herds, and trading grounds is in the further south. We must continue to expand there."
  COM_principles_of_trade:0 "Principles of Trade"
@@ -6910,4 +6910,24 @@
  the_lords_of_kham_desc:0 "We ruled the four rivers and six ranges of Kham, and must protect the dozens of peoples and tribes who rule here. We straddle the border between empires, and only survive through careful diplomacy and recognizing who holds power and where."
  mothers_of_the_church:0 "Mothers of the Church"
  mothers_of_the_church_desc:0 "Our Sacred Hierarchy dates to the arrangements between the two great mothers of modern Tibet; and they are the source of our legitimacy. We have the right to restore order and drive out delusion, and spread the universal truths of Bon. "
+ 
+ jewish_ideas:0 "Jewish Diasporic Ideas"
+ jewish_ideas_start:0 "Jewish Diasporic Traditions"
+ jewish_ideas_bonus:0 "Jewish Diasporic Ambitions"
+ eternal_diaspora:0 "Eternal Diaspora"
+ eternal_diaspora_desc:0 "We recognize the benefits of our arrangement. We are not tied to the land as others are, and we experience a kind of freedom from fear as few others could conceive of."
+ national_myths_restored:0 "National Myths Restored"
+ national_myths_restored_desc:0 "Remember the foundational story, that Jacob wrestled with the angel that named him Israel, for he has striven with God and men and prevailed."
+ nomadic_traditions:0 "Nomadic Institutions"
+ nomadic_institutions_desc:0 "Our institutions of education, our libraries, our courts, and all our higher knowledge travel with us."
+ jewish_trade_tradition:0 "Jewish Trade Traditions"
+ jewish_trade_tradition_desc:0 "The lands we circle around and live in are uniquely well-positioned for us to have trade along the Don and Volga rivers, and along the Mongolian trade routes."
+ the_blighted_west:0 "The Blighted West"
+ the_blighted_west_desc:0 "To the distant west, we have seen only ruin and famine. Those of us who have come to us for peace and a better life are tenacious, gifted in the arts of survival, and they are equally skilled in denying access and resources to any invaders."
+ the_brothers_feud:0 "The Brothers Feud"
+ the_brothers_feud_desc:0 "It has become almost a time-honored tradition for disputes to pop up over aspects of legal interpretation or the laws of faith. But to be sure, these experiences have made us stronger, and we are ready."
+ the_chosen_people:0 "Chosen People"
+ the_chosen_people_desc:0 "As a people, an identity and a faith, we have survived the rise and fall of empires through millennia. Come what may we will remember the Lord of Lords, God of our fathers."
+ 
+ 
  
