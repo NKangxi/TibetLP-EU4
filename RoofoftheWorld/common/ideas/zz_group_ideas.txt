@@ -812,12 +812,34 @@ native_ideas = {
 	}
 	
 	trigger = {
-		government = native
-		NOT = { primary_culture = tupinamba }
-		NOT = { primary_culture = guajiro }
-		NOT = { TAG = SAL }
-		NOT = { TAG = HDA }
-		NOT = { TAG = CNK }
+		OR = {
+			tag = SHO
+			tag = BLA
+			tag = KIO
+			tag = ASI
+			tag = CHO
+			tag = CAD
+			tag = OSA
+			tag = PAW
+			tag = SIO
+			tag = CHY
+			tag = WCR
+			tag = OJI
+			tag = FOX
+			tag = ILL
+			tag = LEN
+			tag = SUS
+			tag = MMI
+			tag = POT
+			tag = OTT
+			tag = PEQ
+			tag = MAH
+			tag = ABE
+			tag = MIK
+			tag = YKT
+			tag = AYI
+			tag = NAH
+		}
 	}
 	free = yes
 	
@@ -1112,8 +1134,10 @@ andean_ideas = {
 	}
 	
 	trigger = {
-		technology_group = andean
-		NOT = { primary_culture = aimara }
+		OR = {
+			tag = CCQ
+			tag = QTO
+		}
 	}
 	free = yes
 	
@@ -1689,6 +1713,9 @@ mayan_ideas = {
 		OR = {
 			primary_culture = yucatec
 			primary_culture = putun
+			tag = CHT
+			tag = YOK
+			tag = MIS
 		}
 	}
 	free = yes

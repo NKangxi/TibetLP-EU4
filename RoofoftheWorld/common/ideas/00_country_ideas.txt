@@ -1261,6 +1261,45 @@ TUA_ideas = {
 	}
 }
 
+CAB_ideas = {
+	start = {
+		defensiveness = 0.15
+		leader_land_manuever = 1
+	}
+	bonus = {
+		discipline = 0.05
+	}
+	trigger = {
+		OR = {
+			tag = CAB
+			tag = AYI
+		}
+	}
+	
+	free = yes
+	
+	cab_river_trade = {
+		trade_efficiency = 0.1
+	}
+	cab_poison_warfare = {
+		infantry_power = 0.1
+	}
+	cab_resistance_to_the_pailantipo = {
+		land_morale = 0.1
+	}
+	cab_rainforests_of_guyana = {
+		hostile_attrition = 1
+	}
+	cab_carib_seafaring = {
+		colonists = 1
+	}
+	cab_religious_syncretism = {
+		tolerance_heathen = 2
+	}
+	cab_integrate_the_garifuna_returners = {
+		global_manpower_modifier = 0.1
+	}
+}
 
 CRE_ideas = {
 	start = {
@@ -2702,6 +2741,7 @@ PUE_ideas = {
 			tag = PUE
 			tag = KER
 			tag = ZNI
+			tag = PIM
 		}
 	}
 	free = yes		# will be added at load
@@ -2726,6 +2766,89 @@ PUE_ideas = {
 		tolerance_own = 2
 	}
 	legend_of_cibola = {
+		prestige = 1
+	}
+}
+
+TAR_ideas = {
+	start = {
+		legitimacy = 1
+		years_of_nationalism = -5
+	}
+	
+	bonus = {
+		manpower_recovery_speed = 0.1
+	}
+	
+	trigger = {
+		TAG = TAR
+	}
+	
+	free = yes		#will be added at load.
+	
+	copperworking = {
+		infantry_power = 0.1
+	}
+	
+	no_mercy = { 
+		global_unrest = -1
+	}
+	
+	merchant_officials = {
+		trade_efficiency = 0.1
+	}
+	
+	war_bonfires = {
+		global_regiment_recruit_speed = -0.10
+	}
+	
+	fortified_frontier = {
+		defensiveness = 0.10
+		fort_maintenance_modifier = -0.10
+	}
+
+	otomi_settlements= {
+		global_manpower_modifier = 0.15
+	}
+	
+	tarascan_assmilation = { 
+		core_creation = -0.15
+	}
+}
+
+
+MPC_ideas = {
+	start = {
+		hostile_attrition = 1
+		global_manpower_modifier = 0.1
+	}
+	bonus = {
+		diplomats = 1
+	}
+	trigger = {
+		tag = MPC
+	}
+	free = yes		#will be added at load.
+		
+	mpc_idea_1 = {
+		defensiveness = 0.15
+	}
+	mpc_idea_2 = {
+		discipline = 0.05
+	}
+	mpc_idea_3 = {
+		army_tradition_from_battle = 0.5
+	}
+	mpc_idea_4 = {
+		trade_steering = 0.2
+	}
+	mpc_idea_5 = {
+		global_unrest = -1
+	}
+	mpc_idea_6 = {
+		diplomatic_reputation = 1
+	}
+	mpc_idea_7 = {
 		prestige = 1
 	}
 }
@@ -2965,6 +3088,128 @@ CHICK_ideas = {
 		prestige = 1
 	}
 
+}
+
+
+DAI_ideas = {
+	start = {
+		hostile_attrition = 1.0
+		enemy_core_creation = 0.5
+	}
+	
+	bonus = {
+		land_morale = 0.10
+	}
+	
+	trigger = {
+		OR = {
+			tag = DAI
+			tag = TOK
+			tag = ANN
+		}
+	}
+	free = yes		#will be added at load.
+	
+	the_great_proclamation = {
+		infantry_power = 0.1
+	}
+	confucian_revival = {
+		prestige = 1
+	}
+	autonomous_villages = {
+		defensiveness = 0.2
+	}
+	village_militia = {
+		global_manpower_modifier = 0.25
+	}
+	don_dien = {
+		core_creation = -0.10
+	}
+	thuan_thien = {
+		legitimacy = 1   
+	}
+	literary_reform = {
+		technology_cost = -0.05
+	}
+}
+
+KHM_ideas = {
+	start = {
+		advisor_cost = -0.10
+		global_tax_modifier = 0.1
+	}
+	
+	bonus = {
+		global_manpower_modifier = 0.2
+	}
+	
+	trigger = {
+		tag = KHM
+	}
+	free = yes
+	
+	preah_ko_preah_keo = {
+		land_morale = 0.1
+	}
+	khm_theravada = {
+		tolerance_own = 1
+		improve_relation_modifier = 0.15
+	}
+	khm_cham_migration = {
+		navy_tradition = 1
+	}
+	khm_river_trade = {
+		trade_efficiency = 0.1
+	}
+	khm_european_mercenaries = {
+		discipline = 0.05
+	}
+	khm_restore_angkor = {
+		prestige = 1
+	}
+	khm_modern_navy = {
+		ship_durability = 0.05
+	}
+}
+
+
+ASS_ideas = {
+	start = { #Ahomization
+		global_manpower_modifier = 0.10
+		global_unrest = -1
+	}
+	
+	bonus = {
+		diplomatic_reputation = 1
+	}
+	
+	trigger = {
+		tag = Y53
+	}
+	free = yes
+	
+	buranjis = {
+		heir_chance = 0.5
+	}
+	wet_rice_cultivation = {
+		development_cost = -0.1
+	}
+	river_warfare = {	
+		hostile_attrition = 1
+		shock_damage_received = -0.1
+	}
+	reform_paik_system = {
+		manpower_recovery_speed = 0.15
+	}
+	process_of_appeal = {
+		stability_cost_modifier = -0.1
+	}
+	ahom_land_survey = {
+		global_tax_modifier = 0.10
+	}
+	ahom_diplomacy = {
+		diplomats = 1
+	}
 }
 
 ### Nation specific idea groups (from the converter, etc.)
@@ -3452,19 +3697,6 @@ PUN_ideas = {
 RAG_ideas = {
 	trigger = {
 		always = no
-	}
-}
-
-
-ASS_ideas = {
-	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = panjabi
 	}
 }
 
