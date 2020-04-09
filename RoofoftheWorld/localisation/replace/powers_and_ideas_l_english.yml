@@ -6929,5 +6929,18 @@
  the_chosen_people:0 "Chosen People"
  the_chosen_people_desc:0 "As a people, an identity and a faith, we have survived the rise and fall of empires through millennia. Come what may we will remember the Lord of Lords, God of our fathers."
  
- 
+ nat_military_adventurism:0 "Military Adventurism"
+ nat_military_adventurism_desc:0 "Sending military expeditions is a valuable source of prestige and material benefit."
+ nat_the_new_sciences:0 "The New Sciences"
+ nat_the_new_sciences_desc:0 "We must develop new ways of approaching the world."
+ nat_the_engines_of_growth:0 "The Engines of Growth"
+ nat_the_engines_of_growth_desc:0 "It is not enough only to survive - but we must grow stronger."
+ nat_group_symbolism:0 "Group Symbolism"
+ nat_group_symbolism_desc:0 "We must retain customs and traditions as a binding knot for our society."
+ nat_a_peaceful_society:0 "A Peaceful Society"
+ nat_a_peaceful_society_desc:0 "We must keep the people happy and safe so they may act morally."
+ nat_war_mobiilzation:0 "War Mobilization"
+ nat_war_mobiilzation_desc:0 "When war comes, we must be ready and everyone must do their part."
+ nat_colonial_expansion:0 "Colonial Expansion"
+ nat_colonial_expansion_desc:0 "Acquiring the use of lands abroad is vital."
  

@@ -844,25 +844,25 @@ native_ideas = {
 	free = yes
 	
 	
-	counting_coups = {
+	nat_military_adventurism = {
 		land_morale = 0.1
 	}
-	storytelling_tradition = {
+	nat_the_new_sciences = {
 		idea_cost = -0.1
 	}
-	clan_mothers = {
+	nat_the_engines_of_growth = {
 		production_efficiency = 0.1
 	}
-	adopt_clan_totems = {
+	nat_group_symbolism = {
 		stability_cost_modifier = -0.1
 	}
-	the_little_war = {
+	nat_a_peaceful_society = {
 		global_unrest = -2
 	}
-	war_and_peace_chiefs = {
+	nat_war_mobiilzation = {
 		global_manpower_modifier = 0.20
 	}
-	great_winter_hunts = {
+	nat_colonial_expansion = {
 		global_colonial_growth = 25
 	}
 }
