@@ -324,16 +324,6 @@ LIT_ideas = {
 	}
 }
 
-MAM_ideas = {	
-	trigger = {
-		OR = {
-			tag = MAM
-			dynasty = mamluk
-		}
-		religion_group = muslim
-	}
-}
-
 NAP_ideas = {
 	trigger = {
 		always = no
@@ -385,19 +375,6 @@ SER_ideas = {
 RAG_ideas = {
 	trigger = {
 		always = no
-	}
-}
-
-
-ASS_ideas = {
-	trigger = {
-		num_of_cities = 15
-		is_subject = no
-		OR = {
-			government_rank = 2
-			government_rank = 3
-		}
-		primary_culture = panjabi
 	}
 }
 
@@ -971,12 +948,6 @@ KAR_ideas = {
 }
 
 KAZ_ideas = {
-	trigger = {
-		always = no
-	}
-}
-
-MAM_ideas = {
 	trigger = {
 		always = no
 	}
