@@ -3212,6 +3212,48 @@ ASS_ideas = {
 	}
 }
 
+MAM_ideas = {
+	start = {
+		trade_steering = 0.25
+		cavalry_power = 0.10
+	}
+	
+	bonus = {
+		global_prov_trade_power_modifier = 0.25
+	}
+	
+	trigger = {
+		OR = {
+			tag = MAM
+			tag = EGY
+		}
+	}
+	free = yes
+	
+	red_sea_trade = {
+		global_trade_power = 0.05
+		trade_range_modifier = 0.10
+	}
+	monuments_to_greatness = {
+		prestige = 1
+	}
+	purchase_new_mamelukes = {
+		manpower_recovery_speed = 0.15
+	}
+	mam_army_reform = {
+		discipline = 0.05
+	}
+	reform_fellah_system = {
+		production_efficiency = 0.1
+	}
+	reformed_succession = {
+		stability_cost_modifier = -0.15
+	}
+	mam_monopoly_ports = {
+		trade_efficiency = 0.10
+	}
+}
+
 ### Nation specific idea groups (from the converter, etc.)
 
 ENG_ideas = {
@@ -3555,16 +3597,6 @@ LIT_ideas = {
 			government_rank = 3
 		}
 		primary_culture = lithuanian
-	}
-}
-
-MAM_ideas = {	
-	trigger = {
-		OR = {
-			tag = MAM
-			dynasty = mamluk
-		}
-		religion_group = muslim
 	}
 }
 
@@ -4369,12 +4401,6 @@ KAR_ideas = {
 }
 
 KAZ_ideas = {
-	trigger = {
-		always = no
-	}
-}
-
-MAM_ideas = {
 	trigger = {
 		always = no
 	}

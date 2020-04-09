@@ -330,16 +330,6 @@ LIT_ideas = {
 	}
 }
 
-MAM_ideas = {	
-	trigger = {
-		OR = {
-			tag = MAM
-			dynasty = mamluk
-		}
-		religion_group = muslim
-	}
-}
-
 NAP_ideas = {
 	trigger = {
 		always = no
@@ -964,12 +954,6 @@ KAR_ideas = {
 }
 
 KAZ_ideas = {
-	trigger = {
-		always = no
-	}
-}
-
-MAM_ideas = {
 	trigger = {
 		always = no
 	}
