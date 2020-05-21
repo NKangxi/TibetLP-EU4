@@ -1,0 +1,48 @@
+#TibetLP Custom Events
+
+namespace = lp_custom
+
+#King Mutik's Rebellion
+
+country_event = {
+	id = lp_custom.1
+	title = "lp_custom.1.t"
+	desc = "lp_custom.1.d"
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	trigger = {
+		OR = {
+			NOT = { adm = 3 }
+			NOT = { dip = 3 }
+			NOT = { mil = 3 }
+		}
+		government = monarchy
+		any_owned_province = { development = 8 }
+	}
+	
+	is_triggered_only = yes
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "lp_custom.1.a"			# Let his will be done
+		random_owned_province = { 
+			limit= {
+				development = 8
+			}
+			pretender_rebels = 3 
+		}
+	}
+	option = {
+		name = "lp_custom.1.b"			# Oppose the monarch
+		random_owned_province = { 
+			limit= {
+				development = 8
+			}
+			noble_rebels = 3 
+		}
+		random_owned_province = { noble_rebels = 2 }
+	}
+}

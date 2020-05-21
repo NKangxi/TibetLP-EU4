@@ -20,6 +20,11 @@
   tibet_sacred_hierarchy.EVTOPTA2:0 "For the benevolence of the gods!"
   tibet_sacred_hierarchy.EVTOPTB2:0 "Perhaps not..."
   
+  lp_custom.1.t:0 "A Conspiracy of Privilege"
+  lp_custom.1.d:0 "Due to poor administration, a conspiracy of officials has risen against $MONARCH$ to curb the power of the monarchy. The opposition is growing stronger by the day and it is becoming apparent that $MONARCH$ most certainly isn't the right person to lead our nation in such troubled times."
+  lp_custom.1.a:0 "He keeps his rights."
+  lp_custom.1.b:0 "Oppose $MONARCH$"
+  
   
   ttot.EVTNAME1101:0 "Time of Troubles"
   ttot.EVTDESC1101:0 "The Time of Troubles stretched from the death of the last Tsenpo of the 1600-year-old Purgyal dynasty, in 1598, and the ascension of Tenzin I of the Khon dynasty in 1613. Famine, plague, public unrest and the appearance of false claimants plunged the country into a decade of turmoil as neighboring powers like Jin and Mongolia saw their chance to interfere."
